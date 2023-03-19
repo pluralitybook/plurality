@@ -53,8 +53,6 @@ Carlo Rovelli, 2022[^2]
 
 &nbsp;&nbsp;&nbsp;&nbsp; The twentieth century, and in particularly the Golden Age highlighted in the previous chapter, was the most rapid period of scientific and technological advance in human history.  These advances happened in a range of disparate fields, but one common thread runs through most: the transcendence of monist atomism and the embrace of the plural.  We will illustrate this with examples from mathematics, physics, biology to neuroscience.
 
-&nbsp;&nbsp;&nbsp;&nbsp; The twentieth century, and in particularly the Golden Age highlighted in the previous chapter, was the most rapid period of scientific and technological advance in human history.  These advances happened in a range of disparate fields, but one common thread runs through most: the transcendence of monist atomism and the embrace of the plural.  We will illustrate this with examples from mathematics, physics, biology to neuroscience.
-
 **Mathematics**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Perhaps the most surprising reach of pluralism has been into the structure of truth and thought itself. The gauntlet for twentieth century mathematics was thrown down by David Hilbert, who saw a complete and unified mathematical structure within grasp around the same time that Lord Kelvin saw the passing of the closing of the frontier in physics.  Yet while the century began with Bertrand Russell and Alfred North Whitehead’s famous attempt to place all of mathematics on the grounds of a single axiomatic system, developments from that starting point have been quite opposite.  Rather than reaching a single truth from which all else followed, mathematics shattered into a thousand luminous fragments.
