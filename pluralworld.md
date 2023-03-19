@@ -53,16 +53,14 @@ Carlo Rovelli, 2022[^2]
 
 &nbsp;&nbsp;&nbsp;&nbsp; The twentieth century, and in particularly the Golden Age highlighted in the previous chapter, was the most rapid period of scientific and technological advance in human history.  These advances happened in a range of disparate fields, but one common thread runs through most: the transcendence of monist atomism and the embrace of the plural.  We will illustrate this with examples from mathematics, physics, biology to neuroscience.
 
-&nbsp;&nbsp;&nbsp;&nbsp; The twentieth century, and in particularly the Golden Age highlighted in the previous chapter, was the most rapid period of scientific and technological advance in human history.  These advances happened in a range of disparate fields, but one common thread runs through most: the transcendence of monist atomism and the embrace of the plural.  We will illustrate this with examples from mathematics, physics, biology to neuroscience.
-
 **Mathematics**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Perhaps the most surprising reach of pluralism has been into the structure of truth and thought itself. The gauntlet for twentieth century mathematics was thrown down by David Hilbert, who saw a complete and unified mathematical structure within grasp around the same time that Lord Kelvin saw the passing of the closing of the frontier in physics.  Yet while the century began with Bertrand Russell and Alfred North Whitehead’s famous attempt to place all of mathematics on the grounds of a single axiomatic system, developments from that starting point have been quite opposite.  Rather than reaching a single truth from which all else followed, mathematics shattered into a thousand luminous fragments.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Geometry and topology, once the province of Euclidean certainties, turned out to admit endless variations, just as the certainties of a flat earth vanished with circumnavigation. Axiomatic systems went from the hope for complete mathematical systems to being proven, by Kurt Gödel, Paul Cohen, and others to be inherently unable to resolve some mathematical problems and necessarily incomplete.  Alonzo Church showed that other mathematical questions were undecidable by any computational process.  Even the pure operations of logic and mathematics, it thus turned out, were nearly as plural as the fields of science we discussed above. To illustrate: 
 
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/science.jpg" width="100%" alt="Science">
 
-![Alt text](/figs//science.jpg "Optional title") 
 **Figure 1: The Mandelbrot Set (characterizing the chaotic behavior of simple quadratic functions depending on parameter values in the function) shown at two scales.  Source: Wikipedia (left) and Stack Overflow (right).**
 
 - Church proved that some mathematical problems were “undecidable” by computational processes and subsequent work in complexity theory has shown that even when mathematical problems might be in principle decidable, the computational complexity of arriving at such an answer is often immense.  This dashed the dream of reducing all of mathematics to computations on basic axioms.

@@ -108,9 +108,10 @@ While there are many ways to describe the choices democratic societies have made
 
 Beginning with recent trends in the increasingly well-measured venture capital industry, the last decade has seen a dramatic and overwhelming focus of venture capital within the high technology sector into artificial intelligence and cryptocurrency-adjacent/“Web3” technologies.  Figure V displays data on private investment in AI collected by NetBase Quid and charted by the Stanford’s Center for Human-Centered Artificial Intelligence’s 2022 AI Index Report, showing its explosive growth over the course of the 2010s, growth that has come to dominate private technology investment; Figure W show the same (over a different time period and quarterly) for the Web3 space based on data from Pitchbook, graphed by Galaxy Digital Research. NEED TO CONTEXTUALIZE THESE IN TERMS OF TOTAL AND HIGH-TECH FOCUSED VC AND PUT ON CONSITENT, SINGLE CHART WE GENERATE.
 
-![Alt text](/figs//private.png "Optional") 
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/private.png" width="100%" alt="Private">
 
-![Alt text](/figs//crypto.png "Optional") 
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/crypto.png" width="100%" alt="Crypto">
+
 **Figure W: Private Crypto/Blockchain investment**
 
 However, while these priorities are relatively recent and appear to emerge from the logic of “the market”, they reflect a much longer-running and collectively direct set of choices.  These stem from the investments governments in democratic countries have made. STIL NEED TO DIG UP THESE DATA; SOME FACTOIDS IN THE FOOTNOTE, BUT WE NEED CONSISTENT TIME SERIES WITH BREAKDOWNS BY TOPIC AREA [^26].   
@@ -154,7 +155,8 @@ ES has a close, but also somewhat complicated, relationship with the nationalist
 
 On the other hand, the ES ideology is consistently hostile to nationalism (or any other form of collectivism or solidarity) and ES followers routinely mock and dismiss many core religious, national and culture values associated with the right.   This may be resolved by a shared antipathy to what they perceive as dominant left-wing cultural values or by an “accelerationist” attitude as advocated by Yarvin, Donaldson and Rees-Mogg that views the “nationalist backlash” to the inevitable technological trends as an accelerant and possible ally in the dissolution of the nation-state.
 
-![Alt text](/figs//golden.png "Optional") 
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="Golden">
+
 **Figure Y, Souree: Roger Gordon, Rise and Fall of American Economic Growth**
 
 
@@ -168,14 +170,16 @@ Instead of the promised explosion of economic possibility, the last half-century
 
 To make matters worse, this period of stagnation has also been one of dramatically rising inequality, especially in the United States.  Figure Z shows average income growth in the US by income percentile during the Golden Age and Great Stagnation respectively.  During the Golden Age, income growth was roughly constant across the distribution, but trailed off for top-income earners.  During the Digital Stagnation, income growth was higher for higher earners and only exceeded the average level during the Golden Age for those in the top 1%, with even smaller groups earning the great majority of the overall much lower income gains.
 
-![Alt text](/figs//income.png "Optional") 
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/income.png" width="100%" alt="Income">
+
 **Figure Z Source: Emmanuel Saez and Gabriel Zucman. 2020. “The Rise of Income and Wealth Inequality in America: Evidence from Distributional Macroeconomic Accounts.” Journal of Economic Perspectives**
 
 What has gone so wrong in the last half-century compared to the one before?  Economists have studied a range of factors, from the rise of market power and the decline of unions to the progressively greater challenge of innovating when so much has already been invented.  But increasing evidence focuses on two factors closely tied to the influence of AT and ES respectively: the shift in the direction of technological progress towards automation and away from labor augmentation and the shift in the direction of policy away from proactively shaping industrial development and relations and towards an assumption that “free markets know best”.  
 
 On the first point, in a series of recent papers, Acemoglu, Pascual Restrepo, and collaborators have documented the shift in the direction of technical progress from the Golden Age to the Digital Stagnation.  Figure A summarizes their results, plotting cumulative changes in productivity over time from labor automation (what they call “displacement”) and labor augmentation (what they call “reinstatement”)[^28].   During the Golden Age, reinstatement roughly balanced displacement, leaving the share of income going to workers essentially constant.  During the Digital Stagnation, however, displacement has slightly accelerated while reinstatement has dramatically fallen, leading to slower overall productivity growth and a significant reduction in the share of income going to workers.  Furthermore, their analysis shows that the inegalitarian effects of this imbalance have been exacerbated by the concentration of displacement among low-skilled workers. 
 
-![Alt text](/figs//displace.png "Optional") 
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/displace.png" width="100%" alt="Displace">
+
 **Figure A: Acemoglu and Restrepo. 2019. “Automation and New Tasks: How Technology Displaces and Reinstates Labor.” Journal of Economic Perspectives.**
 
 The role of “neoliberal” policies in contributing to the stagnation and inequality of this period is widely debated and we suspect most readers have formed their own views on the matter.  One of us was also co-author of a book that contains a review of the evidence as of roughly a decade ago[^29].  We will thus not go into detail here and refer readers to instead to that or other related writing[^30].   However, clearly, the defining ideological and policy direction of this period was an embrace of capitalist market economics, often closely tied to claims that such an embrace was necessitated by the globalization of technology and the resulting impossibility of collective governance/action that is core to the ES ideology.  The, largely failed, last half-century of technology and policy has thus been characterized by the dominance of AT in the sphere of technology and ES in the sphere of policy.
