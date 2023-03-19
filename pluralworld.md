@@ -61,8 +61,8 @@ Carlo Rovelli, 2022[^2]
 
 &nbsp;&nbsp;&nbsp;&nbsp; Geometry and topology, once the province of Euclidean certainties, turned out to admit endless variations, just as the certainties of a flat earth vanished with circumnavigation. Axiomatic systems went from the hope for complete mathematical systems to being proven, by Kurt Gödel, Paul Cohen, and others to be inherently unable to resolve some mathematical problems and necessarily incomplete.  Alonzo Church showed that other mathematical questions were undecidable by any computational process.  Even the pure operations of logic and mathematics, it thus turned out, were nearly as plural as the fields of science we discussed above. To illustrate: 
 
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/science.jpg" width="100%" alt="Science">
 
-![Alt text](/figs//science.jpg "Optional title") 
 **Figure 1: The Mandelbrot Set (characterizing the chaotic behavior of simple quadratic functions depending on parameter values in the function) shown at two scales.  Source: Wikipedia (left) and Stack Overflow (right).**
 
 - Church proved that some mathematical problems were “undecidable” by computational processes and subsequent work in complexity theory has shown that even when mathematical problems might be in principle decidable, the computational complexity of arriving at such an answer is often immense.  This dashed the dream of reducing all of mathematics to computations on basic axioms.
