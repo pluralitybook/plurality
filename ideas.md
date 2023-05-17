@@ -18,6 +18,4 @@ in computation to not focus so much on faster processors, but to distribute the 
 I think that there is more to this. For example, I think that there is a physical reason that markets are drawn to 
 monopolies or centralization, and that involves these contraints, but I won't get into that too much here, 
 because it is another subject. I'm generally a proponent of further exploration of the relationship between physics and 
-economics. I did some writing on the subject here: https://ikuhle.com/TEMS.pdf though you must forgive me if the 
-paper does not adequately describe the idea. I am historically not much of an academic, and I do not have 
-PhD training.
+economics. I did some writing on the subject here: https://ikuhle.com/TEMS.pdf 
