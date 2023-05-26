@@ -1,6 +1,6 @@
 ReadMe für _Pluralität: Technologie für kollaborative Vielfalt und Demokratie_ von Audrey Tang, E. Glen Weyl und der Plurality Community
 
-Willkommen bei Plurality, einem offenen, Git-basierten kollaborativen Buchprojekt, das eine Vision für die Zukunft der Technologie bieten will, die sich auf die Stärkung und Überbrückung sozialer Unterschiede konzentriert. Während wir den Inhalt des Buches bereits an anderer Stelle beschrieben haben (siehe [https://www.plurality.net](https://www.plurality.net/v/ger/)), soll dieses ReadMe einen Überblick über die Zusammenarbeit bei der Erstellung des Buches geben und sich an diejenigen richten, die sich daran beteiligen werden.
+Willkommen bei _Plurality_, einem offenen, Git-basierten kollaborativen Buchprojekt, das eine Vision für die Zukunft der Technologie bieten will, die sich auf die Stärkung und Überbrückung sozialer Unterschiede konzentriert. Während wir den Inhalt des Buches bereits an anderer Stelle beschrieben haben (siehe [https://www.plurality.net](https://www.plurality.net/v/ger/)), soll dieses ReadMe einen Überblick über die Zusammenarbeit bei der Erstellung des Buches geben und sich an diejenigen richten, die sich daran beteiligen werden.
 
 # Überblick
 
