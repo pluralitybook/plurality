@@ -66,7 +66,7 @@ We encourage different communities to help us translate the content in various l
 - Japanese
 - Traditional-Mandarin
 
-(liniks to be added)
+(links to be added)
 
 # Summary and next steps
 
