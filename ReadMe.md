@@ -60,7 +60,7 @@ We plan to pursue these approaches and to put any funds raised into the collecti
 
 # Official Active Translation Repositories
 
-We encourage different communities to help us translate the content in various languages for more accessibility around the world, anyone should feel free to fork the repository to initiate their translation work. We aim to allow communities to contribute in scalable and decentralized ways while granting official status upon approval. Please reach out to administrator of this repository to be recognized and added below as the official translation
+We encourage different communities to help us translate the content in various languages for more accessibility around the world, anyone should feel free to fork the repository to initiate their translation work. We aim to allow communities to contribute in scalable and decentralized ways while granting official status upon approval. We hope to also add a simple guide on the best way to structure a translation fork. Please reach out to administrator of this repository to be recognized and added below as the official translation
 
 - German
 - Japanese
