@@ -58,6 +58,16 @@ We have no aspiration to earn any financial return on any aspect of the project,
 
 We plan to pursue these approaches and to put any funds raised into the collective control of the community, after any necessary expenditures to ensure physical printing and distribution of the book are completed.  We understand this will require appropriate legal steps to ensure compliance with organizational forms and standard in relevant jurisdictions and we plan to undertake these in the coming months, possibly with the assistance of the Open Collective Foundation.
 
+# Official Active Translation Repositories
+
+We encourage different communities to help us translate the content in various languages for more accessibility around the world, anyone should feel free to fork the repository to initiate their translation work. We aim to allow communities to contribute in scalable and decentralized ways while granting official status upon approval. Please reach out to administrator of this repository to be recognized and added below as the official translation
+
+- German
+- Japanese
+- Traditional-Mandarin
+
+(liniks to be added)
+
 # Summary and next steps
 
 We look forward to collaborating with all of you on this exciting project.  Please reach out to glen@plurality.net if you have any questions that you cannot convey through our collaboration channels.
