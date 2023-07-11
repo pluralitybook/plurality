@@ -51,7 +51,7 @@ State issued individual identity documents have become foundational trust anchor
 
 One can look at this and say these structures differ sharply from those that have prevailed over most of human history and in most places. However in most places over most of human history one was born into a large extended family and one basically never could leave that family and the context it was in. The innovation of WEIRD societies meant that people for the first time in human history could defect from their context, move from one university to another or move from one town to another or leave one guild and get trained in a new one as a normal part of life.  
 
-We have an opportunity to extend these documentary practices of state institutions and other formal institutions to peer and networked institutions. Work is being done now on developing common ways to support communities doing (open recognition)[https://docs.google.com/presentation/d/153qXiNr9xTUWKKev8HytXw84YgLTttzomYdOqvOL8Xc/edit#slide=id.p] within them in peer based ways. 
+We have an opportunity to extend these documentary practices of state institutions and other formal institutions to peer and networked institutions. Work is being done now on developing common ways to support communities doing [open recognition](https://docs.google.com/presentation/d/153qXiNr9xTUWKKev8HytXw84YgLTttzomYdOqvOL8Xc/edit#slide=id.p) within them in peer based ways. 
 
 <img width="830" alt="image" src="https://github.com/Identitywoman/plurality/assets/2994443/2ae7e6db-6044-4495-8ad0-654614b46fbc">
 
