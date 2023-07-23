@@ -8,7 +8,7 @@ Yet, the surging wave of globalization carried with it divisions of social statu
 
 Every culture, akin to a river, tells its own tale. We see the river of democracy as a conduit of hope. As its waters wane, we must replenish it with the rain of open-source technology, reminiscent of the meticulous artistry of Athena's tapestry and the boundless wisdom of communal synergy.
 
-This book reveals potent insights into digital democracy from across the globe. Our goal is to magnify the strength and virtue of cognitive diversity across borders, mirroring the collaboration among the authors and contributors of this work.
+This book reveals potent insights into digital democracy from across the globe. Our goal is to magnify the strength and virtue of cognitive diversity across borders, mirroring the solidarity among the authors and contributors of this work.
 
 In 2022, Taiwan proudly stood with over 60 nations in endorsing "The Declaration of the Future of the Internet," anchored by shared democratic ideals. A year later, in 2023, Denmark launched the "Digital Democracy Initiative" with the EU. Civil society, bridging societal divides, unfolds as we navigate the river of democracy towards a plural future. Our collective journey this time tells not a story of colonialism, but a saga of collaboration.
 
