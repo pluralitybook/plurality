@@ -2,6 +2,8 @@
 
 > “In order to carry out a positive action we must develop here a positive vision… It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.” — Dalai Lama XIV
 
+---
+
 The advent of the internet unfurled the world, illuminating paths forward. The transformative era of the 1960s bore witness to technology nursing the budding seeds of transculturalism, giving birth to digital communities that defied the constraints of geography and time. Through this digital bridge, knowledge blossomed across languages and cultures.
 
 Yet, the surging wave of globalization carried with it divisions of social status and widening wealth disparity. The relentless march of progress, propelled by the currents of digital technology, engendered colossal tech industries, luring individuals into isolated islands of polarization. Consequently, democracy finds itself at a low tide. Authoritarian regimes, commanding nearly half of the global GDP, cast a disquieting shadow. Only a modest one billion people find solace under the umbrella of democratic systems, while 2.2 billion dwell under authoritarian rule.
@@ -20,10 +22,12 @@ Life, a ripple of atoms — cosmic stardust — flourishes with infinite diversi
 
 Within the atomic microcosm, a 'string' vibrates, much like a symphony. Those of us resonating with Plurality can foster collaborative diversity through interoperable coexistence. This book is an invitation to counter totalitarianism, avert extinction, and free the future — together.
 
-> When we see "internet of things," let's make it an internet of beings.<br> 
-> When we see "virtual reality," let's make it a shared reality.<br>
-> When we see "machine learning," let's make it collaborative learning.<br>
-> When we see "user experience," let's make it about human experience.<br>
-> When we hear “the singularity is near” — let us remember: The Plurality is here.
+---
+
+> When we see "internet of things," let's make it an **internet of beings**.<br> 
+> When we see "virtual reality," let's make it a **shared reality**.<br>
+> When we see "machine learning," let's make it **collaborative learning**.<br>
+> When we see "user experience," let's make it **about human experience**.<br>
+> When we hear “the singularity is near” — let us remember: The **Plurality** is here.
 
 
