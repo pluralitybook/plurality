@@ -26,12 +26,12 @@ STORY HERE (.5 PAGE)
 
 ### Digital identity today
 
-&nbsp;&nbsp;&nbsp;&nbsp; When most citizens think of their formal "identity", they are usually referring to government issued documents.  While these vary across countries, common examples include
+&nbsp;&nbsp;&nbsp;&nbsp; When most people think of their formal "identity", they are usually referring to government issued documents.  While these vary across countries, common examples include
 - Birth certificates;
-- Certificates of enrollment in public programs, often with an associated identification number (such as Social Security in the United States or the Taiwanese National Health Insurance program);
+- Certificates of enrollment in public programs, often with an associated identification number (such as Social Security for pensions and taxes in the United States or the Taiwanese National Health Insurance program);
 - Licenses for use of potentially hazardous tools, such as automobiles or firearms;
 - Unified national identification cards/numbers/databases in some countries;
-- Passports for international travel, which constitute perhaps the widest system of identification given its international federation.
+- Passports for international travel, which constitute perhaps the widest system of identification given its implicit international federation.
 &nbsp;&nbsp;&nbsp;&nbsp;While these systems vary across countries, they generally share several notable features:
 1. They are canonical and highly trusted in a range of settings, to the point where they are often referred to as "legal" or even "true" identities, with all other forms of identity deriving being either "pseudonyms" or deriving their legitimacy from reference to them.
 2. Partly because of 1), they are used in a wide variety of contexts (e.g. checking age at a bar, registering for a bank account, paying taxes) even when they were/are intended to be purpose or program-specific.  A notorious example is the Unites States Social Security Number (SSN), which was created to allay concerns about a national identification number that could be used to link citizens across many context and thus surveil them and has come to do precisely this.
