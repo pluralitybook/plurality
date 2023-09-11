@@ -14,7 +14,7 @@ STORY HERE (.5 PAGE)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;  To see how this challenge plays out, it is important to keep in mind the several interlocking elements of identity systems:
-- Creation: Those creating an account/identity establish it by presenting and often verifying information about themselves such as name, address, biometrics, etc.
+- Creation: Enrolling in an identity system involves establishing an account and getting assigned an identifier. Differnet types of systems have different requirements and requirements for enrollment related to how confident the system owner has in the identifying information presented by an individual (called [Levels of Assurance](https://id4d.worldbank.org/guide/levels-assurance-loas)) ICAO have developed a Guide to [Evidence of Identity](https://www.icao.int/Security/FAL/TRIP/Documents/ICAO%20Guidance%20on%20Evidence%20of%20Identity.pdf).
 - Access: To access the account on an on-going basis, the  participant uses a simpler process, such as presenting a password, a key or a multi-factor authentication.
 - Linkage: As the participant engages with the systems that their account gives them access to, many of their interactions are recorded by the system and form part of the record of who the system understand them to be, information that can later be used for other account functions.
 - Graph: Among these data that accumulate about a user, many are interactive with other accounts.  For example, two users may harness the system to exchange messages or participate together in events.  These create data that belong to multiple accounts and thus a "social graph" of connections.
