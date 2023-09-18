@@ -48,18 +48,25 @@ STORY HERE (.5 PAGE)
 
 &nbsp;&nbsp;&nbsp;&nbsp; At a neat half-way point between these extremes in most countries sit accounts for crucial/foundational services such as bank accounts and mobile telephones. These are typically privately administered and linked to rich user data that can be harnessed for security, and thus often become a crucial input to other identity systems (like SSO systems), but are typically far more regulated than SSO systems and thus typically have greater legitimacy and portability across private providers. In many contexts these systems are thus viewed as a useful combination of security and legitimacy, anchoring ultimate security for many services through multifactor authentication.  However, they at the same time suffer many of the flaws of both corporate surveillance and insecurity, as both can be relatively easily stolen, are hard to recover if stolen and lack the strong legal grounding of government-issued IDs.
 
-&nbsp;&nbsp;&nbsp;&nbsp; In a different direction entirely from this spectrum are smaller, more diverse, and more local identity systems, in both digital-native and more traditional contexts. These include:
-- Educational affiliations and credentials 
-- Work-related credentials and affiliations
-- Memberships in trade unions, professional associations and other non-employer-driven work-related activities
-- Membership in political parties, charitable groups and other collective action organizations
-- Participation in community, religious, recreational and other civil society organizations
-- Loyalty relationships with businesses of various sizes
-- Medical and insurance relationships
+&nbsp;&nbsp;&nbsp;&nbsp; In a different direction entirely from this spectrum are smaller, more diverse, and more local identity systems, in both digital-native and more traditional contexts. 
+
+Traditional Contexts:
+A helpful framework for understanding identity contexts is Kaliya Young's book (Domains of Identity)[https://www.identitywoman.net/wp-content/uploads/Domains-of-Identity-Highlights.pdf] we have put the domains related to particular contexts in brakets. 
+- Educational affiliations and credentials  (civil society enrollment and transaction)
+- Work-related credentials and affiliations (employment enrollment and transaction) 
+- Memberships in trade unions, professional associations and other non-employer-driven work-related activities (civil society enrollment and transactions)
+- Membership in political parties, charitable groups and other collective action organizations (civil society enrollment and transactions) 
+- Participation in community, religious, recreational and other civil society organizations (civil society enrollment and transactions) 
+- Loyalty relationships with businesses of various sizes  (Commercial enrollment and transactions) 
+- Medical and insurance relationships (civil society [healthcare] & commercial enrollment [insurance]- with a connection to employment enrollment and transactions OR government enrollment and transactions for those on public insurance)
+
+Digitally Native Contexts: 
 - Pseudonymous identities used in a variety of online social and political interactions from "dark web" fora (e.g. 4chan or Reddit) to video game and virtual world interactions (e.g. Steam)
 - Accounts used in "Web3" for financial transactions, Distributed Autonomous Organizations (DAOs, more on these below) and associated discussions
 - Personal digital and real-life connections that record, in machine or biological (viz. mental) substrates shared personal and relational histories, communications exchanged, etc.
-These identities are the most diverse of all we have discussed and have the least common characteristics.  They they share a few features precisely related to their fragmentation and heterogeneity:
+These identities are the most diverse of all we have discussed and have the least common characteristics.
+
+They they share a few features precisely related to their fragmentation and heterogeneity:
 1. These systems are highly fragmented, have limited interoperability, are rarely federated or connected and thus tend to have very limited scope of application.
 2. At the same time, these sources of identity are often experienced as the most natural, appropriate and non-invasive.  They seem to arise from the natural course of human interactions, rather than from top-down mandates or power structures.  They are viewed as highly legitimate, and yet not as a definitive or external source of "legal" identity, often being seen as pseudonymous or otherwise private.
 3. They tend to record rich and detailed, personal information, but in a narrow context or slice of life, clearly separated from other contexts.  As a result of them have strong potential recovery methods based on personal relationships.
