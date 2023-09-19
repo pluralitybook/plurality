@@ -67,7 +67,7 @@ Digitally Native Contexts:
 These identities are the most diverse of all we have discussed and have the least common characteristics.
 
 They they share a few features precisely related to their fragmentation and heterogeneity:
-1. These systems are highly fragmented, have limited interoperability, are rarely federated or connected and thus tend to have very limited scope of application.
+1. These systems are highly fragmented, currently have limited interoperability, are rarely federated or connected and thus tend to have very limited scope of application. Emerging standards such as Verifiable Credentials are seeking to address this challenge. 
 2. At the same time, these sources of identity are often experienced as the most natural, appropriate and non-invasive.  They seem to arise from the natural course of human interactions, rather than from top-down mandates or power structures.  They are viewed as highly legitimate, and yet not as a definitive or external source of "legal" identity, often being seen as pseudonymous or otherwise private.
 3. They tend to record rich and detailed, personal information, but in a narrow context or slice of life, clearly separated from other contexts.  As a result of them have strong potential recovery methods based on personal relationships.
 4. They tend to have a poor digital user experience; either they are not digitized at all, or the process of managing the digital interface is unfriendly to non-technical users.  
