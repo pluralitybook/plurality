@@ -1,7 +1,5 @@
 <center> <h1> Identity and Personhood </h1> </center>
 
-### Story
-
 &nbsp;&nbsp;&nbsp;&nbsp;  In the swiftly moving line, a sense of hope melded with palpable anxiety. The big screen above reiterated the criticality of the evacuation credentials. Mulu, a well-respected figure in her crumbling community, was on the cusp of a pivotal moment. Climate change had left her homeland in tatters, and she aspired to find solace and clear skies for her daughters in a new land.
 
 &nbsp;&nbsp;&nbsp;&nbsp;  As Mulu stepped forward, her past-rich and vibrant-flashed before her. She feared an uncertain future, mainly for her daughters, who faced potential stagnation. The government official, welcoming and friendly, asked her to scan the code for the Common European Asylum System procedure.
@@ -26,8 +24,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;  The same acceptance embraced her daughters, welcoming them to a new beginning. With heartfelt warmth, the official welcomed them into a promising world that seemed ready to know and appreciate them truly, offering a fresh start for Mulu and her daughters to thrive once again.
 
- 
-### Identity and Personhood
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Just as the most fundamental  rights are those to life, personhood and citizenship, the most fundamental protocols for a network society are those that establish and protect participant identities.  It is impossible to secure any right or provide any service without a definition of who or what is entitled to these. Without a reasonably secure identity foundation, any voting system, for example, will be captured by whoever can produce the most false credentials, degenerating into a plutocracy.  There is a famous New Yorker Cartoon from 1993 "On the Internet, nobody knows you're a dog", so famous it has its own [wikipedia page](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog); to the extent this is true, we should expect attempts at online democracy to, quite literally, go to the dogs.  This is dramatized in many "Web3" communities that have relied heavily on pseudonymity or even anonymity and have thus often been captured by the interests of those with access to physical and financial resources.
 
