@@ -75,7 +75,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; In a different direction entirely from this spectrum are smaller, more diverse, and more local identity systems, in both digital-native and more traditional contexts. 
 
 Traditional Contexts:
-A helpful framework for understanding identity contexts is Kaliya Young's book (Domains of Identity)[https://www.identitywoman.net/wp-content/uploads/Domains-of-Identity-Highlights.pdf] we have put the domains related to particular contexts in brakets. 
+A helpful framework for understanding identity contexts is Kaliya Young's book [Domains of Identity](https://www.identitywoman.net/wp-content/uploads/Domains-of-Identity-Highlights.pdf) we have put the domains related to particular contexts in brakets. 
 - Educational affiliations and credentials  (civil society enrollment and transaction)
 - Work-related credentials and affiliations (employment enrollment and transaction) 
 - Memberships in trade unions, professional associations and other non-employer-driven work-related activities (civil society enrollment and transactions)
@@ -198,3 +198,4 @@ In fact, the way we think of others identities are usually primarily in terms of
 [^2] See Records, [Computers, and the Rights of Citizens](https://www.rand.org/content/dam/rand/pubs/papers/2008/P5077.pdf), 1973, Rand Corporation. 
 [^3] See 1) [Social Secrutiy Numbers: Private Sector Entities Routinely Obtain and Use SSNs, and Laws Limit the Disclosure of This Information](https://epic.org/wp-content/uploads/privacy/ssn/gao-04-11.pdf) by the GAO Report to the Chairman, Subcommittee on Social Security, Committee on Ways and Means, House of Representatives. 2) [Social Securty Number: Federal and State Laws Restrict Use of SSNs, yet Gaps Remain](https://www.gao.gov/assets/gao-05-1016t.pdf), GAO Testimony Before the Committee on Consumer Affairs and Protection and Committee on Governmental Operations, New York State Assembly 
 [^4] News Release: [DHS Awards $193K for a Standards Based Approach to an Alternative Identifier to the Social Security Number](https://www.dhs.gov/science-and-technology/news/2020/10/09/news-release-dhs-awards-alternative-identifier-social-security-number)
+[^5] 
