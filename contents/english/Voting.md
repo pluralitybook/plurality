@@ -6,7 +6,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;  This game mechanic is a variant of the "quadratic voting" procedure one of us invented and now is widely used outside of games as well, as we will explore below.  Because of the logic above, it aggregates not just the direction of individual preferences but their strength and thus, when individual action is independent, can lead to decisions based not just on "the greatest numbers" but "the greatest good for the greatest number".
 
-ADD IMAGES FROM GAME...WHAT PERMISSIONS ARE NEEDED?
 
 </br>
 
