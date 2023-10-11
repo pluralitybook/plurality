@@ -64,7 +64,7 @@ We encourage different communities to help us translate the content in various l
 
 Here's a [simple onboarding guide](https://www.notion.so/Plurality-Translation-Contributor-Onboarding-8b21ee9cebab42b8b89f8f6a897f849a?pvs=21). Please feel free to join the [Discord](https://discord.gg/YWSDRqdW5n) to coordinate with the team on getting your fork approved and listed here, your translation work reflected on the website, and join our community to give any feedback on how to improve the process!
 
-_Note: Traditional Mandarin and English are both considered root language and live in this repository._
+_Note: Traditional Mandarin and English are both considered root language and live in this repository while each fork is maintained by each community._
 
 Active translation communities and repositories
 
