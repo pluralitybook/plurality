@@ -42,7 +42,7 @@ Industry and inventions in technology, for example, create means which alter the
 #### Identity
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; In deep time individuals were born into families rooted within kin based institutions. Kin based institutions that provided everything, livelihood, sustenance, meaning, and that were for the most part inescapable. No "official documents" were needed, they didn't make any sense because you were born in one place in a social universe and remained there interacting with people you knew and who knew you your entire life. These kin based institutions began to be broken up in Europe beginning around 500 with the imposition by the Catholic Church of their Marriage and Family Practices that banned cousin marriages. This is what Joseph Henrich lays out in his book the WEIRDest People in the world: How the West Became Psychologically Peculiar and Particularly Prosperous as a germinal event in creating the west as we know it today.
+&nbsp;&nbsp;&nbsp;&nbsp; In deep time individuals were born into families rooted within kin based institutions. Kin based institutions that provided everything, livelihood, sustenance, meaning, and that were for the most part inescapable. No "official documents" were needed, they didn't make any sense because you were born in one place in a social universe and remained there interacting with people you knew and who knew you your entire life. These kin based institutions began to be broken up in Europe beginning around 500 with the imposition by the Catholic Church of their Marriage and Family Practices that banned cousin marriages. This is what Joseph Henrich lays out in his book the WEIRDest People in the world: How the West Became Psychologically Peculiar and Particularly Prosperous [^ref1] as a germinal event in creating the west as we know it today.
 
 &nbsp;&nbsp;&nbsp;&nbsp; By 1100 new types of voluntary associations that formed institutions started, monasteries, universities, charter towns, guilds began to emerge in the void left by the disillusion of kin based institutions. The plague where 1/3-of all people died also did a lot to disrupt the social order. These new social forms also gave rise to the emergence of a new psychology where people saw themselves as "individuals" (who could leave there family entirely and go to a far away chater town or join a monsteary) Impersonal pro-sociality emerged and became the norm because people were primarily interacting with non-kin. These new instiutions and extensive interactions with non-kin also lead to the emergence pre-capitalist markets, early contract law and governance processes rooted in abdstract rules.
 
@@ -341,7 +341,7 @@ All three ideas had their seeds at the edges of the early community Lick formed 
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Yet while Estonia pioneered the use of Plurality to transform a national government, both its size and its very early development limited what it could achieve. While it took longer to fully develop, in the last decade a small and mountainous island became the world's clearest example of a different path.  Its story animates our next chapter.
 
-
+[^ref1] Henrich, J (2020) The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World
 [^1]: Simmel,“Soziologie” (1908)
 [^2]: Brocic and Silver, "The Influence of Simmel on American Sociology Since 1975"
 [^3]: Simmel, “Sociology of Secrets and Secret Societies”
