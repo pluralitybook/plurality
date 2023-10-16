@@ -10,6 +10,17 @@ The initial maintainers of this project are Audrey Tang (Taiwan's digital minist
 
 All materials in this repo and in all other parts of this project (unless explicitly stated otherwise) are in the public domain; a CC0 license appears in this repo and most of the related software has a GPL.  We strongly encourage translations, both to other languages and to other cultural genres, whether in terms of formatting (fiction, journalism, etc.) or to different communities (religious, ethnic, disciplinary, etc.).  While these "forks" can do whatever they wish with this public domain material, we plan to link to and "recognize" only a smaller group of projects that align to the root in terms of content, values, management style and copyrights.  We hope this link and roots will remain relevant and respected because of the legitimacy this community will achieve through its principles and writing. 
 
+# Citation 
+
+To cite this text, you can use this bibtex as a sample
+
+@online{plurality2023,
+  title={Plurality: Technology for collaborative diversity and democracy},
+  author={Tang, Audrey and Weyl, Glen and {the Plurality Community}},
+  year={2023},
+  url={https://github.com/pluralitybook/plurality/blob/main/contents/english},
+  publisher={GitHub},
+}
 
 # Identity and credit
 
