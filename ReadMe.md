@@ -10,6 +10,17 @@ The initial maintainers of this project are Audrey Tang (Taiwan's digital minist
 
 All materials in this repo and in all other parts of this project (unless explicitly stated otherwise) are in the public domain; a CC0 license appears in this repo and most of the related software has a GPL.  We strongly encourage translations, both to other languages and to other cultural genres, whether in terms of formatting (fiction, journalism, etc.) or to different communities (religious, ethnic, disciplinary, etc.).  While these "forks" can do whatever they wish with this public domain material, we plan to link to and "recognize" only a smaller group of projects that align to the root in terms of content, values, management style and copyrights.  We hope this link and roots will remain relevant and respected because of the legitimacy this community will achieve through its principles and writing. 
 
+# Citation 
+
+To cite this text, you can use this bibtex as a sample
+
+@online{plurality2023,
+  title={Plurality: Technology for collaborative diversity and democracy},
+  author={Tang, Audrey and Weyl, Glen and {the Plurality Community}},
+  year={2023},
+  url={https://github.com/pluralitybook/plurality/blob/main/contents/english},
+  publisher={GitHub},
+}
 
 # Identity and credit
 
@@ -58,15 +69,19 @@ We have no aspiration to earn any financial return on any aspect of the project,
 
 We plan to pursue these approaches and to put any funds raised into the collective control of the community, after any necessary expenditures to ensure physical printing and distribution of the book are completed.  We understand this will require appropriate legal steps to ensure compliance with organizational forms and standard in relevant jurisdictions and we plan to undertake these in the coming months, possibly with the assistance of the Open Collective Foundation.
 
-# Official Active Translation Repositories
+# Official Translation Repositories
 
-We encourage different communities to help us translate the content in various languages for more accessibility around the world, anyone should feel free to fork the repository to initiate their translation work. We aim to allow communities to contribute in scalable and decentralized ways while granting official status upon approval. We hope to also add a simple guide on the best way to structure a translation fork. Please reach out to administrator of this repository to be recognized and added below as the official translation
+We encourage different communities to help us translate the content in various languages for more accessibility around the world, anyone should feel free to fork the repository to initiate their translation work. We aim to allow communities to contribute in scalable and decentralized ways while granting official status upon approval.
 
+Here's a [simple onboarding guide](https://www.notion.so/Plurality-Translation-Contributor-Onboarding-8b21ee9cebab42b8b89f8f6a897f849a?pvs=21). Please feel free to join the [Discord](https://discord.gg/YWSDRqdW5n) to coordinate with the team on getting your fork approved and listed here, your translation work reflected on the website, and join our contributor community to give any feedback on how to improve the process!
+
+_Note: Note: Traditional Mandarin and English are both considered root languages and are hosted in this repository, while each fork is maintained by individual community members._
+
+Active translation communities and repositories
+
+- Ukrainian: https://github.com/vlree-alt/plurality-ukrainian
+- Japanese: https://github.com/nishio/plurality-japanese
 - German
-- Japanese
-- Traditional-Mandarin
-
-(links to be added)
 
 # Summary and next steps
 
