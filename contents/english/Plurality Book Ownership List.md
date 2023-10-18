@@ -6,4 +6,4 @@
 | Jacky      |           |                                   | taipeicity.eth@gmail.com       |                    |                  |      |
 | Audrey     | Tang      | Co-author                         | audreyt@audreyt.org            |                    |                  |      |
 | Glen       | Weyl      | Co-author                         | glenweyl@microsoft.com         |                    |                  |      |
-| Jason      | Entenmann | Program Manager                   | jentenmann@microsoft.com       |                    |                  |      |
+| Jason      | Entenmann | Program Manager                   | jentenmann@microsoft.com       |                    |                  |      |  
