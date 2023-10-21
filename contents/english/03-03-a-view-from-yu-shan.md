@@ -16,3 +16,19 @@ Important milestones in Taiwan's digital democracy include the 318 Sunflower Mov
 The world faces numerous challenges, including pandemics, climate crises, and inequality. Yet, like Yushan, Taiwan is becoming a supporting force in tackling these issues through its spirit of diversity and openness. As the preface of this book says, "The advent of the internet unfurled the world, illuminating paths forward," it also reflects the contours of Taiwan. This island nation's significant contributions to global society make it an indomitable force that cannot be ignored.
 
 [COMMUNITY CONTRIBUTIONS BEGIN HERE]
+
+### Sun Yat-Sen to Sunflower
+
+[A history of how it got there, stretching back at least to Sun Yat-Sen, Tridemism, how that was built into Taiwanese culture and constitution (including Georgism, etc.), the democratic movement in Taiwan, the Sunflower movement, etc.]
+
+### Roads to Pluralist Democracy
+
+[Illustrations of exciting things that have happened in the space in Taiwan]
+
+### A Decade of Accomplishments
+
+[Quantitative data showing the uniqueness of Taiwan’s accomplishment]
+
+### Moving Forward
+
+[Qualifications and nuances of how this is a work in progress, how many people in the country are not yet engaged, etc.]
