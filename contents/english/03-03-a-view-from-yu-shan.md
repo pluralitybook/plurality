@@ -1,5 +1,8 @@
 # A View from Yu Shan
 
+> Swirling ocean, beautiful islands;<br>
+> a transcultural republic of citizens.
+
 Standing at the summit of Yushan, the highest peak in East Asia, one can not only overlook the terrain of Taiwan but also perceive how this small, mountainous island is intricately connected to the world. Located at the intersection of the Eurasian and the Pacific technonic plates, Taiwan's geological fault lines have not only elevated Yushan but have also fostered a diverse and resilient society amid the clash of cultures and values.
 
 Taiwan has combined advanced technology and the plural spirit of the digital realm with the philosophy of "broadband human rights and social resilience," transforming them into tools that promote inter-group connectivity and warmth. This is confirmed by Taiwan's role in the global digital network topology: Taiwan is not just a democratic island nation but also a global carrier of diverse values and the spirit of collaboration.
