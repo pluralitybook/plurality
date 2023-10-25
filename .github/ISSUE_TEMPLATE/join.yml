@@ -1,0 +1,41 @@
+name: Join the community
+description: Use this form to join the community
+title: I'd like to join this project's community
+labels:
+  - gov4git:join
+assignees:
+  - glenweyl
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in our community!
+        Use this form to join our community governance.
+        This community is governed by [gov4git](https://gov4git.org).
+        You will need to install the [gov4git desktop app](https://gov4git.org)
+        on your machine. The app will guide you through initializing your identity and will
+        provide you with the necessary information to fill this form.
+  - type: input
+    id: contributor_public_url
+    attributes:
+      label: Your public repo
+      description: The URL of your gov4git public repo
+      placeholder: e.g. https://github.com/petar/gov4git-identity-public.git
+    validations:
+      required: true
+  - type: input
+    id: contributor_public_branch
+    attributes:
+      label: Your public branch
+      description: The branch within your gov4git public repo that holds your identity
+      placeholder: e.g. main
+    validations:
+      required: true
+  - type: input
+    id: contributor_email
+    attributes:
+      label: Your email (optional)
+      description: Share your email, if you want to receive community updates
+      placeholder: e.g. petar@gov4git.org
+    validations:
+      required: false
