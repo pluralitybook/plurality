@@ -3,9 +3,9 @@
 > Swirling ocean, beautiful islands;<br>
 > a transcultural republic of citizens.
 
-Standing at the summit of Yushan, the highest peak in East Asia, one can not only overlook the terrain of Taiwan but also perceive how this small, mountainous island is intricately connected to the world. Located at the intersection of the Eurasian and the Pacific technonic plates, Taiwan's geological fault lines have not only elevated Yushan but have also fostered a diverse and resilient society amid the clash of cultures and values.
+Standing at the summit of Yushan, the highest peak in East Asia, one can not only overlook the terrain of Taiwan but also perceive how this small, mountainous island nation is intricately connected to the world. Located at the intersection of the Eurasian and the Pacific technonic plates, Taiwan's geological fault lines have not only elevated Yushan but have also fostered a diverse and resilient society amid the clash of cultures and values.
 
-Taiwan has combined advanced technology and the plural spirit of the digital realm with the philosophy of "broadband human rights and social resilience," transforming them into tools that promote inter-group connectivity and warmth. This is confirmed by Taiwan's role in the global digital network topology: Taiwan is not just a democratic island nation but also a global carrier of diverse values and the spirit of collaboration.
+Taiwan has combined advanced technology and the plural spirit of the digital realm with the philosophy of "broadband human rights and social resilience," transforming them into tools that promote inter-group connectivity and warmth. This is confirmed by Taiwan's role in the global digital network topology: Not just a "republic of citizens" but also a global carrier of diverse values and the spirit of collaboration.
 
 In recent years, the global landscape has entered an era of multi-polar ideological divisions, especially in a post-pandemic world rife with uncertainty. This shift not only highlights the importance of digital technology but also reminds us that, when facing phenomena like polarized divisions and fragmented information, global society needs more proactive, open, and inclusive forms of actionable democratic dialogue, allowing the international community to reassess and adjust global governance structures.
 
@@ -31,4 +31,4 @@ The world faces numerous challenges, including pandemics, climate crises, and in
 
 ### Moving Forward
 
-[Qualifications and nuances of how this is a work in progress, how many people in the country are not yet engaged, etc.]
+[Qualifications and nuances of how this is a work in progress, how many people are not yet engaged, etc.]
