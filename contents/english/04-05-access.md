@@ -1,4 +1,4 @@
-# 04-05 Access
+# Access
 
 Long before the rise of the internet, access to information had always been a crucial part of human civilization: as Sir Francis Bacon put it centuries ago, “knowledge is power”. In today’s information age, and even more in the future we describe in this book, it is increasingly impossible to deny the literal truth of this dictum. While the previous chapters of this section of the book focus on the aspects of digital life that ensure human rights, these mean nothing to human life unless every human can securely and with integrity access this world we imagine. In this chapter, we will explore what making such access a fundamental right must mean.
 
