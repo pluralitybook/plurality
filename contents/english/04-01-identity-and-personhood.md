@@ -6,16 +6,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Her nearly defunct phone loaded a page with a few straightforward questions. 
 
-1. Do you grant the Common European Asylum System (CEAS) the consent to request an yes/no answer of your eligibility for our support program?
-2. Do you grant the Common European Asylum System (CEAS) the consent to request an yes/no answer of whether you pose any potential threats to our community?
-3. Do you grant the Common European Asylum System (CEAS) the consent to request an yes/no answer of whether your previous experiences could contribute to a productive role within our society?
+"Do you grant the common asylum system the consent to request an yes/no answer of..."
+
+1. ... your eligibility for our support program?
+2. ... whether you pose any potential threats to our community?
+3. ... whether your previous experiences could contribute to a productive role within our society?
 
 &nbsp;&nbsp;&nbsp;&nbsp;  She swiftly affixed her signature on the screen. Her phone then began displaying pertinent information to assist her in responding to the questions accurately.
 
 - In a conflict-torn village, you built makeshift schools, bringing smiles to children's faces. This beacon of hope is echoed by 76 trustworthy sources, their praises etched on a digital ledger, endorsed by agencies recognized by the EU.
 - At a press conference, your firm stance against affiliations with harmful individuals to your community echoed powerfully, backed by 41 affirming testimonials on a secure blockchain, showcasing an unyielding protector of society.
 - Your efforts in bridging dialogue between communities and 34 government agencies have crafted a shield of trust and safety around you, each acknowledgment a mark of your dedication, immortalized in a digital shield of recognition.
-- At Frontier foundation, your innovation fueled life changing projects, celebrated by 78% of your peers through vibrant digital narratives, weaving a dynamic tapestry of your significant contributions to the engineering sector.
+- Your innovation fueled life changing projects, celebrated by 78% of your peers through vibrant digital narratives, weaving a dynamic tapestry of your significant contributions to the engineering sector.
 - Your support for...
 
 &nbsp;&nbsp;&nbsp;&nbsp;  The list goes on. She recalled the lively scenes of children frolicking in the schoolyard, the mentors who inspired her to grace the stage with confidence, and the countless late nights spent collaborating with her dedicated colleagues.
@@ -24,6 +26,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;  The same acceptance embraced her daughters, welcoming them to a new beginning. With heartfelt warmth, the official welcomed them into a promising world that seemed ready to know and appreciate them truly, offering a fresh start for Mulu and her daughters to thrive once again.
 
+---
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Just as the most fundamental  rights are those to life, personhood and citizenship, the most fundamental protocols for a network society are those that establish and protect participant identities.  It is impossible to secure any right or provide any service without a definition of who or what is entitled to these. Without a reasonably secure identity foundation, any voting system, for example, will be captured by whoever can produce the most false credentials, degenerating into a plutocracy.  There is a famous New Yorker Cartoon from 1993 "On the Internet, nobody knows you're a dog", so famous it has its own [wikipedia page](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog); to the extent this is true, we should expect attempts at online democracy to, quite literally, go to the dogs.  This is dramatized in many "Web3" communities that have relied heavily on pseudonymity or even anonymity and have thus often been captured by the interests of those with access to physical and financial resources.
 
