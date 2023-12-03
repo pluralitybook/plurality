@@ -1,3 +1,33 @@
+<center> <h1> Lucy’s Vineyard </h1> </center>
+
+Lucy: Hello, this is Luc from Château du Soleil Couchant out of Bordeaux.
+
+Municipal Rep: Greetings, Lucy. What can I do for you today?
+
+Lucy: Well, we at Château du Soleil Couchant are in talks with several other vineyards about the idea of creating a coalition for the implementation of a new hail cannon system across our properties. We've secured backing from 12 of the 14 regional vineyards; however, we require a mechanism that guarantees openness, fair decision-making, and the distribution of costs and advantages among all involved parties.
+
+Lucy: To pull this off, we need a governance framework that encourages participation from neighboring vineyards. We've noticed the Wine Trade Association has had great success with their collaborative efforts, and we aim to emulate their model.
+
+Municipal Rep: I appreciate the overview. Could you elaborate on why you need these collaborative tools?
+
+Lucy: Certainly. There's been skepticism among local vineyards about the efficacy of hail cannons, but the latest generation has been scientifically validated to disrupt hailstorm formation. Hail is a longstanding menace to our crops. To be effective, we need widespread adoption of these systems. We're initiating a pilot program to build trust locally, but a governance system akin to what helped the Wine Trade Association resolve their differences would be invaluable.
+
+Municipal Rep: Thanks for elaborating. The collaboration framework the French Wine Trade Association uses was adapted from the U.S. Wine and Spirit Association's model back in 2036. Based on what you've described, we've already tailored it to better fit your regional circumstances. It's important to note, though, that these tools are designed to foster inclusive discussion and consensus, not to drive specific outcomes like the adoption of hail cannons.
+
+Lucy: Understood, and I appreciate the clarification.
+
+Municipal Rep: Great. I've just configured the platform based on our discussion and launched it at www.bordeauxhailcannon.assoc. A detailed changelog has been dispatched to you. Should you need further modifications, please let me know.
+
+Lucy: I certainly will. Could you also send over some advice or common hurdles that others have faced?
+
+Municipal Rep: Definitely. While I can't share confidential details from past projects, I can definitely walk you through the general use of these tools, as well as our past learning.
+
+Lucy: That sounds perfect, thank you. I'll review the changelog and get back to you by tomorrow.
+
+Municipal Rep: Excellent, have a good evening.
+
+---
+
 # Access
 
 Long before the rise of the internet, access to information had always been a crucial part of human civilization: as Sir Francis Bacon put it centuries ago, “knowledge is power”. In today’s information age, and even more in the future we describe in this book, it is increasingly impossible to deny the literal truth of this dictum. While the previous chapters of this section of the book focus on the aspects of digital life that ensure human rights, these mean nothing to human life unless every human can securely and with integrity access this world we imagine. In this chapter, we will explore what making such access a fundamental right must mean.
