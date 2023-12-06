@@ -81,7 +81,7 @@ Active translation communities and repositories
 
 - Ukrainian: https://github.com/vlree-alt/plurality-ukrainian
 - Japanese: https://github.com/nishio/plurality-japanese
-- German
+- German: https://github.com/GermanPluralityBook/pluralitaet 
 
 # Summary and next steps
 
