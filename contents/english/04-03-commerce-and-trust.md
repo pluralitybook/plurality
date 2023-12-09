@@ -1,7 +1,34 @@
-<center> <h1> Commerce and Trust </h1> </center>
+<center> <h1> Z.W.'s Credit </h1> </center>
 
+&nbsp;&nbsp;&nbsp;&nbsp; The ambient hum of excitement echoed through the open-air, punctuated by distant laughter and chatter. Local families had gathered once more for the beloved retro cinema night—a tradition deeply cherished in this community. Like a canvas of memories, families, lovers, and teens lounged on camping chairs, ready to relive moments from an old movie under the vast expanse of the starlit sky.
 
- Story (1/2-1 page)
+&nbsp;&nbsp;&nbsp;&nbsp; Amidst the seasoned attendees was Z.W., standing out with an air of novelty. New to town and having only recently taken up a teaching position at the local school, he was keen to mingle and partake in community festivities. Grasping a bag of chips he intended to share, he joined the queue, absorbing the unique spirit of the evening.
+
+&nbsp;&nbsp;&nbsp;&nbsp; "Thank you for your past contributions," a voice echoed from the front. Z.W. turned his attention to the ticketing booth. Charity event? I wasn’t aware, he thought, slightly puzzled.
+
+&nbsp;&nbsp;&nbsp;&nbsp; “I would love to watch Rogue Stardust.” Z.W. craned his neck and caught sight of a familiar face, a student from his school, proudly flaunting her school hoodie. From the same booth, the same voice chirped, "Thank you for your cafe coupons."
+
+&nbsp;&nbsp;&nbsp;&nbsp; That's unexpected, he mused.
+
+&nbsp;&nbsp;&nbsp;&nbsp; His musings were interrupted as he overheard another exchange, "Ma'am, which movies would you like to choose for tonight, you have several votes from your nursing home and community work."
+
+&nbsp;&nbsp;&nbsp;&nbsp; A gentle, elderly voice responded, "I'd prefer Whispers in the Void and The Last Alchemist, if you don’t mind.”
+
+&nbsp;&nbsp;&nbsp;&nbsp; "Thank you for your contributions, ma'am." the man at the booth responded, his tone courteous.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Soon, it was Z.W.’s turn. The man at the booth had an aura of tranquillity, reminiscent of a seasoned surfer. His warm smile was contagious. 
+
+&nbsp;&nbsp;&nbsp;&nbsp; "Please place your phone here, sir," he instructed.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Z.W. observed his phone screen, which instantly lit up, showcasing a plethora of currencies, points, coupons, and a barrage of thank-you notes from the kids he met since he got here.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Pausing momentarily, the booth attendant lifted his gaze and inquired with genuine appreciation, "Which film would you like the community to enjoy this evening, sir?" A look of thankfulness crossed his face as he continued, "Your contributions to the children in this area are well-documented. I am confident the community would greatly appreciate your selection for tonight's movie showing." After a brief hesitation, he added, "Also, thank you for taking the time to help my sister's child after school that day; it truly made a difference for her family."
+
+&nbsp;&nbsp;&nbsp;&nbsp; The warmth of acceptance spread through Z.W. as he realized he had been welcomed. With a nod of heartfelt thanks, he made his way to a comfortable nook within the gathering, sharing his crackers with the delighted children nearby.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Beneath a sky speckled with stars, against a backdrop laden with memories, Z.W. watched as his cherished film began to play. In this moment, he was enveloped by the profound sense of community—where he was not merely a spectator, but an integral thread woven into the vibrant tapestry of collective memories and experiences.
+
+---
  
 &nbsp;&nbsp;&nbsp;&nbsp; Perhaps because of the highly commercial nature of today's world, none of the protocols we discuss in this section have received nearly the attention in media and policy as new approaches to facilitating payment and commerce. Cryptocurrencies have been one of the focal technologies of the last decade.  But only slightly less heralded and far more broadly adopted have been a range of government and other public payments innovations including instant payments technologies using government identities in places like India, Brazil and Singapore, central bank digital currencies (CBDCs), and regulated inter-operable digital payment systems like those used in the PRC.  While they are far from universally adopted or inter-operable, a new generation of payment systems are increasingly prevalent in the lives of many people around the globe, making payment in digital spaces increasingly as easy or easier than what cash facilitated in the past.
  
