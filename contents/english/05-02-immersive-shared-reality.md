@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; The dawn of immersive shared reality technologies marks a transformative chapter in human interaction, leveraging cutting-edge virtual reality (VR), augmented reality (AR) and mixed reality (MR) systems. These technologies enable people, irrespective of geographical constraints, to engage in deeply shared, value-driven, and multisensory experiences, fostering a sense of solidarity and community. This chapter delves into the landscape of immersive technologies, their applications, and potential, while situating them within a broader spectrum of digital and physical interaction modalities. It focuses on immersive technologies that facilitate collective experiences blending physical and virtual elements; not only examining how they complement and expand human experience by facilitating interactions that surpass traditional social and spatial limitations but also underscoring the critical role these technologies may play in environmental and climate engagement to create sustainable, climate-resilient shared realities.
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png" width="100%" alt="Venn diagram with four overlapping circles labeled "Virtual Reality", "Augmented Reality", "Mixed Reality," and "Modulated Reality." A larger circle encompasses these, labeled "Mediated Reality".>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png" width="100%" alt='Venn diagram with four overlapping circles labeled "Virtual Reality", "Augmented Reality", "Mixed Reality," and "Modulated Reality." A larger circle encompasses these, labeled "Mediated Reality."'>
 
 **Figure 1: Mediated Reality Framework adapted from Mann and Nnlf ’94 **
 
