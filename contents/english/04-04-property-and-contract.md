@@ -1,4 +1,4 @@
-<center> <h1> Vasana’s Newsletter </h1> </center>
+<center> <h1> Property and Contract </h1> </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp; Dear Vasana Gamers,
 

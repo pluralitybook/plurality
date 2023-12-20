@@ -1,4 +1,4 @@
-<center> <h1> Z.W.'s Credit </h1> </center>
+<center> <h1> Commerce and Trust </h1> </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp; The ambient hum of excitement echoed through the open-air, punctuated by distant laughter and chatter. Local families had gathered once more for the beloved retro cinema night—a tradition deeply cherished in this community. Like a canvas of memories, families, lovers, and teens lounged on camping chairs, ready to relive moments from an old movie under the vast expanse of the starlit sky.
 
