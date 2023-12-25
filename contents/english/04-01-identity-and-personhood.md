@@ -139,7 +139,7 @@ A lengthy hearing the Indian Supreme Court has significantly limited the extent 
 
  &nbsp;&nbsp;&nbsp;&nbsp;  Despite these common challenges, the details of these schemes vary dramatically, however.  On one extreme, advocates of "verifiable credentials" (VCs) prioritize privacy and the ability of users to control which of the claims about them are presented at any time.  On the other extreme, advocates of "soulbound tokens" (SBTs) or other blockchain-centric identity systems emphasize the importance of credentials that are public commitments to e.g. repay a loan or not produce further replicas of a work of art and thus require that the claims be publicly tied to an identity.  Here, again, in both the challenges around recovery and the DID-SBT debate we see the unattractive trade-off between establishing and protecting identities.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Many recent initiatives around identity from the creation of "SMART Health Cards" for vaccination status and by the European Union to create a Europe-wide, interoperable digital identity worked to try to navigate this battlefield.  Given the centrality in these contexts of both establishing and protecting identity, the slow progress of many of these initiatives is hardly surprising.    
+&nbsp;&nbsp;&nbsp;&nbsp; Many recent initiatives related to COVID credentials[^6] touched on identity from the creation of "SMART Health Cards" [^7] for vaccination status in the United States and by the European Union to create Digital Covid Certificat (EU-DCC) [^8] interoperable digital identity worked to try to navigate this battlefield.  Given the complexity of these contexts of both establishing, protecting and sharing needed information, the slow progress of many of these initiatives is hardly surprising.    
 
 
 
@@ -203,3 +203,6 @@ In fact, the way we think of others identities are usually primarily in terms of
 [^4]: News Release: [DHS Awards $193K for a Standards Based Approach to an Alternative Identifier to the Social Security Number](https://www.dhs.gov/science-and-technology/news/2020/10/09/news-release-dhs-awards-alternative-identifier-social-security-number)
 [^Altman]: https://www.reuters.com/technology/worldcoin-aims-set-up-global-id-network-akin-indias-aadhaar-2023-11-02/
 [^5]: Kim Cameron's [Laws of Identities](https://www.identityblog.com/?p=1065) (blog post, August 2009)
+[^6]: [Global Covid Certificate Landscape] (https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/)
+[^7]: [SMART Health Cards – Understanding the Global COVID Certificate Landscape] (https://www.lfph.io/2021/10/14/smart-health-cards/)
+[^8]: [EU Digital COVID Certificate – Understanding the Global COVID Certificate Landscape] (https://www.lfph.io/2021/10/12/eu-digital-covid-certificate/) 
