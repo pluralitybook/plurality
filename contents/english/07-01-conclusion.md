@@ -10,7 +10,7 @@ And by “society,” as we have argued throughout this book, we mean not just e
 
 Technology has had a dramatic effect on those connections. From the railroad to the telegraph to the telephone; to Facebook connecting us to old kindergarten friends and new like-minded allies; to Zoom holding businesses and families together during Covid, we have benefited enormously from technology’s capacity to forge and strengthen human connection. 
 
-At the same time, technology has also clearly driven us apart. Business models based on a fight for attention have prioritized outrage over curiosity, echo chambers over shared understanding, and practically unfettered mis- and disinformation. 
+At the same time, technology has also clearly driven us apart. Business models based on a fight for attention have prioritized outrage over curiosity, echo chambers over shared understanding, and practically unfettered information manipulation.
 
 And given the pace and transformative capacity of AI, we now stand at a crossroads. Whether technology will steer us closer together or further apart will define the next phase of human experience. And for the moment -- but not for much longer – the choice of which way we go is up to us. 
 
@@ -20,7 +20,7 @@ Instead, as we argued earlier in this book, there are two looming accelerationis
 
 Given a choice between these alternatives, the urgent, passionate answer of this book is: neither. We pluralists believe that most human beings are neither atomized individuals without shared responsibilities nor subjects without a claim to agency. On the whole, human beings are both individuals and social beings, desirous of full lives and capable of sustained peace. But to achieve those goals we need our surrounding systems – the political _and_ the technological ones – to give us both agency and responsibility. And we certainly need the most powerful tools at our disposal to help us find ways to get along, even if not to agree. That is the aspiration and the imperative of Plurality. 
 
-Plurality is the third way beyond libertarianism and technocracy, a movement we have perhaps three to five years to set in motion. Within that time frame, a critical mass of the technology that people and companies use every day will have become deeply dependent on large language models. At that point, we won’t be able to reverse the “reality” that ES or AT have generated for us. But between now and then, we can mobilize to re-chart the course: toward a human-centered, relationship-embracing, digital democracy in which diverse groups of people, despite not agreeing, are able to cooperate and collaborate in sustained and thriving societies.  
+Plurality is the third way beyond libertarianism and technocracy, a movement we have perhaps three to five years to set in motion. Within that time frame, a critical mass of the technology that people and companies use every day will have become deeply dependent on large language models. At that point, we won’t be able to reverse the “reality” that libertarianism or technocracy have generated for us. But between now and then, we can mobilize to re-chart the course: toward a human-centered, relationship-embracing, digital democracy in which diverse groups of people, despite not agreeing, are able to cooperate and collaborate in sustained and thriving societies.  
 
 Such a pivot will take an urgent, whole-of-society mobilization. Businesses, governments, universities, and civil society organizations must demand that our technology deepen our connections across our many forms of social diversity. That is the key, and the only path, to strengthening human stability, prosperity, and flourishing into the future. 
 
@@ -72,5 +72,5 @@ If you believe that technology, the most powerful tool in today’s society, can
 
 If you want to contribute to Plurality’s immediate horizon, intermediate horizon, or truly transformative horizon —or across all of them—you have multiple points of entry. If you work in tech, business, government, academia, civil society, cultural institutions, education, and/or on the home-front, you have multiple ways to make a difference. 
 
-We pluralists are in every country in the world and every sector of the economy. Connect, affiliate, rally, mobilize … and join us, in the deliberate and committed movement to build a more dynamic and harmonious world. 
+We pluralists are in every country in the world and every sector of the economy. Connect, affiliate, rally, mobilize … and join us, in the deliberate and committed movement to build a more dynamic and plural world. 
 
