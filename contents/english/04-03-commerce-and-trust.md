@@ -1,4 +1,4 @@
-<center> <h1> Commerce and Trust </h1> </center>
+# Commerce and Trust
 
 &nbsp;&nbsp;&nbsp;&nbsp; The ambient hum of excitement echoed through the open-air, punctuated by distant laughter and chatter. Local families had gathered once more for the beloved retro cinema night—a tradition deeply cherished in this community. Like a canvas of memories, families, lovers, and teens lounged on camping chairs, ready to relive moments from an old movie under the vast expanse of the starlit sky.
 
@@ -41,7 +41,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Yet, in many ways the relatively rapid success of these efforts is a symptom of what is so disappointing about their progress so far.  Cash is perhaps one of the "dumbest" technologies of the pre-digital era: it is a single, homogeneous substances transmitted between roughly anonymous, abstracted accounts.  While it has proven far harder to replicate this basic function, and thus recent advances are important, this is not a revolutionary technique enabled by digital technology as, for example, hypertext improved on what had been possible in previous writing.  In this chapter we will summarize progress thus far, discuss the limitations of traditional money compared to higher aspirations for commerce online and discuss ways to build on recent advances to allow a more plural vision of digital commerce.
   
   
-  ### Traditional payments
+### Traditional payments
   
 &nbsp;&nbsp;&nbsp;&nbsp; While the early history of money has been a subject of a great deal of recent research, to which we will return below, most people associate the idea with currency in the form of tokens or notes that pass from one hand to another and view other forms of money as abstractions of this more basic concept. This form of "money of exchange" dates back to the early civilizations of Babylon, India and China and in the first millennium BC was increasingly based on precious metals like bronze, silver and gold.  The durability, scarcity and wide belief in the value of these metals facilitated broad acceptance of them in payment for a range of goods and services.
 
@@ -57,7 +57,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Until roughly the last decade, this constellation covered most transactions.  In most of the world, a mix of cash and payments cards were used for small value transactions in physical proximity and wires were used to send money abroad, while larger value transactions flowed primarily over ACHs and to a lesser extent wires and cheques.  All of these systems predate the emergence of the internet and none of them match is reach, pace or flexibility: payment cards were traditionally cumbersome and insecure to use online, cash irrelevant and ACHs far too slow (typically 3 days).  Unsurprisingly, therefore, Lick, Tim Berners-Lee and others believed a native payment system was one of the core features missing from the early development of the internet.  The last decade and a half has seen a variety of attempts to address this lacuna. 
   
-  ### Digital money and privacy
+### Digital money and privacy
   
 &nbsp;&nbsp;&nbsp;&nbsp; One of the first and the most attention-grabbing of these was the emergence of Bitcoin in 2008 and later a range of other "cryptocurrencies" in the 2010s.  These systems used DLTs, like those we discussed in the last chapter, paired with internally generated financial structures to create a validated substrate for tracking transactions.  First, instead of an identity system based on accounting for human participants, they used protocols to prove control over some resource (such as "proof of work" protocols based on solving a puzzle that requires access to powerful computers) to protect against predatory participants.  This created an effectively financial screen for participation.  On the other hand, they rewarded "honest" participants (those whose recording of transactions match others') with "coins" created by including transactions to their own account.  The ledger was otherwise openly available to any participant, creating a global, purely financial ledger with pseudonymous accounts that allowed individual people to potentially have many "identities".
   
@@ -85,7 +85,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Yet surveillance is only the beginning of responsibilities that communities of various kinds, ranging from lending circles to nations, would have to take on to create such contextually appropriate financial freedom. Little surveillance is mere voyeurism.  Instead, it is intended to prevent a range of financial crimes, from fraud to trading with aggressors against international law (sanctions). Beyond such dramatic transgressions, a range of transactions legitimately matter for people other than the transacting parties: sales of drugs and weapons, taking on of unreported debts that burden someone's ability to repay other debts, taxable sales, and much more.  All this suggests why the anonymous and unaccountable image of cash and the centralized control by a government of accounts are both insufficient ways to understand a plural system of commercial trust.
  
   
-  ### History and limits of currency
+### History and limits of currency
   
   &nbsp;&nbsp;&nbsp;&nbsp; Imagining a more plural alternative brings us back to the history of money and why it evolved in the first place.  In his account of the institution, the late anthropological historian David Graeber articulated the view of many of the leading scholars of money such as R. G. Hawtrey, Geoffrey Ingham, L. Randall Wray and Samuel A. Chambers to  argue that long before money, societies engaged in a range of mutually beneficial collaboration under norms of reciprocity.[^Debt]  These were rarely quantified in terms of formal "value" and followed a range of logics beyond simple bilateral favor trading.  For example, the community services of a hunter for a village or an elder might put the community in general in their "debt", making gifts to them customary.  The richness and diversity of these traditions made their quantification unnatural, but also hard to extend beyond the Dunbar number we discussed in the Identity chapter of roughly 150 close associates.  
   
@@ -110,7 +110,7 @@
 
    
    
-  ### Plural currencies
+### Plural currencies
   
   &nbsp;&nbsp;&nbsp;&nbsp; While there has been a great deal of excitement about the decentralization of cryptocurrencies, there is an important sense in which any currency that aspires to universality is inherently highly centralized: it creates trust and cooperation by everyone ascribing value to the same thing.  A more plural approach can, as in our Identity chapter, follow either a decentralized/polycentric or distributed structure in a way that roughly parallels our ideas there.
   
@@ -127,7 +127,7 @@
  
   
   
-  ### Commerce in a plural society
+### Commerce in a plural society
 
  &nbsp;&nbsp;&nbsp;&nbsp; In particular, establishing trust, credit and value across long social distances lies at the core of both the identity systems we described previously and the systems of contracting and asset use that we focus on in the next chapter.  Identity systems are about trusting/credit claims made by someone about a third party.  Anyone who accepts an arbitrary number of such claims from someone they do not know well exposes themselves to potentially devastating attacks.  On the other hand, accepting some claims about relatively unimportant matters from a less trustworthy source is not too risky.  The trust established by a network of verifiers in an identity system is thus *quantitative* and thus depends on quantification of trust, and consequences for betraying this trust, in networks, precisely the sort of system we described here.  At the same time, clearly these systems depend on the technologies of identity and association we developed in the previous chapters, to underpin the definition and information structures of the communities and people who form the network of commercial relationships described here. And, as we will now explore, all are critical to the joint use, contracting over and enterprise harnessing the critical assets of the digital age: computation, storage and data.
 
