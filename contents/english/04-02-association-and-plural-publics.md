@@ -1,4 +1,4 @@
-<center> <h1> Association and Plural Publics </h1> </center>
+# Association and Plural Publics
 
 &nbsp;&nbsp;&nbsp;&nbsp; As the cacophony of war reverberated through the narrow streets of the Middle Eastern city, a relentless barrage of gunfire and the ghostly dance of flames cast a shroud over the metropolis, with a blackout plunging nearly half of it into fear-strewn darkness. The digital backbone of the city, once a beacon of interconnected brilliance, lay in tatters—government databases lay in ruin, communications networks severed by skilled enemy hacks, leaving the city's guardians grappling for any remaining strategies to wrest back control from the chaos.
 

@@ -1,4 +1,4 @@
-<center> <h1> Workplace </h1> </center>
+# Workplace
 
 
 
@@ -37,7 +37,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; While meetings have variety of goals and structures, perhaps the most common type is an attempt to share a variety of perspectives on a common project to achieve alignment and assignment of responsibilities.  Such meetings are closely connected to the deliberative conversations we highlighted in our chapter on "Deliberation".  An important reason why, despite the rise of asynchronous communication via services like Slack, Teams and Trello synchronous meetings remain so prevalent is that asychronous dialogs often suffer from the same lack of thoughtful time and attention management that are necessary to make synchronous meetings successful.  Approaches like pol.is, Remesh, All Our Ideas and their increasingly sophisticated LLM-based extensions promise to significantly improve this, making it increasingly possible to have respectful, inclusive and informative asynchronous conversations that include many more stakeholders.
 
-&nbsp;&nbsp;&nbsp;&nbsp Beyond office politics, national politics are also increasingly entering and dividing workplaces, leading some executives to take extreme measures such as banning political discussions at work.[^Coinbase]  A potential alternative to such stringent restrictions, which may suppress but not resolve tensions and undermine employee morale, might be to build channels such as the above to allow thoughtful and inclusive discussions of social issues, especially those relevant to corporate policies, to take place respectfully and at scale.  Overall, these technologies promise to make workplaces more efficient, engaging, consensual and harmonious, providing the tools to help achieve the cultural goals many executives strive for.
+&nbsp;&nbsp;&nbsp;&nbsp; Beyond office politics, national politics are also increasingly entering and dividing workplaces, leading some executives to take extreme measures such as banning political discussions at work.[^Coinbase]  A potential alternative to such stringent restrictions, which may suppress but not resolve tensions and undermine employee morale, might be to build channels such as the above to allow thoughtful and inclusive discussions of social issues, especially those relevant to corporate policies, to take place respectfully and at scale.  Overall, these technologies promise to make workplaces more efficient, engaging, consensual and harmonious, providing the tools to help achieve the cultural goals many executives strive for.
 
 
 

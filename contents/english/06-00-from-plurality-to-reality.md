@@ -1,4 +1,4 @@
-<center> <h1> From Plurality to Reality </h1> </center>
+# From Plurality to Reality
 
 
 Quantitative summary of potential impacts; return here after other chapters have prepared their own estimates so we can compile/synthesize them here.

@@ -1,4 +1,4 @@
-<center> <h1> Voting </h1> </center>
+# Voting
 
 &nbsp;&nbsp;&nbsp;&nbsp; In the best-selling strategy game of all time, Civilization VI, players manage a civilization from the birth of the first settlements to the near future, competing and sometimes cooperating with other civilizations in a race to dominate culture, military conquest, diplomatic support, scientific achievement and/or religious influence.  In the game's widely adopted and climate change-themed expansion pack "Gathering Storm", diplomatic decisions affecting the whole world are decided in a "World Congress".  Civilizations accumulate "diplomatic favor" from alliances, infrastructure, and so forth.  They can then spend these to influence global policies, such as regulation of fossil fuels, controls on nuclear weapons  or immigration rules.  
 

@@ -1,4 +1,4 @@
-<center> <h1> Property and Contract </h1> </center>
+# Property and Contract
 
 &nbsp;&nbsp;&nbsp;&nbsp; Dear Vasana Gamers,
 

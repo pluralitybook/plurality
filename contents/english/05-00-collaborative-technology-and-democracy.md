@@ -1,4 +1,4 @@
-<center> <h1> Collaborative Technology and Democracy </h1> </center>
+# Collaborative Technology and Democracy
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; This book was created to demonstrate in action and as well as describe Plurality: to show as well as tell.  As such, it was created using many of the tools we describe in this section.  The text was stored on and updated using the Git protocol that open source coders use to control versions of their software.  The text is shared freely under a Creative Commons 0 licensing regime, implying that no rights to any content herein are reserved to the community creating it and it may be freely reused.  At the time of this writing, dozens of diverse experts from around the world contributed to the text and we expect orders of magnitude more prior to publication, embodying the practices we describe in our Creative Collaboration chapter.  
