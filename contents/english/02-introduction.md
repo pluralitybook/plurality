@@ -1,22 +1,8 @@
 # Information Technology and Democracy: a Widening Gulf
 
-<center>
-<i>
-“(T)he West's technology champion, the United States, has decided to self-flagellate -- both political parties and their elected representatives are busily savaging the US technology industry every way they possibly can.” </i>
+> “(T)he West's technology champion, the United States, has decided to self-flagellate -- both political parties and their elected representatives are busily savaging the US technology industry every way they possibly can.” — Marc Andreessen, Interview with Noah Smith, 2021
 
-<br>
-
-<center> Marc Andreessen, Interview with Noah Smith, 2021 </center>
-
-<br>
-<center>
-<i>
-"Technology could be a force for democracy, but it has turned out to pose just as much threat to it." </i>
-
-Shoshana Zuboff, The Age of Surveillance Capitalism, 2018
-</center>
-</center>
-
+> "Technology could be a force for democracy, but it has turned out to pose just as much threat to it." — Shoshana Zuboff, The Age of Surveillance Capitalism, 2018
 
 Anxiety over technology and geopolitics is pervasive today.  Yet there is a more fundamental conflict underway than that between great powers over technical supremacy.  More deeply, the path technology and democracy as systems have taken have put them at loggerheads and the ensuing battle has claimed victims on both sides.
 
@@ -254,30 +240,4 @@ many consumer respondents to a recent Australian survey (58%) admitted they do n
 [^GallupInstitutionConfidence]: https://news.gallup.com/poll/1597/confidence-institutions.aspx
 [^TrustInPublicInstitutions]: https://www.un.org/development/desa/dspd/2021/07/trust-public-institutions/ and Kolczynska, Bürkner, Kennedy and Vehtari
 [^RussianDigitalControl]: Reuters, "Face control: Russian police go digital against protesters", available at https://www.reuters.com/article/us-russia-politics-navalny-tech-idUSKBN2AB1U2. See also https://www.rferl.org/a/russia-dissent-cctv-detentions-days-later-strategy/31227889.html
-[^RussianDraftEvaders]: Human Rights Watch, "Russia Uses Facial Recognition to Hunt Down Draft Evaders
-", available at https://www.hrw.org/news/2022/10/26/russia-uses-facial-recognition-hunt-down-draft-evaders
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^RussianDraftEvaders]: Human Rights Watch, "Russia Uses Facial Recognition to Hunt Down Draft Evaders", available at https://www.hrw.org/news/2022/10/26/russia-uses-facial-recognition-hunt-down-draft-evaders

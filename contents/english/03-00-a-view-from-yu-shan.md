@@ -1,6 +1,6 @@
 # A View from Yu Shan
 
-> Swirling ocean, beautiful islands;<br>
+> Swirling ocean, beautiful islands;<br />
 > a transcultural republic of citizens.
 
 Standing at the summit of Yushan, the highest peak in East Asia, one can not only overlook the terrain of Taiwan but also perceive how this small, mountainous island nation is intricately connected to the world. Located at the intersection of the Eurasian and the Pacific tectonic plates, Taiwan's geological fault lines have not only elevated Yushan but have also fostered a diverse and resilient society amid the clash of cultures and values.

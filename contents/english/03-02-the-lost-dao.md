@@ -1,25 +1,9 @@
 # The Lost Dao
 
-<center>
-<i>
-Industry and inventions in technology, for example, create means which alter the modes of associated behavior and which radically change the quantity, character and place of impact of their indirect consequences. These changes are extrinsic to political forms which, once established, persist of their own momentum. The new public which is generated remains long inchoate, unorganized, because it cannot use inherited political agencies. The latter, if elaborate and well institutionalized, obstruct the organization of the new public. They prevent that development of new forms of the state which might grow up rapidly were social life more fluid, less precipitated into set political and legal molds. To form itself, the public has to break existing political forms. This is hard to do because these forms are themselves the regular means of instituting change. The public which generated political forms is passing away, but the power and lust of possession remains in the hands of the officers and agencies which the dying public instituted. This is why the change of the form of states is so often effected only by revolution.</i>
+> Industry and inventions in technology, for example, create means which alter the modes of associated behavior and which radically change the quantity, character and place of impact of their indirect consequences. These changes are extrinsic to political forms which, once established, persist of their own momentum. The new public which is generated remains long inchoate, unorganized, because it cannot use inherited political agencies. The latter, if elaborate and well institutionalized, obstruct the organization of the new public. They prevent that development of new forms of the state which might grow up rapidly were social life more fluid, less precipitated into set political and legal molds. To form itself, the public has to break existing political forms. This is hard to do because these forms are themselves the regular means of instituting change. The public which generated political forms is passing away, but the power and lust of possession remains in the hands of the officers and agencies which the dying public instituted. This is why the change of the form of states is so often effected only by revolution. — John Dewey, _The Public and Its Problems_, 1927
 
-<br>
-
-  <center> -- John Dewey, <i>The Public and Its Problems </i> , 1927  </center>
-
-<br>
-<center>
-<i>
-(D)ecisions about the development and exploitation of computer technology must be made not only "in the public interest" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. </i>
-
--- J. C. R. Licklider, "Computers and Government", 1979
-</center>
-</center>
-
+> (D)ecisions about the development and exploitation of computer technology must be made not only "in the public interest" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, "Computers and Government", 1979
  
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;  Can a plural understanding of society lay the foundation for social transformations as dramatic as those that fields like quantum mechanics and ecology have brought to natural sciences, physical technology and our relationship to nature?  Liberal democracies often celebrate themselves as pluralistic societies, which would seem to indicate they have already drawn the available lessons from plural social science.  Yet despite this formal commitment to pluralism and democracy, almost every country has been forced by the limits of available information systems to homogenize and simplify social institutions in a monist atomist mold that runs into direct conflict with its values.  The great hope of plural social science and plural technology (Plurality) built on top of it is to use the potential of information technology to begin to overcome these limitations.
 
 ### Limits of Modernity
@@ -341,7 +325,7 @@ All three ideas had their seeds at the edges of the early community Lick formed 
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Yet while Estonia pioneered the use of Plurality to transform a national government, both its size and its very early development limited what it could achieve. While it took longer to fully develop, in the last decade a small and mountainous island became the world's clearest example of a different path.  Its story animates our next chapter.
 
-[^WEIRDest] Henrich, J (2020) The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World
+[^WEIRDest]: Henrich, J (2020) The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World
 [^Soziologie]: Simmel,“Soziologie” (1908)
 [^InfluenceOfSimmel]: Brocic and Silver, "The Influence of Simmel on American Sociology Since 1975"
 [^SecretSocieties]: Simmel, “Sociology of Secrets and Secret Societies”

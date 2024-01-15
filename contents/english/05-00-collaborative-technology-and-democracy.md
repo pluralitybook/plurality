@@ -24,11 +24,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Why are we so focused on collaboration across diversity?  Answers will naturally be diverse.  One explanation that touched our hearts originates in the explanation given by Star Trek creator Gene Roddenberry of the Vulcan philosophy of "Infinite Diversity in Infinite Combinations" that acted as a kind of synecdoche for the series whose most consistent theme is initially conflictual encounters with "alien" species that eventually result in mutual growth: 
 
-<center>
-<i>
-(A)...belief that beauty, growth, progress -- all result from the union of the unlike. Concord, as much as discord, requires the presence of at least two different notes. The brotherhood of man is an ideal based on learning to delight in our essential differences, as well as learning to recognize our similarities. The circle and triangle combine to produce the gemstone in the center as the union of words and music creates song, or the union of marriage creates children.
-</i>
-  </center>
+> (A)...belief that beauty, growth, progress -- all result from the union of the unlike. Concord, as much as discord, requires the presence of at least two different notes. The brotherhood of man is an ideal based on learning to delight in our essential differences, as well as learning to recognize our similarities. The circle and triangle combine to produce the gemstone in the center as the union of words and music creates song, or the union of marriage creates children.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Perhaps the two most fundamental elements of life are survival and reproduction.  Collaboration across diversity is at the heart of both: to survive we must avoid deadly conflicts across difference, while to reproduce the unlike must come together, especially if inbreeding is to be avoided.
 
