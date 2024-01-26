@@ -66,7 +66,7 @@ Forestry expert Suzanne Simard focuses on exploring the collaborative nature of 
 
 In such a vibrant forest, a single 'mother tree' can establish connections with hundreds of other trees. Multiple such mother trees ensure the continuity of the entire forest as a collective organism through overlapping networks, ensuring a secure and robust environment through open connections.
 
-Digital infrastructure follows a similar pattern with open source and open data. It serves as a public foundation that is open to the global community, collaborating with tens of thousands of digital communities while offering open and secure Internet access and jointly defending against immediate digital threats.
+Digital infrastructure follows a similar pattern with open standards (protocols) open source code and open data. It serves as a public foundation that is open to the global community, collaborating with tens of thousands of digital communities while offering open and secure Internet access and jointly defending against immediate digital threats.
 
 Taiwan is one of the world’s primary DDoS hotspots, according to Cloudflare's report. Its government has adopted the IPFS framework discussed in the previous chapter for its websites, allowing it to interconnect with both private digital services and emerging open networks. This structure is not only more resistant to sudden DDoS attacks and is conducive to open collaboration and mutual support with global technology communities. This provides an illustration of making systems more robust against information manipulation.
 
