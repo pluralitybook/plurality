@@ -19,7 +19,9 @@ The world faces numerous challenges, including pandemics, climate crises, and in
 
 ### Sun Yat-Sen to Sunflower
 
-[A history of how it got there, stretching back at least to Sun Yat-Sen, Tridemism, how that was built into Taiwanese culture and constitution (including Georgism, etc.), the democratic movement in Taiwan, the Sunflower movement, etc.]
+[Sun Yat-sen's association with Georgism, the Japanese colonial era (Taiwan Cultural Association, etc.) and the political environment of the Minguo era, the Nanking Decade and the subsequent relocation to Taiwan...]
+
+[All of these eras ultimately influenced the formation of modern Taiwan and the political transformations of the 1980-1990 era around the lifting of the martial law, culminating in the political environment that exists today.]
 
 ### Roads to Pluralist Democracy
 
