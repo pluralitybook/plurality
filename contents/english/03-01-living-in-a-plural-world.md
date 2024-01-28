@@ -1,18 +1,8 @@
 # Living in a Plural World
 
-<center>
-<i>Until lately the best thing that I was able to think in favor of civilization…was that it made possible the artist, the poet, the philosopher, and the man of science. But I think that is not the greatest thing. Now I believe that the greatest thing is a matter that comes directly home to us all. When it is said that we are too much occupied with the means of living to live, I answer that the chief worth of civilization is just that it makes the means of living more complex; that it calls for great and combined intellectual efforts, instead of simple, uncoordinated ones, in order that the crowd may be fed and clothed and houses and moved from place to place. Because more complex and intense intellectual efforts mean a fuller and richer life. They mean more life. Life is an end in itself, and the only question as to whether it is worth living is whether you have enough of it.</i> 
-<br><br>
+> Until lately the best thing that I was able to think in favor of civilization…was that it made possible the artist, the poet, the philosopher, and the man of science. But I think that is not the greatest thing. Now I believe that the greatest thing is a matter that comes directly home to us all. When it is said that we are too much occupied with the means of living to live, I answer that the chief worth of civilization is just that it makes the means of living more complex; that it calls for great and combined intellectual efforts, instead of simple, uncoordinated ones, in order that the crowd may be fed and clothed and houses and moved from place to place. Because more complex and intense intellectual efforts mean a fuller and richer life. They mean more life. Life is an end in itself, and the only question as to whether it is worth living is whether you have enough of it. — Oliver Wendell Holmes, 1900[^LifeAsJoy]
 
-Oliver Wendell Holmes, 1900[^LifeAsJoy]
-
-<i>(A)re…atoms independent elements of reality? No…as quantum theory shows: they are defined by their…interactions with the rest of the world…(Q)uantum physics may just be the realization that this ubiquitous relational structure of reality continues all the way down…Reality is not a collection of things, it’s a network of processes.</i>
-
-Carlo Rovelli, 2022[^RelationalReality]
-
-<br>
-</center>
-
+> (A)re…atoms independent elements of reality? No…as quantum theory shows: they are defined by their…interactions with the rest of the world…(Q)uantum physics may just be the realization that this ubiquitous relational structure of reality continues all the way down…Reality is not a collection of things, it’s a network of processes. — Carlo Rovelli, 2022[^RelationalReality]
 
 &nbsp;&nbsp;&nbsp;&nbsp; Technology follows science.  Thus, if we are to offer a different vision of the future of technology from Abundance Technocracy (AT) and Entrepreneurial Sovereignty (ES), we need to understand what is at the root of their understanding of science, what this might miss, and how correcting this can open new horizons.  To do so, we now explore the philosophy of science behind these approaches and explore how in both the natural and social sciences the advances of the last century arose from moving beyond the limits of these perspectives to a plural, networked, relational, multiscale understanding of the reality we live in.
 
