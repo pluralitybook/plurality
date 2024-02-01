@@ -45,3 +45,6 @@ write_file('english.md', $all);
 
 #system(q[docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) pandoc/extra english.md --toc -s -o english.epub]);
 #system(q[docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) pandoc/extra english.md --toc -s -o english.pdf]);
+
+pandoc traditional-mandarin.md --toc -s -o traditional-mandarin.pdf  --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC'
+
