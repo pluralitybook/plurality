@@ -10,8 +10,6 @@
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_matching.png" width="100%" alt="Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a plural funding formula because it elevates many small contributions across social distance.">
 &nbsp;&nbsp;&nbsp;&nbsp; Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a plural funding formula because it elevates many small contributions across social distance.
 
-
-
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_projectpage.png" width="100%" alt="The project page for the plurality book on Gitcoin.  As of February 2 2024, the plurality book had received $332.84 in funding from 87 contributors.">
 &nbsp;&nbsp;&nbsp;&nbsp; The project page for the plurality book on Gitcoin.  As of February 2 2024, the plurality book had received $332.84 in funding from 87 contributors.
 
