@@ -1,8 +1,11 @@
 #!/usr/bin/env perl
 use utf8;
 use strict;
+use FindBin '$RealBin';
 use Encode;
 use POSIX qw(strftime);
+
+chdir "$RealBin/..";
 
 # Get current date
 my $current_date = strftime "%Y-%m-%d", localtime;
@@ -43,8 +46,14 @@ for (sort <contents/english/0*.md>) {
 
 write_file('english.md', $all);
 
-#system(q[docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) pandoc/extra english.md --toc -s -o english.epub]);
-#system(q[docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) pandoc/extra english.md --toc -s -o english.pdf]);
+print "Generating PDF (this may take a while)...\n";
 
-pandoc traditional-mandarin.md --toc -s -o traditional-mandarin.pdf  --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC'
+system << '.';
+docker run --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.pdf --toc -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures
+.
 
+print "Generating ePub (this should be fast)...\n";
+
+system << '.';
+docker run --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.epub --toc -s
+.
