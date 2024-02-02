@@ -41,7 +41,7 @@ for (sort <contents/traditional-mandarin/0*.md>) {
     $basename =~ s,-,_,g; $basename .= '_';
     $c =~ s/^( +|&nbsp;)+//mg;
     $c =~ s,(<(br|img)\b[^>]*)(?<!/)>,$1 />,g;
-    $c =~ s,<img\b[^>]*src="([^"]+)"[^>]*>,![$1]($1),g;
+    $c =~ s,<img\b[^>]*src="([^"]+)"[^>]*>,![$1]($1){ width=100% },g;
     $c =~ s,(\[\^)(\d+\]),$1$basename$2,g;
     $c =~ s,(^\s*\|?\s*(?:原文|作者|譯者)：.*\n)(^\s*\|?\s*(?:原文|作者|譯者)：.*\n|^\s*\n|^---\n)+,,mg;
     $all .= "$c\n\n";

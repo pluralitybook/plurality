@@ -40,7 +40,7 @@ for (sort <contents/english/0*.md>) {
     $c =~ s/位/Wèi/g;
     $c =~ s/：/:/g;
     $c =~ s/^( +|&nbsp;)+//mg;
-    $c =~ s,(<(br|img)\b[^>]*)(?<!/)>,$1 />,g;
+    $c =~ s,<img\b[^>]*src="([^"]+)"[^>]*>,![$1]($1){ width=100% },g;
     $all .= "$c\n\n";
 }
 
