@@ -28,8 +28,6 @@ Municipal Rep: Excellent, have a good evening.
 
 ---
 
-# Access
-
 Long before the rise of the internet, access to information had always been a crucial part of human civilization: as Sir Francis Bacon put it centuries ago, “knowledge is power”. In today’s information age, and even more in the future we describe in this book, it is increasingly impossible to deny the literal truth of this dictum. While the previous chapters of this section of the book focus on the aspects of digital life that ensure human rights, these mean nothing to human life unless every human can securely and with integrity access this world we imagine. In this chapter, we will explore what making such access a fundamental right must mean.
 
 This idea must stretch beyond simple access, to access with integrity. If the information some receive is accurate and others corrupted, it is worse than if the latter had no access at all. Democracy depends on a populace that can fully participate: every voice is critical. While, as we have emphasized above, different communities make sense of the pattern of facts in different ways.  But this diversity of perspective must come founded on underlying common access to uncorrupted input data if it is to contribute to a plural future. We all can and must make our own meanings of life, but we are denied our equal right to do so if some of us receive manipulated versions of the inputs to the global information commons.
