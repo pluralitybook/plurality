@@ -15,7 +15,7 @@ my $all = << "HEADER";
 ---
 title: Plurality
 subtitle: "The Future of Collaborative Technology and Democracy"
-author: "Audrey Tang, E. Glen Weyl and the Plurality Community"
+author: "E. Glen Weyl, Audrey Tang and the ⿻ Community"
 date: "$current_date"
 ---
 HEADER
@@ -34,11 +34,10 @@ sub write_file {
 }
 
 for (sort <contents/english/0*.md>) {
+    my $basename = s,.*/([-\d]+)-.*,$1,r;
     my $c = read_file($_);
     Encode::_utf8_on($c);
-    $c =~ s/數/Shù/g;
-    $c =~ s/位/Wèi/g;
-    $c =~ s/：/:/g;
+    $c =~ s/# /# $basename /;
     $c =~ s/^( +|&nbsp;)+//mg;
     $c =~ s,<img\b[^>]*src="([^"]+)"[^>]*>,![$1]($1){ width=100% },g;
     $all .= "$c\n\n";
