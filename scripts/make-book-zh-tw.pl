@@ -15,7 +15,7 @@ my $all = << "HEADER";
 ---
 title: 多元宇宙
 subtitle: 協作技術與民主的未來
-author: E. Glen Weyl、唐鳳、⿻社群
+author: 衛谷倫、唐鳳、⿻社群
 date: "$current_date"
 ---
 HEADER
