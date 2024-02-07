@@ -41,3 +41,7 @@ Our vision of Plurality can be described succinctly in three parts:
 * **Technology must take center stage in Plurality, and plurality must take center stage in technology.** Digital technology is and will be at the center of how we interact with each other, but it will be far better placed to improve the world if works with our diversity, rather than working around it or fighting against it.
 
 Each of the next three chapters will go through one of these ideas in much more detail.
+
+[^Audrey]: [Interview with Azeem Azhar](https://sayit.pdis.nat.gov.tw/2020-10-07-interview-with-azeem-azhar#s433950), 2020
+
+[^Arendt]: Hanna Arendt, The Human Condition (1958).

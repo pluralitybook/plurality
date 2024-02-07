@@ -1,4 +1,4 @@
-# Technology for collaborative diversity
+# Technology for Collaborative Diversity
 
 > (D)ecisions about the development and exploitation of computer technology must be made not only "in the public interest" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, "Computers and Government", 1979 
 
@@ -221,6 +221,6 @@ All three ideas had their seeds at the edges of the early community Lick formed 
 &nbsp;&nbsp;&nbsp;&nbsp; Estonia paragraph
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Yet while Estonia pioneered the use of Plurality to transform a national government, both its size and its very early development limited what it could achieve. While it took longer to fully develop, in the last decade a small and mountainous island became the world's clearest example of a different path.  Its story animates our next chapter.
+&nbsp;&nbsp;&nbsp;&nbsp;  Yet while Estonia pioneered the use of Plurality to transform a national government, both its size and its very early development limited what it could achieve. While it took longer to fully develop, in the last decade a small and mountainous island became the world's clearest example of a different path.  Its story animates our book.
 
-[^WEIRDest]: Henrich, J (2020) The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World
+[^WEIRDest]: Henrich, J (2020) [The WEIRDest People in the World](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World): How the West Became Psychologically Peculiar and Particularly Prosperous 
