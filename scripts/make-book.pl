@@ -15,7 +15,7 @@ my $all = << "HEADER";
 ---
 title: Plurality
 subtitle: "The Future of Collaborative Technology and Democracy"
-author: "E. Glen Weyl, Audrey Tang and the ⿻ Community"
+author: "E. Glen Weyl, Audrey Tang and ⿻ Community"
 date: "$current_date"
 ---
 HEADER
