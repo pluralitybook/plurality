@@ -1,8 +1,8 @@
 # What is Plurality?
 
-"Democracy is a technology. Like any technology, it gets better when more people strive to improve it." - Audrey Tang[^Audrey]
+> "Democracy is a technology. Like any technology, it gets better when more people strive to improve it." - Audrey Tang[^Audrey]
 
-"Action, the only activity that goes on directly between men without the intermediary of things or matter, corresponds to the human condition of plurality … this plurality is specifically the condition — not only the conditio sine qua non, but the conditio per quam — of all political life." - Hannah Arendt[^Arendt]
+> "Action, the only activity that goes on directly between men without the intermediary of things or matter, corresponds to the human condition of plurality … this plurality is specifically the condition — not only the conditio sine qua non, but the conditio per quam — of all political life." - Hannah Arendt[^Arendt]
 
 In the previous chapter, we discussed the growing conflict between technology - or, more precisely, technology as implemented largely by profit-seeking corporations, and democracy - or, more precisely, democracy as implemented by top-down centralized nation states, and how these two forces seem to be pulling in opposite directions. To develop an approach that moves beyond this toxic binary, it helps to first acknowledge and understand the thing that the two sides have _in common_. This is a complex topic, but in our view a reasonable summary can be made as follows: the thing that the two perspectives we previously labeled "Libertarianism" and "Technocracy" have in common is a **monist view of the world that sees the social world as a two-level structure of "individuals" and a monolith called "society"**.
 
