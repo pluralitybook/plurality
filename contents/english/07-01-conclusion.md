@@ -2,7 +2,7 @@
 
 Throughout this book, we have tried to make the case for a society that honors pluralism, and for technology that promotes and sustains it. If you share that vision, please join us now in the movement for Plurality. 
 
-## The Stakes
+### The Stakes
 
 Technology is the most powerful force in our world today. Whether or not we understand its inner workings, deploy it tentatively or voraciously, or agree with the companies and policymakers that have shaped its development to date – it remains our single greatest lever to shape society going forward. 
 
@@ -30,7 +30,7 @@ This isn’t to say that the public and social sectors could have built the Inte
 
 If we want to realize that potential, we have a brief window of opportunity. 
 
-## The Promise of Plural Technology 
+### The Promise of Plural Technology 
 
 In the last 20 or so years, societies have developed a sort of learned helplessness when it comes to technology. We’re intrigued by it; we’re alternatively delighted by it and frustrated by it; but we tend to assume that it emerges rather inexorably, rather like modernity itself. We don’t think about the choices small groups of engineers made such that Facebook and Google and TikTok came out the way they did. We don’t think “we the people” have any ability, much less any right, to influence the direction of the platforms that are the operating system of our lives. 
 
@@ -60,7 +60,7 @@ We catalogued an early view of these aspirations. For example, in the most trans
 
 For those with a taste for this kind of ambitious transformation, the time to begin is still now. Businesses can invest in infrastructure for, and support policy related to, digital public infrastructure that will advance trust and cohesion where we now have fear and division. Government can rethink collaboration – from ways to include the stakeholders who never get a voice to ways to collaborate internationally on border-agnostic problems like climate and pandemics. Academics and researchers can explore and establish an intellectual and empirical basis for transformative plurality. And our cultural leaders can articulate a vision of a more pluralistic future, whether in books, movies, videos, music, or whole new categories we haven’t thought of yet.
 
-## Mobilization
+### Mobilization
 
 It would be funny if, after writing a book about pluralistic sources of wisdom -- and indeed _drawing_ on plural contributors to construct the book itself – we announced a top-down, centralized, command-and-control plan to achieve Plurality. 
 
