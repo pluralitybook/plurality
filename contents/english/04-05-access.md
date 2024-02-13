@@ -1,4 +1,4 @@
-<center> <h1> Lucy’s Vineyard </h1> </center>
+# Access
 
 Lucy: Hello, this is Luc from Château du Soleil Couchant out of Bordeaux.
 
@@ -27,8 +27,6 @@ Lucy: That sounds perfect, thank you. I'll review the changelog and get back to 
 Municipal Rep: Excellent, have a good evening.
 
 ---
-
-# Access
 
 Long before the rise of the internet, access to information had always been a crucial part of human civilization: as Sir Francis Bacon put it centuries ago, “knowledge is power”. In today’s information age, and even more in the future we describe in this book, it is increasingly impossible to deny the literal truth of this dictum. While the previous chapters of this section of the book focus on the aspects of digital life that ensure human rights, these mean nothing to human life unless every human can securely and with integrity access this world we imagine. In this chapter, we will explore what making such access a fundamental right must mean.
 
@@ -66,7 +64,7 @@ Forestry expert Suzanne Simard focuses on exploring the collaborative nature of 
 
 In such a vibrant forest, a single 'mother tree' can establish connections with hundreds of other trees. Multiple such mother trees ensure the continuity of the entire forest as a collective organism through overlapping networks, ensuring a secure and robust environment through open connections.
 
-Digital infrastructure follows a similar pattern with open source and open data. It serves as a public foundation that is open to the global community, collaborating with tens of thousands of digital communities while offering open and secure Internet access and jointly defending against immediate digital threats.
+Digital infrastructure follows a similar pattern with open standards (protocols) open source code and open data. It serves as a public foundation that is open to the global community, collaborating with tens of thousands of digital communities while offering open and secure Internet access and jointly defending against immediate digital threats.
 
 Taiwan is one of the world’s primary DDoS hotspots, according to Cloudflare's report. Its government has adopted the IPFS framework discussed in the previous chapter for its websites, allowing it to interconnect with both private digital services and emerging open networks. This structure is not only more resistant to sudden DDoS attacks and is conducive to open collaboration and mutual support with global technology communities. This provides an illustration of making systems more robust against information manipulation.
 

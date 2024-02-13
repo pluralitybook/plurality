@@ -1,6 +1,6 @@
 # A View from Yu Shan
 
-> Swirling ocean, beautiful islands;<br>
+> Swirling ocean, beautiful islands;<br />
 > a transcultural republic of citizens.
 
 Standing at the summit of Yushan, the highest peak in East Asia, one can not only overlook the terrain of Taiwan but also perceive how this small, mountainous island nation is intricately connected to the world. Located at the intersection of the Eurasian and the Pacific tectonic plates, Taiwan's geological fault lines have not only elevated Yushan but have also fostered a diverse and resilient society amid the clash of cultures and values.
@@ -19,7 +19,9 @@ The world faces numerous challenges, including pandemics, climate crises, and in
 
 ### Sun Yat-Sen to Sunflower
 
-[A history of how it got there, stretching back at least to Sun Yat-Sen, Tridemism, how that was built into Taiwanese culture and constitution (including Georgism, etc.), the democratic movement in Taiwan, the Sunflower movement, etc.]
+[Sun Yat-sen's association with Georgism, the Japanese colonial era (Taiwan Cultural Association, etc.) and the political environment of the Minguo era, the Nanking Decade and the subsequent relocation to Taiwan...]
+
+[All of these eras ultimately influenced the formation of modern Taiwan and the political transformations of the 1980-1990 era around the lifting of the martial law, culminating in the political environment that exists today.]
 
 ### Roads to Pluralist Democracy
 

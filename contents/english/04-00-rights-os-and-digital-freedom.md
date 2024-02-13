@@ -1,4 +1,4 @@
-<center> <h1> Rights, Operating Systems and Digital Freedom </h1> </center>
+# Rights, Operating Systems and Digital Freedom
 
 STORY HERE (.5 PAGE)
 
