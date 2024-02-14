@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Just as we saw the natural sciences see a massive transformation in the 20th century, discovering the plural and multi-scale nature of the world, we can see similar advances in the social sciences. Henry George, author of the best-selling and most influential book on economics in American and perhaps world history, made his career as a searing critic of private property.  Georg Simmel, one of the founders of sociology, originated the idea of the "web" as a critique of the individualist concept of identity.  John Dewey, widely considered the greatest philosopher of American democracy, argued that the standard national and state institutions that instantiated hardly scratched the surface of what democracy required. Norbert Wiener coined the term "cybernetics" to the field of studying such rich interactive systems.  By perceiving the limits of the box they highlighted even as they helped construct it, we can learn to imagine a social world outside it.
 
 
-#### Henry George and the networked value
+### Henry George and the networked value
 
 &nbsp;&nbsp;&nbsp;&nbsp; We remember Karl Marx and Adam Smith more sharply, but the social thinker that may have had the greatest influence during and immediately following his lifetime was Henry George.  Author of the for-years best-selling book in English other than the Bible, *Progress and Poverty*, George inspired or arguably founded many of the most successful political movements and even cultural artifacts of the early twentieth century including:
 * the American center-left, as a nearly-successful United Labor candidate for Mayor of New York City; 
@@ -35,7 +35,7 @@
 
 
 
-#### Georg Simmel and the intersectional (in)dividual
+### Georg Simmel and the intersectional (in)dividual
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; But if network thinking was implicit in George's work, it took another thinker, across the Atlantic, to make it explicit and, accidentally, give it a name. Georg Simmel was a German philosopher and sociologist of the turn of the twentieth century who pioneered the idea of social networks. The mistranslation of his work as focused on a “web” eventually went “worldwide”.  In his 1955 translation of Simmel’s classic 1908 Soziologie, Reinhard Bendix chose to describe Simmel’s idea as describing a “web of group-affiliations” over what he described as the “almost meaningless” direct translation “intersection of social circles”[^Soziologie]. While the precise lines of influence are hard to trace, it is possible that, had Bendix made an opposite choice, we might talk of the internet in terms of "intersecting global circles" rather than the "world wide web". [^InfluenceOfSimmel]
@@ -52,7 +52,7 @@
 
 
 
-#### John Dewey's emergent publics
+### John Dewey's emergent publics
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; If (in)dividual identity is so fluid and dynamic, surely so too must be the social circles that intersect to constitute it.  As Simmel highlights, new social groups are constantly forming, while older ones decline.  Three examples he highlights are the for his time still recent formation of cross-sectoral “working men’s associations” that represented the general interest of labor and the just-then-emerging feminist associations and cross-sectoral employers’ interest groups.  The critical pathway to creating such new circles was the establishment of places (e.g. workman’s halls) or publications (e.g. working men’s newspapers) where this new group could come to know one another and understand, and thus to have things in common they do not have with others in the broader society. Such bonds were strengthened by secrecy, as shared secrets allowed for a distinctive identity and culture, as well as the coordination in a common interest in ways unrecognizable by outsiders[^SecretSocieties].   Developing these shared, but hidden, knowledge allows the emerging social circle to act as a collective agent.
@@ -72,7 +72,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Thus, as the mirror image of Simmel’s philosophy of (in)dividual identity, Dewey’s conception of democracy and emergent publics is at once profoundly democratic and yet challenges and even overturns our usual conception of democracy.  Democracy, in this conception, is not the static system of representation of a nation-state with fixed borders.  It is a process even more dynamic than in a market of invention led by a diverse range of entrepreneurial mirrors, who draw upon the ways they are themselves intersections of unresolved social tensions to renew and reimagine social institutions.  Standard institutions of nation state-based voting are to such a process as pale a shadow as Newtonian mechanics is of the underlying quantum and relativistic reality. True democracy must be networked, plural and constantly evolving.
 
 
-#### Norbert Wiener's cybernetic society
+### Norbert Wiener's cybernetic society
 
 &nbsp;&nbsp;&nbsp;&nbsp; All of these critiques and directions of thought are suggestive, but none seems to offer clear paths to action and further scientific development.  Could the understanding of the plural, networked nature of social organization be turned into a scientific engine of new forms of social organization?  The hypothesis that was the seed from which Norbert Wiener sprouted the modern field of "cybernetics", from which comes all the uses of "cyber" to describe digital technology and, many would argue, the later name of "computer science" given to similar work.  Wiener defined cybernetics as "the science of control and communication in (complex systems like) the animal and machine", but perhaps the most broadly accepted meaning is something like the "science of communication within and governance of, by and for networks". The word was drawn from a Greek analogy of a ship directed by the inputs of its many oarsmen.  
 
