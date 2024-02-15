@@ -12,23 +12,9 @@ Our approach, centered around the idea of **plurality**, rejects this divide and
 
 Note that this view differs from a historically common approach to adding nuance to the "individuals vs society" divide in a key way: if individuals are points, and groups are circles, **our circles are not concentric**.
 
-<table><tr><td style="width:50%">
+<img width="100%" src="https://raw.githubusercontent.com/audreyt/plurality/main/figs/circles.png" />
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/circles1.png" />
-
-</td><td>
-    
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/circles2.png" />
-    
-</td></tr><tr><td style="width:50%">
-
-Left: a concentric circle view of society, from [a sociology paper in 2004](https://www.semanticscholar.org/paper/A-Dynamic%2C-Multi%E2%80%90Level-Model-of-Culture%3A-From-the-a-Erez-Gati/50c014cf2c4e5095a49d5315a150cd4491f0cecd)
-    
-</td><td>
-
-Right: a plural view of society.
-    
-</td></tr></table>
+Left: a concentric circle view of society, from [a sociology paper in 2004](https://www.semanticscholar.org/paper/A-Dynamic%2C-Multi%E2%80%90Level-Model-of-Culture%3A-From-the-a-Erez-Gati/50c014cf2c4e5095a49d5315a150cd4491f0cecd). Right: a plural view of society.
 
 Interactions between circles are complex, and much of what is beautiful about our world comes from various interactions - as well as many of our conflicts. Each individual has all kinds of loyalties to all kinds of groups, and efforts to try to strip away this plural loyalty in favor of either unbridled valorizing of self-interest or demanding supreme loyalty to some overarching structure representing "all of society" (or "all of humanity" etc), are the cause of many of the problems that we see today. Profit-making corporations, and the workflows and the technologies that they build, often cause the most damage by stripping away this complexity. Meanwhile, democracy, seeing itself as trying to create a counter-pressure, often ends up making a second punch against these diverse groups and communities by demanding that these workflows and technologies operate in ways determined and standardized at very large scales by a centralized state.
 
