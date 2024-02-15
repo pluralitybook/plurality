@@ -82,6 +82,8 @@ Active translation communities and repositories
 - Ukrainian: https://github.com/vlree-alt/plurality-ukrainian
 - Japanese: https://github.com/nishio/plurality-japanese
 - German: https://github.com/GermanPluralityBook/pluralitaet 
+- Korean: https://github.com/hopelee327/plurality-korean
+- French: https://github.com/xitobal/radicalxchangeparis.github.io/tree/main/public/Plurality%2C%20le%20livre%20-%20G%20Weil
 
 # Summary and next steps
 
