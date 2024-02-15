@@ -28,7 +28,7 @@ Historically, theorists like Edmund Burke saw community groups as 'little platoo
 
 Recent years have seen a growing movement to grant waterways 'natural legal personhood.' These waterways, with inherent rights and appointed guardians, include the Magpie River (Muteshekau Shipu) in Canada, the Whanganui in New Zealand, and the Ganga and Yamuna rivers in India. This signifies a shared commitment to preserving these ecosystems for future generations.
 
-A common understanding of shared evidence is central to a democratic society. Efforts by natural jurists, data collectives, and fostering direct dialogues can bring environmental rights issues into existing democratic processes. This covers areas like air quality, ocean protection, river management, and land use.
+A common understanding of shared evidence is central to a democratic society. The combination of natural personhood, data coalitions, and AI-powered direct dialogues can bring environmental rights issues into existing democratic processes. This covers areas like air quality, ocean protection, river management, and land use.
 
 AI conversation models, built by data coalitions, can inspire people to relate to nature with more empathy. They serve as valuable tools for knowledge sharing and collective problem-solving regarding complex, cross-border problems. In promoting environmental sustainability, AI demonstrates a new model of co-existence between technology and humanity. As environmental data flows through verifiable relationships, it generates value (e.g., air and water quality monitoring), sending pulses of images, sounds, and messages to engage people, offering real-time feedback to ideas and encouraging more nature-conscious partners to join the effort.
 
