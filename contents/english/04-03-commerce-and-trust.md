@@ -55,9 +55,12 @@
 
 In 1934 American Airlines offered an Air Travel Card, passengers could "buy now, and pay later" for a ticket against their credit and receive a fifteen percent discount at any of the accepting airlines. By the 1940s, all of the major U.S. airlines offered Air Travel Cards that could be used on 17 different airlines.  The concept of customers paying different merchants using the same card was expanded in 1950 by Ralph Schneider and Frank McNamara, founders of Diners Club, to consolidate multiple cards. 
 
-In 1958, Bank of America launched the BankAmericard in Fresno, California, which would become the first successful recognizably modern credit card. Bank of America chose Fresno because 45% of its residents used the bank, and by sending a card to 60,000 Fresno residents at once, the bank was able to convince merchants to accept the card. The BankAmericard system was eventually licensed to other banks around the United States and then around the world. This system was computerized in 1973 under the leadership of Dee Hock, the first CEO of Visa, allowing reduced transaction time. In 1976, all BankAmericard licensees united themselves under the common brand Visa. 
+In 1958, Bank of America launched the BankAmericard in Fresno, California, which would become the first successful recognizably modern credit card. Bank of America chose Fresno because 45% of its residents used the bank, and by sending a card to 60,000 Fresno residents at once, the bank was able to convince merchants to accept the card. The BankAmericard system was eventually licensed to other banks around the United States and then around the world. This system was computerized in 1973 under the leadership of Dee Hock, the first CEO of Visa, allowing reduced transaction time. In 1976, all BankAmericard licensees united themselves under the common brand Visa.  
 
 Part of what credit card associations (Discover, Visa, MasterCard, AmEx) do is manage complex networks of parties and the agreements (sometimes called trust frameowrks) that hold it all together. These goal is to have  transactions clear quickly between the cardholder, and merchant via the  Card-issuing bank and Acquiring [Merchant's] bank respectively. 
+
+The magnetic stripe was first deployed on cards in 1970. In 1973, the first electronic transaction authorisation system was created in the United States, linking merchants to the Visa data centre in California. It wasn't until the 1980s that these were widely used in everyday transactions with the difusion of electronic merchant terminals. The next generation of technology on credit cards came in 2004 when in the UK chip and PIN cards were introduced. 
+
 
 * TODO DATA ON HOW DOMINANT THEY BECAME AND WHEN. *
 
