@@ -23,7 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  Given this rich definition and the way it blends together elements from traditional Mandarin and various English traditions, throughout the rest of the book we use the Unicode ⿻ to represent this idea set in both noun form (viz. to stand in for "Plurality") and in the adjective form (viz. to stand in for 數位).  In English this may be read in a variety of ways depending on context:
 - As "Plurality" typically when used as a noun;
 - As "digital", "plural", "shuwei", "digital/plural" or even as a range of other things such as "intersectional", "collaborative" or "networked" when used as an adjective
-None of these existing words perfectly captures this idea set, and thus, in some cases, one might simply say "overlap" or "overlapping" to describe it literally.  The rest of the book describes more deeply the content, vision and ambition of ⿻.
+
+&nbsp;&nbsp;&nbsp;&nbsp; None of these existing words perfectly captures this idea set, and thus, in some cases, one might simply say "overlap" or "overlapping" to describe it literally.  The rest of the book describes more deeply the content, vision and ambition of ⿻.
 
 
 
