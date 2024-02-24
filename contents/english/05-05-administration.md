@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; This demonstration built on years of work and multistakeholder collaborations including AI4Bharat, Karya and IVR Junction, which have employed Indians to gather data on local languages, harnessed these data to empower LLMs to translate across these languages and connected illiterate Indians with access only to simple feature phones to connect to a "voice-based internet".  Together these hold the promise of helping preserve and strengthen the cultural diversity of India by ensuring those who speak less prominent languages and live far from cities are still able to access the public services they need to sustain their ways of life.
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.png" width="100%" alt="Indian farmers looking at a mobile phone">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg" width="100%" alt="Indian farmers looking at a mobile phone">
 Courtesy of Microsoft
 
 
