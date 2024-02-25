@@ -17,6 +17,7 @@ title: 多元宇宙
 subtitle: 協作技術與民主的未來
 author: 衛谷倫、唐鳳、⿻社群
 date: "$current_date"
+cover-image: scripts/cover-image.zh-tw.png 
 ---
 HEADER
 

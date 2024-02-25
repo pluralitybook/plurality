@@ -17,6 +17,7 @@ title: Plurality
 subtitle: "The Future of Collaborative Technology and Democracy"
 author: "E. Glen Weyl, Audrey Tang and ⿻ Community"
 date: "$current_date"
+cover-image: scripts/cover-image.png 
 ---
 HEADER
 
