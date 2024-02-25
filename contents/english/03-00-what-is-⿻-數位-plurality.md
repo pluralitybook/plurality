@@ -4,7 +4,7 @@
 
 > "Action, the only activity that goes on directly between men without the intermediary of things or matter, corresponds to the human condition of plurality, to the fact that men, not Man, live on the earth and inhabit the world." - Hannah Arendt, 1958[^Arendt]
 
-> "(A)n ideal of 'social connectedness'...denotes a society where bridging ties, across lines of difference are formed at a high rate." -  Danielle Allen, 2016[^Allen]
+> "(A)n ideal of 'social connectedness'...denotes a society where bridging ties, across lines of difference are formed at a high rate." -  Danielle Allen, 2020[^Allen]
 
 > "Democracy is a technology. Like any technology, it gets better when more people strive to improve it." - Audrey Tang, 2020 [^Audrey]
 
@@ -30,7 +30,7 @@
 
 [^Arendt]: Hanna Arendt, The Human Condition (1958).
 
-[^Allen]: Hanna Arendt, The Human Condition (1958).
+[^Allen]: [Toward a Connected Classics Profession](https://doi.org/10.1353/ajp.2020.0005), 2020
 
 [^Audrey]: [Interview with Azeem Azhar](https://sayit.pdis.nat.gov.tw/2020-10-07-interview-with-azeem-azhar#s433950), 2020
 
