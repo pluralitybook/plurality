@@ -34,11 +34,25 @@ sub write_file {
     print $fh @_;
 }
 
+my %Sections = (
+    1 => "Section 1: Preface",
+    2 => "Section 2: Introduction",
+    3 => "Section 3: Plurality",
+    4 => "Section 4: Freedom",
+    5 => "Section 5: Democracy",
+    6 => "Section 6: Impact",
+    7 => "Section 7: Forward",
+);
 for (sort <contents/english/0*.md>) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
+    my $s = int($basename =~ s/-.*//r);
+    if (my $section_name = delete $Sections{$s}) {
+        $all .= "# $section_name\n\n";
+    }
+
     my $c = read_file($_);
     Encode::_utf8_on($c);
-    $c =~ s/# /# $basename /;
+    $c =~ s/# /## $basename /;
     $c =~ s/^( +|&nbsp;)+//mg;
     $c =~ s,<img\b[^>]*src="([^"]+)"[^>]*>,![$1]($1){ width=100% },g;
     $all .= "$c\n\n";

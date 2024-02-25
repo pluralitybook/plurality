@@ -34,11 +34,25 @@ sub write_file {
     print $fh @_;
 }
 
+my %Sections = (
+    1 => "一、序章",
+    2 => "二、導論",
+    3 => "三、多元",
+    4 => "四、自由",
+    5 => "五、民主",
+    6 => "六、影響",
+    7 => "七、前行",
+);
 for (sort <contents/traditional-mandarin/0*.md>) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
+    my $s = int($basename =~ s/-.*//r);
+    if (my $section_name = delete $Sections{$s}) {
+        $all .= "# $section_name\n\n";
+    }
+
     my $c = read_file($_);
     Encode::_utf8_on($c);
-    $c =~ s/# /# $basename /;
+    $c =~ s/# /## $basename /;
     $basename =~ s,-,_,g; $basename .= '_';
     $c =~ s/^( +|&nbsp;)+//mg;
     $c =~ s,(<(br|img)\b[^>]*)(?<!/)>,$1 />,g;
