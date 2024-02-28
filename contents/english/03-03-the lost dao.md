@@ -1,4 +1,4 @@
-# Technology for Collaborative Diversity
+# The Lost Dao
 
 > (D)ecisions about the development and exploitation of computer technology must be made not only "in the public interest" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, "Computers and Government", 1979 
 

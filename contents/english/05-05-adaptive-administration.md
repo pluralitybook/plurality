@@ -1,4 +1,4 @@
-<center> <h1> Administration </h1> </center>
+# Adaptive Administration 
 
 &nbsp;&nbsp;&nbsp;&nbsp; To launch what has come be known as the "Year of AI", Microsoft CEO Satya Nadella demonstrated at the World Economic Forum in Davos, Switzerland how a farmer speaking a local language in rural India could use a feature phone paired with a large language model (LLM) back end to access public services.  The model understood the voice, translated from the local language to the national language in which the relevant forms were available, helped navigate what needed to be filled out how and returned guidance via voice to the farmer.  
 
