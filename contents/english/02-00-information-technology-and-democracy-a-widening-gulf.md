@@ -141,6 +141,14 @@ Libertarianism has a close, but also somewhat complicated, relationship with the
 
 On the other hand, libertarianism is consistently hostile to nationalism (or any other form of collectivism or solidarity) and libertarian followers routinely mock and dismiss many core religious, national and culture values associated with the right.   This may be resolved by a shared antipathy to what they perceive as dominant left-wing cultural values or by an “accelerationist” attitude as advocated by Yarvin, Davidson and Rees-Mogg that views the “nationalist backlash” to the inevitable technological trends as an accelerant and possible ally in the dissolution of the nation-state.
 
+
+### Digital Democracy
+
+Digital Democrats locate the promise of digital technology in its capacity to empower the peaceful coexistence and collaboration of diverse and distributed communities.  They center socio-technical systems (patterns of connections between tools, culture and political economies) over purely technical ones and thus celebrate a range of technologies serving democratic social organization (e.g. VR as a path to empathy, statistical text summarization to empower large scale deliberation, new political economic mechanisms that encourage cooperation).  They seek to proliferate and diversify sites of social cooperation, while cooperating with and strengthening “legacy” loci of legitimacy.  They seek a future managed by a diverse range of democratically governed communities cooperating in a subsidiary manner across scales.
+
+We will be further exploring the foundations and implications of digital democracy throughout this book.
+
+
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="Golden">
 
 **Figure Y, Souree: Roger Gordon, Rise and Fall of American Economic Growth**
