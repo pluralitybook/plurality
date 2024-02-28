@@ -1,4 +1,4 @@
-# What is ⿻ 數位 Plurality?
+# What is ⿻?
 
 > "Action, the only activity that goes on directly between men without the intermediary of things or matter, corresponds to the human condition of plurality, to the fact that men, not Man, live on the earth and inhabit the world." - Hannah Arendt, 1958[^Arendt]
 
