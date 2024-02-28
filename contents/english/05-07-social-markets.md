@@ -1,4 +1,4 @@
-# Markets
+# Social Markets
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; As we have noted above, open source software (OSS) is one of the most dynamic plural ecosystems in the world.  Yet, because software is made freely available, it has long struggled for reliable sources of funding.  At the same time, many public and charitable funders see value in the ecosystem, but find it hard to navigate what projects to support given the heterogeneity of the ecosystem compared, say, to traditional academic research.
