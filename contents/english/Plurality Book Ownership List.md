@@ -7,3 +7,4 @@
 | Audrey     | Tang      | Co-author                         | audreyt@audreyt.org            |                    |                  |      |
 | Glen       | Weyl      | Co-author                         | glenweyl@microsoft.com         |                    |                  |      |
 | Jason      | Entenmann | Program Manager                   | jentenmann@microsoft.com       |                    |                  |      |  
+| NISHIO     | Hirokazu  | Index/Translation/Japanese Forum  | nishio.hirokazu@gmail.com      | Japanese           |                  |      |
