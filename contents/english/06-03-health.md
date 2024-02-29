@@ -15,9 +15,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Yet darkening clouds are gathering: 
 * Progress in health-related Sustainable Development Goals (SDGs), including vaccine coverage, has stalled or gone into reverse[^UnitedNations].
-* Half the world's population still lacks access to a package of essential health services[^UN2016UHCPoliticalDeclaration].
+* Half the world's population still lacks access to a package of essential health services[^TrackingUniversalHealthCoverage2023MonitoringReport].
 * Catastrophic and impoverishing out-of-pocket payments for healthcare affect hundreds of millions of people[^TrackingUniversalHealthCoverage2023MonitoringReport].
-* There is severe COVID-19 vaccine inequality, with no more than 40% of the population vaccinated in some major world regions[^JournalofGlobalHealth2022].
+* There is severe COVID-19 vaccine inequality, with no more than 40% of the population vaccinated in some major world regions[^ourworldindata].
 * “Extreme underinvestment” is observed in mental health services[^WorldMentalHealthReport2022].
 * Climate hazards threaten to overwhelm health systems[^LancetCountdown].
 * Half of global premature deaths are caused by non-communicable diseases[^WHONCDs], costing more than $2 trillion per year[^NCDAlliance].
@@ -105,7 +105,7 @@ Q2. *Would populations tolerate the imposition of social distancing measures?*  
 
 &nbsp;&nbsp;&nbsp;&nbsp; Brain computer interfaces (BCIs, see Post-Symbolic Communication 05-01) are not some futuristic fantasy of science fiction but familiar objects in common use.  The usual operating system is that of the sensory and motor organs.  Eyeglasses and hearing aids are low bit-rate computing devices that interface (unidirectionally, or write only) with our brains through the sensory organs; canes, crutches and wheelchairs are low bit-rate mechanical computers that interface with the brain bidirectionally (i.e. read/write), through the intermediary of both the sensory and motor organs.  Digital assistive devices, such as smart-phones or portable computers, are (slightly) higher bit-rate devices that interface with the brain (read/write) through the intermediary of the sensory-motor system (usually the visual, hearing and fine-motor systems) but also through higher-order domains of functioning such as speech (e.g voice recognition), cognition (e.g. CAPTCHAs) and memory (e.g. passwords).  These 'BCIs' interact through a range of input/output devices including keyboards, (touch)screens and a variety of other read/write interfaces.  Such higher bit-rate digital computing tools have become for many people an indispensable part of what it means 'to be human': as anyone who has lost their smartphone knows, the experience is one of significant disability.  
 
-&nbsp;&nbsp;&nbsp;&nbsp; It would be futile to insist that such devices are not now an integral part of our (transhuman) personality[^Haraway].  Common applications of such technologies exist in the form of m-health (e.g. text-message alerts, wearable devices, contact-tracing tools), telemedicine and telehealth (e.g. virtual fracture clinics[^Anderson]), and e-health (e.g. digital health records).  It is natural and obvious that the trend towards further modalities of interactivity, and higher bit-rate throughput, will have in time important implications for health, especially for visual, hearing, mobility, self-care, and speech disorders, notably through Extended Reality (XR) services (see following section).  Biomedical engineering is already embarked on the programme of connecting prosthetic devices at cellular level (i.e. bionics)[^James&Laurencin], and BCIs hold out the corollary promise of allowing for such connectivity at cognitive, emotional and experiential level with, for example, powerful applications in speech and communication disorders, in the enhancement (or maintenance) of cognitive functions such as memory and, almost certainly, in novel applications for common mental disorders such as depression and anxiety, as well as for impulse control for addictive disorders.  In Post-Symbolic Communication (05-01), we read that "future developments [in BCIs] could allow for the sharing of thoughts, emotions, and experiences directly from one mind to another, allowing for an unprecedented level of interaction."  As we discuss in the next section, this can be important for mental health applications in particular.  
+&nbsp;&nbsp;&nbsp;&nbsp; It would be futile to insist that such devices are not now an integral part of our (transhuman) personality[^Haraway].  Common applications of such technologies exist in the form of m-health (e.g. text-message alerts, wearable devices, contact-tracing tools), telemedicine and telehealth (e.g. virtual fracture clinics[^Anderson]), and e-health (e.g. digital health records).  It is natural and obvious that the trend towards further modalities of interactivity, and higher bit-rate throughput, will have in time important implications for health, especially for visual, hearing, mobility, self-care, and speech disorders, notably through Extended Reality (XR) services (see following section).  Biomedical engineering is already embarked on the programme of connecting prosthetic devices at cellular level (i.e. bionics)[^Frossard], and BCIs hold out the corollary promise of allowing for such connectivity at cognitive, emotional and experiential level with, for example, powerful applications in speech and communication disorders, in the enhancement (or maintenance) of cognitive functions such as memory and, almost certainly, in novel applications for common mental disorders such as depression and anxiety, as well as for impulse control for addictive disorders.  In Post-Symbolic Communication (05-01), we read that "future developments [in BCIs] could allow for the sharing of thoughts, emotions, and experiences directly from one mind to another, allowing for an unprecedented level of interaction."  As we discuss in the next section, this can be important for mental health applications in particular.  
 
 #### Building healthy communities with XR technologies
 
@@ -129,29 +129,27 @@ Q2. *Would populations tolerate the imposition of social distancing measures?*  
 
 &nbsp;&nbsp;&nbsp;&nbsp; The blockers noted above (Lack of financing, Missing markets, Coordination failures, Missing communities, Non-aligned incentives, and Lack of enabling services) will be overcome, and the darkening clouds will dissipate.
 
-[^UnitedNations]: Cite UN document here.  
-[^UN2016UHCPoliticalDeclaration]: Cite 2016 UN  high-level political declaration here.  
-[^TrackingUniversalHealthCoverage2023MonitoringReport]: Cite UHC monitoring report 2023 here.  
-[^JournalofGlobalHealth2022]: Cite JGH 2022 here.
-[^WorldMentalHealthReport2022]: Cite WMH report  2022 here.  
-[^LancetCountdown]: Cite Lancet Countdown here.  
-[^WHONCDs]: Cite WHO NCDs report here.  
-[^NCDAlliance]: Cite NCD Alliance report here.  
-[^WHOAssistive]: Cite WHO ATs report here.  
-[^PrahRuger]: Cite Prah Ruger, *Health and Social Justice*, 2009 here.  
-[^Parfit]: Parfit called redistribution "the priority view", and it is a leading theory of ethics (now frequently termed "prioritarianism").  
-[^Arrow]: Cite Arrow 1963 here.  
-[^Rawls]: Cite Rawls here.  
-[^Arrow]: Cite Arrow 1963 here.  
+[^UnitedNations]: The Sustainable Development Goals Report: Special Edition, United Nations, 2023.  
+[^TrackingUniversalHealthCoverage2023MonitoringReport]: Tracking universal health coverage: 2023 global monitoring report. Geneva: World Health Organization and International Bank for Reconstruction and Development / The World Bank; 2023. Licence: CC BY-NC-SA 3.0 IGO.  
+[^ourworldindata]: https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&facet=none&uniformYAxis=0&country=OWID_AFR~OWID_EUR~OWID_SAM~OWID_ASI~OWID_OCE~OWID_NAM&pickerSort=asc&pickerMetric=location&hideControls=false&Metric=People+vaccinated&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false.  
+[^WorldMentalHealthReport2022]: World mental health report: transforming mental health for all. Geneva: World Health Organization; 2022. Licence: CC BY-NC-SA 3.0 IGO.  
+[^LancetCountdown]: Marina Romanello, Claudia di Napoli, Carole Green, Harry Kennard, Pete Lampard, Daniel Scamman et al. The 2023 report of the Lancet Countdown on health and climate change: the imperative for a health-centred response in a world facing irreversible harms, Lancet, 402: 2346–94, 2023.  
+[^WHONCDs]: https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases.  
+[^NCDAlliance]: https://ncdalliance.org/why-ncds/financing-ncds.  
+[^WHOAssistive]: https://www.who.int/news-room/fact-sheets/detail/assistive-technology.  
+[^PrahRuger]: Jennifer Prah Ruger. Health and Social Justice. New York:  Oxford University Press,  2010. pp. 276. ISBN: 978-0-19-9555997-8.  
+[^Parfit]: In his 1991 Lindley Lecture, the philosopher Derek Parfit distinguished a novel theory of ethics, in contrast to either utilitarianism or egalitarianism, that he called "the priority view". Its main tenet is that the worse off have a special moral claim on resources. Prioritarianism (before the term) has been used by economists in the analysis of social welfare functions ('optimal taxation') since at least the 1970s. Prioritarianism is not usually considered - as it is here - to be a form of insurance.  
+[^Arrow]: Arrow KJ. Uncertainty and the welfare economics of medical care, American Economic Review, 53(5):941-973, 1963.  
+[^Rawls]: John Rawls, A Theory of Justice, Cambridge, MA: Harvard University Press. Revised edition, 1999.  
 [^GovWeb]: See https://www.healthcare.gov/glossary/health-savings-account-hsa/.  
-[^Hanson]: Cite Hanson, Buy health not insurance, here.  
-[^LancetCommDet]: Cite Lancet Commercial Determinants, 2023, here.  
-[^Disc]: IN 2023, two of the contributors to this chapter created a Swiss-registered Association operating under the business name *Unexia* that is actively pursuing the measures described here with a range of partner organizations.  
-[^Cooke]: Cite Cooke RM, 1991, here.  
-[^Khalili]: Cite Khalili here.  
-[^Haraway]: Cite Haraway, *Cyborg Manifesto*, here.
-[^Anderson]: Cite Anderson et al. here.  
-[^James&Laurencin]: Cite James and Laurencin (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4429301/) here.  
+[^Hanson]: Robin Hanson. “Buy Health, Not Health Care.” Cato Journal 14(1):135-141, Summer 1994.  
+[^LancetCommDet]: Anna B Gilmore, Alice Fabbri, Fran Baum, Adam Bertscher, Krista Bondy, Ha-Joon Chang, et al. Defining and conceptualising the commercial determinants of health, Lancet 2023; 401: 1194–1213.  
+[^Disc]: In 2023, two of the contributors to this chapter created a Swiss-registered Association with the name *Unexia* that is actively pursuing the measures described here with a range of partner organizations.  
+[^Cooke]: Roger M Cooke. Experts in uncertainty: opinion and subjective probability in science, Oxford, 1991.  
+[^Khalili]: Laleh Khalili. Woke Capital, London Review of Books, Vol. 45 No. 17 · 7 September 2023.  
+[^Haraway]: Donna Haraway, "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century," in Simians, Cyborgs and Women: The Reinvention of Nature (New York; Routledge, 1991), pp.149-181.  
+[^Anderson]: Cost comparison of orthopaedic fracture pathways using discrete event simulation in a Glasgow hospital. Anderson GH, Jenkins PJ, McDonald DA, Van Der Meer R, Morton A, Nugent M, Rymaszewski LA. BMJ Open. 2017 Sep 7;7(9):e014509. doi: 10.1136/bmjopen-2016-014509.  
+[^Frossard]: Editorial:  Bionic limb prostheses: advances in clinical and prosthetic care by Frossard L, Conforto S and Aszmann OC. (2022). Front. Rehabilit. Sci. 3:950481. doi: 10.3389/fresc.2022.950481..  
 
 
 
