@@ -1,4 +1,4 @@
-# Deliberation
+# Augmented Deliberation
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; As we have noted above, one the most common concerns about social media has been its tendency to entrench existing social divisions, creating "echo chambers" that undermine a  sense of shared reality.  Whatever one's evaluation of the extent to which this is true (relative to what counterfactual), it is natural to ask how these systems might be design with an opposite intention.    The largest-scale attempt at this is the Community Notes (formerly Birdwatch) system in the X (formerly Twitter) social media platform.
