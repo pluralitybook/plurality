@@ -130,26 +130,26 @@ Q2. *Would populations tolerate the imposition of social distancing measures?*  
 &nbsp;&nbsp;&nbsp;&nbsp; The blockers noted above (Lack of financing, Missing markets, Coordination failures, Missing communities, Non-aligned incentives, and Lack of enabling services) will be overcome, and the darkening clouds will dissipate.
 
 [^UnitedNations]: The Sustainable Development Goals Report: Special Edition, United Nations, 2023.  
-[^TrackingUniversalHealthCoverage2023MonitoringReport]: Tracking universal health coverage: 2023 global monitoring report. Geneva: World Health Organization and International Bank for Reconstruction and Development / The World Bank; 2023. Licence: CC BY-NC-SA 3.0 IGO.  
+[^TrackingUniversalHealthCoverage2023MonitoringReport]: Tracking universal health coverage: 2023 global monitoring report. Geneva: World Health Organization and International Bank for Reconstruction and Development / The World Bank; 2023.   
 [^ourworldindata]: https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&facet=none&uniformYAxis=0&country=OWID_AFR~OWID_EUR~OWID_SAM~OWID_ASI~OWID_OCE~OWID_NAM&pickerSort=asc&pickerMetric=location&hideControls=false&Metric=People+vaccinated&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false.  
-[^WorldMentalHealthReport2022]: World mental health report: transforming mental health for all. Geneva: World Health Organization; 2022. Licence: CC BY-NC-SA 3.0 IGO.  
+[^WorldMentalHealthReport2022]: World mental health report: transforming mental health for all. Geneva: World Health Organization; 2022.   
 [^LancetCountdown]: Marina Romanello, Claudia di Napoli, Carole Green, Harry Kennard, Pete Lampard, Daniel Scamman et al. The 2023 report of the Lancet Countdown on health and climate change: the imperative for a health-centred response in a world facing irreversible harms, Lancet, 402: 2346–94, 2023.  
 [^WHONCDs]: https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases.  
 [^NCDAlliance]: https://ncdalliance.org/why-ncds/financing-ncds.  
 [^WHOAssistive]: https://www.who.int/news-room/fact-sheets/detail/assistive-technology.  
-[^PrahRuger]: Jennifer Prah Ruger. Health and Social Justice. New York:  Oxford University Press,  2010. pp. 276. ISBN: 978-0-19-9555997-8.  
-[^Parfit]: In his 1991 Lindley Lecture, the philosopher Derek Parfit distinguished a novel theory of ethics, in contrast to either utilitarianism or egalitarianism, that he called "the priority view". Its main tenet is that the worse off have a special moral claim on resources. Prioritarianism (before the term) has been used by economists in the analysis of social welfare functions ('optimal taxation') since at least the 1970s. Prioritarianism is not usually considered - as it is here - to be a form of insurance.  
-[^Arrow]: Arrow KJ. Uncertainty and the welfare economics of medical care, American Economic Review, 53(5):941-973, 1963.  
-[^Rawls]: John Rawls, A Theory of Justice, Cambridge, MA: Harvard University Press. Revised edition, 1999.  
+[^PrahRuger]: Jennifer Prah Ruger. Health and Social Justice. New York:  Oxford University Press,  2010. pp. 276.   
+[^Parfit]: In his 1991 Lindley Lecture, the philosopher Derek Parfit distinguished a novel theory of ethics, in contrast to either utilitarianism or egalitarianism, which he called "the priority view". Its main tenet is that the worse off have a special claim on resources. Prioritarianism (before the term) has been used by economists in the analysis of social welfare functions ('optimal taxation') since at least the 1970s. Prioritarianism is not usually considered - as it is here - as a form of insurance.  
+[^Arrow]: Kenneth J Arrow. Uncertainty and the welfare economics of medical care, American Economic Review, 53(5):941-973, 1963.  
+[^Rawls]: John Rawls. A Theory of Justice, Cambridge, MA: Harvard University Press. Revised edition, 1999.  
 [^GovWeb]: See https://www.healthcare.gov/glossary/health-savings-account-hsa/.  
-[^Hanson]: Robin Hanson. “Buy Health, Not Health Care.” Cato Journal 14(1):135-141, Summer 1994.  
+[^Hanson]: Robin Hanson. Buy Health, Not Health Care, Cato Journal 14(1):135-141, Summer 1994.  
 [^LancetCommDet]: Anna B Gilmore, Alice Fabbri, Fran Baum, Adam Bertscher, Krista Bondy, Ha-Joon Chang, et al. Defining and conceptualising the commercial determinants of health, Lancet 2023; 401: 1194–1213.  
-[^Disc]: In 2023, two of the contributors to this chapter created a Swiss-registered Association with the name *Unexia* that is actively pursuing the measures described here with a range of partner organizations.  
+[^Disc]: In 2023, two of the contributors to this chapter created a Swiss-registered Association with the name *Unexia* that is pursuing the measures described here with a range of UN and other partner organizations.  
 [^Cooke]: Roger M Cooke. Experts in uncertainty: opinion and subjective probability in science, Oxford, 1991.  
-[^Khalili]: Laleh Khalili. Woke Capital, London Review of Books, Vol. 45 No. 17 · 7 September 2023.  
-[^Haraway]: Donna Haraway, "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century," in Simians, Cyborgs and Women: The Reinvention of Nature (New York; Routledge, 1991), pp.149-181.  
-[^Anderson]: Cost comparison of orthopaedic fracture pathways using discrete event simulation in a Glasgow hospital. Anderson GH, Jenkins PJ, McDonald DA, Van Der Meer R, Morton A, Nugent M, Rymaszewski LA. BMJ Open. 2017 Sep 7;7(9):e014509. doi: 10.1136/bmjopen-2016-014509.  
-[^Frossard]: Editorial:  Bionic limb prostheses: advances in clinical and prosthetic care by Frossard L, Conforto S and Aszmann OC. (2022). Front. Rehabilit. Sci. 3:950481. doi: 10.3389/fresc.2022.950481..  
+[^Khalili]: Laleh Khalili. Woke Capital, London Review of Books, 45(17), 7 September 2023.  
+[^Haraway]: Donna Haraway, "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century," in Simians, Cyborgs and Women: The Reinvention of Nature (New York; Routledge, 1991), pp. 149-181.  
+[^Anderson]: GH Anderson, PJ Jenkins, DA McDonald, R Van Der Meer, A Morton, M Nugent, LA Rymaszewski. Cost comparison of orthopaedic fracture pathways using discrete event simulation in a Glasgow hospital. BMJ Open. 2017 Sep 7;7(9).  
+[^Frossard]: L Frossard, S Conforto, OC Aszmann. Editorial: Bionic limb prostheses: advances in clinical and prosthetic care. Front. Rehabilit. Sci., 2022.  
 
 
 
