@@ -1,4 +1,4 @@
-# A View from Yu Shan
+# A View from Yushan
 
 > Swirling ocean, beautiful islands;<br />
 > a transcultural republic of citizens.
