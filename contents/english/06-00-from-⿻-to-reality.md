@@ -92,5 +92,5 @@ Quantitative summary of potential impacts; return here after other chapters have
 
 
 
-[^LevWay]: Levitsky and Way,, Revolution and Dictatorship
+[^LevWay]: Levitsky and Way, Revolution and Dictatorship
 [^GraeberWengrow]: Graeber and Wengrow, The Dawn of Everything
