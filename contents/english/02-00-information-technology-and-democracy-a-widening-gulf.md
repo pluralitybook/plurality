@@ -141,16 +141,16 @@ Libertarianism has a close, but also somewhat complicated, relationship with the
 
 On the other hand, libertarianism is consistently hostile to nationalism (or any other form of collectivism or solidarity) and libertarian followers routinely mock and dismiss many core religious, national and culture values associated with the right.   This may be resolved by a shared antipathy to what they perceive as dominant left-wing cultural values or by an “accelerationist” attitude as advocated by Yarvin, Davidson and Rees-Mogg that views the “nationalist backlash” to the inevitable technological trends as an accelerant and possible ally in the dissolution of the nation-state.
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="Golden">
-
-**Figure Y, Souree: Roger Gordon, Rise and Fall of American Economic Growth**
-
 
 ### Stagnation and Inequality
 
 These two ideologies have, to a significant extent though often in moderated form, dominated public imagination about the future of technology in most liberal democracies and thus shaped the direction of technology investment for most of the last half-century.  While the technocratic narrative sounds fresh and related to recent progress in AI, related discussions around AI were almost as fever pitched as far back as the 1980s, as illustrated by REFERENCE BAKCWARD TO AI GOOGLE NGRAMS CHART.  While the recent discussions around web3 technologies have raised its profile, libertarianism was arguably at its peak in the 1990s, with John Perry Barlow’s “Declaration of the Independence of Cyberspace”, Neal Stephenson’s novels and the publication of The Sovereign Individual.  
 
 The radical promises of these visions led many to anticipate dramatic economic and productivity growth from information technology, as well as the waves of privatization, deregulation and tax cuts that went along with them in most liberal democracies beginning roughly half a century ago.  Yet these promises are far from bearing fruit and economic analysis increasingly suggests these directions for technology may play a key role in explaining that failure.
+
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="Golden">
+
+**Figure Y, Source: Roger Gordon, Rise and Fall of American Economic Growth**
 
 Instead of the promised explosion of economic possibility, the last half-century has seen a dramatic deceleration of economic and especially productivity growth.  Figure Y shows the growth in the United States of “Total Factor Productivity (TFP)”, economists’ most inclusive measure of the improvement in technology, averaged by decades from the beginning of the 20th century to today.  Rates during the mid-century “Golden Age” roughly double their levels both before and after during the period we dub the “Digital Stagnation”.  The pattern is even more dramatic in other liberal democratic countries in Europe and in most of democratic Asia, with South Korea and Taiwan notable exceptions.  
 
