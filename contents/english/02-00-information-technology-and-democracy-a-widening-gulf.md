@@ -150,7 +150,7 @@ The radical promises of these visions led many to anticipate dramatic economic a
 
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="Golden">
 
-**Figure Y, Souree: Roger Gordon, Rise and Fall of American Economic Growth**
+**Figure Y, Source: Roger Gordon, Rise and Fall of American Economic Growth**
 
 Instead of the promised explosion of economic possibility, the last half-century has seen a dramatic deceleration of economic and especially productivity growth.  Figure Y shows the growth in the United States of “Total Factor Productivity (TFP)”, economists’ most inclusive measure of the improvement in technology, averaged by decades from the beginning of the 20th century to today.  Rates during the mid-century “Golden Age” roughly double their levels both before and after during the period we dub the “Digital Stagnation”.  The pattern is even more dramatic in other liberal democratic countries in Europe and in most of democratic Asia, with South Korea and Taiwan notable exceptions.  
 
