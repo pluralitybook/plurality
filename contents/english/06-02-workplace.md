@@ -60,7 +60,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Most formal work is organized hierarchically, according to an "organizational chart", with authority flowing from a chief executive down through a dividing groups of managers to workers.  Especially in large organizations, those managed by different high-level managers come to form different organizations within the parent, each with their own cultures, goals and visions.  While these internal distinctions are usually viewed as important to ensuring accountability, they are also often viewed as a barrier to organizational cooperation and dynamism, potentially undermining the collaborations needed to provide common infrastructure and meet the needs ("disruptions") of changing political, economic, social and technological environments.  For example, the organization in which one of us works, Microsoft, has sometimes been satirized as illustrated in Figure X for its internal organization conflicts and, under the leadership of its current Chief Executive Officer (CEO) Satya Nadella has worked to forge a "One Microsoft" culture to overcome this.
 
-FIGURE HERE
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/microsoft_satirical_organization_chart.png" width="100%" alt="Microsoft Organisational Chart">
+
+**Figure X, Source: Adapted from "Organisational Charts" by Manu Cornet**
 
 &nbsp;&nbsp;&nbsp;&nbsp; While much of this has been demonstrated through exemplars of such cooperation and inspirational leadership, Nadella has also helped establish some institutions intended to help achieve the organizational equivalent of the "solidarity and dynamism" we have discussed above.  In particular, one of us had the honor to serve in the Office of Chief Technology Officer (OCTO) Kevin Scott, whose duties included coordinating cross-company investments that no one organization would find it in their interest to take on and stimulating "intrapreneurship", the building of new business lines often drawing on expertise across existing organizations.
 
