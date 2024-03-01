@@ -32,7 +32,7 @@ In English this may be read in a variety of ways depending on context:
 
 [^Arendt]: Hanna Arendt, The Human Condition (1958).
 
-[^Allen]: [Toward a Connected Society](https://doi.org/10.1515/9781400881260-006), 2015
+[^Allen]: [Toward a Connected Society](https://doi.org/10.1515/9781400881260-006), 2016
 
 [^Audrey]: [Interview with Azeem Azhar](https://sayit.pdis.nat.gov.tw/2020-10-07-interview-with-azeem-azhar#s433950), 2020
 
