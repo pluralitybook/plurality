@@ -29,7 +29,7 @@ Unlike past successes, these present challenges will not be overcome by biomedic
 
 &nbsp;&nbsp;&nbsp;&nbsp; In our ⿻, decentralized, and relational concept of health (Figure 1), the world will still need doctors, nurses, and other health workers to perform their usual services; just as it will need health facilities and laboratories, and vaccines, drugs and medical devices.  But it will need something more: to empower the co-construction of *health agency* on the part of individuals and their pluralities. Jennifer Prah Ruger understands health agency as the promotion of individuals' capabilities to act in their own interests with respect to their own health[^PrahRuger].  While this is a good start, we conceive of health as *primarily* emergent, multiscale, embedded and complex (see Living in a ⿻ World 03-01).
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-03-Fig1.png" width="100%" alt="PluralHealth">
+<img src="https://github.com/lauerj/plurality/edit/main/figs/06-03-Fig1.png" width="100%" alt="PluralHealth">
 
 **Figure 1. The Relational Concept of health**
 
@@ -64,7 +64,7 @@ There is no hard boundary between blockers, however, and solutions must be (as t
 
 &nbsp;&nbsp;&nbsp;&nbsp; For the purpose of this discussion, *outputs* are the direct result of health services (e.g. people vaccinated); *outcomes* are the final intended result (e.g. deaths avoided through morbidity or mortality risk reduction); and *impacts* are the knock-on effects outcomes have in the world at large (e.g. future children born).  Impact is thus an open-source commodity: it can be forked to whatever use the beneficiary can devise (Figure 2).  Although impacts are a *causal* effect of health services (e.g. a child who otherwise would have died did not, and then went on to be a parent), impacts are not the primary *intended* effect of health services.  The  primary intended effect of health services is reducing morbidity or mortality risk, which as we have seen is an insurance function.  Health services, which produce non-market-traded outcomes (e.g. lives saved *and* healthier lives, through the insurance function) and market-traded and non-market-traded impacts (e.g. more labour to sell *and* more time for visits with friends, through the open-source function), thus have an accounting problem: it is hard to measure the value of outcomes (e.g. the value of a life saved) but it is often still harder to measure the value of relevant impacts.  Thus, since the full social value of health projects is in practice never counted, let alone captured or rendered tradeable, many win-win health investments remain blocked.  This is, in effect, merely a restatement of the public-goods problem, a problem that results in health-financing systems oriented around closing the barn door only *after* the horse has bolted: since outcomes are mainly non-market traded and impacts are diffuse, unpredictable, and expensive to take to scale (because of their high fixed costs, see the discussion on increasing returns in Markets 05-07), pro-health interventions do not make an attractive investment in spite of their universally recognized value.  This is even more true at international level, which explains why transformational successes in health have been limited to those noted at the outset and have often required, as in more than half of the examples, a bespoke international financing and governance mechanism.
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-03-Fig2.png" width="100%" alt="PathwaysImpact">
+<img src="https://github.com/lauerj/plurality/edit/main/figs/06-03-Fig2.png" width="100%" alt="PathwaysImpact">
 
 **Figure 2. Different Pathways to Impact**
 
@@ -74,19 +74,19 @@ There is no hard boundary between blockers, however, and solutions must be (as t
 
 &nbsp;&nbsp;&nbsp;&nbsp; *Second*, coordinate fragmented funders and implementers through open impact pools (Figure 3) that address the shortcomings noted with existing health financing.  Develop an open coordination standard for subscription to pools that addresses the drawbacks of current health financing.  
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-03-Fig3.png" width="100%" alt="ImpactPools">
+<img src="https://github.com/lauerj/plurality/edit/main/figs/06-03-Fig3.png" width="100%" alt="ImpactPools">
 
 **Figure 3. Open Impact Pools**
 
 Tokens can be used to participate in the governance of projects or of the funding pools.  Projects can allocate tokens linked to contributions.  Tokens can be used to participate in governance; to trade and invest; to exchange for selected services; or to fund further projects (Figure 4).  
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-03-Fig4.png" width="100%" alt="ParticipationModes">
+<img src="https://github.com/lauerj/plurality/edit/main/figs/06-03-Fig4.png" width="100%" alt="ParticipationModes">
 
 **Figure 4. Participants Trade, Exchange, and Reinvest.**
 
 &nbsp;&nbsp;&nbsp;&nbsp; *Third*, formalize and automate manual processes through the use of application ecosystems.  Use technology to incentivize health production and to cut the friction costs and lower the high barriers to entry of financing and governance.  Tokens can be bundled and traded, making it as simple to buy health impact as it is to trade carbon credits.  Tokens can be reinvested into projects or used to purchase selected (standardized) health services.  Value can be linked to specific projects or aggregated into blocks, supporting the development of cascading ('fractal') health-impact markets (Figure 5).  
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-03-Fig5.png" width="100%" alt="NestedImpact">
+<img src="https://github.com/lauerj/plurality/edit/main/figs/06-03-Fig5.png" width="100%" alt="NestedImpact">
 
 **Figure 5. Standardization of Nested Impact Pools**
 
