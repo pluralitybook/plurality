@@ -29,7 +29,7 @@ Unlike past successes, these present challenges will not be overcome by biomedic
 
 &nbsp;&nbsp;&nbsp;&nbsp; In our ⿻, decentralized, and relational concept of health (Figure 1), the world will still need doctors, nurses, and other health workers to perform their usual services; just as it will need health facilities and laboratories, and vaccines, drugs and medical devices.  But it will need something more: to empower the co-construction of *health agency* on the part of individuals and their pluralities. Jennifer Prah Ruger understands health agency as the promotion of individuals' capabilities to act in their own interests with respect to their own health[^PrahRuger].  While this is a good start, we conceive of health as *primarily* emergent, multiscale, embedded and complex (see Living in a ⿻ World 03-01).
 
-<img src="https://github.com/lauerj/plurality/main/figs/06-03-Fig1.PNG" width="100%" alt="PluralHealth">
+<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-03-Fig1.PNG" width="100%" alt="PluralHealth">
 
 **Figure 1. The Relational Concept of health**
 
