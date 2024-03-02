@@ -74,19 +74,19 @@ There is no hard boundary between blockers, however, and solutions must be (as t
 
 &nbsp;&nbsp;&nbsp;&nbsp; *Second*, coordinate fragmented funders and implementers through open impact pools (Figure 3) that address the shortcomings noted with existing health financing.  Develop an open coordination standard for subscription to pools that addresses the drawbacks of current health financing.  
 
-<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-03-Fig3.png" width="100%" alt="ImpactPools">
+<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-03-Fig3.PNG" width="100%" alt="ImpactPools">
 
 **Figure 3. Open Impact Pools**
 
 Tokens can be used to participate in the governance of projects or of the funding pools.  Projects can allocate tokens linked to contributions.  Tokens can be used to participate in governance; to trade and invest; to exchange for selected services; or to fund further projects (Figure 4).  
 
-<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-03-Fig4.png" width="100%" alt="ParticipationModes">
+<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-03-Fig4.PNG" width="100%" alt="ParticipationModes">
 
 **Figure 4. Participants Trade, Exchange, and Reinvest.**
 
 &nbsp;&nbsp;&nbsp;&nbsp; *Third*, formalize and automate manual processes through the use of application ecosystems.  Use technology to incentivize health production and to cut the friction costs and lower the high barriers to entry of financing and governance.  Tokens can be bundled and traded, making it as simple to buy health impact as it is to trade carbon credits.  Tokens can be reinvested into projects or used to purchase selected (standardized) health services.  Value can be linked to specific projects or aggregated into blocks, supporting the development of cascading ('fractal') health-impact markets (Figure 5).  
 
-<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-03-Fig5.png" width="100%" alt="NestedImpact">
+<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-03-Fig5.PNG" width="100%" alt="NestedImpact">
 
 **Figure 5. Standardization of Nested Impact Pools**
 
