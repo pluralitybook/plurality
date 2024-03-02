@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  The increasing tensions between democracy and technology and the way that, starting from such extreme divisions, Taiwan seems to have overcome them naturally raises a question: is there a more broadly applicable lesson on how technology and democracy can interact to be gleaned?  We usually think of technology as something that inexorably progresses, while democracy and politics as the static choice between different competing forms of social organization.  Taiwan's experience shows us that more options may be available for our technological future, making it more like politics, and that one of these may involve radically enhancing how we live together and collaborate, progressing democracy much like we do technology. It also shows us that while social differences may generate conflict, using appropriate technology, they may also a fundamental source of progress.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Nor is the possibility of such a direction for technology especially novel.  Perhaps the most canonical work of science fiction and thus vision of a positive future is *Star Trek*, in the original series of which the heroic Vulcans maintain a philosophy of "Infinite Diversity in Infinite Combinations...a...belief that beauty, growth, progress -- all result from the union of the unlike."  Consistent with this idea, we define "⿻ 數位 Plurality", the subject of the rest of this book, briefly as "technology for collaboration across social difference".  This contrasts with a common element between libertarianism and technocracy: that both consider the world to be made up of atoms (viz. individuals) and a social whole.  While they take different positions on how much authority should go to each, they miss the core idea of Plurality, that intersecting diverse social groups and the people whose identities are constituted by these intersections are the core fabric of the social world.
+&nbsp;&nbsp;&nbsp;&nbsp; Nor is the possibility of such a direction for technology especially novel.  Perhaps the most canonical work of science fiction and thus vision of a positive future is *Star Trek*, in the original series of which the heroic Vulcans maintain a philosophy of "Infinite Diversity in Infinite Combinations...a...belief that beauty, growth, progress -- all result from the union of the unlike."  Consistent with this idea, we define "⿻ 數位 Plurality", the subject of the rest of this book, briefly as "technology for collaboration across social difference".  This contrasts with a common element between libertarianism and technocracy: that both consider the world to be made up of atoms (viz. individuals) and a social whole, a view we call "monist atomism".  While they take different positions on how much authority should go to each, they miss the core idea of Plurality, that intersecting diverse social groups and the people whose identities are constituted by these intersections are the core fabric of the social world.
 
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/triptych.png" width="100%" alt="Three-part definition of Plurality">
 
@@ -32,7 +32,7 @@ In English this may be read in a variety of ways depending on context:
 
 [^Arendt]: Hanna Arendt, The Human Condition (1958).
 
-[^Allen]: [Toward a Connected Society](https://doi.org/10.1515/9781400881260-006), 2015
+[^Allen]: [Toward a Connected Society](https://doi.org/10.1515/9781400881260-006), 2016
 
 [^Audrey]: [Interview with Azeem Azhar](https://sayit.pdis.nat.gov.tw/2020-10-07-interview-with-azeem-azhar#s433950), 2020
 

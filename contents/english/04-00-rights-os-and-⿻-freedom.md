@@ -1,4 +1,4 @@
-# Rights, Operating Systems and Digital Freedom
+# Rights, Operating Systems and ⿻ Freedom
 
 STORY HERE (.5 PAGE)
 
