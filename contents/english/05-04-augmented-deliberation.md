@@ -42,9 +42,9 @@ A number of strategies have, historically and more recently, been used to naviga
 3. Administration: A set of people are chosen by a bureaucratic assignment procedure, based on "merit" or managerial decisions to represent different relevant perspectives or constituencies. This is used most commonly in business and professional organizations and tends to have relatively high expertise and flexibility at low cost, but has lower legitimacy and participation.  
 
 
-Once participants to a deliberation are selected and arrive, facilitating a meaningful  interaction is an equally significant challenge and is a science unto itself.  Ensuring all participants, whatever their communicative modes and styles, are able to be fully heard requires a range of techniques, including active inclusion, careful management of turn-taking, encouragement of active listening and often translation and accommodation of differing abilities for auditory and visual communication styles.  These strategies can help overcome the "tyranny of structurelessness" that often affects attempts at inclusive and democratic governance, where unfair informal norms and dominance hierarchies override intentions for inclusive exchange.[^TyrannyStructurelessness]
+Once participants to a deliberation are selected and arrive, facilitating a meaningful interaction is an equally significant challenge and is a science unto itself. Ensuring all participants, whatever their communicative modes and styles, are able to be fully heard requires a range of social technologies and practicestechniques.,  including clear purpose and agenda setting, active inclusion, small group breakouts, careful management of notes (often called the “harvest” of many small group conversations), turn-taking,and encouragement of active listening, and often translation and accommodation of differing abilities for auditory and visual communication styles. A very rich field of “dialogue and deliberation” research and methods have been innovated over the last 50-60 years, and the National Coalition for Dialogue and Deliberation[^NCDD] is a hub for exploring these.  Other resources are in the footnotes [^NCDD] [^Participedia] [^LiberatingStructures]  [^GroupWorksDeck]  [^Wise Democracy Pattern Language]. These strategies can help overcome the "tyranny of structurelessness" that often affects attempts atand inclusive and democratic governance, where unfair informal norms and dominance hierarchies override intentions for inclusive exchange.[^TyrannyStructurelessness]
 
-Some of the challenges to inclusion have been significantly ameliorated by technology in recent years.  Physical travel distance used to be a severe impediment to deliberation.  Phone and video conferences have significantly mitigated this challenge, making various formats of distance/virtual meetings increasingly common loci for challenging discussions.  
+Appropriate use of digital technologies can augment the social technologies for engagement, and the intersection of the two can be fruitful.   Physical travel distance used to be a severe impediment to deliberation.  Phone and video conferences have significantly mitigated this challenge, making various formats of distance/virtual meetings increasingly common loci for challenging discussions.  
 
 Similarly expansive of inclusion in written formats has been the advent of internet-mediated writing, including email, message boards/usenets, webpages, blogs, and especially social media.  These have offered a variety of alternative approaches for allocating limited attention, including by (effectively) popular vote of friends (via "likes" or "reposts") or website ranking and thus have allowed significant changes in the network structure imposed by editorial processes.  While these have in many ways included many who could not speak in the past, the challenges of allocating attention continue to bite, with many of these media lacking context and thoughtful facilitation, leading to many of the problems we have highlighted previously including "misinformation", "disinformation" and flooding by well-resourced actors.
 
@@ -116,4 +116,13 @@ Furthermore, deliberation is sometimes idealized as helping overcome divisions a
 [^DemocraticInputs]: Tyna, Eloundou (OpenAI) et al. (2023) Democratic inputs to AI https://openai.com/blog/democratic-inputs-to-ai 
 
 [^LLMCensorship]: David Glukhov, Ilia Shumailov, Yarin Gal, Nicolas Papernot, Vardan Papyan (2023). LLM Censorship: A Machine Learning Challenge or a Computer Security Problem? https://arxiv.org/abs/2307.10719
+ 
+[^NCDD] [NCDD Streams of Engagement](https://www.ncdd.org/streams.html)  The NCDD website is a clearinghouse for literally thousands of resources and best practices.
 
+[^Participedia] [Participedia](https://participedia.net/)
+
+[^LiberatingStructures] [Liberating Structures] (https://www.liberatingstructures.com/)
+
+[^GroupWorksDeck] [Group Works Deck Pattern Language for bringing Life to Meetings and other Gatherings](https://groupworksdeck.org)
+
+[^Wise Democracy Pattern Language][Wise Democracy Pattern Language] (https://www.wd-pl.com/)
