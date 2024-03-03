@@ -21,17 +21,3 @@ The idea of Plurality captures the symbiotic relationship between democracy and 
 Life, a ripple of atoms — cosmic stardust — flourishes with infinite diversity in infinite combinations, reverberating through epochs of cultural fusion. The harmony extolled by ancient Greek philosopher Pythagoras, the rule-altering power in J.R.R. Tolkien's Ainulindalë — these are us.
 
 Within the atomic microcosm, a 'string' vibrates, much like a symphony. Those of us resonating with Plurality can foster collaborative diversity through interoperable coexistence. This book is an invitation to counter totalitarianism, avert extinction, and free the future — together.
-
----
-
-> When we see "internet of things," let's make it an **internet of beings**.
-
-> When we see "virtual reality," let's make it a **shared reality**.
-
-> When we see "machine learning," let's make it **collaborative learning**.
-
-> When we see "user experience," let's make it **about human experience**.
-
-> When we hear “the singularity is near” — let us remember: The **Plurality** is here.
-
-

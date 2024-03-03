@@ -1,6 +1,6 @@
 | ![image](https://github.com/pluralitybook/plurality/blob/main/figs/author-Glen.png)                                                                                                     | ![image](https://github.com/pluralitybook/plurality/blob/main/figs/author-Audrey.png)                                                            |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| E. (Eric) Glen Weyl is Founder of the RadicalxChange Foundation, the Microsoft Research Special Project the Plural Technology Collaboratory and the Plurality Institute.  His previous book is *Radical Markets*. | Audrey Tang (唐鳳) is the inaugural Minister of Digital Affairs of the Republic of China (Taiwan) and the first transgender/non-binary minister of a similar jurisdiction. |
+| E. (Eric) Glen Weyl is Founder of the RadicalxChange Foundation, the Microsoft Research Special Project the Plural Technology Collaboratory and the Plurality Institute.  His previous book is *Radical Markets*. | Audrey Tang is the inaugural Minister of Digital Affairs of 🇹🇼 and the first 🏳️‍⚧️ minister in the world. |
 
 <div align="center">
 <img width="50%" src="https://github.com/pluralitybook/plurality/blob/main/figs/author-Community.png">
