@@ -1,4 +1,4 @@
-123 ReadMe for *Plurality: The Future of Collaborative Technology and Democracy* by Audrey Tang, E. Glen Weyl and the Plurality Community
+ReadMe for *Plurality: The Future of Collaborative Technology and Democracy* by Audrey Tang, E. Glen Weyl and the Plurality Community
 
 Welcome to *Plurality*, an open, git-based collaborative book project that aims to offer a vision for the future of technology focused around empowering and bridging social difference.  While we have outlined the substance of the book elsewhere (see https://www.plurality.net), the purpose of this ReadMe is to provide an overview of the collaboration that will help create the book aimed at those who will participate in doing so.
 
