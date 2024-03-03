@@ -38,7 +38,7 @@ Perhaps the fundamental limit on all these approaches is that while methods of *
 
 A number of strategies have, historically and more recently, been used to navigate these challenges at scale.  Representatives are chosen for conversations by a variety of methods, including
 1. Election: A campaign and voting process is used to select representatives, often based on geographic or political party groups. This is used most commonly in politics, unions and churches, with the advantage of conferring a degree of broad participation, legitimacy and expertise, but often being rigid and expensive.
-2. Sortition: A set of people are chosen randomly, sometimes with checks or constraints to ensure some sort of balance across groups. This is used most commonly in focus groups, surveys and juries, and  in citizen deliberative councils on contentious policy issues. It maintains reasonable legitimacy and flexibility at low cost, but needs to supplement with expertise and has limited participation
+2. Sortition: A set of people are chosen randomly, sometimes with checks or constraints to ensure some sort of balance across groups. This is used most commonly in focus groups, surveys and juries, and  in citizen deliberative councils on contentious policy issues[^PublicWisdom]. It maintains reasonable legitimacy and flexibility at low cost, but needs to supplement with expertise and has limited participation
 3. Administration: A set of people are chosen by a bureaucratic assignment procedure, based on "merit" or managerial decisions to represent different relevant perspectives or constituencies. This is used most commonly in business and professional organizations and tends to have relatively high expertise and flexibility at low cost, but has lower legitimacy and participation.  
 
 
@@ -116,4 +116,6 @@ Furthermore, deliberation is sometimes idealized as helping overcome divisions a
 [^DemocraticInputs]: Tyna, Eloundou (OpenAI) et al. (2023) Democratic inputs to AI https://openai.com/blog/democratic-inputs-to-ai 
 
 [^LLMCensorship]: David Glukhov, Ilia Shumailov, Yarin Gal, Nicolas Papernot, Vardan Papyan (2023). LLM Censorship: A Machine Learning Challenge or a Computer Security Problem? https://arxiv.org/abs/2307.10719
+
+[^PublicWisdom]  This article [ Citizen Deliberative Councils](https://www.co-intelligence.org/P-CDCs.html) by Tom Atlee  and [Empowering Public Wisdom] (https://www.amazon.com/Empowering-Public-Wisdom-Practical-Citizen-Led/dp/1583945008/)  and 
 
