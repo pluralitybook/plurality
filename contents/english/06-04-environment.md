@@ -2,7 +2,7 @@
 
 Readers may ask, "Collaboration Across Difference" is about cooperation between people, so what does it have to do with the environment? Yet local legends, stories, traditional religions, and many contemporary religions, spanning the length of human history, emphasize nature as an object to be respected and cooperated with.
 
-This chapter explores how Plurality can transform our technological relationship with nature, shifting from domination to a synergy of pluralistic interactions, facilitated by data. Whether we see these ecosystems as alive and sentient in their own right, or as indispensable life-support systems for human societies, these approaches will enable us to co-exist with nature more sustainably.
+This chapter explores how ⿻ can transform our technological relationship with nature, shifting from domination to a synergy of ⿻istic interactions, facilitated by data. Whether we see these ecosystems as alive and sentient in their own right, or as indispensable life-support systems for human societies, these approaches will enable us to co-exist with nature more sustainably.
 
 ### Today's environment
 
@@ -40,7 +40,7 @@ Fluidity defines our natural world; oceans, rivers, and the atmosphere flow with
 
 Building foundational AI models for natural environments involves challenges: open-source governance, capital and compute investments, and collaboration are key. Through AI deep learning, we can unlock deeper insights into our complex natural world. Scientific research and environmental management benefit from these insights, improving both and potentially reshaping society, as we have seen in NASA's ongoing Foundation Model projects for the Earth's environment, tackling crucial notions of environmental justice for natural spaces and human communities alike.
 
-Just as biometrics prove a person's identity, we need better ways to understand and recognize natural ecosystems like rivers. A new conceptualization of identity is in order – one that factors in the connections between individual people and the ecosystems they rely on. Plural publics, as explored earlier in this book, can encompass cultural and care-based relationships, shaping how citizens perceive and interact with ecosystems in protective ways.
+Just as biometrics prove a person's identity, we need better ways to understand and recognize natural ecosystems like rivers. A new conceptualization of identity is in order – one that factors in the connections between individual people and the ecosystems they rely on. ⿻ publics, as explored earlier in this book, can encompass cultural and care-based relationships, shaping how citizens perceive and interact with ecosystems in protective ways.
 
 Notably, it also overcomes the debate around whether AI systems can become legal agents; data coalitions can be viewed both as “little platoons” created by the people who benefit from the ecosystem, but also at the same time, through the legal positioning of natural personhood, the river’s digital twin can be seen as a subject with rights and responsibilities.
 
