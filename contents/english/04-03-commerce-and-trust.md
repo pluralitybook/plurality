@@ -77,7 +77,7 @@ One of the first and the most attention-grabbing of these was the emergence of B
 The early success of Bitcoin inspired attention and interest for at least three reasons:
   1. It seemed to fill the lacuna in the digital payments space mentioned above, allowing relatively easy cross-border transfers.
   2. It was one of the first examples of a large-scale and "important" (carrying real financial consequences) online application without a centralized identity and permissioning system.
-  3. Because of its financial structure and scarcity, it was possible for the value of the coins to rapidly appreciate, which they did over several stretches in the following 15 years, creating great fortunes, speculation and interest.[^Disc] 
+  3. Because of its financial structure and scarcity, it was possible for the value of the coins to rapidly appreciate, which they did over several stretches in the following 15 years, creating great fortunes, speculation and interest.[^Disc0403] 
   
 While many governments and mainstream business actors recognized the importance of the first point, they saw decentralization as largely superfluous or wasteful and the speculation around cryptocurrencies as a frivolous and potentially destabilizing bubble.  This spurred a number of efforts to reimagine payment systems for the digital age. The most ambitious efforts were "central bank digital currencies", which have been launched or piloted in dozens of countries, especially in Africa and Asia and are being explored in many others.  These most directly respond to the cryptocurrency trend by creating digital, currency-like claims on the central banks.
  
@@ -147,7 +147,7 @@ Yet surveillance is only the beginning of responsibilities that communities of v
 
 
 
-[^Disc]: In fact, the primary financial support for one of the author's personal finances and our joint charitable pursuits came  from gains in cryptocurrencies.
+[^Disc0403]: In fact, the primary financial support for one of the author's personal finances and our joint charitable pursuits came  from gains in cryptocurrencies.
 [^Debt]: Graeber, *Debt: The First 5000 Years*, and the books by the other authors (*Currency and Credit*, *Credit and State Theories of Money*, *The Nature of Money* and *Money has no Value*)
 
 [^WB]  The International Bank for Reconstruction and Development / The World Bank (5 May 2013). "Global Payment Systems Survey (GPSS)". (from wikipdeia = https://en.wikipedia.org/wiki/Automated_clearing_house#cite_note-IBRDGPSS2012-10) 

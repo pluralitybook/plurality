@@ -35,7 +35,7 @@ The most common forms of identification and verification in liberal democratic c
 
 We have an opportunity to extend these documentary practices of state institutions and other formal institutions to peer and networked institutions. Work is being done now on developing common ways to support communities doing this in the open recognition community within them in peer based ways.
 
-<img src="https://github.com/Identitywoman/plurality/assets/2994443/2ae7e6db-6044-4495-8ad0-654614b46fbc" width="100%" alt="Science">
+<img src="https://raw.githubusercontent.com/audreyt/plurality/main/figs/252527680-2ae7e6db-6044-4495-8ad0-654614b46fbc.png" width="100%" alt="Science">
 
 
 
@@ -229,9 +229,9 @@ Estonia paragraph
 Yet while Estonia pioneered the use of ⿻ to transform a national government, both its size and its very early development limited what it could achieve. While it took longer to fully develop, in the last decade a small and mountainous island became the world's clearest example of a different path.  Its story animates our book.
 
 [^WEIRDest]: Henrich, J (2020) [The WEIRDest People in the World](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World): How the West Became Psychologically Peculiar and Particularly Prosperous 
-[^teblunthuis_etal__time_on_wikipedia]: TeBlunthuis, N., Bayer, T. and Vasileva, O., 2019, August. Dwelling on Wikipedia: investigating time spent by global encyclopedia readers. In Proceedings of the 15th international symposium on open collaboration (pp. 1-14).
+[^teblunthuis__time_on_wikipedia]: TeBlunthuis, N., Bayer, T. and Vasileva, O., 2019, August. Dwelling on Wikipedia: investigating time spent by global encyclopedia readers. In Proceedings of the 15th international symposium on open collaboration (pp. 1-14).
 [^hwang_shaw__rules_on_wikipedia]: Hwang, S., & Shaw, A. (2022). Rules and Rule-Making in the Five Largest Wikipedias. Proceedings of the International AAAI Conference on Web and Social Media, 16(1), 347-357. https://doi.org/10.1609/icwsm.v16i1.19297
-[^vincent_hecht__wikipedia_and_search]: Vincent, N. and Hecht, B., 2021. A deeper investigation of the importance of Wikipedia links to search engine results. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), pp.1-15.
+[^vincent__wikipedia_and_search]: Vincent, N. and Hecht, B., 2021. A deeper investigation of the importance of Wikipedia links to search engine results. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), pp.1-15.
 [^mcmahon_etal__wikipedia_and_search]: McMahon, C., Johnson, I. and Hecht, B., 2017, May. The substantial interdependence of Wikipedia and Google: A case study on the relationship between peer production communities and information technologies. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 11, No. 1, pp. 142-151).
 [^benkler_linux]: Benkler, Y., 2002. Coase's penguin, or, Linux and "The Nature of the Firm". Yale Law Journal, pp.369-446.
 [^wiredglove]: A wired glove is an input device like a glove. It allows users to interact with digital environments through gestures and movements, translating physical hand actions into digital responses. The first wired glove was invented in 1977.
