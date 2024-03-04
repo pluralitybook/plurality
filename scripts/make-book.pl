@@ -45,6 +45,7 @@ my %Sections = (
 );
 for (sort <contents/english/0*.md>) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
+    next if $basename =~ /^00/;
     my $s = int($basename =~ s/-.*//r);
     if (my $section_name = delete $Sections{$s}) {
         $all .= "# $section_name\n\n";
@@ -63,7 +64,7 @@ write_file('english.md', $all);
 print "Generating PDF (this may take a while)...\n";
 
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.pdf --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.pdf --include-before-body=/data/contents/english/00-01-finding-your-dao.md --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures
 .
 
 print "Generating ePub (this should be fast)...\n";
