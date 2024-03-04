@@ -31,7 +31,7 @@ Pixels = Resolution (DPI) × Print size (in inches). Figures should have at leas
 
 ## Style module
 
-The `style` module contains the color definitions and a function to set the style of the figures. The function is called `prep_plot` and it takes several optional fig size, font and DPI rgements. It sets the background color, the color of the axes, the color of the gridlines, and the color of the ticks. It also sets the font to Jost and applies the default color scheme.
+The `style` module contains the color definitions and a function to set the style of the figures. The function is called `prep_plot` and it takes several optional fig size, font and DPI arguments. It sets the background color, the color of the axes, the color of the gridlines, and the color of the ticks. It also sets the font to Jost and applies the default color scheme.
 
 To use the `style` module in a figure, import it and call the `prep_plot` function at the beginning of the script. For example:
 
@@ -43,7 +43,7 @@ from style import prep_plot
 plt = prep_plot()
 ```
 
-Then you add render your plot as usual. For example:
+Then you can render your plot as usual. For example:
 
 ```python
 plt = prep_plot()
@@ -56,6 +56,10 @@ Or via subplots:
 plt = prep_plot()
 fig, axes = plt.subplots(nrows=1, ncols=2, gridspec_kw={'width_ratios': [1.5, 1]})
 ```
+
+## Starter Template
+
+You can find a template for a figure in the `_template/` directory. The template contains a readme file and a Python Notebook that generates a figure with the correct style and formatting. Feel free to copy this directory and use it as a starting point for your own figure.
 
 ## Contributing
 
