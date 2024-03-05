@@ -117,7 +117,7 @@ Yet surveillance is only the beginning of responsibilities that communities of v
  &nbsp;&nbsp;&nbsp;&nbsp; Open-source software (OSS) project is an example. Collaboration among multiple individuals often creates greater value than individual actions alone. It is super-modular production. And the resulting products are replicated and provide utility to many people. It is social consumption. In this situations money-based management does not function well. Let's consider a scenario where two individuals collaborate to create value and both actions are necessary. One started a task and then the other completed the task later. Both should be rewarded equally for their contributions. Because action of two people on the same collaborative task will have equivalent impacts on the result. If only the person who completed the task is valued, no one will start the task, and collaboration will not occur.
 
  &nbsp;&nbsp;&nbsp;&nbsp; Furthermore, If there are multiple tasks, which task to prioritize depends on the preferences of those engaging in social consumption. The result preferred by a larger number of people generates higher value for society. Therefore, the priority of tasks must be collectively determined before contributors start their actions.
-In these cases under conditions of supermodular production and social consumption, we usually instead use the idea of "votes".  For better collaboration, a collective decision-making system that integrates task prioritization, voting, and methods of rewarding contributions becomes necessary.  
+In these cases under conditions of supermodular production and social consumption, we usually instead use the idea of "votes".  For better collaboration, a collective decision-making system that integrates task prioritization, voting, and methods of rewarding contributions becomes necessary[^supermodular].  
   
    &nbsp;&nbsp;&nbsp;&nbsp; More broadly, in practice, as sociologists have extensively documented, social influence *does* in practice work in these richer ways.  People vote, they gain esteem and authority, develop reputations in a range of contexts: a doctor's lab coat, the standing of an athlete, awards for prestigious academic papers, etc. All of these are sources of influence and command deference from those who regard them highly, allowing the bearer of these marks of status to achieve things someone without them could not.
    
@@ -155,8 +155,10 @@ In these cases under conditions of supermodular production and social consumptio
 [^Disc0403]: In fact, the primary financial support for one of the author's personal finances and our joint charitable pursuits came  from gains in cryptocurrencies.
 [^Debt]: Graeber, *Debt: The First 5000 Years*, and the books by the other authors (*Currency and Credit*, *Credit and State Theories of Money*, *The Nature of Money* and *Money has no Value*)
 
-[^WB]  The International Bank for Reconstruction and Development / The World Bank (5 May 2013). "Global Payment Systems Survey (GPSS)". (from wikipdeia = https://en.wikipedia.org/wiki/Automated_clearing_house#cite_note-IBRDGPSS2012-10) 
+[^WB]:  The International Bank for Reconstruction and Development / The World Bank (5 May 2013). "Global Payment Systems Survey (GPSS)". (from wikipdeia = https://en.wikipedia.org/wiki/Automated_clearing_house#cite_note-IBRDGPSS2012-10) 
 
-[^Swift] Scott, Susan V.; Zachariadis, Markos (2014). The Society for Worldwide Interbank Financial Telecommunication (Swift) : cooperative governance for network innovation, standards, and community. New York, NY: Routledge. pp. 1, 35. doi:10.4324/9781315849324. ISBN 978-1-317-90952-1. OCLC 862930816.
+[^Swift]: Scott, Susan V.; Zachariadis, Markos (2014). The Society for Worldwide Interbank Financial Telecommunication (Swift) : cooperative governance for network innovation, standards, and community. New York, NY: Routledge. pp. 1, 35. doi:10.4324/9781315849324. ISBN 978-1-317-90952-1. OCLC 862930816.
 
-[^Swift2]  Arnold, Martin (6 June 2018). "Ripple and Swift slug it out over cross-border payments". Financial Times. Archived from the original on 27 September 2019. Retrieved 28 October 2019.
+[^Swift2]:  Arnold, Martin (6 June 2018). "Ripple and Swift slug it out over cross-border payments". Financial Times. Archived from the original on 27 September 2019. Retrieved 28 October 2019.
+
+[^supermodular]: Divya Siddarth, Matthew Prewitt, Glen Weyl, "Beyond Public and Private - Collective Provision Under Conditions of Supermodularity" https://cip.org/supermodular
