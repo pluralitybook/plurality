@@ -19,7 +19,10 @@ author: "E. Glen Weyl, Audrey Tang and ⿻ Community"
 date: "$current_date"
 cover-image: scripts/cover-image.png 
 ---
+
 HEADER
+
+$all .= read_file("contents/english/00-00-About-the-authors.md");
 
 sub read_file {
     my $filename = shift;
@@ -64,7 +67,7 @@ write_file('english.md', $all);
 print "Generating PDF (this may take a while)...\n";
 
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.pdf --include-before-body=/data/contents/english/00-01-finding-your-dao.md --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.pdf --include-before-body=/data/contents/english/00-01-finding-your-dao.md --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/Pandoc-Emojis-Filter/emoji_filter.js
 .
 
 print "Generating ePub (this should be fast)...\n";
