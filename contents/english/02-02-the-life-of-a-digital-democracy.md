@@ -97,6 +97,7 @@ The sectoral focus of Taiwan's economy stands out as well.  While perfectly comp
 Taiwan is also unusual among rich countries in its relatively low tax take; according to the Asia Development Bank, Taiwan collected only 11% of GDP in taxes compared to 34% on average in the Organization of Economic Cooperation and Development (OECD) club of rich countries.[^taxtake] Relatedly, Taiwan ranked 4th in the world in the Heritage Foundation's Economic Fredom Index.[^EconFreedom]
 
 Given this background, several features of Taiwan's economic performance in the last decade stand out.  
+
 1. Growth: Taiwan has averaged real GDP growth of 3% over the last decade, compared to less than 2% for the OECD, a bit over 2% for the US and 2.7% for the world overall.[^WB]
 2. Unemployment: Taiwan has averaged an unemployment rate of just under 4% steadily in the last decade, compared to an OECD average of 6%, a US average of 5% and a world average of around 6%.
 3. Inflation: While inflation has spiked and wildly fluctuated around the world including almost all rich countries, Taiwan's inflation rate has remained relatively steady the last decade in the 0-2% range, averaging 1.3% according to the IMF.
