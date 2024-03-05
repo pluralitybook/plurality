@@ -1,5 +1,4 @@
-<center> <h1> Policy </h1> </center>
-
+# Policy
 
 If ⿻ succeeds, in a decade we imagine a transformed relationship among and across governments, private technology development and open source/civil society.  In this future, public funding (both from governments and charitable initiatives) is the primary source of financial support for fundamental digital infrastructure, while the provision of such infrastructure in turn becomes a central item on the agenda of governments and charitable actors.  This infrastructure is developed trans-nationally, by civil society collaborations and standard setting organizations supported by an international network of government ministers focused on these goals.  The fabric created by these networks and the open protocols they develop, standardize and safeguard become the foundation for a new "international rules-based order", an operating system for a transnational digital society.
 
