@@ -100,15 +100,7 @@ They they share a few features precisely related to their fragmentation and hete
 4. They tend to have a poor digital user experience; either they are not digitized at all, or the process of managing the digital interface is unfriendly to non-technical users.  
 While these examples are perhaps most marginal to digital identity, they are also perhaps most representative of its systemic state.  Digital identity systems are heterogeneous, generally quite insecure, only weakly inter-operable,  have limited functionality while allowing entities with concentrated power to engage in extensive surveillance and breaking norms of privacy that in many cases they were established to protect.  This problem is increasingly widely recognized, leading to focus in many technology projects on overcoming it.
 
-
-
-	
-	
-	WOULD BE GOOD TO HAVE A TABLE, EXAMPLES, STRENGTHS AND WEAKNESSES
-	
-	
-	
-
+(WOULD BE GOOD TO HAVE A TABLE, EXAMPLES, STRENGTHS AND WEAKNESSES)
 
 ### Public and decentralized identity
 
