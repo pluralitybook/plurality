@@ -5,7 +5,6 @@ Plurality aims to tell the world how collaborative technology can remake how we 
 ## Goals
 
 We have several interlocking goals in the design of our management system:
-
 1. We want to recognize contributions and prioritize work formally, quantitatively and democratically, in contrast to the informal and often confusing methods typical in open source while at the same time...
 2. We want to avoid speculation, financialization and external fungibility of this credit.
 3. We want to instantiate (advanced, plural) democratic control over the direction of the project and eventually turn over maintenance of the project to the community, thereby allowing maintenance to scale as smoothly as contributions while at the same time...
