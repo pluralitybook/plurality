@@ -76,6 +76,12 @@ write_file(
 
 print "Generating PDF (this may take a while)...\n";
 
+# Pre-running twice to generate emoji PDFs
+system << '.';
+docker run --rm --volume "$(pwd):/data" audreyt/pandoc-plurality-book english.md -o tmp.tex --filter=/data/scripts/emoji_filter.js
+docker run --rm --volume "$(pwd):/data" audreyt/pandoc-plurality-book english.md -o tmp.tex --filter=/data/scripts/emoji_filter.js
+.
+
 system << '.';
 docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o tmp.pdf --include-before-body=00-01.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
 .
@@ -91,4 +97,5 @@ docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-
 .
 
 unlink 'tmp.pdf';
+unlink 'tmp.tex';
 unlink '01-01.tex';
