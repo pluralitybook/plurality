@@ -197,9 +197,9 @@ As we noted above, almost everything relevant about us is known by others and is
 [^SSNAlternatives]: News Release: [DHS Awards $193K for a Standards Based Approach to an Alternative Identifier to the Social Security Number](https://www.dhs.gov/science-and-technology/news/2020/10/09/news-release-dhs-awards-alternative-identifier-social-security-number)
 [^Altman]: https://www.reuters.com/technology/worldcoin-aims-set-up-global-id-network-akin-indias-aadhaar-2023-11-02/
 [^LawsOfIdentities]: Kim Cameron's [Laws of Identities](https://www.identityblog.com/?p=1065) (blog post, August 2009)
-[^MOSIP] (https://docs.mosip.io/inji/overview)https://docs.mosip.io/inji/overview
-[^wallet] https://github.com/eu-digital-identity-wallet/
-[^pilots] https://digital-strategy.ec.europa.eu/en/news/eu-digital-identity-4-projects-launched-test-eudi-wallet
-[^bhutan] https://restofworld.org/2023/south-asia-newsletter-bhutan-national-digital-id/
-[^icard] https://en.wikipedia.org/wiki/Information_card
-[^CS] https://en.wikipedia.org/wiki/Windows_CardSpace
+[^MOSIP]: (https://docs.mosip.io/inji/overview)https://docs.mosip.io/inji/overview
+[^wallet]: https://github.com/eu-digital-identity-wallet/
+[^pilots]: https://digital-strategy.ec.europa.eu/en/news/eu-digital-identity-4-projects-launched-test-eudi-wallet
+[^bhutan]: https://restofworld.org/2023/south-asia-newsletter-bhutan-national-digital-id/
+[^icard]: https://en.wikipedia.org/wiki/Information_card
+[^CS]: https://en.wikipedia.org/wiki/Windows_CardSpace
