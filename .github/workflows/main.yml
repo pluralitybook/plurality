@@ -12,13 +12,13 @@ jobs:
       contents: write
     steps:
     - uses: actions/checkout@v2
-#    - name: Install dependencies
-#      run: |
-#        # Install necessary dependencies (e.g., Perl, Docker)
-#        perl scripts/make-book.pl
     - name: Generate book files
       run: |
+        # Install necessary dependencies (e.g., Perl, Docker)
         perl scripts/make-book.pl
+    - name: Generate book files (zh-tw)
+      run: |
+        perl scripts/make-book-zh-tw.pl
     - name: Upload artifacts
       uses: actions/upload-artifact@v2
       with:
@@ -26,7 +26,10 @@ jobs:
         path: |
           Plurality-english.pdf
           Plurality-english.epub
+          Plurality-traditional-mandarin.pdf
+          Plurality-traditional-mandarin.epub
     - uses: ncipollo/release-action@v1
       with:
         artifacts: "*.pdf,*.epub"
         token: ${{ secrets.RELEASE_TOKEN }}
+        tag: latest
