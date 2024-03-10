@@ -67,7 +67,7 @@ write_file('traditional-mandarin.md', $all);
 print "Generating PDF (this may take a while)...\n";
 
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book traditional-mandarin.md -o Plurality-traditional-mandarin.pdf --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=20pt -V documentclass=extreport -f markdown-implicit_figures
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book traditional-mandarin.md -o Plurality-traditional-mandarin.pdf --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=20pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/Pandoc-Emojis-Filter/emoji_filter.js
 .
 
 print "Generating ePub (this should be fast)...\n";
