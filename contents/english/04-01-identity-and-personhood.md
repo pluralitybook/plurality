@@ -203,3 +203,4 @@ As we noted above, almost everything relevant about us is known by others and is
 [^bhutan]: https://restofworld.org/2023/south-asia-newsletter-bhutan-national-digital-id/
 [^icard]: https://en.wikipedia.org/wiki/Information_card
 [^CS]: https://en.wikipedia.org/wiki/Windows_CardSpace
+[^DID]: https://www.w3.org/TR/did-core/
