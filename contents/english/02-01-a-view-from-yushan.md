@@ -131,7 +131,7 @@ Already among the most technology-intensive export economies in the world, this 
 
 Yet despite this deep and persistent division that fueled the Sunflower movement, the overlapping consensus between these perspectives is striking:
 
-1. Pluralism: Both the Blue and Green stories share a strong emphasis on pluralism. For Blue, it includes the multiethnic nature of the ROC, while Greens focus on the diverse influences on Taiwan, including indigenous, Japanese, Taigi, Hakka, Western and new immigrants.
+1. Pluralism: Both the Blue and Green stories share a strong emphasis on pluralism. For Blue, it's about fusing both contemporary and traditional culture (exemplified by the National Palace Museum), while highlighting ROC's role as a cultural inheritor and leader; while the Greens focus on the diversity of those who have settled in Taiwan, including the indigenous peoples, Japanese, Hokkien, Hakka, Westerners, and new immigrants.
 2. Diplomatic nuance: To navigate the challenging relationship with the PRC, both have had to embrace range of complex and nuanced public positions around the security posture of the US and other allies, the meaning of ROC and Taiwan, as well as the concept of "independence".
 3. Democratic freedom: The ideas of "democracy" and "freedom" are core to both ideologies. For Greens, these ideas are the core of Taiwan's rallying cries overcoming both the White Terror and PRC authoritarianism. To Blues, these ideas are core to Tridemism and thus, in their eyes, qualities that a ROC leadership must focus on.
 4. Anti-authoritarianism: Both are deeply concerned about growing authoritarianism in the PRC, especially in the last decade with the failure of the "One Country, Two Systems" formula in Hong Kong.
