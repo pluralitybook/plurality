@@ -90,3 +90,6 @@ print "Generating ePub (this should be fast)...\n";
 system << '.';
 docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book traditional-mandarin.md -o Plurality-traditional-mandarin.epub --toc --toc-depth=2 -s
 .
+
+unlink 'tmp.pdf';
+unlink '01-01.tex';
