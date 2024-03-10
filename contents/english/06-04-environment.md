@@ -1,8 +1,12 @@
 # Environment
 
+
+
+
+
 Readers may ask, "Collaboration Across Difference" is about cooperation between people, so what does it have to do with the environment? Yet local legends, stories, traditional religions, and many contemporary religions, spanning the length of human history, emphasize nature as an object to be respected and cooperated with.
 
-This chapter explores how ⿻ can transform our technological relationship with nature, shifting from domination to a synergy of ⿻istic interactions, facilitated by data. Whether we see these ecosystems as alive and sentient in their own right, or as indispensable life-support systems for human societies, these approaches will enable us to co-exist with nature more sustainably.
+This chapter explores how ⿻ can transform our technological relationship with nature, shifting from domination to a synergy of ⿻ interactions, facilitated by data. Whether we see these ecosystems as alive and sentient in their own right, or as indispensable life-support systems for human societies, these approaches will enable us to co-exist with nature more sustainably.
 
 ### Today's environment
 
