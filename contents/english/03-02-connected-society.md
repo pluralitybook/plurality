@@ -147,3 +147,4 @@ Across all of these authors, we see many common threads. We see appreciation of 
 [^InfluenceOfSimmel]: Brocic and Silver, "The Influence of Simmel on American Sociology Since 1975"
 [^SecretSocieties]: Simmel, “Sociology of Secrets and Secret Societies”
 [^PublicProblems]: John Dewey, The Public and its Problems (1927)
+[^WEIRDest]: Henrich, J (2020) [The WEIRDest People in the World](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World): How the West Became Psychologically Peculiar and Particularly Prosperous 

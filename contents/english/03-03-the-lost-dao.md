@@ -170,7 +170,6 @@ Estonia paragraph
 
 Yet while Estonia pioneered the use of ⿻ to transform a national government, both its size and its very early development limited what it could achieve. While it took longer to fully develop, in the last decade a small and mountainous island became the world's clearest example of a different path.  Its story animates our book.
 
-[^WEIRDest]: Henrich, J (2020) [The WEIRDest People in the World](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World): How the West Became Psychologically Peculiar and Particularly Prosperous 
 [^teblunthuis__time_on_wikipedia]: TeBlunthuis, N., Bayer, T. and Vasileva, O., 2019, August. Dwelling on Wikipedia: investigating time spent by global encyclopedia readers. In Proceedings of the 15th international symposium on open collaboration (pp. 1-14).
 [^hwang_shaw__rules_on_wikipedia]: Hwang, S., & Shaw, A. (2022). Rules and Rule-Making in the Five Largest Wikipedias. Proceedings of the International AAAI Conference on Web and Social Media, 16(1), 347-357. https://doi.org/10.1609/icwsm.v16i1.19297
 [^vincent__wikipedia_and_search]: Vincent, N. and Hecht, B., 2021. A deeper investigation of the importance of Wikipedia links to search engine results. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), pp.1-15.
