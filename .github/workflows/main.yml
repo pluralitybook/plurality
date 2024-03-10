@@ -1,0 +1,32 @@
+name: Build Book
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v2
+#    - name: Install dependencies
+#      run: |
+#        # Install necessary dependencies (e.g., Perl, Docker)
+#        perl scripts/make-book.pl
+    - name: Generate book files
+      run: |
+        perl scripts/make-book.pl
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: book-files
+        path: |
+          Plurality-english.pdf
+          Plurality-english.epub
+    - uses: ncipollo/release-action@v1
+      with:
+        artifacts: "*.pdf,*.epub"
+        token: ${{ secrets.RELEASE_TOKEN }}
