@@ -60,6 +60,7 @@ for (sort <contents/english/0*.md>) {
     Encode::_utf8_on($c);
     $c =~ s/# /## $basename /;
     $c =~ s/^( +|&nbsp;)+//mg;
+    $c =~ s,(\[\^)(.*?\]),$1$basename-$2,g;
     $c =~ s,<img\b[^>]*src="([^"]+)"[^>]*>,![$1]($1){ width=100% },g;
     $all .= "$c\n\n";
 }
