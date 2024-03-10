@@ -117,7 +117,7 @@ Furthermore, deliberation is sometimes idealized as helping overcome divisions a
 
 [^LLMCensorship]: David Glukhov, Ilia Shumailov, Yarin Gal, Nicolas Papernot, Vardan Papyan (2023). LLM Censorship: A Machine Learning Challenge or a Computer Security Problem? https://arxiv.org/abs/2307.10719
 
-[^WorldCafe] [World Cafe](https://theworldcafe.com/)
+[^WorldCafe]: [World Cafe](https://theworldcafe.com/)
 
-[^OpenSpaceTechnnology] [Open Space Technology](https://openspaceworld.org/wp2/)
+[^OpenSpace]: [Open Space Technology](https://openspaceworld.org/wp2/)
 
