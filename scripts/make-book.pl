@@ -18,11 +18,13 @@ subtitle: "The Future of Collaborative Technology and Democracy"
 author: "E. Glen Weyl, Audrey Tang and ⿻ Community"
 date: "$current_date"
 cover-image: scripts/cover-image.png 
+mainfont: "Noto Serif"
+linestretch: 1.25
 ---
 
 HEADER
 
-$all .= read_file("contents/english/00-00-About-the-authors.md");
+$all .= read_file($_) for glob("contents/english/00-00-*.md");
 
 sub read_file {
     my $filename = shift;
@@ -58,16 +60,28 @@ for (sort <contents/english/0*.md>) {
     Encode::_utf8_on($c);
     $c =~ s/# /## $basename /;
     $c =~ s/^( +|&nbsp;)+//mg;
+    $c =~ s,(\[\^)(.*?\]),$1$basename-$2,g;
     $c =~ s,<img\b[^>]*src="([^"]+)"[^>]*>,![$1]($1){ width=100% },g;
     $all .= "$c\n\n";
 }
 
 write_file('english.md', $all);
 
+write_file(
+    '00-01.tex', (
+	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg }
+             glob 'contents/english/00-01-*.md'
+    )
+);
+
 print "Generating PDF (this may take a while)...\n";
 
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.pdf --include-before-body=/data/contents/english/00-01-finding-your-dao.md --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/Pandoc-Emojis-Filter/emoji_filter.js
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o tmp.pdf --include-before-body=00-01.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
+.
+
+system << '.';
+docker run --entrypoint /usr/bin/pdftk --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book A=/data/tmp.pdf B=/data/scripts/cover-image.pdf cat B A2-end output /data/Plurality-english.pdf
 .
 
 print "Generating ePub (this should be fast)...\n";
@@ -75,3 +89,6 @@ print "Generating ePub (this should be fast)...\n";
 system << '.';
 docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.epub --toc --toc-depth=2 -s
 .
+
+unlink 'tmp.pdf';
+unlink '01-01.tex';
