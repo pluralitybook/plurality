@@ -1,6 +1,6 @@
-| ![image](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Glen.png)                                                                      | ![image](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Audrey.png)                      |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-| E. Glen Weyl is Founder of RadicalxChange,  Microsoft Research's Plural Technology Collaboratory & Plurality Institute & co-author of *Radical Markets*. | Audrey Tang is the inaugural Minister of Digital Affairs of 🇹🇼 & the first 🏳️‍⚧️ minister in the world. |
+| ![image](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Glen.png)                                                            | ![image](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Audrey.png)             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| E. Glen Weyl is Founder of RadicalxChange,  Microsoft Research's Plural Technology Collaboratory & Plurality Institute & co-author of *Radical Markets*. | Audrey Tang is the inaugural Minister of Digital Affairs in 🇹🇼 & the inaugural 🏳️‍⚧️ minister in the 🌐. |
 
 <div align="center">
 ![image](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Community.png)
