@@ -33,3 +33,4 @@ jobs:
         artifacts: "*.pdf,*.epub"
         token: ${{ secrets.RELEASE_TOKEN }}
         tag: latest
+        allowUpdates: true
