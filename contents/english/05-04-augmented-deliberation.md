@@ -118,5 +118,4 @@ Furthermore, deliberation is sometimes idealized as helping overcome divisions a
 
 [^LLMDemocracy]: Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, Taylor Sorensen, and David Wingate. "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale." _Proceedings of the National Academy of Sciences_ 120, no. 41 (2023): e2311627120.
 
-[^LLMFinetune]: Junsol Kim, and Byungkyu Lee, "Ai-augmented surveys: Leveraging large language models for opinion prediction in nationally representative surveys," _arXiv preprint arXiv:2305.09620_ (2023). [https://arxiv.org/abs/2305.09620]( https://arxiv.org/abs/2305.09620)
-![image](https://github.com/JunsolKim/plurality/assets/13177827/e3fe9414-18aa-46e6-b968-3f08b5fefab1)
+[^LLMFinetune]: Junsol Kim, and Byungkyu Lee, "Ai-augmented surveys: Leveraging large language models for opinion prediction in nationally representative surveys," _arXiv preprint arXiv:2305.09620_ (2023). [https://arxiv.org/abs/2305.09620](https://arxiv.org/abs/2305.09620)
