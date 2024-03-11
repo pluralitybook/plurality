@@ -1,11 +1,19 @@
 # From ⿻ to Reality
 
 
-Quantitative summary of potential impacts; return here after other chapters have prepared their own estimates so we can compile/synthesize them here.
+⿻ has the tangible potential, in the next decade, to transform almost every sector of society.  Examples we study are
+
+1. The workplace, where we believe it could raise economic output by 10% and increase the growth rate by a percentage point;
+2. Health, where we believe it can extend human life by two decades;
+3. Media, where it can heal the divides opened by social media, provide sustainable funding, expand participation and dramatically increase press freedom; and
+4. Environment, where it is core to addressing most of the serious environmental problems we face, perhaps even more so than traditional "green" technologies.
+
+While we do not detail them here, we also expect fundamental effects in a wide range of other areas including:
+- Energy, where it can help underpin a fundamental transition from the "hunter-gatherer" model of fossil fuels to the "agricultural" model of direct harnessing solar energy;
+- Learning, where it can upend the linear structure of current schooling to allow far more diverse and flexible, lifelong learning paths.
 
 
-</br>
-
+---
 
 The previous sections have sketched lofty visions of transforming a broad range of social systems.  Yet however imaginative such futurism is, it can quickly feel empty and false if disconnected from the presently felt needs of real people today and pathways to address these needs while bringing systemic change.  Furthermore, much of the rhetoric so far has focused on broad social systems like "democracy" that, while inspiring, can often feel distant from the lived experience or scope of agency of most people.
 
