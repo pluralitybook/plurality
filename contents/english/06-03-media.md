@@ -1,6 +1,9 @@
 # Media
 
 
+Immersive and telepathic media experiences promise to transform connection across difference, making the experiences of the marginalized as palpable to us as those of neighbors. Collaborative journalism promises to increase by an order of magnitude the number of citizens who can meaningfully contribute to shaping our shared narration of history as it happens.  Cryptographic securing of sources can increase freedom of the press the equivalent of moving every country up a category (viz. from Satisfactory to Good in the Reporters without Borders World Press Freedom Index) by lessing the trade-offs between source confidentiality and state secrecy.  Creating a more ⿻ structure of attention allocation and  business models to support it could at least undo the rise in affective polarization in many jurisdictions and possibly reduce them to the levels seen today in the least polarized jurisdictions like Taiwan and the Netherlands.
+
+---
 
 
 The direct experiences most of have in our everyday lives exposes us to only a tiny sliver of global affairs.  Almost everything we believe we know beyond this is mediated through relationships, schooling and, most of the time, "media", especially journalism (radio, television, newspapers) and social media, as well as directed small or large group communications such as email and group chats. An important promise of digital technology has been to transform media, a possibility we take up here with keen awareness of the dangers and harms to media that are widely attributed to digital technology and social media.  We explore how ⿻ could help correct many of these harms and help achieve something of the potential that pioneers like Lick and Taylor saw in digital media.
