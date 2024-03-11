@@ -14,8 +14,8 @@ Her nearly defunct phone loaded a page with a few straightforward questions.
 
 She swiftly affixed her signature on the screen. Her phone then began displaying pertinent information to assist her in responding to the questions accurately.
 
-- In a conflict-torn village, you built makeshift schools, bringing smiles to children's faces. This beacon of hope is echoed by 76 trustworthy sources, their praises etched on a digital ledger, endorsed by agencies recognized by the EU.
-- At a press conference, your firm stance against affiliations with harmful individuals to your community echoed powerfully, backed by 41 affirming testimonials on a secure blockchain, showcasing an unyielding protector of society.
+- In a conflict-torn village, you built makeshift schools, bringing smiles to children's faces. This beacon of hope is echoed by 76 trustworthy sources, their praises contained in multiple digital credentials, endorsed by agencies recognized by the EU.
+- At a press conference, your firm stance against affiliations with harmful individuals to your community echoed powerfully, backed by 41 affirming testimonials digitally signed, showcasing an unyielding protector of society.
 - Your efforts in bridging dialogue between communities and 34 government agencies have crafted a shield of trust and safety around you, each acknowledgment a mark of your dedication, immortalized in a digital shield of recognition.
 - Your innovation fueled life changing projects, celebrated by 78% of your peers through vibrant digital narratives, weaving a dynamic tapestry of your significant contributions to the engineering sector.
 - Your support for...
