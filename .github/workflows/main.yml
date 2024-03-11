@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    if: github.repository_owner == 'pluralitybook'
+    if: ${{ github.repository_owner == 'pluralitybook' || github.repository_owner == 'audreyt' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
