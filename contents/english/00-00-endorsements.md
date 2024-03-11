@@ -1,3 +1,3 @@
-# Credits
+# Endorsements
 
-Placeholder for credits for contributions across a diversity of domains that helped create the book.  Contributors will be highlighted in line with their social capital and the type of their contribution will be showcased.  Coming soon after the finalization of the English print edition text.
+This space is reserved for a collection of endorsements from esteemed figures across various fields, whose words will underscore the significance and impact of this work.
