@@ -112,9 +112,9 @@ Furthermore, deliberation is sometimes idealized as helping overcome divisions a
 
 [^LLMCensorship]: David Glukhov, Ilia Shumailov, Yarin Gal, Nicolas Papernot, Vardan Papyan (2023). LLM Censorship: A Machine Learning Challenge or a Computer Security Problem? https://arxiv.org/abs/2307.10719
 
-[^WorldCafe] [World Cafe](https://theworldcafe.com/)
+[^WorldCafe]: [World Cafe](https://theworldcafe.com/)
 
-[^OpenSpaceTechnnology] [Open Space Technology](https://openspaceworld.org/wp2/)
+[^OpenSpaceTechnnology]: [Open Space Technology](https://openspaceworld.org/wp2/)
 
 [^LLMDemocracy]: Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, Taylor Sorensen, and David Wingate. "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale." _Proceedings of the National Academy of Sciences_ 120, no. 41 (2023): e2311627120.
 
