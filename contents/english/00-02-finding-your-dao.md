@@ -1,4 +1,4 @@
-**Finding Your Dao**
+# Finding Your Dao
 
 As we discuss in the book, linear book narratives have a significant disadvantage of forcing every reader down a single learning path.  While the online version avoids this through the extensive use of hyperlinks, those who hold a physical copy will find this more challenging to navigate.  To partially alleviate this problem, we have structured the text in a "circular" manner, where readers can start at a variety of points, read from there and circle back to the "earlier" material at the end.
 
