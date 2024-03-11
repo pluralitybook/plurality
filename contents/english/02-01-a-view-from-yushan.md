@@ -87,7 +87,7 @@ At the conclusion of the war, Chiang was nominally "Chairman of the National Gov
 
 [^JJ14]: Hsu, *The Construction of National Identity, 48.* 
 
-In 1949, having been defeated by communists, Chiang and two million ROC citizens fully relocated to Taiwan, declaring it the home of "free China", while simultaneously imposing on the eight million native, primarily Taigi- and Hakka-speaking population military rule that came to be known as the "White Terror". Acting as dictator, Chiang positioned the ROC to the world as the true representatives of China. Internally, people in Taiwan experienced a violent outsider government, one that had swiftly taken control of the island and began to suppress any sign of Taiwanese identity systematically and ruthlessly.[^JJ15]
+In 1949, having been defeated by communists, Chiang and two million ROC soldiers and civilians relocated to Taiwan, declaring it the home of "free China", while simultaneously imposing martial law on the eight million native, primarily Taigi- and Hakka-speaking population that came to be known as the "White Terror". Acting as dictator, Chiang positioned the ROC to the world as the true representatives of China. Internally, people in Taiwan experienced a violent outsider government, one that had swiftly taken control of the island and began to suppress any sign of Taiwanese identity systematically and ruthlessly.[^JJ15]
 
 [^JJ15]: Hsu, *The Construction of National Identity,* 71.
 
