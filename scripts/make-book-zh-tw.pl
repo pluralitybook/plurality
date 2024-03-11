@@ -22,7 +22,7 @@ linestretch: 1.25
 ---
 HEADER
 
-$all .= read_file($_) for glob("contents/traditional-mandarin/00-00-*.md");
+$all .= read_file($_) =~ s/&/\\&/rg for glob("contents/english/00-00-*.md");
 
 sub read_file {
     my $filename = shift;
