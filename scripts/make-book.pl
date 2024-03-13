@@ -47,9 +47,8 @@ my %Sections = (
     6 => "Section 6: Impact",
     7 => "Section 7: Forward",
 );
-for (sort <contents/english/0*.md>) {
+for (sort <contents/english/0[1234567]*.md>) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
-    next if $basename =~ /^00/;
     my $s = int($basename =~ s/-.*//r);
     if (my $section_name = delete $Sections{$s}) {
         $all .= "# $section_name\n\n";

@@ -46,9 +46,8 @@ my %Sections = (
     6 => "六、影響",
     7 => "七、前行",
 );
-for (sort <contents/traditional-mandarin/0*.md>) {
+for (sort <contents/traditional-mandarin/0[1234567].md>) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
-    next if $basename =~ /^00/;
     my $s = int($basename =~ s/-.*//r);
     if (my $section_name = delete $Sections{$s}) {
         $all .= "# $section_name\n\n";
