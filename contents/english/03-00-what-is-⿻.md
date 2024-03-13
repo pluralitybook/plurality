@@ -30,10 +30,8 @@ None of these existing words perfectly captures this idea set, and thus, in some
 
 
 
-[^Arendt]: Hanna Arendt, The Human Condition (1958).
-
-[^Allen]: [Toward a Connected Society](https://doi.org/10.1515/9781400881260-006), 2016
-
-[^Audrey]: [Interview with Azeem Azhar](https://sayit.pdis.nat.gov.tw/2020-10-07-interview-with-azeem-azhar#s433950), 2020
+[^Arendt]: Hannah Arendt, _The Human Condition_, (Chicago: University of Chicago Press, 1958).
+[^Allen]: Danielle Allen, “Chapter 2: Toward a Connected Society,” in In Our Compelling Interests, (Princeton: Princeton University Press, 2018), https://doi.org/10.1515/9781400881260-006.
+[^Audrey]: “View Section: 2020-10-07 Interview with Azeem Azhar,” SayIt, https://sayit.pdis.nat.gov.tw/2020-10-07-interview-with-azeem-azhar#s433950., 2020
 
 
