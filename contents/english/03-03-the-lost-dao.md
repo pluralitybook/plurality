@@ -169,16 +169,13 @@ Other countries have, of course, excelled in various elements of ⿻.  Estonia i
 Yet none of these have institutionalized the breadth and depth of ⿻ approaches to socio-technical organization across sectors that Taiwan has.  It is thus more challenging to take these cases as broad national examples on which to found imagiation of what ⿻ could mean to the world if it could scale up to bridge the divides of nation, culture and sector and forming both the infrastructural foundation and the mission of global digital society.  With that anchoring example and additional hope from these other cases, we now turn to painting in greater depth the opportunity a ⿻ global future holds.
 
 
-[^Unchat]: https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?article=1580&context=fac_articles_chapters, https://firstmonday.org/ojs/index.php/fm/article/view/1289/1209, https://www.brookings.edu/books/wiki-government/
-[^Noveckwork]:https://www.brookings.edu/books/wiki-government/ https://web.archive.org/web/20090603192345/http://www.whitehouse.gov/open/
-
-
-
-[^teblunthuis__time_on_wikipedia]: TeBlunthuis, N., Bayer, T. and Vasileva, O., 2019, August. Dwelling on Wikipedia: investigating time spent by global encyclopedia readers. In Proceedings of the 15th international symposium on open collaboration (pp. 1-14).
-[^hwang_shaw__rules_on_wikipedia]: Hwang, S., & Shaw, A. (2022). Rules and Rule-Making in the Five Largest Wikipedias. Proceedings of the International AAAI Conference on Web and Social Media, 16(1), 347-357. https://doi.org/10.1609/icwsm.v16i1.19297
-[^vincent__wikipedia_and_search]: Vincent, N. and Hecht, B., 2021. A deeper investigation of the importance of Wikipedia links to search engine results. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), pp.1-15.
-[^mcmahon_etal__wikipedia_and_search]: McMahon, C., Johnson, I. and Hecht, B., 2017, May. The substantial interdependence of Wikipedia and Google: A case study on the relationship between peer production communities and information technologies. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 11, No. 1, pp. 142-151).
-[^benkler_linux]: Benkler, Y., 2002. Coase's penguin, or, Linux and "The Nature of the Firm". Yale Law Journal, pp.369-446.
+[^Unchat]: Beth Noveck, “Designing Deliberative Democracy in Cyberspace: The Role of the Cyber-Lawyer,” New York Law School, n.d. https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?article=1580&context=fac_articles_chapters; Beth Noveck, “A Democracy of Groups,” _First Monday_ 10, no. 11 (November 7, 2005), https://doi.org/10.5210/fm.v10i11.1289.
+[^Noveckwork]:Beth Noveck, _Wiki Government_, (Washington DC: Brookings Institution Press, 2009).
+[^teblunthuis__time_on_wikipedia]: Nathan TeBlunthuis, Tilman Bayer, and Olga Vasileva, “Dwelling on Wikipedia,” _Proceedings of the 15th International Symposium on Open Collaboration_, August 20, 2019, https://doi.org/10.1145/3306446.3340829, (pp. 1-14).
+[^hwang_shaw__rules_on_wikipedia]: Sohyeon Hwang, and Aaron Shaw. “Rules and Rule-Making in the Five Largest Wikipedias.” _Proceedings of the International AAAI Conference on Web and Social Media_ 16 (May 31, 2022): 347–57, https://doi.org/10.1609/icwsm.v16i1.19297.
+[^vincent__wikipedia_and_search]: Nicholas Vincent, and Brent Hecht, “A Deeper Investigation of the Importance of Wikipedia Links to Search Engine Results,” _Proceedings of the ACM on Human-Computer Interaction_ 5, no. CSCW1 (April 13, 2021): 1–15, https://doi.org/10.1145/3449078.
+[^mcmahon_etal__wikipedia_and_search]: Connor McMahon, Isaac Johnson, and Brent Hecht, “The Substantial Interdependence of Wikipedia and Google: A Case Study on the Relationship between Peer Production Communities and Information Technologies,” _Proceedings of the International AAAI Conference on Web and Social Media_ 11, no. 1 (May 3, 2017): 142–51, https://doi.org/10.1609/icwsm.v11i1.14883.
+[^benkler_linux]: Yochai Benkler, “Coase’s Penguin, Or, Linux and the Nature of the Firm,” n.d. http://www.benkler.org/CoasesPenguin.PDF.
 [^wiredglove]: A wired glove is an input device like a glove. It allows users to interact with digital environments through gestures and movements, translating physical hand actions into digital responses. The first wired glove was invented in 1977.
 [^visionpro]: The Vision Pro is a head mount display, released by Apple in 2024. This device integrates high-resolution displays with sensors capable of tracking the user's movements, hand actions and the environment to offer an immersive mixed reality experience.
 
