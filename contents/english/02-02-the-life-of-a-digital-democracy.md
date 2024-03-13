@@ -139,38 +139,38 @@ It is important to note, however, that Taiwan performed much less impressively d
 
 Another slow-burning crisis that may illustrate this challenge is climate change.  While Taiwan has joined many other countries in enshrining its 2050 net zero ambitions into law and has won praise for its plans to reach this goal, its progress thus far has been modest.[^climate]  More broadly, Taiwan has a strong but not outstanding record on environmental protection.[^epi]
 
-[^climate]: https://eciu.net/netzerotracker, https://eastasiaforum.org/2023/08/12/taiwans-pioneering-pathway-to-net-zero-carbon-emissions/#:~:text=In%202022%2C%20Taiwan%20unveiled%20its,supported%20by%2012%20key%20strategies.
-[^epi]: https://epi.yale.edu/epi-results/2022/component/epi
+[^climate]: “Net Zero Tracker,” Energy & Climate Intelligence Unit, 2023. https://eciu.net/netzerotracker.
+[^epi]: “2022 EPI Results,” Environmental Performance Index, 2022, https://epi.yale.edu/epi-results/2022/component/epi.
 
 Taiwan nonetheless exhibits unusually high levels of participation and trust in institutions, particularly in its democracy.  Voter turnout is among the highest in the world outside countries where voting is compulsory.[^turnout]  91% consider democracy to be at least "fairly good", a sharp contrast to the dramatic declines in recent years in support for democracy even in many long-established democracies.[^demsupp]
 
-[^turnout]: https://www.pewresearch.org/short-reads/2022/11/01/turnout-in-u-s-has-soared-in-recent-elections-but-by-some-measures-still-trails-that-of-many-other-countries/
+[^turnout]: Drew DeSilver, “Turnout in U.S. Has Soared in Recent Elections but by Some Measures Still Trails that of Many Other Countries.” Pew Research Center, November 1, 2022. https://www.pewresearch.org/short-reads/2022/11/01/turnout-in-u-s-has-soared-in-recent-elections-but-by-some-measures-still-trails-that-of-many-other-countries/.
 
-[^demsupp]: https://bti-project.org/en/reports/country-report/TWN
+[^demsupp]: “Taiwan Country Report Report,” BTI Transformation Index, n.d., https://bti-project.org/en/reports/country-report/TWN.
 
 In short, while like all countries it has key limitations, Taiwan is deserves a leading place among global exemplars that it is too rarely afforded. Admiration for Scandinavian countries is a constant refrain on the left in the West, as is praise for Singapore on the right.  While all these jurisdictions have important lessons and in fact many important points of overlap with Taiwan, few places offer the breadth of promise in addressing todays leading challenges that Taiwan does and appeal across the typical divides as it does. As an economically free, vibrantly participatory liberal democracy Taiwan both has something to offer all points on the political spectrum of the West and holds arguably the most compelling example available to those looking to leapfrog the practices of increasingly ailing Western democracies.  This is especially true given its starting point: without abundant natural resources or strategic position, in a fragile geopolitical setting, with a deeply divided rather than homogeneous and robust sized population and only democratizing a few decades ago,  rising from abject poverty in less than a century.  
 
 It will doubtless take decades of study to understand the precise causal connections between Taiwan's unique and dramatic digital democratic practices and the range of success it has found in confronting today's most vexing challenges.  Yet given this appeal, in the interim, it seems critical to articulate as so many have done for Scandinavia and Singapore, the generalizable philosophy behind the strategies of the world's most admired digital democracy.  It is to that task that the rest of this book is devoted. 
 
-[^IMFgdp]:https://www.imf.org/external/datamapper/NGDPDPC@WEO/ADVEC/WEOWORLD/TWN/CHN
-[^TradingEcon]: (https://tradingeconomics.com/country-list/exports)
-[^taxtake]: https://kidb.adb.org/economies/taipeichina, https://www.oecd.org/tax/revenue-statistics-united-states.pdf
-[^WB]: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG, https://www.imf.org/external/datamapper/NGDPDPC@WEO/ADVEC/WEOWORLD/TWN/CHN 
-[^EconFreedom]:https://www.heritage.org/index/
-[^Inequalitycritique]: https://www.journals.uchicago.edu/doi/abs/10.1086/728741?journalCode=jpe
+[^IMFgdp]:  “GDP per Capita, Current Prices,” International Monetary Fund, n.d., https://www.imf.org/external/datamapper/NGDPDPC@WEO/ADVEC/WEOWORLD/TWN/CHN.
+[^TradingEcon]: “Exports,” Trading Economics, n.d., https://tradingeconomics.com/country-list/exports.
+[^taxtake]: “Key Indicators Database,” Asian Development Bank,  n.d., https://kidb.adb.org/economies/taipeichina; “Revenue Statistics 2015 - the United States,” OECD, 2015, https://www.oecd.org/tax/revenue-statistics-united-states.pdf.
+[^WB]: “GDP Growth (Annual %),” World Bank, 2023. https://data.worldbank.org/indicator/ny.gdp.mktp.kd.zg;  “GDP per Capita, Current Prices,” International Monetary Fund, n.d., https://www.imf.org/external/datamapper/NGDPDPC@WEO/ADVEC/WEOWORLD/TWN/CHN. 
+[^EconFreedom]: “Index of Economic Freedom.” The Heritage Foundation, 2023. https://www.heritage.org/index/.
+[^Inequalitycritique]: Gerald Auten, and David Splinter, “Income Inequality in the United States: Using Tax Data to Measure Long-Term Trends,” _Journal of Political Economy_, November 14, 2023. https://doi.org/10.1086/728741.
 
 [^CapitalShare]: The most interesting statistic we woudl like to report on is labor's share of income and its trends in Taiwan.  However, to our knowledge no persuasive and internationally comparable study of this exists.  We hope to see more research on this soon.
-[^Loneliness]:https://www.hindawi.com/journals/hsc/2023/7726692/; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8392793/
-[^Addiction]: https://www.taipeitimes.com/News/biz/archives/2020/02/04/2003730302, https://www.cbsnews.com/pittsburgh/news/study-finds-nearly-57-of-americans-admit-to-being-addicted-to-their-phones/
-[^drugs]: https://drugabusestatistics.org/ https://journals.lww.com/co-psychiatry/fulltext/2020/07000/new_psychoactive_substances_in_taiwan__challenges.4.aspx
-[^GivingUp]: https://heinonline.org/HOL/LandingPage?handle=hein.journals/fora99&div=123&id=&page=
-[^religionTaiwan]: https://www.ait.org.tw/2022-report-on-international-religious-freedom-taiwan/#:~:text=According%20to%20a%20survey%20by,23.9%20percent%20identifying%20as%20nonbelievers.
-[^wikireligion]: https://en.wikipedia.org/wiki/Religion_in_Taiwan
-[^demrank]:https://en.wikipedia.org/wiki/Democracy_indices#:~:text=Democracy%20indices%20are%20quantitative%20and,to%20various%20definitions%20of%20democracy.
-[^polarization]:https://www.pewresearch.org/global/2021/10/13/diversity-and-division-in-advanced-economies/; https://www.cambridge.org/core/journals/american-political-science-review/article/patterns-of-affective-polarization-toward-parties-and-leaders-across-the-democratic-world/E1C891801A4CB1DEBE2AACE6446F6845; 
-[^disinfovolume]: CITE NEEDED.
-[^Disinfo]:https://www.cambridge.org/core/services/aop-cambridge-core/content/view/655F8D3BBD3B48FC2B0F474B8D4B7457/S030574102100134Xa.pdf/reactions_to_chinalinked_fake_news_experimental_evidence_from_taiwan.pdf
-[^crime]: https://www.numbeo.com/crime/rankings_by_country.jsp
-[^crimevus]: https://www.statista.com/statistics/319861/taiwan-crime-rate/#:~:text=In%202022%2C%20around%201%2C139%20crimes,people%20in%20the%20previous%20year, https://counciloncj.org/year-end-2023-crime-trends/#:~:text=Most%20violent%20offenses%20remained%20elevated,by%2093%25%20during%20that%20period.
-[^Freedom]: https://freedomhouse.org/report/freedom-world
-[^EIU]: https://www.eiu.com/n/campaigns/democracy-index-2023
+[^Loneliness]: S. Schroyen, N. Janssen, L. A. Duffner, M. Veenstra, E. Pyrovolaki, E. Salmon, and S. Adam, “Prevalence of Loneliness in Older Adults: A Scoping Review.” _Health & Social Care in the Community 2023_ (September 14, 2023): e7726692. https://doi.org/10.1155/2023/7726692. 
+[^Addiction]: “More than Half of Teens Admit Phone Addiction .” Taipei Times, February 4, 2020. https://www.taipeitimes.com/News/biz/archives/2020/02/04/2003730302; “Study Finds Nearly 57% of Americans Admit to Being Addicted to Their Phones - CBS Pittsburgh.” CBS News, August 30, 2023. https://www.cbsnews.com/pittsburgh/news/study-finds-nearly-57-of-americans-admit-to-being-addicted-to-their-phones/.
+[^drugs]: “NCDAS: Substance Abuse and Addiction Statistics [2020],” National Center for Drug Abuse Statistics, 2020, https://drugabusestatistics.org/; Ling-Yi Feng, and Jih-Heng Li, “New Psychoactive Substances in Taiwan,” _Current Opinion in Psychiatry_ 33, no. 4 (March 2020): 1, https://doi.org/10.1097/yco.0000000000000604.
+[^GivingUp]: Ronald Inglehart, “Giving up on God: The Global Decline of Religion,” _Foreign Affairs_ 99 (2020): 110. https://heinonline.org/HOL/LandingPage?handle=hein.journals/fora99&div=123&id=&page=.
+[^religionTaiwan]: “2022 Report on International Religious Freedom: Taiwan,” American Institute in Taiwan, June 8, 2023, https://www.ait.org.tw/2022-report-on-international-religious-freedom-taiwan/#:~:text=According%20to%20a%20survey%20by.
+[^wikireligion]: “Religion in Taiwan,” Wikipedia, Wikimedia Foundation, January 12, 2020. https://en.wikipedia.org/wiki/Religion_in_Taiwan.
+[^demrank]: “Democracy Indices,” Wikipedia, Wikimedia Foundation, March 5, 2024. https://en.wikipedia.org/wiki/Democracy_indices#:~:text=Democracy%20indices%20are%20quantitative%20and..
+[^polarization]: Laura Silver, Janell Fetterolf, and Aidan Connaughton, “Diversity and Division in Advanced Economies,” Pew Research Center, October 13, 2021, https://www.pewresearch.org/global/2021/10/13/diversity-and-division-in-advanced-economies/.; 
+[^disinfovolume]: Adrian Rauchfleisch, Tzu-Hsuan Tseng, Jo-Ju Kao, and Yi-Ting Liu, “Taiwan’s Public Discourse about Disinformation: The Role of Journalism, Academia, and Politics,” _Journalism Practice_ 17, no. 10 (August 18, 2022): 1–21, https://doi.org/10.1080/17512786.2022.2110928.
+[^Disinfo]: Fin Bauer, and Kimberly Wilson, “Reactions to China-Linked Fake News: Experimental Evidence from Taiwan,” The China Quarterly 249 (March 2022): 1–26. https://doi.org/10.1017/S030574102100134X.
+[^crime]: “Crime Index by Country,” Numbeo, 2023, https://www.numbeo.com/crime/rankings_by_country.jsp.
+[^crimevus]: “Taiwan: Crime Rate,” Statista, n.d, https://www.statista.com/statistics/319861/taiwan-crime-rate/#:~:text=In%202022%2C%20around%201%2C139%20crimes.
+[^Freedom]: “Freedom in the World,” Freedom House, 2023, https://freedomhouse.org/report/freedom-world.
+[^EIU]: “Democracy Index 2023,” Economist Intelligence Unit, n.d., https://www.eiu.com/n/campaigns/democracy-index-2023.
