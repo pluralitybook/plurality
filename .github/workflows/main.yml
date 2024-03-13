@@ -1,0 +1,28 @@
+name: Build Book
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    if: ${{ github.repository_owner == 'pluralitybook' || github.repository_owner == 'audreyt' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v2
+    - name: Generate book files
+      run: |
+        # Install necessary dependencies (e.g., Perl, Docker)
+        perl scripts/make-book.pl
+    - name: Generate book files (zh-tw)
+      run: |
+        perl scripts/make-book-zh-tw.pl
+    - uses: ncipollo/release-action@v1
+      with:
+        artifacts: "*.pdf,*.epub"
+        token: ${{ secrets.RELEASE_TOKEN }}
+        tag: latest
+        allowUpdates: true

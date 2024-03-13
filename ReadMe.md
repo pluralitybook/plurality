@@ -16,7 +16,7 @@ To cite this text, you can use this bibtex as a sample
 
 @online{plurality2023,
   title={Plurality: The Future of Collaborative Technology and Democracy},
-  author={Tang, Audrey and Weyl, Glen and {the Plurality Community}},
+  author={Weyl, E. Glen and Tang, Audrey and {the Plurality Community}},
   year={2023},
   url={https://github.com/pluralitybook/plurality/blob/main/contents/english},
   publisher={GitHub},
@@ -82,6 +82,8 @@ Active translation communities and repositories
 - Ukrainian: https://github.com/vlree-alt/plurality-ukrainian
 - Japanese: https://github.com/nishio/plurality-japanese
 - German: https://github.com/GermanPluralityBook/pluralitaet 
+- Korean: https://github.com/hopelee327/plurality-korean
+- French: https://github.com/xitobal/radicalxchangeparis.github.io/tree/main/public/Plurality%2C%20le%20livre%20-%20G%20Weil
 
 # Summary and next steps
 
