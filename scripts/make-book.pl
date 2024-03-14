@@ -21,10 +21,9 @@ cover-image: scripts/cover-image.png
 mainfont: "Noto Serif"
 linestretch: 1.25
 ---
-
 HEADER
 
-$all .= read_file($_) for glob("contents/english/00-00-*.md");
+$all .= (read_file($_) =~ s/^#+\s+(.+)/\n**$1**/rg). "\n\n" for glob("contents/english/00-0[13]-*.md");
 
 sub read_file {
     my $filename = shift;
@@ -48,9 +47,8 @@ my %Sections = (
     6 => "Section 6: Impact",
     7 => "Section 7: Forward",
 );
-for (sort <contents/english/0*.md>) {
+for (sort <contents/english/0[1234567]*.md>) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
-    next if $basename =~ /^00/;
     my $s = int($basename =~ s/-.*//r);
     if (my $section_name = delete $Sections{$s}) {
         $all .= "# $section_name\n\n";
@@ -69,8 +67,8 @@ write_file('english.md', $all);
 
 write_file(
     '00-01.tex', (
-	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg }
-             glob 'contents/english/00-01-*.md'
+	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg }
+             glob 'contents/english/00-02-*.md'
     )
 );
 
