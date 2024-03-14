@@ -23,7 +23,7 @@ linestretch: 1.25
 ---
 HEADER
 
-$all .= (read_file($_) =~ s/^#+\s+(.+)/\n**$1**/rg). "\n\n" for glob("contents/english/00-0[13]-*.md");
+$all .= (read_file($_) =~ s/^#+\s+(.+)/\n**$1**/rg). "\n\n" for glob("contents/english/0-[13]-*.md");
 
 sub read_file {
     my $filename = shift;
@@ -47,7 +47,7 @@ my %Sections = (
     6 => "Section 6: Impact",
     7 => "Section 7: Forward",
 );
-for (sort <contents/english/0[1234567]*.md>) {
+for (sort <contents/english/[1234567]*.md>) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
     my $s = int($basename =~ s/-.*//r);
     if (my $section_name = delete $Sections{$s}) {
@@ -66,9 +66,9 @@ for (sort <contents/english/0[1234567]*.md>) {
 write_file('english.md', $all);
 
 write_file(
-    '00-01.tex', (
+    '0-1.tex', (
 	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg }
-             glob 'contents/english/00-02-*.md'
+             glob 'contents/english/0-2-*.md'
     )
 );
 
@@ -81,7 +81,7 @@ docker run --rm --volume "$(pwd):/data" audreyt/pandoc-plurality-book english.md
 .
 
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o tmp.pdf --include-before-body=00-01.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o tmp.pdf --include-before-body=0-1.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
 .
 
 system << '.';
@@ -96,4 +96,4 @@ docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-
 
 unlink 'tmp.pdf';
 unlink 'tmp.tex';
-unlink '01-01.tex';
+unlink '1-1.tex';
