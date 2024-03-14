@@ -143,8 +143,8 @@ Yet while he shared the convictions, he believed these hopes to be mostly "false
 
 Across all of these authors, we see many common threads. We see appreciation of the intersectional and layered nature of society, which often shows even greater complexity than other phenomena in the natural sciences: while an electron typically orbits a single atom or molecule, a cell is part of one organism, and a planet orbits one star, in human society each person, and even each organization, is part of multiple intersecting larger entities, often with no single of them being fully inside any other. But how might these advancements in the social sciences translate into similarly more advanced social technologies? This is what we will explore in the next chapter.
 
-[^Soziologie]: Simmel,“Soziologie” (1908)
-[^InfluenceOfSimmel]: Brocic and Silver, "The Influence of Simmel on American Sociology Since 1975"
-[^SecretSocieties]: Simmel, “Sociology of Secrets and Secret Societies”
-[^PublicProblems]: John Dewey, The Public and its Problems (1927)
-[^WEIRDest]: Henrich, J (2020) [The WEIRDest People in the World](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World): How the West Became Psychologically Peculiar and Particularly Prosperous 
+[^Soziologie]: Georg Simmel, _Soziologie: Untersuchungen Über Die Formen Der Vergesellschaftung_, Prague: e-artnow, 2017.
+[^InfluenceOfSimmel]: Miloš Broćić, and Daniel Silver, “The Influence of Simmel on American Sociology since 1975,” _Annual Review of Sociology_ 47, no. 1 (July 31, 2021): 87–108, https://doi.org/10.1146/annurev-soc-090320-033647.
+[^SecretSocieties]: Georg Simmel, “The Sociology of Secrecy and of Secret Societies,” _American Journal of Sociology_ 11, no. 4 (January 1906): 441–98, https://doi.org/10.1086/211418.
+[^PublicProblems]: John Dewey, _The Public and Its Problems_, (New York: H. Holt, 1927).
+[^WEIRDest]: Joseph Henrich, _The Weirdest People in the World How the West Became Psychologically Peculiar and Particularly Prosperous_, (New York Macmillan, 2010).
