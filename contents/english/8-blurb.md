@@ -4,6 +4,6 @@ In the decade since the weekslong occupation of Taiwan’s parliament, this isla
 
 In this book, Digital Minister Audrey Tang and her collaborators – architects of Taiwan’s internationally acclaimed digital democracy – share the secret of their success. Plurality harnesses digital tools not to replace humans or trust, but to harness the same potential energy in social diversity that can erupt in conflict instead for progress, growth and beauty.
 
-From intimate digitally empowered telepathy to global trade running on social networks rather than money, Plurality offers tools to radically enrich relationships while making sure we leave no one behind.
+Plurality aims to recover the depth of small community bonds at the breadth and scale of global markets, enabling deeper collaboration across broader networks. From intimate digitally empowered telepathy to global trade running on social networks rather than money, Plurality offers tools to radically enrich relationships while making sure we leave no one behind.
 
 Plurality thus promises to transform every sector from health care to media, as illustrated by the way it has been written: as a chorus of open, self-governing collaboration of voices from around the globe. Their work in public on this openly available text shows  — as well as tells — how everyone from a devout African farmer to a Hollywood celebrity can help build a more dynamic, harmonious and inclusive world.
