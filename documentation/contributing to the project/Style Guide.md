@@ -1,11 +1,12 @@
 # Style Guide
 
-This document provides brief stylistic guidance on markdown documents that are part of *⿻數位 Plurality*.  
+This document provides brief stylistic guidance on markdown documents that are part of *⿻數位 Plurality*.
+
 1. Structure
-	a. Terminology: The largest division within the book (of which there are 7 in the core, plus prefatory material and blurb, are referred to as "Parts".  Within these, there are usually several "Chapters"; within each chapter there are "Sections" and ocassionally there may be "Subsections" within sections, though these should be avoided except where absolutely necessary.
-	b. Numeration: Both parts and chapters number from 0, with 0 denoting prefatory material to the core elements of whatever level.
-	c. Demarcation: Titles of Chapters are set off by a singled "#" symbol; titles of sections are set off by a triple "###" symbol; titles of subsections are set off by a quadrupule"####".
-	d. Capitalization: Chapter titles are fully capitalized; only the first letter of sections are titled.
+	- Terminology: The largest division within the book (of which there are 7 in the core), plus prefatory material and blurb, are referred to as "Parts".  Within these, there are usually several "Chapters"; within each chapter there are "Sections" and ocassionally there may be "Subsections" within sections, though these should be avoided except where absolutely necessary.
+	- Numeration: Both parts and chapters number from 0, with 0 denoting prefatory material to the core elements of whatever level.
+	- Demarcation: Titles of Chapters are set off by a single "#" symbol; titles of sections are set off by a triple "###" symbol; titles of subsections are set off by a quadrupule "####".
+	- Capitalization: Chapter titles are fully capitalized; only the first letter of sections are titled.
 2. Justification: Paragraphs are not indented.
 3. Divisions: Chapters in Parts 2-7 all begin with some sort of introductory material before the main substances of the chapter which is homogeneous in a Part and varies across Parts (e.g. Part 4 chapters all begin with an illustration of a currently deployed technology illustrating the idea of the chapter).  This opening material should be separated from the rest of the text by "---".
 4. Internal referencing: When referencing Parts, Sections or Chapters, use their titles in quotes such as "In the Part of the book on 'Freedom'" or "In our chapter 'The Lost Dao'".
