@@ -1,3 +1,7 @@
+---
+title: Gov4Git and PMP
+---
+
 # ⿻ Plural Management of ⿻ 數位 Plurality
 
 Plurality aims to tell the world how collaborative technology can remake how we work and govern together. Yet it also aims to show these ideas working in practice, building the book according to the principles the book articulates. This is a challenge, obviously, because it is a book about innovation and thus platforms for the things we want to show do not exist: we are building them as we go in the process of writing the book! This document aims to outline for users the who, what, why, when, where and how of participating in the book’s creation.
