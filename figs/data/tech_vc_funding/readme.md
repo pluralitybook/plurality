@@ -1,5 +1,7 @@
 # VC Deals: AI and Blockchain vs Other Tech
 
+![](./tech_vc_funding.png)
+
 Sources:
 - [NVCA](https://nvca.org/pitchbook-nvca-venture-monitor/) and [data](https://nvca.org/wp-content/uploads/2024/01/Q4_2023_PitchBook-NVCA_Venture_Monitor_Summary_XLS.xlsx)
 - [Pitchbook](https://pitchbook.com/news/reports/q4-2023-crypto-report)
