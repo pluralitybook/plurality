@@ -119,4 +119,4 @@ But these cannot be the only paths forward.  ⿻ science has shown us the power 
 [^ScientificInnovation]: Jacob Foster, Andrey Rzhetsky, and James A. Evans, "Tradition and Innovation in Scientists’ Research Strategies," _American Sociological Review_ 80.5 (2015): 875-908.
 [^ScienceMetrics]: Aaron Clauset, Daniel Larremore, and Roberta Sinatra, "Data-driven predictions in the science of science," _Science_ 355.6324 (2017): 477-480.
 [^AccelerateScienceAI]: Jamshid Sourati, and James Evans, "Accelerating science with human-aware artificial intelligence," _Nature Human Behaviour_ 7.10 (2023): 1682-1696.
-
+[^SciSciField]: (Foot note in text with no actual foot note - so I added but someone needs to put in the actual reference that was intended.)
