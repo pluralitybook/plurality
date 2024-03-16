@@ -43,7 +43,6 @@ Building societal pillars, enriching human norms.
 We're sculpting a legacy of compassion and welfare."
 In each digital interaction, a chance to uplift,
 Connecting humanity, mending the rifts.
-
  
 ---
 
@@ -129,11 +128,11 @@ Because technological systems are instantiated in formal mathematical relationsh
 
 The project of constructing shared digital protocols to reflect these is in nacent stages, as we highlighted in "The Lost Dao". Most of the natural, fundamental affordances of networking are not available to most people even in wealthy countries as basic parts of the online experience. There is no widely adopted, non-proprietary protocol for identification[^IDprotocols] that protects rights to life and personhood online, no widely adopted non-proprietary protocols for the ways we communicate [^MIMI] [^MLS] [^DIDComm] and form groups online that allows free association, no widely adopted non-proprietary protocols for payments to support commerce on real–world assets and no protocols for the secure sharing of digital assets like computation, memory[^FFC] and data[^holoChain] that would allow rights of property and contract in the digital world. Many of these services are almost all controlled and often quasi-monopolized by nation state governments or more often by private corporations.  And even the basic conception of networks that lies behind most approaches to addressing these challenges is too limited, ignoring the central role of intersecting communities. If rights are to have any meaning in our digital world, this has to change.
 
-Luckily, it has begun to change. A variety of developments in the past decade have fitfully taken up the mantle of the "missing layers" of the internet. This work includes the "Web3" and "Decentralized Web" ecosystems, the Gaia-X data sharing framework in Europe, the development of a variety of digital-native currencies and payment systems and most prominently growing investment in "digital public infrastructure" as exemplified by the "India stack" developed in the country in the last decade. These efforts have been underfunded, fragmented across countries and ideologies and in many cases limited in ambition or misled by technocratic or libertarian ideologies or overly simplistic understanding of networks. But they together represent a proof of concept  that a more systematic pursuit of ⿻ is feasible. In this section of the book, we will show how to build on these projects, invest in their future and accelerate our way towards a ⿻ future.
+Luckily, it has begun to change. A variety of developments in the past decade have fitfully taken up the mantle of the "missing layers" of the internet. This work includes the "web3" and "decentralized web" ecosystems, the Gaia-X data sharing framework in Europe, the development of a variety of digital-native currencies and payment systems and most prominently growing investment in "digital public infrastructure" as exemplified by the "India stack" developed in the country in the last decade. These efforts have been underfunded, fragmented across countries and ideologies and in many cases limited in ambition or misled by technocratic or libertarian ideologies or overly simplistic understanding of networks. But they together represent a proof of concept  that a more systematic pursuit of ⿻ is feasible. In this section of the book, we will show how to build on these projects, invest in their future and accelerate our way towards a ⿻ future.
 
-[^IDprotocols] Closed proprietary namespaces and globally managed registries (see “Decentralized Identifiers (DIDs) V1.0.” W3C, July 19, 2022, https://www.w3.org/TR/did-core/) as well as verifiable credentials that support collection of credentials from a variety of sources (see “Verifiable Credentials Data Model 1.0.” W3C, March 3, 2022. https://www.w3.org/TR/vc-data-model/.) 
-[^MIMI] “More Instant Messaging Interoperability (Mimi),” Datatracker, n.d. https://datatracker.ietf.org/group/mimi/about/.
-[^MLS] “Messaging Layer Security,” Wikipedia, January 31, 2024, https://en.wikipedia.org/wiki/Messaging_Layer_Security.
-[^DIDComm] “DIDComm v2 Reaches Approved Spec Status!” Decentralized Identity Foundation, July 26, 2022, https://blog.identity.foundation/didcomm-v2/.
-[^FFC] See Filecoin Foundation (https://fil.org/) and IPFS (https://www.ipfs.tech/)
-[^holoChain] See Holochain (https://www.holochain.org/)
+[^IDprotocols]: Closed proprietary namespaces and globally managed registries (see “Decentralized Identifiers (DIDs) V1.0.” W3C, July 19, 2022, https://www.w3.org/TR/did-core/) as well as verifiable credentials that support collection of credentials from a variety of sources (see “Verifiable Credentials Data Model 1.0.” W3C, March 3, 2022. https://www.w3.org/TR/vc-data-model/.) 
+[^MIMI]: “More Instant Messaging Interoperability (Mimi),” Datatracker, n.d. https://datatracker.ietf.org/group/mimi/about/.
+[^MLS]: “Messaging Layer Security,” Wikipedia, January 31, 2024, https://en.wikipedia.org/wiki/Messaging_Layer_Security.
+[^DIDComm]: “DIDComm v2 Reaches Approved Spec Status!” Decentralized Identity Foundation, July 26, 2022, https://blog.identity.foundation/didcomm-v2/.
+[^FFC]: See Filecoin Foundation (https://fil.org/) and IPFS (https://www.ipfs.tech/)
+[^holoChain]: See Holochain (https://www.holochain.org/)
