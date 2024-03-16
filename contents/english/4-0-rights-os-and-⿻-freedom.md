@@ -1,47 +1,47 @@
 # Rights, Operating Systems and ⿻ Freedom
 
-Each day, Luna navigates a labyrinth of tech,
-From towering giants to startups, a trek.
-Interviews blend into a monotonous dance,
-Jargon-filled words, devoid of values' stance.
-She yearns for projects of substance and worth,
+Each day, Luna navigates a labyrinth of tech,  
+From towering giants to startups, a trek.  
+Interviews blend into a monotonous dance,  
+Jargon-filled words, devoid of values' stance.  
+She yearns for projects of substance and worth,  
 But opportunities veer from her dreams' birth.
 
-One night, deflated, she sinks into her couch,
-Holographic ads engulf her, a sensory slouch.
-"Nourishing democracy's river," the narration begins,
-Capturing her gaze as the manifesto spins.
-Fatigue fades as her mind starts to churn,
+One night, deflated, she sinks into her couch,  
+Holographic ads engulf her, a sensory slouch.  
+"Nourishing democracy's river," the narration begins,  
+Capturing her gaze as the manifesto spins.  
+Fatigue fades as her mind starts to churn,  
 Screen in hand, words illuminating her concern.
 
-"To those crafting digital communication's frame,
-Ensuring privacy, free speech, and equality's flame."
-She imagines a hackathon, debates fierce yet fair,
+"To those crafting digital communication's frame,  
+Ensuring privacy, free speech, and equality's flame."  
+She imagines a hackathon, debates fierce yet fair,  
 Creating controversial yet impactful software.
 
-"To innovators mirroring our best relations,
-Where clicks and interactions build shared celebrations."
-She dreams of heartfelt thanks from children she's aided,
+"To innovators mirroring our best relations,  
+Where clicks and interactions build shared celebrations."  
+She dreams of heartfelt thanks from children she's aided,  
 Buying soda with gratitude, community ties unfrayed.
 
-"To pioneers of digital assets, a toast,
-Empowering choice, economic equality's coast."
-She envisions harnessing her phone's might,
+"To pioneers of digital assets, a toast,  
+Empowering choice, economic equality's coast."  
+She envisions harnessing her phone's might,  
 Buying magical potions, adventuring through the night.
 
-"To creators of digital democracy, a cheer,
-Where governance is a journey, transparent and clear."
-She pictures modernizing her family's ancient vines,
+"To creators of digital democracy, a cheer,  
+Where governance is a journey, transparent and clear."  
+She pictures modernizing her family's ancient vines,  
 Adopting UN techniques, progress intertwines.
 
-"To moral compasses, navigating the virtual sea,
-Ensuring digital realms reflect our highest decree."
-Luna realizes her calling transcends mere platforms,
+"To moral compasses, navigating the virtual sea,  
+Ensuring digital realms reflect our highest decree."  
+Luna realizes her calling transcends mere platforms,  
 Building societal pillars, enriching human norms.
 
-"Together, this community isn't just coding software,
-We're sculpting a legacy of compassion and welfare."
-In each digital interaction, a chance to uplift,
+"Together, this community isn't just coding software,  
+We're sculpting a legacy of compassion and welfare."  
+In each digital interaction, a chance to uplift,  
 Connecting humanity, mending the rifts.
  
 ---

@@ -1,7 +1,6 @@
 # A View From Yushan
 
-> Swirling ocean, beautiful islands;
-
+> Swirling ocean, beautiful islands;  
 > A transcultural republic of citizens.[^TROC]
 
 [^TROC]: This is an alternate interpretation of 中華民國 (lit. "amidst" "cultures" "citizens" "nation"), usually translated as "Republic of China".
