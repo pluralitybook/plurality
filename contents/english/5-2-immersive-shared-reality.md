@@ -78,22 +78,23 @@ Unlike the intimate, direct exchange of thoughts and emotions envisioned in post
 
 "Ready Player One" serves as a cautionary tale for the development and adoption of shared immersive reality technologies, emphasizing the need for balance between digital and physical lives, and the preservation of individual privacy and autonomy. Addressing these concerns requires a careful integration of participatory governance systems, like democratic voting mechanisms, into virtual environments, as well as market interactions in “lesser bandwidth” channels that keep participants engaged in the physical realm.  Grounding participants and striking a balance between digital engagement and their real-world roles and responsibilities is key to harnessing the strength of immersive technologies, without succumbing to their weaknesses.  
 
-[^1,000-Cut-Journey]: “1,000 Cut Journey | Cogburn Research Group,” n.d. https://cogburnresearchgroup.socialwork.columbia.edu/research-projects/1000-cut-journey.
+[^1,000-Cut-Journey]: Cogburn Research Group. “1,000 Cut Journey,” n.d. https://cogburnresearchgroup.socialwork.columbia.edu/research-projects/1000-cut-journey.
 
-[^Becoming-Homeless]: Stanford News. “Virtual Reality Can Help Make People More Empathetic | Stanford News,” October 15, 2018. https://news.stanford.edu/2018/10/17/virtual-reality-can-help-make-people-empathetic/.
+[^Becoming-Homeless]: Alex Shashkevich, “Virtual Reality Can Help Make People More Empathetic,” _Stanford News_, October 17, 2018, https://news.stanford.edu/2018/10/17/virtual-reality-can-help-make-people-empathetic.
 
-[^VR]: Herrera F, Bailenson J, Weisz E, Ogle E, Zaki J. Building long-term empathy: A large-scale comparison of traditional and virtual reality perspective-taking. PLOS ONE 13(10): e0204494, 2018.
+[^VR]: Herrera, Fernanda, Jeremy Bailenson, Erika Weisz, Elise Ogle, and Jamil Zaki. “Building Long-Term Empathy: A Large-Scale Comparison of Traditional and Virtual Reality Perspective-Taking,” Edited by Brock Bastian, _PLOS ONE_ 13, no. 10 (October 17, 2018): e0204494, https://doi.org/10.1371/journal.pone.0204494.
 
-[^TasteRetargeting]: Jas Brooks, Noor Amin, and Pedro Lopes. 2023. Taste Retargeting via Chemical Taste Modulators. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 106, 1–15. https://doi.org/10.1145/3586183.3606818
+[^TasteRetargeting]: Jas Brooks, Noor Amin, and Pedro Lopes, "Taste Retargeting via Chemical Taste Modulators," In _Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23)_, Association for Computing Machinery, New York, NY, USA, Article 106, (2023): 1–15, https://doi.org/10.1145/3586183.3606818.
 
-[^MultisensoryIntegration]:  Cornelio, Patricia, Carlos Velasco, and Marianna Obrist. "Multisensory integration as per technological advances: A review." Frontiers in Neuroscience (2021): 614.
+[^MultisensoryIntegration]:  Patricia Cornelio,  Carlos Velasco, and Marianna Obrist, "Multisensory Integration as per Technological Advances: A Review," _Frontiers in Neuroscience_ (2021): 614.
 
-[^PortalsPolicingProject]: https://www.justicehappenshere.yale.edu/projects/portals-policing-project
+[^PortalsPolicingProject]: “Portals Policing Project,” The Justice Collaboratory, n.d., https://www.justicehappenshere.yale.edu/projects/portals-policing-project.
 
-[^TreeProject]: www.treeofficial.com
+[^TreeProject]: See www.treeofficial.com
 
-[^OlfactoryWearables]: Amores Fernandez, Judith, et al. "Olfactory Wearables for Mobile Targeted Memory Reactivation." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. 2023.
+[^OlfactoryWearables]: Judith Fernandez, Nirmita Merha, Bjoern Rasch, and Pattie Maes,
+"Olfactory Wearables for Mobile Targeted Memory Reactivation," _Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems_, Hamburg, Germany, Article 717, (2023): 1–20, https://doi.org/10.1145/3544548.35808922023.
 
-[^DreamEngineering]:  Carr, Michelle, et al. "Dream engineering: Simulating worlds through sensory stimulation." Consciousness and cognition 83 (2020): 102955.
+[^DreamEngineering]:  Michelle Carra, Adam Haarb, Judith Amoresb, Pedro Lopesc, et al., "Dream Engineering: Simulating Worlds through Sensory Stimulation," _Consciousness and Cognition_ 83 (2020): https://doi.org/10.1016/j.concog.2020.102955. 
 
-[^RealtimeDreamDialogue]: Konkoly et al. Real-time dialogue between experimenters and dreamers during REM sleep. Current Biology, 2021 DOI: 10.1016/j.cub.2021.01.026
+[^RealtimeDreamDialogue]: Karen Konkoly, Kristoffer Appel, Emma ChabaniKonkoly et al., Real-time dialogue between experimenters and dreamers during REM sleep, _Current Biology_ 32, 7 (2021): https://doi.org/10.1016/j.cub.2021.01.026

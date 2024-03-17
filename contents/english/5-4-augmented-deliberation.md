@@ -97,24 +97,24 @@ Furthermore, deliberation in the democratic process is also limited by the abili
 
 Lastly, deliberation is sometimes idealized as helping overcome divisions and reach a true "common will".  Yet, while reaching points of overlapping and rough consensus is crucial for common action, so is the regeneration of diversity and productive conflict to fuel dynamism and ensure productive inputs to future deliberations.  Thus deliberations and their balance with other modes of collaboration must always attend, as we have illustrated above, to this stimulus to productive conflict as much as it does to the resolution towards active and away from explosive conflict.
 
-[^CNDiversity]: Junsol Kim, Zhao Wang, Haohan Shi, Hsin-Keng Ling, and James Evans. "Individual misinformation tagging reinforces echo chambers; Collective tagging does not." _arXiv preprint arXiv:2311.11282_ (2023). [https://arxiv.org/abs/2311.11282](https://arxiv.org/abs/2311.11282)
+[^CNDiversity]: Junsol Kim, Zhao Wang, Haohan Shi, Hsin-Keng Ling, and James Evans, "Individual misinformation tagging reinforces echo chambers; Collective tagging does not," _arXiv preprint arXiv:2311.11282_ (2023), [https://arxiv.org/abs/2311.11282](https://arxiv.org/abs/2311.11282).
 
-[^TradeoffDiversity]: Sinan Aral, and Marshall Van Alstyne. "The diversity-bandwidth trade-off." American journal of sociology 117, no. 1 (2011): 90-171.
+[^TradeoffDiversity]: Sinan Aral, and Marshall Van Alstyne, "The diversity-bandwidth trade-off," American journal of sociology 117, no. 1 (2011): 90-171.
 
-[^InformationWealth]: Simon, Herbert. (1971) Designing Organizations for an Information-Rich World, _Computers, Communications, and the Public Interest_
+[^InformationWealth]: Herbert Simon, “Designing Organizations for an Information-Rich World,” In _Computers, Communications, and the Public Interest_, edited by Martin Greenberger, 38–72. Baltimore: The Johns Hopkins Press, 1971. https://gwern.net/doc/design/1971-simon.pdf.
 
-[^TyrannyStructurelessness]: Freeman, Jo. (1970) "The Tyranny of the Structurelessness". https://doi.org/10.1353/wsq.2013.0072
+[^TyrannyStructurelessness]: Jo Freeman, “The Tyranny of Structurelessness.” WSQ: Women’s Studies Quarterly 41, no. 3-4 (2013): 231–46. https://doi.org/10.1353/wsq.2013.0072.
 
-[^RealTalk]: Boston Globe, "Some Bostonians feel largely unheard. With MIT’s ‘Real Talk’ portal now public, here’s a chance to really listen", available at https://www.bostonglobe.com/2021/10/25/metro/some-bostonians-feel-largely-unheard-with-mits-real-talk-portal-now-public-heres-chance-really-listen/
+[^RealTalk]: Meghna Irons, “Some Bostonians Feel Largely Unheard, With MIT’s ‘Real Talk’ Portal Now Public, Here’s a Chance to Really Listen,” The Boston Globe, October 21, 2021, https://www.bostonglobe.com/2021/10/25/metro/some-bostonians-feel-largely-unheard-with-mits-real-talk-portal-now-public-heres-chance-really-listen/.
 
-[^DemocraticInputs]: Tyna, Eloundou (OpenAI) et al. (2023) Democratic inputs to AI https://openai.com/blog/democratic-inputs-to-ai 
+[^DemocraticInputs]: Wojciech Zaremba, Arka Dhar, Lama Ahmad, Tyna Eloundou, Shibani Santurkar, Sandhini Agarwal, and Jade Leung, “Democratic Inputs to AI,” OpenAI, May 25, 2023, https://openai.com/blog/democratic-inputs-to-ai. 
 
-[^LLMCensorship]: David Glukhov, Ilia Shumailov, Yarin Gal, Nicolas Papernot, Vardan Papyan (2023). LLM Censorship: A Machine Learning Challenge or a Computer Security Problem? https://arxiv.org/abs/2307.10719
+[^LLMCensorship]: David Glukhov, Ilia Shumailov, Yarin Gal, Nicolas Papernot, and Vardan Papyan, “LLM Censorship: A Machine Learning Challenge or a Computer Security Problem?” _arXiv_ (New York: Cornell University, July 20, 2023): https://arxiv.org/pdf/2307.10719.pdf.
 
-[^WorldCafe]: [World Cafe](https://theworldcafe.com/)
+[^WorldCafe]: See The World Cafe (https://theworldcafe.com/)
 
-[^OpenSpaceTechnnology]: [Open Space Technology](https://openspaceworld.org/wp2/)
+[^OpenSpaceTechnnology]: See Open Space Technology at https://openspaceworld.org/wp2/
 
-[^LLMDemocracy]: Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, Taylor Sorensen, and David Wingate. "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale." _Proceedings of the National Academy of Sciences_ 120, no. 41 (2023): e2311627120.
+[^LLMDemocracy]: Lisa Argyle, Christopher Bail, Ethan Busby, Joshua Gubler, Thomas Howe, Christopher Rytting, Taylor Sorensen, and David Wingate, "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale." _Proceedings of the National Academy of Sciences_ 120, no. 41 (2023): e2311627120.
 
-[^LLMFinetune]: Junsol Kim, and Byungkyu Lee, "Ai-augmented surveys: Leveraging large language models for opinion prediction in nationally representative surveys," _arXiv preprint arXiv:2305.09620_ (2023). [https://arxiv.org/abs/2305.09620](https://arxiv.org/abs/2305.09620)
+[^LLMFinetune]: Junsol Kim, and Byungkyu Lee, "Ai-augmented surveys: Leveraging large language models for opinion prediction in nationally representative surveys," _arXiv_ (New York: Cornell University, November 26, 2023): https://arxiv.org/pdf/2305.09620.pdf.
