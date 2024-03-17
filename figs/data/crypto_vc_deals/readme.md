@@ -1,5 +1,8 @@
 # Crypto/Blockchain VC Deals: Money Invested & Deal Count
 
+![](./crypto_vc.png)
+
+
 Source: [Galaxy Digital Research](https://www.galaxy.com/research/insights/2021-crypto-vcs-biggest-year-ever/)
 
 The original figure takes data from Pitchbook showing deal count and total VC money invested between the years 2016 and 2021.
