@@ -135,14 +135,14 @@ Digital freedom of association is tightly connected to the other freedoms we dis
 
 Furthermore, the right of free association is the foundation on which commerce and contracts are built.  Transactions are among the simplest forms of association and how digital transaction systems can replicate the privacy that is often touted as a core benefit of cash depends intimately on who can view what transactions at what resolution.  Contracts are more sophisticated forms of association and corporations even more so.  All rely heavily on information integrity and common understandings of obligations.  In this sense, the freedom of association we outlined in this chapter, together with identity in the last, are the linchpins for what follows in the rest of the book.
 
-[^Tocqueville]: Toqueville (1835). *Democracy In America* (Henry Reeve, Trans.). https://www.gutenberg.org/files/815/815-h/815-h.htm
-[^LickliderTaylor]: J. C. R. Licklider and R. W. Taylor (1968). “The Computer As a Communication Device,” *Science and Technology*.
-[^SimSec]: Simmel "Sociology of Secrecy and Secret Societies"
+[^Tocqueville]: Alexis De Tocqueville, _Democracy in America_, (Lexington, Ky: Createspace, 2013), also available at https://www.gutenberg.org/files/815/815-h/815-h.htm.
+[^LickliderTaylor]: Joseph Licklider, and Robert Taylor, “The Computer as a Communication Device,” _Science and Technology_, April 1968, also available at https://internetat50.com/references/Licklider_Taylor_The-Computer-As-A-Communications-Device.pdf.
+[^SimSec]: George Simmel. “The Sociology of Secrecy and of Secret Societies.” _American Journal of Sociology_ 11, no. 4 (January 1906): 441–98. https://doi.org/10.1086/211418.
 [^DLTS]: Halpern and Pass "A knowledge-based analysis of the blockchain protocol"
-[^BiggestFight]: Frank H. McCourt, Jr with Michael J. Casey (2024). *Our Biggest Fight: reclaiming liberty, humanity, and dignity in the digital age*. https://www.penguinrandomhouse.com/books/743398/our-biggest-fight-by-frank-h-mccourt-jr-with-michael-j-casey/
-[^ContextualConfidence]: Jain, Hitzig, Mishkin (2023). Contextual Confidence and Generative AI. https://arxiv.org/abs/2311.01193
-[^Spritely]: Spritely Project. https://spritelyproject.org/
-[^ZKCanon]: Elena Burger, Bryan Chiang, Sonal Chokshi, Eddy Lazzarin, Justin Thaler, Ali Yahya. Zero Knowledge Canon. https://a16zcrypto.com/posts/article/zero-knowledge-canon/
-[^BowlingAlone]: Putnam, R.D. (1995). "Bowling Alone: America's Declining Social Capital". *Journal of Democracy*. https://doi.org/10.1353/jod.1995.0002.
+[^BiggestFight]: Frank McCourt, and Michael Casey, _Our Biggest Fight: Reclaiming Liberty, Humanity, and Dignity in the Digital Age_, (New York: Crown, 2024).
+[^ContextualConfidence]: Jain Shrey, Zoë Hitzig, and Pamela Mishkin, “Contextual Confidence and Generative AI,” _ArXiv_ (New York: Cornell University, November 2, 2023), https://doi.org/10.48550/arxiv.2311.01193.
+[^Spritely]: Spritely Project, (see https://spritelyproject.org/)
+[^ZKCanon]: Elena Burger, Bryan Chiang, Sonal Chokshi, Eddy Lazzarin, Justin Thaler, and Ali Yahya, “Zero Knowledge Canon, Part 1 & 2,” _a16zcrypto_, September 16, 2022, https://a16zcrypto.com/posts/article/zero-knowledge-canon/.https://a16zcrypto.com/posts/article/zero-knowledge-canon/.
+[^BowlingAlone]: Robert Putnam, “Bowling Alone: America’s Declining Social Capital,” _Journal of Democracy_ 6, no. 1 (1995): 65–78.
 [^NAMPrinciple]: Kojin Karatani (2000). "NAM原理" *太田出版* (Published in Japanese. Not translated in English). In this year Karatani founded the New Associationist Movement in Japan. It was an anti-capitalist, anti-nation-state association inspired by experiments with Local Exchange Trading Systems.
 [^PrivateClubs]: Richard Rorty wrote "We can urge the construction of a world order whose model is a bazaar surrounded by lots and lots of exclusive private clubs." in Rorty, R. (1986). "On ethnocentrism: A reply to Clifford Geertz". University of Michigan. He suggests we need not only public spaces but also a variety of small communities.
