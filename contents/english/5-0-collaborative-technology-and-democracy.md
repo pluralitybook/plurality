@@ -116,6 +116,6 @@ None of this is inevitable and of course there are many stories of intersections
 
 In this part of the book we will (far from exhaustively) explore a range of approaches to collaboration across difference and how further advances to ⿻ can extend and build on them.  Each chapter will begin, as this one did, with an illustration of technology near the cutting edge of what is possible that is in use today.  It will then describe the landscape of approaches that are common and emerging in its area. Next it will highlight the promise of future developments that are being research, as well as risks these tools might pose to ⿻ (such as homogenization) and approaches to mitigating them, including by harnessing tools described in other chapters.  We hope that the wide range of approaches we highlight draws out not just the substance of ⿻, but also the consistency of its approach with its substance.  Only a ⿻ complementary and networked directions can support the development of a ⿻ future.
 
-[^Ricardo]: On the Principles of Political Economy and Taxation, London, John Murray, 1817. 
+[^Ricardo]: David Ricardo, _On the Principles of Political Economy and Taxation_, (London: John Murray, 1817). 
 [^Disanalogy]: One possible disanalogy is that the Second Law of Thermodynamics implies that in a long-term and broad scope sense, regeneration  can never succeed.  Whether the same applies to diversity is less clear, though given how long term the relevance of the Second Law is, the analogy is quite strong for practical purposes.  In the long run, we're all dead.
-[^Levi]: Cite Levi-Strauss here
+[^Levi]: Claude Lévi-Strauss, _The Elementary Structures of Kinship_, (Boston: Beacon Press, 1969).

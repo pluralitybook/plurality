@@ -76,4 +76,4 @@ Digital infrastructure does not point to a one-size-fits-all solution; each nati
 
 In conclusion, the right to access is a cornerstone for achieving digital democracy and social inclusivity. To move towards such a future requires multi-dimensional efforts, including technological innovation and policy cooperation. The next chapter will delve deeper into these intertwined issues.
 
-[^Diia]: Ukrainian Digital Minister Mykhailo Fedorov said, "[Diia is willing to share its code and UX/UI design methods with Estonia](https://mezha.media/2023/01/19/diia-mriik/)"
+[^Diia]: Note Ukraine's readiness to share its code and UX/UI design methods with Estonia (see Igor Sushon, “Estonia Launches the State Application MRiik, Built on the Basis of the Ukrainian Application Diia,” Mezha, January 19, 2023, https://mezha.media/2023/01/19/diia-mriik/.https://mezha.media/2023/01/19/diia-mriik/)"
