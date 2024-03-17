@@ -68,17 +68,17 @@ The journey into post-symbolic communication is not without its perils. The very
 
 Balancing telepathic communication with lower-bandwidth, structured forms of communication is essential to preserve privacy, autonomy, diversity, and human governance in the future. Communication, like speech and text, is less direct and immediate than telepathy but is structured and deliberate. It requires the sender to formulate thoughts into words or sentences, providing a level of control and reflection that instantaneous telepathic communication lacks. Markets and voting systems also serve as quintessential examples of lower-bandwidth, structured forms of communication, offering a counterbalance. In markets, the myriad decisions made by consumers and producers are communicated through the price mechanism. This system, while less immediate and detailed than telepathic communication, provides a structured and aggregated way of expressing preferences and values. It allows for privacy in decision-making, as individuals do not have to reveal the full spectrum of their thoughts and motivations. Similarly, voting is a deliberate, structured form of communication where individuals express their political and social preferences at a fixed point in time. Unlike continuous and invasive telepathic streams, voting encapsulates the will of the populace in a manner that is both manageable and interpretable, preserving the autonomy of the individual voter. This structured approach is crucial in maintaining a balance between efficient communication and the safeguarding of personal autonomy, privacy, and democratic processes, acting as a vital check against the overreach of an all-encompassing telepathic matrix.
 
-[^1]: Lanier, Jaron. You are not a gadget: A manifesto. Vintage, 2011.
+[^1]: Jaron Lanier, _You Are Not a Gadget a Manifesto_, (London [Etc.]: Penguin Books, 2011).
 
-[^2]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009). Influence of paced maternal breathing on fetal–maternal heart rate coordination. PNAS, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106
+[^2]: P. van Leeuwen, D. Geue, Michael Thiel, Dirk Cysarz, S Lange, Marino Romano, Niels Wessel, Jürgen Kurths, and Dietrich Grönemeyer, “Influence of Paced Maternal Breathing on Fetal–Maternal Heart Rate Coordination,” _Proceedings of the National Academy of Sciences of the United States of America_ 106, no. 33 (August 18, 2009): 13661–66. https://doi.org/10.1073/pnas.0901049106.
 
-[^3]: Fernandez, Judith Amores. Olfactory interfaces: toward implicit human-computer interaction across the consciousness continuum. Diss. Massachusetts Institute of Technology, School of Architecture and Planning, Program in Media Arts and Sciences, 2020.
+[^3]: Judith Fernandez, "Olfactory interfaces: toward implicit human-computer interaction across the consciousness continuum," Diss. Massachusetts Institute of Technology, School of Architecture and Planning, Program in Media Arts and Sciences, 2020.
 
-[^4]: Andrea Stevenson Won, Jeremy Bailenson, Jimmy Lee, Jaron Lanier, Homuncular Flexibility in Virtual Reality, Journal of Computer-Mediated Communication, Volume 20, Issue 3, 1 May 2015, Pages 241–259, https://doi.org/10.1111/jcc4.12107
+[^4]: Andrea Won, Jeremy Bailenson, Jimmy Lee, and Jaron Lanier, "Homuncular Flexibility in Virtual Reality," _Journal of Computer-Mediated Communication_, Volume 20, Issue 3, 1 May 2015, Pages 241–259, https://doi.org/10.1111/jcc4.12107
 
-[^5]: Huang, Han, et al. "Real-time Animation Generation and Control on Rigged Models via Large Language Models." NeurIPS Workshop on ML for Creativity and Design (2023)
+[^5]: Han Huang, Fernanda De La Torre, Cathy Fang, Andrzej Banburski-Fahey, Judith Amores, and Jaron Lanier. “Real-Time Animation Generation and Control on Rigged Models via Large Language Models,” arXiv (Cornell University, February 15, 2024), https://arxiv.org/pdf/2310.17838.pdf (Originally at the 37th Conference on Neural Information Processing Systems (NeurIPS) Workshop on ML for Creativity and Design in 2023).
 
-[^6]: Lorach, H., Galvez, A., Spagnolo, V. et al. Walking naturally after spinal cord injury using a brain–spine interface. Nature 618, 126–133 (2023). https://doi.org/10.1038/s41586-023-06094-5
+[^6]: Henri Lorach, Andrea Galvez, Valeria Spagnolo, et al., Walking naturally after spinal cord injury using a brain–spine interface, _Nature_ 618, 126–133 (2023), https://doi.org/10.1038/s41586-023-06094-5
 
 
 
