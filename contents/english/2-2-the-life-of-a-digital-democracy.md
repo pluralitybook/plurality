@@ -1,14 +1,15 @@
 # The Life of a Digital Democracy
 
-> When we see "internet of things," let's make it an **internet of beings**.
-
-> When we see "virtual reality," let's make it a **shared reality**.
-
-> When we see "machine learning," let's make it **collaborative learning**.
-
-> When we see "user experience," let's make it **about human experience**.
-
-> When we hear “the singularity is near” — let us remember: The **Plurality** is here.
+> When we see "internet of things,"  
+>   let's make it an **internet of beings**.  
+> When we see "virtual reality,"  
+>   let's make it a **shared reality**.  
+> When we see "machine learning,"  
+>   let's make it **collaborative learning**.  
+> When we see "user experience,"  
+>   let's make it **about human experience**.  
+> When we hear “the singularity is near” —  
+>   let us remember: The **Plurality** is here.
 
 Without living in Taiwan and experiencing it regularly, it is hard to grasp what such an achievement means, and for those living their continuously many of these features are taken for granted. Thus we aim here to provide concrete illustrations and quantitative analyses of what distinguishes Taiwan's digital civic infrastructure from those of most of the rest of the world.  Because there are far too many examples to discuss in detail, we have selected six diverse illustrations that roughly cover a primary focal project for each two year period since 2012; after we briefly list a wide range of other programs.
 
@@ -35,7 +36,7 @@ Many Sunflower participants devoted themselves to the open government movement; 
 During this process of institutionalization of g0v, there was growing demand to apply the methods that had allowed for these dispute resolutions to a broader range of policy issues.  This led to the establishment of vTaiwan, a platform and project developed by g0v for facilitating deliberation on public policy controversies.  The process involved many steps (proposal, opinion expression, reflection and legisation) each harnessing a range of open source software tools, but has become best known for its use of the at-the-time(2015)-novel machine learning based open-source "wikisurvey"/social media tool Polis, which we discuss further in our chapter on 05-04 Augmented Deliberation below.  In short, Polis functions similarly to conventional microblogging services like Twitter/X, except that it employs dimension reduction techniques to cluster opinions. Instead of displaying content that maximizes engagement, Polis shows the clusters of opinion that exist and highlights statements that bridge them. This approach facilitates both consensus formation and a better understanding of the lines of division.
 
 <div align="center">
-    <img src="../../figs/vtaiwan-polis-ai.png" width="70%" alt="vtaiwan-polis">
+    <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/vtaiwan-polis-ai.png" width="70%" alt="vtaiwan-polis">
 </div>
 
 vTaiwan was deliberately intended as an experimental, high-touch, intensive platform for committed participants.  It had about 200,000 users or about 1% of Taiwan's population at its peak and held detailed deliberations on 28 issues, 80% of which led to legislative action.  These focused mostly on questions around technology regulation, such as the regulation of ride sharing, responses to non-consensual intimate images, regulatory experimentation with financial technology and regulation of AI. 
