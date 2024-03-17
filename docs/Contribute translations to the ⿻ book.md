@@ -1,3 +1,7 @@
+---
+title: Translation Contributor Onboarding
+---
+
 # Plurality Translation Contributor Onboarding
 
 >👋 Welcome! This document aims to help onboard new contributors from different regional communities to help translate the Plurality book.
