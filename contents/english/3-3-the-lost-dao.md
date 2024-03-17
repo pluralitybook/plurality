@@ -47,7 +47,7 @@ At the core of the development of what became the internet was replacing central
 
 While the concept of networks, redundancy and sharing permeate Lick's original vision, it was Paul Baran's 1964 report "On Distributed Communications" that clearly articulated how and why communications networks should strive for a ⿻ rather than centralized structure.
 
-<img src="../../figs/3-3-Fig1.png" width="100%" alt="Paul Baran's work On Distributed Communication">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-Fig1.png" width="100%" alt="Paul Baran's work On Distributed Communication">
 
 Baran argued that while centralized switchboards achieved high reliability at low cost under normal conditions, they were fragile to disruptions. On the other hand, networks with many centers could be built with cheap and unreliable components and still withstand even quite devastating attacks by "routing around damage", taking a dynamic path through the network based on availability rather than prespecified planning. While Baran received support and encouragement from scientists at Bell Labs, his ideas were roundly dismissed by AT&T, the national telephone monopoly in whose culture high-quality centralized dedicated machinery was deeply entrenched.
 

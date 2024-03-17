@@ -1,7 +1,6 @@
 # A View From Yushan
 
-> Swirling ocean, beautiful islands;
-
+> Swirling ocean, beautiful islands;  
 > A transcultural republic of citizens.[^TROC]
 
 [^TROC]: This is an alternate interpretation of 中華民國 (lit. "amidst" "cultures" "citizens" "nation"), usually translated as "Republic of China".
@@ -32,7 +31,7 @@ Almost a decade after these events, the other primary author of this book visite
 
 FIX FLAG DIAGRAM
 
-[^VDemInfo]: “Disinformation in Taiwan: International versus Domestic Perpetrators,” V-Dem, 2020. https://v-dem.net/weekly_graph/disinformation-in-taiwan-international-versus.
+[^VDemInfo]: “Disinformation in Taiwan: International versus Domestic Perpetrators,” V-Dem, 2020. https://v-dem.net/weekly_graph/disinformation-in-taiwan-international-versus
 
 Yet, despite these extreme divides and harnessing the technologies developed partly as a result of the Sunflower movement, the January 13 election has become a positive model to the world, with the candidate of the party opposed by the authoritarian adversary outperforming opinion polls, calm prevailing after the election and a largely consensual outcome being reached across the society. This capacity to harness technology and social organization to channel widely divergent attitudes towards shared progress was most sharply manifested in the decade of work following the Sunflower movement.  Yet it has far deeper historical roots, roots that come from different starting points and converge on this fateful decade of digital democracy.
 
