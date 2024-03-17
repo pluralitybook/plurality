@@ -4,6 +4,7 @@
 > A transcultural republic of citizens.[^TROC]
 
 [^TROC]: This is an alternate interpretation of 中華民國 (lit. "amidst" "cultures" "citizens" "nation"), usually translated as "Republic of China".
+---
 
 Standing at the summit of East Asia's highest peak, [Yushan](https://en.wikipedia.org/wiki/Yu_Shan) (Jade Mountain), one can not only look down on Taiwan, but also feel how this small, mountainous island nation is a global crossroad. Located at the junction of the Eurasian and Pacific tectonic plates, Taiwan's geological fault line yearly pushes it up, even as it also regularly causes earthquakes against which rigorous building code protect inhabitants.  In the same way, the clash of Taiwan's diverse culture, history and values has built a prosperous and innovative society, while pro-social digital innovation has managed to protect it from polarization.
 
