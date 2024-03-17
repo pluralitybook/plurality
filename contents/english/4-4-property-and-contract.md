@@ -169,14 +169,14 @@ Treating name spaces as private property makes little sense, given that those wh
 
 
 
-[^Phys]: cite Crawford and Gray and Suri books here.
-[^EconoCloud]: cite Harms and Yamartino "Economics of the Cloud" paper
-[^DawnOfEverything]:  [The Dawn of Everything: A New History of Humanity](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) (2021) book by anthropologist and activist David Graeber, and archaeologist David Wengrow. In this book the authors epxlore a vast range of political creativity and flexability surrounding how humans have organized themselves in the last 100,000 of years. 
-[^MysteryOfCapital]: The Mystery of Capital by Hernado DeSoto. In the book he emphasizes that the abstract representation of property through formal titles and documentation allows assets to be leveraged in the financial system, enabling them to generate wealth and spur economic growth
-[^Henrich]: see the "New Institutions, New Psychologies" chapter of Joseph Henrich's book the Weirdest People in the World 
-[^whoownsthefuture]: Jaron Lanier, Who Owns the Future?, (New York: Simon and Schuster, 2014).
-[^datatrust]: https://datatrusts.uk/blogs/data-trusts-and-the-eu-data-strategy
-[^datacollab]: https://www.datacollaboration.org/
-[^datacoops]: Thomas Hardjono and Alex Pentland, "Data cooperatives: Towards a foundation for decentralized personal data management," arXiv preprint arXiv:1905.08819 (2019).
-[^dataaslabor]: Eric Posner and E. Glen Weyl, Radical Markets (Princeton: Princeton University Press, 2018), chapter 5.
+[^Phys]: Mary Gray, and Siddhath Suri. _Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass_. Boston: Houghton Miffilin Harcourt, 2019.
+[^EconoCloud]: Rolf Harms, and Michael Yamartino, “The Economics of the Cloud,” 2010, https://news.microsoft.com/download/archived/presskits/cloud/docs/The-Economics-of-the-Cloud.pdf.
+[^DawnOfEverything]: See David Graeber, and David Wengrow, _The Dawn of Everything: A New History of Humanity_, (New York: Farrar, Straus And Giroux, 2021). In this book the authors explore a vast range of political creativity and flexibility surrounding how humans have organized themselves in the last 100,000 years. 
+[^MysteryOfCapital]: Hernando de Soto, _The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else_, (New York: Basic Books, 2000). In the book he emphasizes that the abstract representation of property through formal titles and documentation allows assets to be leveraged in the financial system, enabling them to generate wealth and spur economic growth
+[^Henrich]: see Joseph Henrich, "Part III: New Institutions, New Psychologies," In _The Weirdest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous_. New York Macmillan, 2010. 
+[^whoownsthefuture]: Jaron Lanier, _Who Owns the Future?_, (New York: Simon and Schuster, 2014).
+[^datatrust]: Sylvie Delacroix, and Jess Montgomery, “Data Trusts and the EU Data Strategy,” Data Trusts Initiative, June 2020. https://datatrusts.uk/blogs/data-trusts-and-the-eu-data-strategy.
+[^datacollab]: See the Data Collaboration Alliance at https://www.datacollaboration.org/
+[^datacoops]: Thomas Hardjono and Alex Pentland, "Data cooperatives: Towards a Foundation for Decentralized Personal Data Management," _arXiv_ (New York: Cornell University, 2019), https://arxiv.org/pdf/1905.08819.pdf.
+[^dataaslabor]: Eric Posner and Glen Weyl, _Radical Markets_ (Princeton: Princeton University Press, 2018), chapter 5.
 
