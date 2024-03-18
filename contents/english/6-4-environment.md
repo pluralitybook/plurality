@@ -1,6 +1,6 @@
 # Environment
 
-⿻ may be even more core to addressing the most pressing environmental problems we face, from climate change to biodiversity loss, than even "green technologies" like clean energy are, because they provide a basis both for cooperation on developing those technologies and for establishing a positive communication with natural features than represents their interests in social decisions.  As such, ⿻ may be central to the survival of the earth as a human-supporting habitat.
+⿻ may be even more core to addressing the most pressing environmental problems we face, from climate change to biodiversity loss, than even "green technologies" like clean energy are, because they provide a basis both for cooperation on developing those technologies and for establishing a positive communication with natural features that represents their interests in social decisions.  As such, ⿻ may be central to the survival of the earth as a human-supporting habitat.
 
 ---
 
