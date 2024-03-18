@@ -1,9 +1,13 @@
 # The Lost Dao
 
 > (D)ecisions about the development and exploitation of computer technology must be made not only "in the public interest" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, "Computers and Government", 1980[^CandG]
----
+
 
 [^CandG]: J.C.R. Licklider, "Computers and Government" in Michael L. Dertouzos and Joel Moses eds., *The Computer Age: A Twenty-Year View* (Cambridge, MA: MIT Press, 1980)
+
+---
+
+
 
 Can a ⿻ understanding of society lay the foundation for social transformations as dramatic as those that fields like quantum mechanics and ecology have brought to natural sciences, physical technology and our relationship to nature? Liberal democracies often celebrate themselves as pluralistic societies, which would seem to indicate they have already drawn the available lessons from ⿻ social science. Yet despite this formal commitment to pluralism and democracy, almost every country has been forced by the limits of available information systems to homogenize and simplify social institutions in a monist atomist mold that runs into direct conflict with such values. The great hope of ⿻ social science and ⿻ built on top of it is to use the potential of information technology to begin to overcome these limitations.
 
