@@ -18,11 +18,12 @@ subtitle: "The Future of Collaborative Technology and Democracy"
 author: "E. Glen Weyl, Audrey Tang and ⿻ Community"
 date: "$current_date"
 cover-image: scripts/cover-image.png 
+mainfont: "Noto Serif"
+linestretch: 1.25
 ---
-
 HEADER
 
-$all .= read_file("contents/english/00-00-About-the-authors.md");
+$all .= (read_file($_) =~ s/^#+\s+(.+)/\n**$1**/rg). "\n\n" for glob("contents/english/0-[13]-*.md");
 
 sub read_file {
     my $filename = shift;
@@ -46,9 +47,8 @@ my %Sections = (
     6 => "Section 6: Impact",
     7 => "Section 7: Forward",
 );
-for (sort <contents/english/0*.md>) {
+for (sort <contents/english/[1234567]*.md>) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
-    next if $basename =~ /^00/;
     my $s = int($basename =~ s/-.*//r);
     if (my $section_name = delete $Sections{$s}) {
         $all .= "# $section_name\n\n";
@@ -58,16 +58,34 @@ for (sort <contents/english/0*.md>) {
     Encode::_utf8_on($c);
     $c =~ s/# /## $basename /;
     $c =~ s/^( +|&nbsp;)+//mg;
+    $c =~ s,(\[\^)(.*?\]),$1$basename-$2,g;
     $c =~ s,<img\b[^>]*src="([^"]+)"[^>]*>,![$1]($1){ width=100% },g;
     $all .= "$c\n\n";
 }
 
 write_file('english.md', $all);
 
+write_file(
+    '0-1.tex', (
+	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg }
+             glob 'contents/english/0-2-*.md'
+    )
+);
+
 print "Generating PDF (this may take a while)...\n";
 
+# Pre-running twice to generate emoji PDFs
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.pdf --include-before-body=/data/contents/english/00-01-finding-your-dao.md --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/Pandoc-Emojis-Filter/emoji_filter.js
+docker run --rm --volume "$(pwd):/data" audreyt/pandoc-plurality-book english.md -o tmp.tex --filter=/data/scripts/emoji_filter.js
+docker run --rm --volume "$(pwd):/data" audreyt/pandoc-plurality-book english.md -o tmp.tex --filter=/data/scripts/emoji_filter.js
+.
+
+system << '.';
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o tmp.pdf --include-before-body=0-1.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
+.
+
+system << '.';
+docker run --entrypoint /usr/bin/pdftk --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book A=/data/tmp.pdf B=/data/scripts/cover-image.pdf cat B A2-end output /data/Plurality-english.pdf
 .
 
 print "Generating ePub (this should be fast)...\n";
@@ -75,3 +93,7 @@ print "Generating ePub (this should be fast)...\n";
 system << '.';
 docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o Plurality-english.epub --toc --toc-depth=2 -s
 .
+
+unlink 'tmp.pdf';
+unlink 'tmp.tex';
+unlink '1-1.tex';

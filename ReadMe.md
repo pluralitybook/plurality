@@ -16,7 +16,7 @@ To cite this text, you can use this bibtex as a sample
 
 @online{plurality2023,
   title={Plurality: The Future of Collaborative Technology and Democracy},
-  author={Tang, Audrey and Weyl, Glen and {the Plurality Community}},
+  author={Weyl, E. Glen and Tang, Audrey and {the Plurality Community}},
   year={2023},
   url={https://github.com/pluralitybook/plurality/blob/main/contents/english},
   publisher={GitHub},
