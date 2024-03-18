@@ -97,6 +97,6 @@ In each of these domains we highlight through a series of vignettes and attempt 
 
 
 
-[^LevWay]: Levitsky and Way, Revolution and Dictatorship
-[^GraeberWengrow]: Graeber and Wengrow, The Dawn of Everything
-[^OnRevolution]: Arendt, H. (1963). On revolution. Penguin.
+[^LevWay]: Steven Levitsky, and Lucan Way, _Revolution and Dictatorship_, (Princeton: Princeton University Press, 2022).
+[^GraeberWengrow]: David Graeber, and David  Wengrow, _The Dawn of Everything: A New History of Humanity_, (New York: Farrar, Straus And Giroux, 2021).
+[^OnRevolution]: Hannah Arendt, _On Revolution_, (New York: Penguin, 1990).
