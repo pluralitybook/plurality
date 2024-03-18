@@ -13,3 +13,4 @@ Definitions:
 Sources:
 - [GitHub Innovation Graph | Developers](https://github.com/github/innovationgraph/)
 - [World Bank | Adult Population](https://data.worldbank.org/indicator/SP.POP.1564.TO)
+- [Taiwan's Adult Population](https://github.com/pluralitybook/plurality/files/14631214/Interior.Stats.Report.xls)
