@@ -101,9 +101,9 @@ Yet despite all their manifest dangers and limitations, pluralist should not wis
 
 
 
-[^Hirsch]: Cite Hirschman's *The Passions and the Interests*.
+[^Hirsch]: Albert Hirschman, _The Passions and the Interests_, (Princeton: Princeton University Press, 1997).
 [^Marketarg]: Cite Slobodian and Schumpeter
-[^interact]: Cite Interaction Field and Humanocracy.
-[^Arnott]: Cite HGT papers.
-[^Robinson]: Cite Kim Stanley Robinson book.
+[^interact]: See Erich Joachimsthaler, _The Interaction Field: The Revolutionary New Way to Create Shared Value for Businesses, Customers, and Society_, PublicAffairs, 2019. See also Gary Hamel, and Michele Zanini, _Humanocracy: Creating Organizations as Amazing as the People inside Them_, (Boston, Massachusetts: Harvard Business Review Press, 2020).
+[^Arnott]: Richard  Arnott, and Joseph Stiglitz, “Aggregate Land Rents, Expenditure on Public Goods, and Optimal City Size,” _The Quarterly Journal of Economics_ 93, no. 4 (November 1979): 471. https://doi.org/10.2307/1884466.
+[^Robinson]: Kim Robinson, _The Ministry for the Future_, (New York: Orbit, 2020).
 [^CollabNote]: Pooling across diversity is a very general principle.  Although size matters, bigger is not always better, and the strength of the connections formed can matter more. For example, families, teams or troops – small networks connected by high-value interactions – can outperform much larger ones in the production of ⿻ goods.  If we consider the record of Paleolithic art, banding together to perform key social functions is extremely ancient, so collaborative pooling at a range of scales, albeit by non-state and non-market actors, seems an exception to the rule that 'public goods' are always under-supplied.
