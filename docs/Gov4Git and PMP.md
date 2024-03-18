@@ -12,7 +12,7 @@ We have several interlocking goals in the design of our management system:
 1. We want to recognize contributions and prioritize work formally, quantitatively and democratically, in contrast to the informal and often confusing methods typical in open source while at the same time...
 2. We want to avoid speculation, financialization and external fungibility of this credit.
 3. We want to instantiate (advanced, plural) democratic control over the direction of the project and eventually turn over maintenance of the project to the community, thereby allowing maintenance to scale as smoothly as contributions while at the same time...
-4. We want to secure the system against potentially malicious attack, ensuring that this democratization and decentralization happens gradually and does not occur at the expensive of the integrity of the content to the values of the community.
+4. We want to secure the system against potentially malicious attack, ensuring that this democratization and decentralization happens gradually and does not occur at the expense of the integrity of the content to the values of the community.
 
 A key device to jointly accomplish these goals is our system of plural credits, a non-fungible community currency of credits.
 
