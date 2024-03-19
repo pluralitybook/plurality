@@ -32,7 +32,10 @@ for row in csv.reader(lines):
     keywords.add(row[1])
     poc_count[row[3]] += 1
 
-print("poc_count", poc_count, "\n")
+with open(os.path.join(script_directory, "contributors.tsv"), "w") as f:
+    for name in sorted(poc_count):
+        print(f"{name}\t{poc_count[name]}", file=f)
+
 keyword_occurence = defaultdict(list)
 section_occurence = defaultdict(int)
 for k in keywords:
@@ -41,10 +44,11 @@ for k in keywords:
             keyword_occurence[k].append(section)
             section_occurence[section] += 1
 
-for k in sorted(keyword_occurence, key=lambda x: x.lower()):
-    occ = ", ".join(sorted(keyword_occurence[k]))
-    print(f"{k}\t{occ}")
+with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
+    for k in sorted(keyword_occurence, key=lambda x: x.lower()):
+        occ = ", ".join(sorted(keyword_occurence[k]))
+        print(f"{k}\t{occ}", file=f)
 
-print()
-for sec in sorted(section_occurence):
-    print(f"{sec}\t{section_occurence[sec]}")
+with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
+    for sec in sorted(section_occurence):
+        print(f"{sec}\t{section_occurence[sec]}", file=f)
