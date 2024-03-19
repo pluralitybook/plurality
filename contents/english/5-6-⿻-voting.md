@@ -76,5 +76,5 @@ Nor is it likely that, anytime in the near future, voting systems will stretch g
 
 
 
-[^Sen]: Amartya Sen, Collective Choice and Social Welfare, (Cambridge, Massachusetts: Harvard University Press, 1970).
-[^Lick]: Joseph Licklider, “Man-Computer Symbiosis,” _IRE Transactions on Human Factors in Electronics_ 1 (March 1960): 4–11, available at https://groups.csail.mit.edu/medg/people/psz/Licklider.html.
+[^Sen]: Amartya Sen, _Collective Choice and Social Welfare_, (Cambridge, Massachusetts: Harvard University Press, 1970).
+[^Lick]: Joseph Licklider, “Man-Computer Symbiosis,” _IRE Transactions on Human Factors in Electronics_ 1, (March 1960): 4–11, https://groups.csail.mit.edu/medg/people/psz/Licklider.html.

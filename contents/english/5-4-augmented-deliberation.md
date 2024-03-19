@@ -111,25 +111,25 @@ Lastly, deliberation is sometimes idealized as helping overcome divisions and re
 
 [^LLMCensorship]: David Glukhov, Ilia Shumailov, Yarin Gal, Nicolas Papernot, and Vardan Papyan, “LLM Censorship: A Machine Learning Challenge or a Computer Security Problem?” _arXiv_ (New York: Cornell University, July 20, 2023): https://arxiv.org/pdf/2307.10719.pdf.
 
-[^WorldCafe]: See The World Cafe (https://theworldcafe.com/)
+[^WorldCafe]: "The World Cafe", The World Café Community Foundation, last modified 2024, (https://theworldcafe.com/)
 
-[^OpenSpaceTechnnology]: See Open Space Technology at https://openspaceworld.org/wp2/
+[^OpenSpaceTechnnology]: "Open Space", Open Space World, last modified 2024, https://openspaceworld.org/wp2/
 
 [^LLMDemocracy]: Lisa Argyle, Christopher Bail, Ethan Busby, Joshua Gubler, Thomas Howe, Christopher Rytting, Taylor Sorensen, and David Wingate, "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale." _Proceedings of the National Academy of Sciences_ 120, no. 41 (2023): e2311627120.
 
 [^LLMFinetune]: Junsol Kim, and Byungkyu Lee, "Ai-augmented surveys: Leveraging large language models for opinion prediction in nationally representative surveys," _arXiv_ (New York: Cornell University, November 26, 2023): https://arxiv.org/pdf/2305.09620.pdf.
 
 
-[^PublicWisdom]: Tom Atlee, Empowering Public Wisdom https://www.amazon.com/Empowering-Public-Wisdom-Practical-Citizen-Led/dp/1583945008/
+[^PublicWisdom]: Tom Atlee, _Empowering Public Wisdom_ (2012, Berkley, California, Evolver Editions, 2012)
 
 [^CDC]: A Citizen Deliberative Council (CDC) article on the Co-Intelligence Site https://www.co-intelligence.org/P-CDCs.html
 
 [^NCDD]: NCDD has a big collection of methods and a framework for understanding when to use what method - https://www.ncdd.org/streams.html
 
-[^Participedia]: Participedia https://participedia.net/ 
+[^Participedia]: Participedia, Participedia, last modified 2024, https://participedia.net/ 
 
-[^LS]: LIberating Structures  https://www.liberatingstructures.com/
+[^LS]: Liberating Structures, Liberating Structures, last modified 2024, https://www.liberatingstructures.com/
 
-[^Groupworks]: Group Works Deck A Pattern Language for Bringing Life to Meetings and Other Gatherings  https://groupworksdeck.org/
+[^Groupworks]: Group Works Deck A Pattern Language for Bringing Life to Meetings and Other Gatherings, The Group Pattern Language Project, last modified 2022,   https://groupworksdeck.org/
 
 [^WD]: Wise Democracy Pattern Language https://www.wd-pl.com/

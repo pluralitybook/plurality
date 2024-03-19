@@ -1,11 +1,12 @@
 """
-
+Convert CSV from Google Spreadsheet into more useful format
 """
 
 import os
 import re
 import csv
 from collections import defaultdict
+
 
 CSV_FILE = "Plurality Book Indexing Exercise - Main.csv"
 # This will get the absolute path of the current script file.
@@ -32,19 +33,27 @@ for row in csv.reader(lines):
     keywords.add(row[1])
     poc_count[row[3]] += 1
 
-print("poc_count", poc_count, "\n")
-keyword_occurence = defaultdict(list)
-section_occurence = defaultdict(int)
-for k in keywords:
-    for section in section_contents:
-        if k.lower() in section_contents[section]:
-            keyword_occurence[k].append(section)
-            section_occurence[section] += 1
+with open(os.path.join(script_directory, "contributors.tsv"), "w") as f:
+    for name in sorted(poc_count):
+        print(f"{name}\t{poc_count[name]}", file=f)
 
-for k in sorted(keyword_occurence, key=lambda x: x.lower()):
-    occ = ", ".join(sorted(keyword_occurence[k]))
-    print(f"{k}\t{occ}")
+with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
+    keyword_occurence = defaultdict(list)
+    section_occurence = defaultdict(int)
+    for k in keywords:
+        for section in section_contents:
+            if k.lower() in section_contents[section]:
+                keyword_occurence[k].append(section)
+                section_occurence[section] += 1
+        if not keyword_occurence[k]:
+            print(k, file=warn_no_occurence)
 
-print()
-for sec in sorted(section_occurence):
-    print(f"{sec}\t{section_occurence[sec]}")
+
+with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
+    for k in sorted(keyword_occurence, key=lambda x: x.lower()):
+        occ = ", ".join(sorted(keyword_occurence[k]))
+        print(f"{k}\t{occ}", file=f)
+
+with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
+    for sec in sorted(section_occurence):
+        print(f"{sec}\t{section_occurence[sec]}", file=f)
