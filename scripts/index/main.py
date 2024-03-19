@@ -1,11 +1,12 @@
 """
-
+Convert CSV from Google Spreadsheet into more useful format
 """
 
 import os
 import re
 import csv
 from collections import defaultdict
+
 
 CSV_FILE = "Plurality Book Indexing Exercise - Main.csv"
 # This will get the absolute path of the current script file.
@@ -36,13 +37,17 @@ with open(os.path.join(script_directory, "contributors.tsv"), "w") as f:
     for name in sorted(poc_count):
         print(f"{name}\t{poc_count[name]}", file=f)
 
-keyword_occurence = defaultdict(list)
-section_occurence = defaultdict(int)
-for k in keywords:
-    for section in section_contents:
-        if k.lower() in section_contents[section]:
-            keyword_occurence[k].append(section)
-            section_occurence[section] += 1
+with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
+    keyword_occurence = defaultdict(list)
+    section_occurence = defaultdict(int)
+    for k in keywords:
+        for section in section_contents:
+            if k.lower() in section_contents[section]:
+                keyword_occurence[k].append(section)
+                section_occurence[section] += 1
+        if not keyword_occurence[k]:
+            print(k, file=warn_no_occurence)
+
 
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
     for k in sorted(keyword_occurence, key=lambda x: x.lower()):

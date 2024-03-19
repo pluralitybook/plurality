@@ -7,8 +7,11 @@
 - `contributors.tsv`: number of contribution on the spreadsheet
 - `keyword_occurrence.tsv`: occurrence of each keywords in each sections
 - `section_occurrence.tsv`: number of occurrences in each sections of any keywords. It is to find less-covered sections.
+- `no_occurence.txt`: Keywords which does not occur in the contents.
+
 
 ## memo
 
 - At least, we need special care for the movie name "her".
 - cFQ or cFQ2f7LRuLYP is GithubID: dedededalus. ref: https://github.com/dedededalus
+- no_occurence: Some looks mistake (e.g. `W. Mitchell Waldrop` does not occur but `M. Mitchell Waldrop` occurs), some may because of acronym in palens (e.g. `Distributed Ledger Technology (DLT)`)
