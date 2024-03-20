@@ -1,17 +1,26 @@
 Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,(anti-)social media,02-02,cFQ
 ,(In)dividual identity,03-02,tsuzumik
+,⿻ Artist,05-03,cFQ
 ,⿻ Conversational and Funding Tools,06-01,cFQ
+,⿻ Cryptography,06-03,cFQ
 ,⿻ good,06-02,cFQ
 ,⿻ health agency,06-02,cFQ
 ,⿻ Health Association,06-02,cFQ
 ,⿻ hiring,06-01,cFQ
+,⿻ Interaction,06-04,cFQ
 ,⿻ Marketing,06-00,cFQ
 ,⿻ mechanism,06-02,cFQ
+,⿻ Media,06-03,cFQ
+,⿻ practic,05-03,cFQ
 ,⿻ public,06-02,cFQ
+,⿻ Public Media,06-03,cFQ
+,⿻ publics,06-04,cFQ
+,⿻ structure,06-03,cFQ
 ,⿻ technology,06-00,cFQ
 ,⿻ vision,06-02,cFQ
 ,⿻-goods financing,06-02,cFQ
+,⿻istic ignorance,06-03,cFQ
 ,12-Year Basic Education Curriculum,02-02,cFQ
 ,20% time model,06-01,cFQ
 ,2050 net zero,02-02,cFQ
@@ -19,43 +28,59 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,4Chan,02-00,cFQ
 ,5G,02-00,cFQ
 ,a priori,06-00,cFQ
+,Abolitionist,06-03,cFQ
 ,Abundance technocracy (AT),04-00,tsuzumik
 ,Academia Sinica,02-01,cFQ
 ,Accelerationist,02-00,cFQ
 ,"Acemoglu, Daron",02-00,cFQ
 ,ActivityPub,02-00,cFQ
 ,ActivityPub,03-03,nishio
+,Adobe Creative Cloud,05-03,cFQ
 ,Advanced Research Projects Agency,02-00,cFQ
 ,Adverse Selection,06-02,cFQ
 ,Affective Polarization,02-02,cFQ
+,Affective Polarization,06-03,cFQ
 ,Affinity,06-02,cFQ
 ,African Model,02-00,cFQ
 ,Agglomeration,06-01,cFQ
 ,Aging Simulation,05-01,nishio
+,AI Conversation Model,06-04,cFQ
+,AI Deep Learning,06-04,cFQ
 ,AI GOOGLE NGRAMS CHART,02-00,cFQ
 ,AIDS,06-02,cFQ
 ,Ainulindalë,01-01,cFQ
+,Air pollution,06-04,cFQ
 ,Alexis de Tocqueville,02-00,cFQ
+,Alien Art,05-03,cFQ
+,Alien Intelligence,05-03,cFQ
 ,Alignment assemblies,02-02,cFQ
 ,All Our Ideas,06-01,cFQ
+,AlphaGo,05-03,cFQ
+,AlphaGo Zero,05-03,cFQ
 ,American Democracy,03-02,nishio
 ,American Legislative Capitol,02-01,cFQ
 ,American Revolution,06-00,cFQ
 ,Android,04-00,tsuzumik
+,Anthropocene,06-04,cFQ
 ,Anti-authoritarianism,02-01,cFQ
 ,Anti-social,02-00,cFQ
+,Anti-social Media,06-03,cFQ
 ,Antipathy,02-00,cFQ
 ,Antiretroviral Therapie,06-02,cFQ
-,antisocial,02-00,cFQ
+,Antisocial,02-00,cFQ
 ,Apple's Torus Spaceship,06-01,cFQ
 ,Application Ecosystem,06-02,cFQ
 ,Arab Spring,02-00,cFQ
 ,Arms Race,06-00,cFQ
+,Arms Race,06-03,cFQ
 ,ARPANET,02-00,cFQ
 ,ARPANET,03-03,nishio
 ,Articles 145 of the ROC,02-01,cFQ
 ,Artificial General Intelligence,02-00,cFQ
 ,Artificial Intelligence,02-00,cFQ
+,Artistic co-creation,05-03,cFQ
+,Artistic Expression,05-03,cFQ
+,Asana,05-03,cFQ
 ,Asia Development Bank,02-02,cFQ
 ,Aspirations to equality,04-00,tsuzumik
 ,Assimilation,02-01,cFQ
@@ -72,16 +97,24 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Authoritarian Repressive State,02-01,cFQ
 ,Authoritarianism,02-00,cFQ
 ,Authority,06-00,cFQ
+,Autodesk,05-03,cFQ
 ,Automated Clearing House(ACH),04-03,gnomevan
+,Autonomy,05-03,cFQ
+,Awe,05-03,cFQ
 ,Ayn Rand,02-00,cFQ
 ,Balaji Srinavasan,02-00,cFQ
 ,Basic Antigen,06-02,cFQ
 ,BBN,03-03,nishio
 ,BCI,06-02,cFQ
 ,Bertelsmann Foundation,02-02,cFQ
+,Bhagavad Gita,05-03,cFQ
+,Bible,05-03,cFQ
 ,Bill Gates,02-01,cFQ
+,Biodiversity,06-04,cFQ
+,Biodiversity Loss,06-04,cFQ
 ,Biomedical engineering,06-02,cFQ
 ,Biomedicine,06-02,cFQ
+,Biometrics,06-04,cFQ
 ,Bioweapons,02-00,cFQ
 ,Bitcoin,02-00,cFQ
 ,Blake Masters,02-00,cFQ
@@ -89,16 +122,20 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Blitzscaling,06-00,cFQ
 ,Blockchain,02-00,cFQ
 ,Blockchains,02-00,cFQ
+,Brain interface,06-03,cFQ
 ,Brain-Computer Interfaces,05-01,nishio
+,Brent Seales,05-03,cFQ
 ,Bricolage,05-00,nishio
 ,British Colonial Development Corporation,06-02,cFQ
 ,Buddhism,02-02,cFQ
 ,Campus Athletics,06-01,cFQ
 ,Canada,06-02,cFQ
+,Canada,06-04,cFQ
 ,Cancel Culture,02-00,cFQ
 ,Capitalism,02-00,cFQ
 ,Capitalism,05-07,gnomevan
 ,Carbon Credit,06-02,cFQ
+,Casey Handmer,05-03,cFQ
 ,Catastrophic Risks,02-00,cFQ
 ,Cathy O’Neil,02-00,cFQ
 ,Cellphone Addiction,02-02,cFQ
@@ -114,35 +151,57 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Chiang Kai-shek,02-01,cFQ
 ,Child Mortality,06-02,cFQ
 ,Chinese Communist Party,02-01,cFQ
+,Citizen co-journalism,06-03,cFQ
+,Citizen Journalism,06-03,cFQ
 ,Citizen Volunteers,02-02,cFQ
 ,Citizen-led Online Initiative,06-02,cFQ
 ,Citizens of the Free Area,02-01,cFQ
 ,Civic hackers,02-02,cFQ
+,Civic Hacking Culture,06-04,cFQ
 ,Civic Tech,03-03,nishio
+,Civic Technology Movement,06-04,cFQ
 ,Civil Clan,02-01,cFQ
+,Civil IoT,06-04,cFQ
 ,Civil Livelihood,02-01,cFQ
 ,Civil Rights movement,02-01,cFQ
 ,Civilization VI,02-00,cFQ
+,Clean Energy,06-04,cFQ
+,Climate Change,06-04,cFQ
 ,Climate Change Simulations,05-02,nishio
 ,Climate hazard,06-02,cFQ
 ,Co-construction of Health Agency,06-02,cFQ
+,Co-creation Relationship,06-04,cFQ
 ,Co-decision Making Processe,06-02,cFQ
+,Co-edited Project,05-03,cFQ
+,Co-writing,05-03,cFQ
 ,Cofacts,02-02,cFQ
 ,Cold War,02-00,cFQ
+,Collaboration Across Difference,06-04,cFQ
 ,Collaborative Diversity,02-01,cFQ
+,Collaborative Innovation,05-03,cFQ
+,Collaborative Journalism,06-03,cFQ
+,Collaborative Network,06-04,cFQ
+,Collaborative Platform,05-03,cFQ
+,Collaborative Platform,05-03,cFQ
 ,Collaborative Problem Solving,02-01,cFQ
 ,Collaborative Technology,01-01,cFQ
 ,Collaborative Technology,05-00,nishio
+,Collective Consciousness,05-03,cFQ
+,Collective Creativity,05-03,cFQ
 ,Collective Intelligence,06-01,cFQ
+,Collective Problem-solving,06-04,cFQ
 ,Collegia,06-02,cFQ
 ,Commanding Heights,02-00,cFQ
 ,Common Belief,06-00,cFQ
+,Common Carriers of Public Discussion,06-03,cFQ
+,Common Content,06-03,cFQ
 ,Common Corporate Infrastructure,06-01,cFQ
 ,Commons-Based Property,03-03,nishio
 ,Communism,02-00,cFQ
 ,Community Currency,05-00,nishio
 ,Community-based,06-00,cFQ
 ,Community-Based Identity,03-03,nishio
+,Compelling Narrative,06-03,cFQ
 ,Competitive authoritarian regimes,04-00,tsuzumik
 ,Competitive Effect,06-00,cFQ
 ,Confucian Tradition,02-01,cFQ
@@ -155,21 +214,30 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Corporate Campuse,06-01,cFQ
 ,Corporate Control,05-02,nishio
 ,Corporate Libertarianism,02-00,cFQ
+,Coursera,05-03,cFQ
+,Courtney Cogburn,06-03,cFQ
 ,COVID-19,06-02,cFQ
 ,COVID-19 pandemic,02-02,cFQ
+,Crackle,05-03,cFQ
+,Creative Collaborations,05-03,cFQ
 ,Creative Commons,05-00,nishio
+,Creative Process,05-03,cFQ
+,Cross-cultural collaboration,05-03,cFQ
 ,Cross-Cultural Exchanges,05-02,nishio
 ,Cross-cutting Benefit,06-01,cFQ
 ,Cross-pollination Service,06-01,cFQ
 ,Cross-Straits Services Trade Agreement,02-02,cFQ
+,Crowdsourcing,05-03,cFQ
 ,Crypto,02-00,cFQ
 ,Cryptocurrencies,02-00,cFQ
 ,Cryptocurrencies,02-00,cFQ
+,Cryptographic,06-03,cFQ
 ,Cryptographic Hypercapitalism,02-00,cFQ
 ,Cryptographic Principle,06-02,cFQ
 ,Cryptography,02-00,cFQ
-,Cryptography,02-00,cFQ
 ,Cryptonomicon,02-00,cFQ
+,Cultural Diversity,05-03,cFQ
+,Cultural Homogenization,05-03,cFQ
 ,Curtis Yarvin,02-00,cFQ
 ,Cybernetic Society,03-02,nishio
 ,Cybernetics,03-02,nishio
@@ -182,16 +250,22 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,DARPA,02-00,cFQ
 ,Data Coalitions,02-02,cFQ
 ,Data Coalitions,06-00,cFQ
+,Data Coalitions,06-04,cFQ
 ,Data Governance Act,02-00,cFQ
 ,Data Transparency,02-02,cFQ
+,Data-driven Actors,06-04,cFQ
+,Dave Egger,05-03,cFQ
 ,Decentralized Social Technologies,02-00,cFQ
 ,Decentralized Web,03-03,nishio
 ,Decentralized Web,04-00,tsuzumik
 ,Declaration of the Independence of Cyberspace,02-00,cFQ
+,Decontee Davis,06-03,cFQ
 ,DeepMind,02-00,cFQ
 ,Defense Advanced Research Projects Agency,02-00,cFQ
+,Deforestation,06-04,cFQ
 ,Degressive Proportionality,03-03,nishio
 ,Deliberation,05-00,nishio
+,Deliberation,06-03,cFQ
 ,Democracy,02-00,cFQ
 ,Democracy in America,02-00,cFQ
 ,Democratic Advocates,02-01,cFQ
@@ -201,8 +275,10 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Democratic Participation,02-01,cFQ
 ,Democratic Progressive Party,02-01,cFQ
 ,Democratic Republican Government,06-00,cFQ
+,Demonization,06-03,cFQ
 ,Designated Verifier Proofs (DVP),04-02,gnomevan
 ,Deweyian pragmatism,02-01,cFQ
+,Digital Archaeology,05-03,cFQ
 ,Digital asset taxes,07-00,gnomevan
 ,Digital Certificate,06-02,cFQ
 ,Digital Civic Engagement,02-02,cFQ
@@ -213,8 +289,10 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Digital Democracy,02-00,cFQ
 ,Digital Democracy Initiative,01-01,cFQ
 ,Digital Divide,05-02,nishio
+,Digital Divide,05-03,cFQ
 ,Digital interaction,04-00,tsuzumik
 ,Digital land tax,07-00,gnomevan
+,Digital Legacies,05-03,cFQ
 ,Digital Legacy Realms,05-02,nishio
 ,Digital literacy,07-00,gnomevan
 ,Digital Markets Act,02-00,cFQ
@@ -223,7 +301,11 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Digital Public Services,02-00,cFQ
 ,Digital Realpolitik,02-00,cFQ
 ,Digital Services Act,02-00,cFQ
+,Digital Social Engagement,06-04,cFQ
 ,Digital Stagnation,02-00,cFQ
+,Digital Twins,06-04,cFQ
+,Digital Twins,05-03,cFQ
+,Digital Workspace,05-03,cFQ
 ,Digital Yuan,02-00,cFQ
 ,Digital-native currencies,04-00,tsuzumik
 ,Diplomatic Nuance,02-01,cFQ
@@ -234,15 +316,19 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Displacement,02-00,cFQ
 ,Disruption,06-01,cFQ
 ,Distributed Ledger Technology (DLT),04-02,gnomevan
+,Distributed Participation,06-03,cFQ
+,Diverse Perspective,05-03,cFQ
 ,Diversification of Seeing,06-00,cFQ
 ,Diversity,06-00,cFQ
 ,"Diversity of ""groups""",06-00,cFQ
 ,Dōka,02-01,cFQ
+,Dominant Narrative,05-03,cFQ
 ,Donald Trump,02-00,cFQ
 ,Douglas Engelbart,03-03,nishio
 ,DPP,02-01,cFQ
 ,Driverless Cars,02-00,cFQ
 ,Durkheim,06-02,cFQ
+,Dystopian Outcome,05-03,cFQ
 ,e-citizenship,06-01,cFQ
 ,E-Government,02-00,cFQ
 ,e-health,06-02,cFQ
@@ -250,8 +336,12 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,E-Sports Tournaments,05-02,nishio
 ,Early Adopted Community,06-00,cFQ
 ,Early Adopters,06-00,cFQ
+,Ebola,06-03,cFQ
+,Echo Chamber,06-03,cFQ
 ,Economist Intelligence Unit,02-02,cFQ
+,Edmund Burke,06-04,cFQ
 ,Edward Deming,02-01,cFQ
+,edX,05-03,cFQ
 ,Egalitarianism,02-01,cFQ
 ,EGDI,02-00,cFQ
 ,Election,04-00,tsuzumik
@@ -262,12 +352,19 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Emotional Connectivity,05-02,nishio
 ,Empathetic Technology,05-01,nishio
 ,Empathy Amplifiers,05-02,nishio
+,Encounter with the East,05-03,cFQ
 ,Enlightenment,03-03,nishio
 ,Entrepreneurial Sovereignty (ES),04-00,tsuzumik
 ,Environment,06-00,cFQ
+,Environment Sensing Network,06-04,cFQ
 ,Environmental Devastation,02-00,cFQ
+,Environmental Justice,06-04,cFQ
+,Environmental Problem,06-04,cFQ
+,Environmental Sustainability,06-04,cFQ
+,"Environmental, Social and Governance",06-03,cFQ
 ,Estonia,02-00,cFQ
 ,Estonia,06-01,cFQ
+,ETH Zurich,05-03,cFQ
 ,Ethereum Attestation Service,06-02,cFQ
 ,Ethnic Pluralism,02-01,cFQ
 ,Excessive Fragmentation,06-01,cFQ
@@ -286,6 +383,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Facial Recognition,02-00,cFQ
 ,Fact Checkers,02-02,cFQ
 ,Faith in Democratic Institutions,02-00,cFQ
+,False Consensus,06-03,cFQ
 ,Fascism,02-00,cFQ
 ,"Fast, Fun and Fair",02-02,cFQ
 ,FIDES,06-02,cFQ
@@ -293,6 +391,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Financial Innovation,02-00,cFQ
 ,Financial Technology,02-00,cFQ
 ,Fintech,02-00,cFQ
+,Fluidity,06-04,cFQ
 ,Folk Religion,02-02,cFQ
 ,Forms of Diversity,05-00,nishio
 ,Foundation Model,02-00,cFQ
@@ -305,57 +404,73 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Free speech,04-00,tsuzumik
 ,Freedom House,02-02,cFQ
 ,Freedom of association,04-00,tsuzumik
+,Freedom of the Press,06-03,cFQ
 ,French Revolution,06-00,cFQ
+,Full Multisensory Shared Experience,05-03,cFQ
 ,Funder,06-02,cFQ
 ,Funding Pool,06-02,cFQ
 ,Fusion,05-00,nishio
+,Future Collaborator,05-03,cFQ
 ,g0v,02-02,cFQ
 ,g0v,06-02,cFQ
 ,Gabriel Zucman,02-02,cFQ
 ,Gaia-X,04-00,tsuzumik
 ,Gamification,06-02,cFQ
+,Ganga River,06-04,cFQ
 ,Gathering Storm,02-00,cFQ
 ,Gavi,06-02,cFQ
 ,GDP,06-01,cFQ
 ,General Data Protection Regulation,02-00,cFQ
 ,General Reticence,02-00,cFQ
 ,Generative AI,05-01,nishio
+,Generative Art,05-03,cFQ
+,Generative Artists,05-03,cFQ
 ,Generative Foundation Model,06-02,cFQ
+,Generative foundation models,06-03,cFQ
+,Generative Foundation Models (GFMs),05-03,cFQ
 ,Generative Foundation Models(GFMs),04-04,gnomevan
 ,Generative Pretrained Transformer,02-00,cFQ
 ,Geopolitics,02-00,cFQ
 ,Geopolitics,02-00,cFQ
 ,Georg Simmel,03-02,nishio
 ,Georgist land value tax,02-01,cFQ
+,GFM-driven Process,05-03,cFQ
 ,Git,05-00,nishio
 ,GitCoin,06-00,cFQ
 ,GitCoin Grants,05-07,gnomevan
-,Gitcoin Grants,06-02,cFQ
+,GitCoin Grants,06-02,cFQ
+,GitHub,05-03,cFQ
+,GitHub,05-03,cFQ
 ,GitHub Sponsors,05-07,gnomevan
+,GitLab,05-03,cFQ
 ,Global Anti-colonial Movement,02-01,cFQ
 ,Global Consciousness Networks,05-02,nishio
 ,Global Crossroad,02-01,cFQ
 ,Global Fund,06-02,cFQ
-,Global Fund,06-02,cFQ
+,Global Warming,06-04,cFQ
 ,Globarization,01-01,cFQ
 ,Gogolook,02-02,cFQ
+,Gold Card,02-02,cFQ
 ,Gold Card,06-01,cFQ
-,Gold cards,02-02,cFQ
 ,Golden Age,02-00,cFQ
 ,Google,06-01,cFQ
+,Google DeepMind,05-03,cFQ
 ,Gov4Git,06-02,cFQ
 ,GovTech,03-03,nishio
 ,GPT,02-00,cFQ
 ,Graphical user interface,04-00,tsuzumik
 ,Great Firewall,04-00,tsuzumik
+,Green Technologies,06-04,cFQ
 ,Gross Domestic Product,02-00,cFQ
 ,Hackathon,02-02,cFQ
+,Hackathon,06-04,cFQ
 ,HackMD,06-02,cFQ
 ,Hakka,02-01,cFQ
 ,Hannah Arendt,06-00,cFQ
 ,Hanson,06-02,cFQ
 ,Haptic Feedback,05-01,nishio
 ,Haptic Feedback,05-02,nishio
+,Hard Journalism,06-03,cFQ
 ,Health,06-00,cFQ
 ,Health Financing,06-02,cFQ
 ,Health Insurance,06-02,cFQ
@@ -363,11 +478,13 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Health Savings Account,06-02,cFQ
 ,Health Savings Plan,06-02,cFQ
 ,healthy minds in healthy bodies,06-02,cFQ
-,Henry George,03-02,nishio
 ,Henry George,02-01,cFQ
 ,Henry George,02-02,cFQ
+,Henry George,03-02,nishio
 ,Henry George Theorem,03-02,tsuzumik
 ,Her,02-00,cFQ
+,Herculaneum,05-03,cFQ
+,Herculaneum scrolls,05-03,cFQ
 ,Heritage Foundation,02-02,cFQ
 ,High Modernism,03-03,nishio
 ,High-Bandwidth Communication,05-01,nishio
@@ -375,20 +492,25 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,HIV,06-02,cFQ
 ,Hokkien,02-01,cFQ
 ,Hollowing-out,02-00,cFQ
+,Holly Herndon,05-03,cFQ
+,Holly Herndon,05-03,cFQ
+,Homerian epics,05-03,cFQ
 ,Homogenization,05-01,nishio
+,Homogenization of Ideas,05-03,cFQ
 ,Horizontal Dialogue,06-01,cFQ
 ,Hsieh Tsung-min,02-01,cFQ
 ,Hu Shih,02-01,cFQ
+,Hugging Face,05-03,cFQ
 ,Human rights,03-03,nishio
 ,Human Rights,05-00,nishio
 ,Humanocracy,06-01,cFQ
 ,Humor over Rumor,02-02,cFQ
 ,Hunter-gatherer Model,06-00,cFQ
+,Hutchins Commission on Freedom of the Press,06-03,cFQ
 ,Hybrid Reality Environments,05-02,nishio
 ,Hybrid Work Style,06-01,cFQ
 ,HyperCerts,06-02,cFQ
 ,Hypertext,03-03,nishio
-,Iain Banks,02-00,cFQ
 ,Ian Banks,02-00,cFQ
 ,Ideathons,02-02,cFQ
 ,Identity and Access,06-00,cFQ
@@ -404,10 +526,13 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Impact-investing,06-02,cFQ
 ,Implementer,06-02,cFQ
 ,In-person Team,06-01,cFQ
+,In-silico,05-03,cFQ
 ,Incompetent Manager,06-01,cFQ
 ,Independent Stake,06-02,cFQ
 ,India,02-00,cFQ
+,India,06-04,cFQ
 ,India stack,04-00,tsuzumik
+,Indiegogo,05-03,cFQ
 ,Indigeneous Community,06-02,cFQ
 ,Individual Identity,03-03,nishio
 ,individuality loss,05-01,nishio
@@ -415,6 +540,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Industry 2.0,02-00,cFQ
 ,Industry 3.0,02-00,cFQ
 ,Industry 4.0,02-00,cFQ
+,Inequality,05-03,cFQ
 ,Infodemic,02-02,cFQ
 ,Information commons,04-00,tsuzumik
 ,Information Technology,02-00,cFQ
@@ -449,17 +575,22 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Jeremy Corbyn,02-00,cFQ
 ,Jetsons,02-00,cFQ
 ,"Jobs, Steve",06-01,gnomevan
-,John Dewey,03-02,nishio
 ,John Dewey,02-01,cFQ
+,John Dewey,03-02,nishio
 ,John Perry Barlow,02-00,cFQ
 ,Joint Learning,06-01,cFQ
+,Joseph Gordon-Levitt,05-03,cFQ
 ,Josh Hawley,02-00,cFQ
 ,Jothons,02-02,cFQ
+,Journalism,06-03,cFQ
 ,Journey of Humanity,05-00,nishio
+,Julian Schilliger,05-03,cFQ
 ,Kao Chia-liang,02-02,cFQ
 ,Kaohsiung Incident,02-01,cFQ
 ,Kazakhstan,02-00,cFQ
 ,Kevin Scott,06-01,cFQ
+,Khan Academy,05-03,cFQ
+,Kickstarter,05-03,cFQ
 ,Knappschaften,06-02,cFQ
 ,Kuomintang,02-01,cFQ
 ,Labor Augmentation,02-00,cFQ
@@ -467,7 +598,9 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Labor Law,02-00,cFQ
 ,Labor Unions,05-07,gnomevan
 ,Land to the Tiller,02-01,cFQ
+,Laurie Anderson,05-03,cFQ
 ,Lee Teng-hui,02-01,cFQ
+,Legal Agent,06-04,cFQ
 ,Legislative Yuan,02-02,cFQ
 ,Legitimacy,06-00,cFQ
 ,Legitimation,02-00,cFQ
@@ -476,15 +609,21 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Libertarian Ideology,02-00,cFQ
 ,Libertarianism,02-00,cFQ
 ,Life Expectancy,06-02,cFQ
+,Life-support System,06-04,cFQ
 ,LinkedIn,06-00,cFQ
 ,Linux,04-00,tsuzumik
+,Little Platoons,06-04,cFQ
 ,Livestream-based communication,02-02,cFQ
 ,LLMs,06-01,cFQ
+,Location Aware Sensor System,06-04,cFQ
 ,Long-distance Cooperation,02-01,cFQ
+,Los Alamos,05-03,cFQ
 ,Low-skilled Workers,02-00,cFQ
 ,Lucan Way,06-00,cFQ
+,Luke Farritor,05-03,cFQ
 ,m-health,06-02,cFQ
 ,Machine Learning,02-00,cFQ
+,Magpie River,06-04,cFQ
 ,Malaria,06-02,cFQ
 ,Man-Computer Symbiosis,03-03,nishio
 ,Mandarin,02-01,cFQ
@@ -494,14 +633,19 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Marxism,02-01,cFQ
 ,Marxist Vision of Socialism,02-01,cFQ
 ,Mask App,02-02,cFQ
+,Mass Extinction,06-04,cFQ
 ,Mass Surveillance,02-00,cFQ
+,Massive Multi-user Online Laboratories (MMOLs),05-02,gnomevan
 ,Masters of Scale,06-00,cFQ
 ,Mastodon,02-00,cFQ
+,Mat Dryhurst,05-03,cFQ
 ,Matching Fund,06-01,cFQ
 ,Material Redistribution,02-00,cFQ
 ,Maternal Mortality,06-02,cFQ
 ,Matthew Yglesias,02-00,cFQ
 ,Media,06-00,cFQ
+,Media,06-03,cFQ
+,Media Ecosystem,06-03,cFQ
 ,Mediated Reality,05-01,nishio
 ,Mediated Reality,05-02,nishio
 ,Meetings Deemed Unproductive,06-01,cFQ
@@ -510,6 +654,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Metaverse,02-00,cFQ
 ,Metaverses,04-00,tsuzumik
 ,Microsoft,06-01,cFQ
+,Microsoft,06-03,cFQ
 ,Military Scenario,06-01,cFQ
 ,Millennium Development Declaration,06-02,cFQ
 ,Minister of Digital Affairs,02-01,cFQ
@@ -531,12 +676,16 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Monopoly,03-02,nishio
 ,Moore’s Law for Everything,02-00,cFQ
 ,Moral Bio-enhancement,05-01,nishio
+,Mount Vesuvius,05-03,cFQ
 ,Move fast and Break Things,06-00,cFQ
+,Multidisciplinary Renaissance,05-03,cFQ
 ,Multiemployer,02-00,cFQ
+,Multiple Perspective,05-03,cFQ
 ,Multipolarity,05-00,nishio
 ,Mycorrhizal Fungi,04-05,gnomevan
 ,MyGoPen,02-02,cFQ
 ,Narrow Corridor,02-00,cFQ
+,NASA,06-04,cFQ
 ,Nation state,03-03,nishio
 ,National Insurance Model,06-02,cFQ
 ,National Politic,06-01,cFQ
@@ -544,18 +693,26 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Nationalism,02-00,cFQ
 ,Nationalist ,02-00,cFQ
 ,Nationalist Backlash,02-00,cFQ
+,Natural Ecosystem,06-04,cFQ
 ,Natural Leadership,06-01,cFQ
+,Natural Legal Personhood,06-04,cFQ
 ,Natural sciences,03-02,tsuzumik
 ,Neal Stephenson,02-00,cFQ
 ,Negative freedom of speech,04-00,tsuzumik
+,Neil Armstrong,06-03,cFQ
 ,Neoliberal,02-00,cFQ
 ,Neom,02-00,cFQ
+,Netflix Prize,05-03,cFQ
+,Netherlands,06-03,cFQ
+,Netizen,06-03,cFQ
 ,Networked Value,03-02,nishio
 ,Neural Interfaces,05-01,nishio
 ,Neural Network,06-02,cFQ
+,Neural Network,05-03,cFQ
 ,Neurofeedback,05-01,nishio
 ,Neuromodulation,05-01,nishio
 ,New Public,03-02,nishio
+,New Zealand,06-04,cFQ
 ,Nicholas Bostrom,02-00,cFQ
 ,nishio,05-02,nishio
 ,Nixon's visit to PRC,02-01,cFQ
@@ -565,13 +722,18 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,non-believers,02-02,cFQ
 ,Non-colonialist Model,06-02,cFQ
 ,Non-communicable Disease,06-02,cFQ
+,Non-human Perspective,05-03,cFQ
 ,Non-market,02-00,cFQ
+,Non-renewable Energy Sources,06-04,cFQ
 ,Non-Verbal Communication,05-01,nishio
 ,Norbert Wiener,03-02,nishio
 ,North Atlantic Treaty Organization,02-00,cFQ
 ,North Star,06-00,cFQ
+,Notion,05-03,cFQ
 ,Objectivist Model,06-02,cFQ
+,Objectivity,06-03,cFQ
 ,Occupy,02-01,cFQ
+,Ocean Acidification,06-04,cFQ
 ,Octavia Butler,02-00,cFQ
 ,Oded Galor,05-00,nishio
 ,OECD,02-02,cFQ
@@ -582,19 +744,24 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,One China,02-01,cFQ
 ,"One Country, Two Systems",02-01,cFQ
 ,One-Person-One-Vote,03-03,nishio
+,Online collaboration platform,05-03,cFQ
 ,Online Deliberation,03-03,nishio
 ,Online Gaming,05-02,nishio
+,Online Platform,05-03,cFQ
 ,Open Conversation,06-01,cFQ
 ,Open Government Movement,02-02,cFQ
-,Open Impact Pool,06-02,cFQ
 ,Open Impact Pool,06-02,cFQ
 ,Open Recognition Community,03-03,nishio
 ,Open Source,02-00,cFQ
 ,Open Source,05-00,nishio
+,Open Source Intelligence,06-03,cFQ
 ,Open Source Observer,06-02,cFQ
 ,Open Source Software,02-00,cFQ
 ,Open Source Software,03-03,nishio
 ,Open Standard,03-03,nishio
+,Open-source project,05-03,cFQ
+,Open-source Rainmaking,06-04,cFQ
+,Open-source Technology,05-03,cFQ
 ,OpenAI,02-00,cFQ
 ,OpenAI,02-02,cFQ
 ,OpenAI,06-00,cFQ
@@ -612,6 +779,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Participation,02-00,cFQ
 ,Participative Production,02-01,cFQ
 ,Pascual Restrepo,02-00,cFQ
+,Paul Jozef Crutzen,06-04,cFQ
 ,Peer Production,03-03,nishio
 ,Peng Ming-min,02-01,cFQ
 ,People's Republic of China,02-00,cFQ
@@ -629,7 +797,9 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,pol.is,06-01,cFQ
 ,Polarization,02-00,cFQ
 ,Polis,02-02,cFQ
-,polis,06-02,cFQ
+,Polis,06-02,cFQ
+,Pompeii,05-03,cFQ
+,Portals Policing Project,05-02,gnomevan
 ,Positive freedom of speech,04-00,tsuzumik
 ,Post-capitalist World ,02-00,cFQ
 ,Post-colonial Futurism,02-00,cFQ
@@ -637,6 +807,8 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Post-state,02-00,cFQ
 ,Post-Symbolic Communication,05-01,nishio
 ,Post-symbolic Communication,06-00,cFQ
+,Post-symbolic communication,05-01,gnomevan
+,Post-symbolic Communication,05-03,cFQ
 ,Pragmatic,02-01,cFQ
 ,PRC,02-00,cFQ
 ,PRC Surveillance Regime,02-00,cFQ
@@ -647,14 +819,20 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Prepayment,06-02,cFQ
 ,Presidential Hackathon,02-02,cFQ
 ,Press Freedom,06-00,cFQ
+,Press Responsibility,06-03,cFQ
+,Principles of ⿻,05-03,cFQ
+,Privacy,05-03,cFQ
 ,Private Health Insurance,06-02,cFQ
 ,Private Information,06-02,cFQ
+,Private Key,06-03,cFQ
 ,Private Property,03-02,nishio
 ,Private Property,03-03,nishio
 ,Private Sector,02-00,cFQ
-,Private Sector,02-00,cFQ
+,Pro-social Media,06-03,cFQ
 ,Production Possibilities Frontier,05-00,nishio
+,Productivity Software,06-03,cFQ
 ,Progress and Poverty,03-02,nishio
+,Progress Prizes,05-03,cFQ
 ,Projection Mapping,05-01,nishio
 ,Property Rights,03-02,nishio
 ,Proprioceptive Communication,05-01,nishio
@@ -664,6 +842,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Public Health Policy,06-02,cFQ
 ,Public Key Cryptography,04-02,gnomevan
 ,Public Participation,02-00,cFQ
+,Public Perception,06-04,cFQ
 ,Public Sector,02-00,cFQ
 ,Public Square,02-00,cFQ
 ,Purchasing Power Parity,02-02,cFQ
@@ -678,6 +857,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Ray Kurzweil,02-00,cFQ
 ,Ready Player One,05-02,nishio
 ,Realistic Avatar,06-01,cFQ
+,Receipts,06-03,cFQ
 ,Redistribution,06-02,cFQ
 ,Regenerating Diversity,05-00,nishio
 ,Regenerative Economies,05-00,nishio
@@ -697,6 +877,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Remote Teams,06-01,cFQ
 ,Renaissance,03-03,nishio
 ,Replenishment Round,06-02,cFQ
+,Reporters without Borders,06-03,cFQ
 ,Research and Development,02-00,cFQ
 ,Resolution 2758,02-01,cFQ
 ,Reverse Mentors,02-01,cFQ
@@ -710,6 +891,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,"Robinson, James",02-00,cFQ
 ,ROC,02-01,cFQ
 ,Ropes Course,06-01,cFQ
+,Rough Consensus,06-03,cFQ
 ,Rural Land Reform,02-01,cFQ
 ,Russian revolution,02-01,cFQ
 ,Sam Altman,02-00,cFQ
@@ -730,9 +912,12 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Self-determination,02-01,cFQ
 ,Sensory Degradation,05-01,nishio
 ,Sensory Integration,05-02,nishio
+,Seth Parker,05-03,cFQ
+,Shared Knowledge Base,05-03,cFQ
 ,Shoshanna Zuboff,02-00,cFQ
 ,Sidewalk Labs,02-00,cFQ
 ,Signal,04-02,gnomevan
+,Silent Majority,06-03,cFQ
 ,Simon Chang,02-02,cFQ
 ,Simon Johnson,02-00,cFQ
 ,Simulated Military Exercise,06-01,cFQ
@@ -740,6 +925,9 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Sino-Japanese war,02-01,cFQ
 ,Siraya language,02-01,cFQ
 ,Slack,06-01,cFQ
+,Slack,06-03,cFQ
+,Slack,05-03,cFQ
+,Smaller World,06-03,cFQ
 ,Smallpox,06-02,cFQ
 ,Smart City,02-00,cFQ
 ,Snow Crash,02-00,cFQ
@@ -754,7 +942,10 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Social Fabric,02-00,cFQ
 ,Social Identity System,06-01,cFQ
 ,Social Media,02-00,cFQ
+,Social Media,06-03,cFQ
+,Social Network,05-03,cFQ
 ,Social Organization,03-02,nishio
+,Social Responsibility,06-03,cFQ
 ,Social Science Experts,03-02,nishio
 ,Social sciences,03-02,tsuzumik
 ,Social Sector,06-00,cFQ
@@ -764,8 +955,11 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Socialism,02-01,cFQ
 ,Socially Isolated,02-00,cFQ
 ,Solidarity and Dynamism,06-01,cFQ
+,Source Confidentiality,06-03,cFQ
 ,South China Sea,02-01,cFQ
+,SpaceX,05-03,cFQ
 ,Spatial Computing,05-01,nishio
+,speak for itself,06-03,cFQ
 ,Sprightly,04-02,gnomevan
 ,SSN,03-03,nishio
 ,Standard Career Paths,06-01,cFQ
@@ -785,9 +979,12 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Surveillance,02-00,cFQ
 ,Surveillance,05-02,nishio
 ,Surveillance Risks,05-01,nishio
-,Sustainable Development Goals,06-02,cFQ
+,Sustainable Development Goals (SDGs),06-02,cFQ
+,Sustainable Development Goals (SDGs),06-04,cFQ
 ,Symbiotic Relationship,01-01,cFQ
+,Symphony of Minds,05-03,cFQ
 ,Synchronous Meeting,06-01,cFQ
+,Synthetic instrument,05-03,cFQ
 ,Synthetic Technocracy,02-00,cFQ
 ,Systems of rights,04-00,tsuzumik
 ,Taigi,02-01,cFQ
@@ -795,6 +992,8 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Taivoan,02-01,cFQ
 ,Taiwan,02-00,cFQ
 ,Taiwan,06-01,cFQ
+,Taiwan,06-03,cFQ
+,Taiwan,06-04,cFQ
 ,Taiwan Self-Salvation Manifesto,02-01,cFQ
 ,Taiwan's Digital Civic Infrastructure,02-02,cFQ
 ,Tang Jingsong,02-01,cFQ
@@ -811,15 +1010,21 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Technology Addiction,02-02,cFQ
 ,Technology Investment,02-00,cFQ
 ,Ted Nelson,03-03,nishio
+,Ted Nelson,05-03,cFQ
 ,Telecommuting,02-00,cFQ
 ,Telehealth,06-02,cFQ
 ,Telemedicine,06-02,cFQ
+,Telepathic Creative Exchange,05-03,cFQ
+,Telepathic Exchange,05-03,cFQ
 ,Telepathy,05-01,nishio
+,Temporal Collaboration,05-03,cFQ
 ,Tensions between technology and democracy,04-00,tsuzumik
 ,Terminator,02-00,cFQ
 ,The Age of Surveillance Capitalism,02-00,cFQ
+,The Circle,05-03,cFQ
 ,The Dream Machine,02-00,cFQ
 ,The Lost Dao,04-00,tsuzumik
+,The Lost Dao,05-03,cFQ
 ,The Network State,02-00,cFQ
 ,The New Republic,02-01,cFQ
 ,the Optimism Collective,06-02,cFQ
@@ -832,6 +1037,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Thomas Piketty,02-02,cFQ
 ,Three Principles of the People,02-01,cFQ
 ,time sharing,03-03,nishio
+,Time Travel,05-03,cFQ
 ,Total Factor Productivity,02-00,cFQ
 ,Transculturalism,01-01,cFQ
 ,Transhuman,06-02,cFQ
@@ -840,13 +1046,15 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,True democracy,03-02,tsuzumik
 ,Trust Falls,06-01,cFQ
 ,Tuberculosis,06-02,cFQ
+,Twitter,06-03,cFQ
 ,UAE,02-00,cFQ
+,UN,06-04,cFQ
 ,UN-Water,06-02,cFQ
 ,UNDP,06-02,cFQ
 ,Universal Basic Income,02-00,cFQ
 ,Universal Birth Registration,03-03,nishio
 ,Universal Declaration of Human Rights,04-00,tsuzumik
-,Universal Record Locator (URL),04-04,gnomevan
+,Uniform Resource Locator (URL),04-04,gnomevan
 ,Unorthodox Thinking,06-01,cFQ
 ,Unstructured Communication,05-01,nishio
 ,Urgency of innovation leadership,02-00,cFQ
@@ -857,6 +1065,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Venture Capital,02-00,cFQ
 ,Venture Capital,06-00,cFQ
 ,Venture Capitalist,06-00,cFQ
+,Vesuvius Challenge,05-03,cFQ
 ,Violent Revolution,06-00,cFQ
 ,Virtual Civic Spaces,05-02,nishio
 ,Virtual Gatherings,05-02,nishio
@@ -865,13 +1074,17 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Virtual Reality,03-03,nishio
 ,Virtual reality,04-00,tsuzumik
 ,Virtual Reality,05-02,nishio
+,Virtual Replica,05-03,cFQ
 ,Virtual Tourism,05-02,nishio
+,Volume Cartographer,05-03,cFQ
 ,Voting,02-00,cFQ
 ,VR Therapy,05-02,nishio
 ,vTaiwan,02-02,cFQ
 ,Vulcan philosophy,05-00,nishio
-,W. Mitchell Waldrop,02-00,cFQ
+,M. Mitchell Waldrop,02-00,cFQ
 ,War of Independence,06-00,cFQ
+,Water Management,06-04,cFQ
+,Wave of ⿻,06-03,cFQ
 ,Weapons of Math Destruction,02-00,cFQ
 ,Web 2.0,02-00,cFQ
 ,web of group-affiliation,03-02,nishio
@@ -879,35 +1092,48 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Web3,02-00,cFQ
 ,Web3,02-00,cFQ
 ,Web3,04-00,tsuzumik
-,web3,06-00,cFQ
+,Web3,06-00,cFQ
 ,Wei Ting-chao,02-01,cFQ
 ,Weimar Republic,04-00,tsuzumik
 ,WEIRD societies,03-03,nishio
 ,Welfare Capitalism,05-00,nishio
 ,Western Capitalist Countries,02-00,cFQ
 ,Western Liberal Democracies,02-00,cFQ
+,Whanganui River,06-04,cFQ
 ,White Collar,06-01,cFQ
 ,White Terror,02-01,cFQ
 ,Widening Gulf,02-00,cFQ
 ,Wikipedia,02-00,cFQ
 ,Wikipedia,03-03,nishio
+,Wikipedia,06-03,cFQ
+,Wikipedia,05-03,cFQ
 ,wikisurvey,02-02,cFQ
+,will.i.am,05-03,cFQ
 ,William Rees-Mogg,02-00,cFQ
 ,Windows,04-00,tsuzumik
+,Winslow Porter,06-03,cFQ
 ,Wisdom of the Crowd,06-02,cFQ
 ,Withdrew,02-01,cFQ
 ,Work-life Balance,06-01,cFQ
 ,Workplace,06-00,cFQ
 ,Workplace,06-01,cFQ
+,Workspace,05-03,cFQ
 ,World Food Programme,06-02,cFQ
-,World Health Organization,02-02,cFQ
-,World Health Organization,06-02,cFQ
+,World Health Organization (WHO),02-02,cFQ
+,World Health Organization (WHO),06-02,cFQ
+,World Press Freedom Index,06-03,cFQ
+,World War,06-03,cFQ
 ,WWII,02-01,cFQ
+,Yamuna River,06-04,cFQ
+,Yasmin Eyalat,06-03,cFQ
 ,Year of AI,02-01,cFQ
 ,Year of Elections,02-01,cFQ
+,Youssef Nader,05-03,cFQ
+,Youssef Nader,05-03,cFQ
 ,Yu Yong-Ding,02-00,cFQ
 ,Yuans,02-01,cFQ
 ,Yushan,02-01,cFQ
 ,Zero Trust,02-02,cFQ
+,Zero-Knowledge Proofs(ZKPs),06-03,cFQ
 ,Zero-Knowledge Proofs(ZKPs),04-02,gnomevan
 ,Zheng Chenggong,02-01,cFQ
