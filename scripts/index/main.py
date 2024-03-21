@@ -63,6 +63,7 @@ with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_oc
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
     for k in sorted(keyword_occurence, key=lambda x: x.lower()):
         occ = ", ".join(sorted(keyword_occurence[k]))
+        k = k.replace('"', "")  # care for `Diversity of "groups"`
         print(f"{k}\t{occ}", file=f)
 
 with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
