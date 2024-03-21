@@ -63,12 +63,7 @@ Despite the enormous efforts and funds invested by the Japanese empire, Taiwan's
 
 Across the Taiwan strait, a young, American-educated, Christian doctor and activist, Sun Yat-Sen, was similarly influenced in a revolutionary democratic direction by Qing's defeat at Japan's hands, but for a very different reason. Concluding that the dynasty was unreformable, Sun and his "Revive China Society" led a series of unsuccessful uprisings that forced him into exile in Japan, where he (like the Taiwanese elites sent to Japan to be educated) absorbed nascent democratic reform. Drawing on these Japanese, Christian and American influences as well as Confucian traditions, Sun articulated his _[Three Principles of the People](<https://en.wikipedia.org/wiki/Three_Principles_of_the_People#:~:text=The%20three%20principles%20are%20often,the%20people%20(or%20welfarism).>)_ in 1905, laying the foundation of the "Tridemism" that would become the official philosophy (and national anthem) of the ROC.
 
-
-<figure>
-  <img src="../../figs/Flag_of_China_(1912–1928).png" alt="Original flaf of the ROC">
-  <figcaption>Original flag of the ROC (1912-1928)</figcaption>
-</figure>
-<br><br>
+ADD ROC FLAG
 
 The first principle is 民族/Minzú (literally "civil clan"), which is typically translated as "nationalism". However, perhaps more notable was its emphasis on ethnic pluralism (五族共和) reflected in the original flag of the ROC[^ROC1912Flag], which included colors for each of the major ethnicities at the time. The second is 民權/Minquán (literally "civil rights"), usually translated as "democracy" and articulated as a combination of rights of election, recall, initiative and referendum and division of powers among five "Yuans" (the Legislative, Executive and Judicial of the European tradition plus the Control and Examination divisions of the Confucian tradition). The third is 民生/Mínshēng (literally "civil livelihood"), usually translated as "socialism", draws from a variety of economic philosophies, including the ideas of Henry George, an American political economist known for his advocacy of land rights equality, anti-monopoly stances, and support for cooperative enterprises. We will discuss these ideas much more extensively in the next part of the book.
 
@@ -91,11 +86,7 @@ That moment of unity was, however, short-lived, with the communists (under Mao Z
 ### Postbellum Taiwan
 
 At the conclusion of the war, Chiang was nominally "Chairman of the National Government of China" and thus received Taiwan from the allies upon Japanese defeat.
-<figure>
-  <img src="../../figs/2-1-chiang.jpeg" width="100%" alt="Chiang Kai-Shek by Militaryace, retrieved from https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Colour.jpg)">
-  <figcaption>Chiang Kai-Shek</figcaption>
-</figure>
-<br><br>
+<img src="../../figs/2-1-chiang.jpeg" width="100%" alt="Chiang Kai-Shek by Militaryace, retrieved from https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Colour.jpg)">
 This change was initially welcomed by the people of Taiwan, who had been inspired by the democratic ideals of Sun.[^JJ13] This excitement quickly soured, however: while the intellectual discussion of democracy flourished in newspapers and periodicals, the reality under the ROC was anything but. The end of the WWII brought an immediate renewal of civil war, during which a corruption-riddled ROC government increasingly took its fury at its increasing defeat out on the one subject population it securely control on Taiwan, culminating in the incident of February 28, 1947; tens of thousands were killed in the aftermath.[^JJ14]
 
 [^JJ13]: Louzon Victor. “From Japanese Soldiers to Chinese Rebels: Colonial Hegemony, War Experience, and Spontaneous Remobilization during the 1947 Taiwanese Rebellion,” _The Journal of Asian Studies_ 77, no. 1 (2018): 168.
