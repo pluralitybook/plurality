@@ -1,67 +1,65 @@
-Distributed Ledger Technology (DLT)
-Sprightly
-Structured Communication
-Uniform Resource Locator (URL)
-Urgency of innovation leadership
-Sensory Degradation
-Attention auction
-Regenerative Plurality
-Digital Democracy Initiative
-Intersectional Identity
-nishio
-Whanganui River
-Competitive authoritarian regimes
-Technocratic Narrative
-Defense Advanced Research Projects Agency
-individuality loss
-Ainulindalë
-Proprioceptive Communication
-Athena's tapestry
-Catastrophic Risks
-Plural Future
-Tensions between technology and democracy
+Abundance technocracy (AT)
+Acemoglu, Daron
 Aging Simulation
+Ainulindalë
+Athena's tapestry
+Attention auction
+Bridging the Crowd
+Catastrophic Risks
+Co-construction of Health Agency
+Competitive Effect
+Competitive authoritarian regimes
+Cross-Cultural Exchanges
+Defense Advanced Research Projects Agency
+Digital Democracy Initiative
+Digital Realpolitik
 Digital literacy
-Surveillance Risks
+Direct Thought Transmission
+Distributed Ledger Technology (DLT)
+Emotion Tracking
+Empathetic Technology
+Entrepreneurial Sovereignty (ES)
+Fabric of Trust
+Ganga River
+Globarization
+Hunter-gatherer Model
+Industry 1.0
+Industry 2.0
+Industry 3.0
+Industry 4.0
+Intersectional Identity
+J.R.R. Tolkien
+Jefferson, Thomas
 Jobs, Steve
-Automated Clearing House(ACH)
+Left-right Divide
+Monolithic Threat
+National Socialist German Workers party
+North Atlantic Treaty Organization
 Open Recognition Community
 Open-source Technology
-Direct Thought Transmission
-Unstructured Communication
-Strava model
-Globarization
-Cross-Cultural Exchanges
-Industry 1.0
-Abundance technocracy (AT)
-charter town
-Acemoglu, Daron
-National Socialist German Workers party
-Digital Realpolitik
-Jefferson, Thomas
-Siraya language
-Industry 3.0
-Zero-Knowledge Proofs(ZKPs)
-Co-construction of Health Agency
-Empathetic Technology
-Designated Verifier Proofs (DVP)
-Entrepreneurial Sovereignty (ES)
-J.R.R. Tolkien
-Vulcan philosophy
-VR Therapy
-Ganga River
-Transculturalism
+Plural Future
+Proprioceptive Communication
 Pythagoras
-Industry 2.0
-North Atlantic Treaty Organization
-Robinson, James
-Competitive Effect
-Hunter-gatherer Model
-Monolithic Threat
-Fabric of Trust
-Emotion Tracking
 Regenerative Economies
+Regenerative Plurality
+Robinson, James
+Sensory Degradation
+Siraya language
 Social Dynamics
-Industry 4.0
+Sprightly
+Strava model
+Structured Communication
+Surveillance Risks
+Technocratic Narrative
+Tensions between technology and democracy
+Transculturalism
+Unstructured Communication
+Urgency of innovation leadership
+VR Therapy
 Virtual Civic Spaces
+Vulcan philosophy
 WEIRD societies
+Whanganui River
+charter town
+individuality loss
+nishio
