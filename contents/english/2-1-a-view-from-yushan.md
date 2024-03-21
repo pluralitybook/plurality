@@ -95,6 +95,7 @@ At the conclusion of the war, Chiang was nominally "Chairman of the National Gov
   <img src="../../figs/2-1-chiang.jpeg" width="100%" alt="Chiang Kai-Shek by Militaryace, retrieved from https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Colour.jpg)">
   <figcaption>Chiang Kai-Shek</figcaption>
 </figure>
+<br><br>
 This change was initially welcomed by the people of Taiwan, who had been inspired by the democratic ideals of Sun.[^JJ13] This excitement quickly soured, however: while the intellectual discussion of democracy flourished in newspapers and periodicals, the reality under the ROC was anything but. The end of the WWII brought an immediate renewal of civil war, during which a corruption-riddled ROC government increasingly took its fury at its increasing defeat out on the one subject population it securely control on Taiwan, culminating in the incident of February 28, 1947; tens of thousands were killed in the aftermath.[^JJ14]
 
 [^JJ13]: Louzon Victor. “From Japanese Soldiers to Chinese Rebels: Colonial Hegemony, War Experience, and Spontaneous Remobilization during the 1947 Taiwanese Rebellion,” _The Journal of Asian Studies_ 77, no. 1 (2018): 168.
