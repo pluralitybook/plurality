@@ -9,6 +9,7 @@ Work was collectively prioritized and rewards determined using a "crowd-funding"
 To support the financial needs of the book during the publication process, we harnessed several of the tools we describe in the [Social Markets](https://www.plurality.net/v/chapters/5-7/eng/?mode=dark) chapter.  We hope to harness technologies from the Immersive Shared Reality chapter to communicate and explore the ideas from the book with audiences around the world.
 
 For all these reasons, as you read this book you are both learning about the ideas and evaluating them on their merits and at the same time experiencing what they, put into practice, can create.  If you are inspired by that content, especially critically, we encourage you to contribute to the living and community managed continuations of this document and all its translations by submitting changes through a git pull request or by reaching out to one of the many contributors to become part of the community.  We hope as many criticisms of this work as possible will be inspired by the open source mantra "so fix it!"
+
 ---
 
 [^PMP]: Tobin South, Leon Erichsen, Shrey Jain, Petar Maymounkov, Scott Moore and E. Glen Weyl, "Plural Management" (2024) at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4688040.
