@@ -2,20 +2,15 @@ Abundance technocracy (AT)
 Acemoglu, Daron
 Aging Simulation
 Ainulindalë
-Artificial Intelligence (AI).
 Athena's tapestry
 Attention auction
-Automated Clearing House(ACH)
 Bridging the Crowd
 Catastrophic Risks
 Co-construction of Health Agency
-Community Notes (CN)　
 Competitive Effect
 Competitive authoritarian regimes
 Cross-Cultural Exchanges
-Curriculum Vitae (CV)
 Defense Advanced Research Projects Agency
-Designated Verifier Proofs (DVP)
 Digital Democracy Initiative
 Digital Realpolitik
 Digital literacy
@@ -27,7 +22,6 @@ Entrepreneurial Sovereignty (ES)
 Fabric of Trust
 Ganga River
 Globarization
-Good Old-fashioned AI (GOFAI)
 Hunter-gatherer Model
 Industry 1.0
 Industry 2.0
@@ -59,7 +53,6 @@ Surveillance Risks
 Technocratic Narrative
 Tensions between technology and democracy
 Transculturalism
-Uniform Resource Locator (URL)
 Unstructured Communication
 Urgency of innovation leadership
 VR Therapy
@@ -67,7 +60,6 @@ Virtual Civic Spaces
 Vulcan philosophy
 WEIRD societies
 Whanganui River
-Zero-Knowledge Proofs(ZKPs)
 charter town
 individuality loss
 nishio

@@ -67,7 +67,7 @@ ARPANET	3-3, 4-4, 7-0
 Articles 145 of the ROC	2-1
 Artificial General Intelligence	2-0
 Artificial Intelligence	2-0, 3-1, 3-3, 4-1, 4-2, 4-4, 5-0, 5-3, 5-5
-Artificial Intelligence (AI).	
+Artificial Intelligence (AI).	2-0, 3-1, 3-3, 4-1, 4-2, 4-4, 5-0, 5-3, 5-5
 Artistic co-creation	5-3
 Artistic Expression	5-3
 Asana	4-4, 5-3
@@ -90,7 +90,7 @@ Authoritarian Repressive State	2-1
 Authoritarianism	2-0, 2-1, 4-0
 Authority	2-0, 3-0, 3-3, 4-1, 4-3, 5-0, 5-7, 6-0, 6-1, 6-3
 Autodesk	5-3
-Automated Clearing House(ACH)	
+Automated Clearing House(ACH)	4-3
 Autonomy	2-1, 4-0, 4-1, 5-1, 5-2, 5-3, 5-5
 Aviv Ovadya	5-4
 Awe	2-0, 5-3, 6-2
@@ -206,7 +206,7 @@ Common Will	5-4, 5-6
 Commons-Based Property	3-2
 Communism	2-0
 Community Currency	4-3, 5-0
-Community Notes (CN)　	
+Community Notes (CN)　	5-4
 Community-based	3-2, 5-4, 5-7, 6-0
 Community-Based Identity	3-2
 Compelling Narrative	6-3
@@ -252,7 +252,7 @@ Cultural Diversity	4-5, 5-3, 5-5
 Cultural Homogenization	5-3
 Cultural Norm	5-5
 Cultural Practice	4-4, 5-1, 5-5, 7-1
-Curriculum Vitae (CV)	
+Curriculum Vitae (CV)	5-5
 Curtis Yarvin	2-0
 Cybernetic Society	3-2
 Cybernetics	3-2, 3-3
@@ -288,7 +288,7 @@ Democratic Participation	2-0, 2-1, 3-3
 Democratic Progressive Party	2-1
 Democratic Republican Government	6-0
 Demonization	6-3
-Designated Verifier Proofs (DVP)	
+Designated Verifier Proofs (DVP)	4-2
 Deweyian pragmatism	2-1
 Diffusion of Information	5-4
 Digital Archaeology	5-3
@@ -329,7 +329,7 @@ Discrimination Law	2-0
 Disinformation	2-0, 2-1, 2-2, 5-4, 6-2, 7-1
 Displacement	2-0
 Disruption	2-0, 3-3, 6-1
-Distributed Autonomous Organizations (DAOs)	5-7, 7-0
+Distributed Autonomous Organizations (DAOs)	4-1, 5-5, 5-7, 7-0
 Distributed Ledger Technology (DLT)	
 Distributed Ledgers	4-1, 5-5
 Distributed Network of Signals	5-5
@@ -460,8 +460,8 @@ Generative Art	5-3
 Generative Artists	5-3
 Generative Foundation Model	4-1, 4-2, 4-4, 5-3, 5-5, 6-2, 6-3, 7-0, 7-1
 Generative foundation models	4-1, 4-2, 4-4, 5-3, 5-5, 6-2, 6-3, 7-0, 7-1
-Generative Foundation Models (GFMs)	4-1, 4-4, 5-3, 6-3
-Generative Foundation Models(GFMs)	4-4
+Generative Foundation Models (GFMs)	4-1, 4-2, 4-4, 5-3, 5-5, 6-2, 6-3, 7-0, 7-1
+Generative Foundation Models(GFMs)	4-1, 4-2, 4-4, 5-3, 5-5, 6-2, 6-3, 7-0, 7-1
 Generative Pretrained Transformer	2-0
 Geographical Information System	5-5
 Geopolitics	2-0, 2-2, 4-3, 7-1
@@ -485,7 +485,7 @@ Globarization
 Gogolook	2-2
 Gold Card	2-2, 6-1
 Golden Age	2-0
-Good Old-fashioned AI (GOFAI)	
+Good Old-fashioned AI (GOFAI)	5-5
 Google	2-0, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-0, 5-2, 5-3, 5-7, 6-1, 6-2, 7-0
 Google DeepMind	5-3
 Gov4Git	6-2
@@ -637,8 +637,8 @@ Labor Automation	2-0
 Labor Law	2-0, 7-0
 Labor Unions	2-1, 4-2, 5-7
 Land to the Tiller	2-1
-Large Language Model (LLM)	5-3, 5-5
-Large Language Models (LLMs)	5-4, 6-1
+Large Language Model (LLM)	5-1, 5-3, 5-4, 5-5, 6-1, 6-2
+Large Language Models (LLMs)	5-1, 5-3, 5-4, 6-1, 6-2
 Laurie Anderson	5-3
 Lee Teng-hui	2-1
 Left-right Divide	
@@ -773,8 +773,8 @@ Networked and Probabilistic Structure	5-5
 Networked Value	3-2
 Networks of Human Minds	5-5
 Neural Interfaces	5-1, 6-1
-Neural Network	3-1, 4-4, 5-3, 5-5, 6-2
 Neural network	3-1, 4-4, 5-3, 5-5, 6-2
+Neural Network	3-1, 4-4, 5-3, 5-5, 6-2
 Neurofeedback	5-1
 Neuromodulation	5-1
 New England town hall	5-4
@@ -794,8 +794,8 @@ Non-communicable Disease	6-2
 Non-human Perspective	5-3
 Non-market	2-0, 5-7, 6-2
 Non-renewable Energy Sources	6-4
-Non-Verbal Communication	5-1, 5-4
 Non-verbal Communication	5-1, 5-4
+Non-Verbal Communication	5-1, 5-4
 Norbert Wiener	3-2
 North Atlantic Treaty Organization	
 North Star	6-0
@@ -856,7 +856,7 @@ Pascual Restrepo	2-0
 Paul Jozef Crutzen	6-4
 Peer Production	3-3
 Peng Ming-min	2-1
-People's Republic of China (PRC)	2-1, 4-3
+People's Republic of China (PRC)	2-0, 2-1, 4-3
 Peripheral	2-0
 Peter Thiel	2-0, 4-3, 7-1
 Phishing Attack	4-2, 6-2
@@ -1062,7 +1062,7 @@ Supermodularity	3-2, 5-0, 5-7, 6-0
 Superpower	2-0, 2-2
 Surveillance	2-0, 3-3, 4-1, 4-2, 4-3, 5-1, 5-2, 5-3, 6-2, 7-0
 Surveillance Risks	
-Sustainable Development Goals (SDGs)	6-2
+Sustainable Development Goals (SDGs)	6-2, 6-4
 Symbiotic Relationship	1, 3-1
 Symphony of Minds	5-3
 Synchronous Meeting	6-1
@@ -1138,7 +1138,7 @@ UAE	2-0
 UN	0-0, 0-1, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
 UN-Water	6-2
 UNDP	4-0, 4-1, 6-2
-Uniform Resource Locator (URL)	
+Uniform Resource Locator (URL)	4-4
 United States	2-0, 2-2, 3-3, 4-0, 4-1, 4-3, 4-4, 5-0, 5-1, 5-5, 5-7, 6-2, 6-3, 7-0
 Universal Basic Income	2-0, 4-1
 Universal Birth Registration	3-2
@@ -1209,12 +1209,12 @@ Workplace	2-0, 4-0, 6-0, 6-1, 7-0
 Workspace	5-3
 World Economic Forum	5-5
 World Food Programme	6-2
-World Health Organization (WHO)	2-2, 6-2
+World Health Organization (WHO)	2-0, 2-2, 6-2
 World Press Freedom Index	6-3
 World War	2-0, 2-1, 3-3, 4-0, 6-3
 Writing	2-0, 2-1, 3-1, 3-2, 3-3, 4-2, 4-3, 4-4, 5-0, 5-3, 5-4, 6-0, 6-1, 7-1
 WWII	2-1
-X (formerly Twitter)	5-4, 6-3
+X (formerly Twitter)	0-1, 0-2, 0-3, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
 Yamuna River	6-4
 Yasmin Eyalat	6-3
 Year of AI	2-1, 5-5
@@ -1224,7 +1224,7 @@ Yu Yong-Ding	2-0
 Yuans	2-1
 Yushan	2-1, 3-2, 5-4, 7-0
 Zero Trust	2-2
-Zero-Knowledge Proofs(ZKPs)	
+Zero-Knowledge Proofs(ZKPs)	4-1, 4-2, 6-3
 Zheng Chenggong	2-1
 ⿻ Artist	5-3
 ⿻ Conversational and Funding Tools	6-1

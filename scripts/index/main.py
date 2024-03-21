@@ -37,14 +37,25 @@ with open(os.path.join(script_directory, "contributors.tsv"), "w") as f:
     for name in sorted(poc_count):
         print(f"{name}\t{poc_count[name]}", file=f)
 
-with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
-    keyword_occurence = defaultdict(list)
-    section_occurence = defaultdict(int)
-    for k in keywords:
-        for section in section_contents:
-            if k.lower() in section_contents[section]:
+keyword_occurence = defaultdict(list)
+section_occurence = defaultdict(int)
+for k in keywords:
+    for section in section_contents:
+        if k.lower() in section_contents[section]:
+            keyword_occurence[k].append(section)
+            section_occurence[section] += 1
+        elif "(" in k:
+            # if keywords looks `AAA (BBB)` style, use occurrence of `AAA` instead
+            k2 = k.split("(")[0].strip().lower()
+            if k2 in ["", "X"]:  # exception, such as `X(Twitter)`
+                continue
+            if k2 in section_contents[section]:
                 keyword_occurence[k].append(section)
                 section_occurence[section] += 1
+
+
+with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
+    for k in sorted(keywords):
         if not keyword_occurence[k]:
             print(k, file=warn_no_occurence)
 
