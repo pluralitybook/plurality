@@ -70,7 +70,7 @@ The radical and transformative potential of QV and LD suggest ways that voting s
 
 Perhaps the most exciting possibilities are now these could combine: infinite diversity, infinitely combining to support the infinite combinations that they help infinite diversity form.
 
-[^Pluralvote]: Ohlhaver, Weyl and Buterin, op. cit. "Beyond Collusion Resistance: Leveraging Social Information for Plural Funding and Voting" (2023) at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4311507.
+[^Pluralvote]: Ohlhaver, Weyl and Buterin, op. cit. Joel Miller, E. Glen Weyl and Leon Erichsen, "Beyond Collusion Resistance: Leveraging Social Information for Plural Funding and Voting" (2023) at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4311507.
 [^Gilman]: Nils Gilman and Ben Cerveny, "Tomorrow's Democracy is Open Source", *Noema* September 12, 2023 at https://www.noemamag.com/tomorrows-democracy-is-open-source/.
 
 ### Limits of ⿻ voting
