@@ -18,3 +18,4 @@
 - Changed `Universal Record Locator` to `Uniform Resource Locator`, and fixed `W. Mitchell Waldrop`.
 - Fix some upper/lower diversity (e.g. `Virtual Reality` and `Virtual reality`)
 - Keywords with acronym such as `Artificial Intelligence (AI)`: If it does not occerred, remove after palens and search again.
+- Keywords with quotes such as `Diversity of "groups"`: remove quotes
