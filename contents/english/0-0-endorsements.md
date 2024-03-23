@@ -1,3 +1,3 @@
 # Endorsements
 
-This space is reserved for a collection of endorsements from esteemed figures across various fields, whose words will underscore the significance and impact of this work.
+> (V)isionary in design, execution and substance. — [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), President of [University of Tulsa](https://utulsa.edu/) and [Americans for Responsible Innovation](https://responsibleinnovation.org/), Fmr. US Congressman and Undersecretary of the Army
