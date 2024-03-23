@@ -6,11 +6,18 @@ Recent attempts to overcome this challenge have focused on matching funds and co
 
 To overcome this, a number of new matching platforms, such as [GitCoin Grants](https://www.gitcoin.co/), connect sponsors (small donors and grants) using a "plural funding" formula that accounts not just for the total funding received, but also the diversity of its source across individual contributors and connected social groups.  These platforms have become important sources of funding for OSS, channeling in total more than a hundred million of dollars in funding. This has been especially important to Web3 related projects, in Taiwan, and in supporting this book. They are also increasingly being applied to domains (e.g. [environment](https://moda.gov.tw/en/ADI/news/bulletin-board/5451), [local business development](https://medium.com/@katiebrenjohnson/downtown-stimulus-program-review-e89f67e29f4f)) outside OSS.
 
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_matching.png" width="100%" alt="Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a ⿻ funding formula because it elevates many small contributions across social distance.">
-Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a ⿻ funding formula because it elevates many small contributions across social distance.
 
+**<figcaption>Figure 1. Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a ⿻ funding formula because it elevates many small contributions across social distance.</figcaption>**
+</figure>
+<br></br>
+
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_projectpage.png" width="100%" alt="The project page for the plurality book on Gitcoin.  As of February 2 2024, the ⿻ book had received $332.84 in funding from 87 contributors.">
-The project page for the ⿻ book on Gitcoin.  As of February 2 2024, the ⿻ book had received $332.84 in funding from 87 contributors.
+
+**<figcaption>Figure 2. The project page for the ⿻ book on Gitcoin.  As of February 2 2024, the ⿻ book had received $332.84 in funding from 87 contributors.</figcaption>**
+<br></br>
 
 ---
 
@@ -40,10 +47,12 @@ Many textbooks have been written, including some by some of our close friends, o
 [^Acemoglutext]: Daron Acemoglu, David Laibson and John List, *Economics* (Upper Saddle River, NJ: Pearson, 2021).
 [^Smith]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (London: W. Strahan and T. Cadell, 1776).
 
-<figure></figure>
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/Returnsfig.png" width="100%" alt="Illustration of the incompatibility of increasing returns with a profitable efficient market." />
-<figcaption>Payment of marginal returns requires paying workers and other factor providers an amount derived from tracing the tangent to graph of output as a function of inputs back to 0 input.  The gap to the origin indicates profits, which are positive under decreasing returns, but negative (thus loses) under increasing returns.</figcaption>
+
+**<figcaption>Figure 3. Payment of marginal returns requires paying workers and other factor providers an amount derived from tracing the tangent to graph of output as a function of inputs back to 0 input.  The gap to the origin indicates profits, which are positive under decreasing returns, but negative (thus loses) under increasing returns.</figcaption>**
 </figure>
+<br></br>
 
 1. Increasing returns and public goods:  Perhaps the most restrictive condition, highlighted by the founding fathers of the "marginal revolution" that ushered in modern economics, is "decreasing returns", the opposite of the supermodularity we used to define collaboration.  This requires that production have "decreasing marginal returns" or more generally and less formally, that "the whole is less than the sum of its parts".  Only then can profitable production be consistent with the principle of, for example, paying workers their marginal contributions to production; when there are increasing returns,  paying everyone their marginal product yields a loss, as shown in the figure.  Public goods that benefit a large number of people at little additional cost and are hard to stop people from using are an extreme case and economists have long argued that markets dramatically under-supply these.  But even less extreme cases of increasing returns/supermodularity are severely under-provided by capitalism. Nobel Prizes, among others, to Paul Romer and Paul Krugman for showing how fundamental these goods are to growth and development.[^Pauls] In short, perhaps the greatest paradox of global capitalism is that it is at once the largest scale example of collaboration and yet has trouble supporting precisely the forms of technological collaboration that it heralds.
 2. Market power: In some cases where exclusion from shared goods can be imposed by barriers or violence, funding of such collaboration can be partially alleviated by charging for access.  But this tends to create monopolistic control that concentrates power and reduces the value created by scaling collaboration, undermining the very collaboration it aims to support.

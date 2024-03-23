@@ -4,8 +4,6 @@ This book describes a vision for the future of technology and society that we ho
 
 Our concrete aspirations match our ambitious vision. By 2030, ⿻ will be as recognizable to people around the globe as a direction for technology as AI or blockchain are and as recognizable as a political movement as the Green movement.  People will expect their democracy to progress as rapidly as their devices. They will see Taiwan as a guiding light and symbol for ⿻ and thus as important to the thriving of ⿻ as Israel is for the Jewish people or as Ukraine is for freedom in Europe.  People around the world will find surprising allies and heroes through ⿻, like those concerned about authoritarian expansionism coming to  admire a transgender Taiwanese leader on the front lines of that conflict and those seeking more ⿻ technology finding allies among the devout.
 
-
-
 ### The Stakes
 
 Technology is the most powerful force transforming our world. Whether or not we understand its inner workings, deploy it tentatively or voraciously, or agree with the companies and policymakers that have shaped its development to date, it remains our single greatest lever to shape our collective future. 

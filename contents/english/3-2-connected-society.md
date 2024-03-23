@@ -1,4 +1,4 @@
-# Connected Society
+b# Connected Society
 
 > Industry and inventions in technology, for example, create means which alter the modes of associated behavior and which radically change the quantity, character and place of impact of their indirect consequences. These changes are extrinsic to political forms which, once established, persist of their own momentum. The new public which is generated remains long inchoate, unorganized, because it cannot use inherited political agencies. The latter, if elaborate and well institutionalized, obstruct the organization of the new public. They prevent that development of new forms of the state which might grow up rapidly were social life more fluid, less precipitated into set political and legal molds. To form itself, the public has to break existing political forms. This is hard to do because these forms are themselves the regular means of instituting change. The public which generated political forms is passing away, but the power and lust of possession remains in the hands of the officers and agencies which the dying public instituted. This is why the change of the form of states is so often effected only by revolution. — John Dewey, *The Public and its Problems*, 1927[^Public]
 
@@ -30,12 +30,14 @@ Prior to modernity, individuals were born into families rooted within kin-based 
 
 This helped circumvent the reliance on personal relationships, building the foundation of identity in a relationship to a state, which in turn served as a trust anchors for many other types of institutions ranging from children's sports teams to medical care providers. These abstract representations enabled people to navigate the world not based on "who they know" or "where they fit" in a tight social world but as who they are in an abstracted universal sense relative to the state.  This "WEIRD" (Western Educated Industrialized Rich Democratic) universalism thus broke with the social embedding of identity while thereby "freeing" people to travel and interact much more broadly using modern forms of identification issued by governments like passports and national identity cards. While other critical credentials, such as  educational attainment are more diverse, they almost uniformly conform to a limited structure, implying one of a small number of "degrees" derived from courses with a particular "Carnegie unit" structure (in theory, 120 hours spent with an instructor).  In short, just as modernity abstracted ownership private property, removing it from its many social entanglements, it also abstracted personal identity from the social anchoring that limited travel and the formation of new relationships.
 
+<figure>
 <img src="https://raw.githubusercontent.com/audreyt/plurality/main/figs/252527680-2ae7e6db-6044-4495-8ad0-654614b46fbc.png" width="100%" alt="Science">
 
-
+**<figcaption>Figure 1. Flexible taxonomies across a broad spectrum of recognition<figcaption>**
+</figure>
+<br></br>
 
 #### Voting
-
 
 In most liberal democracies, the principle of "one-person-one-vote" is viewed as a sacred core of the democratic process.  Of course, various schemes of representation (multi-member proportional representation or single-member districts), checks-and-balances (mutli- v. unicameral legislatures, parliamentary v. presidential) and degrees of federalism vary and recombine in a diverse ways.  However both in popular imagination and in formal rules, the idea that numerical majorities (or in some cases supermajorities) should prevail regardless of the social composition of groups is at the core of how democracy is typically understood.[^Exceptions] Again this contrasts with decision-making structures throughout most of the world and most of history, including ones that involved widespread and diverse representation by a range of social relationships, including family, religious, relationships of fealty, profession, etc.[^DawnEverything]  We again see the same pattern repeated: liberal states have "extracted" "individuals" from their social embedding to make them exchangeable, detached citizens of an abstracted national polity.
 

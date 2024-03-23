@@ -16,10 +16,12 @@ Throughout history of the most meaningful human experiences involve multisensory
 
 Technology has increasingly played a role in facilitating such copresence, especially at a distance, in recent years. ISR refers to technology that creates a shared virtual environment where users can interact in real-time. This type of “reality” can be considered a subset application of Mediated Reality, a broader term that encompasses various technologies that mediate our perception of reality, including Virtual, Augmented and Mixed Reality (a.k.a. VR, AR, MR). 
 
-
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png" width="100%" alt='Venn diagram with four overlapping circles labeled "Virtual Reality", "Augmented Reality", "Mixed Reality," and "Modulated Reality." A larger circle encompasses these, labeled "Mediated Reality."'>
 
-**Figure 1: Mediated Reality Framework adapted from Mann and Nnlf ’94**
+**<figcaption>Figure 1. Mediated Reality Framework adapted from Mann and Nnlf (1994)</figcaption>**
+</figure>
+<br></br>
 
 ISR can apply to many human interactions. Some of the most common applications are socialization, gaming, entertainment, sports and fitness:
 - VR gatherings: These digital spaces enable people from around the world to interact in a shared virtual environment. Here, avatars represent participants, allowing for expressive movements and interactions that go beyond verbal communication. These virtual gatherings can range from collaborative work meetings to social events, where the sense of presence is amplified by the immersive, 3D environment. Participants experience a sense of togetherness and community, facilitating connections that, while not as intense as physical interactions, are still meaningful and emotionally resonant.
