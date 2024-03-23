@@ -78,8 +78,10 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
         print(f"{k}\t{human}\t{occ}", file=f)
 
 with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
+    print(f"section\tcount\tcount per 10k chars", file=f)
     for sec in sorted(section_occurence):
-        print(f"{sec}\t{section_occurence[sec]}", file=f)
+        ratio = int(10000 * section_occurence[sec] / len(section_contents[sec]))
+        print(f"{sec}\t{section_occurence[sec]}\t{ratio}", file=f)
 
 
 with open(os.path.join(script_directory, "too_many_occurrence.tsv"), "w") as f:
