@@ -170,14 +170,14 @@ Yet while from one side these present a challenge, on the other hand they offer 
 The principle of "circular investment" that we described in our [Social Markets](https://www.plurality.net/v/chapters/5-7/eng/?mode=dark) chapter suggests that eventually they can all be generally jointly satisfied. The value created by supermodular shared goods eventually must accrue somewhere with submodular returns, which can and should be recycled back to support those values sources.  Extracting this value can generally be done in a way that reduces market power and thus actually encourages assets to be more fully used.
 
 Despite this theoretical ideal, in practice identifying practicable taxes to achieve it is likely to be as much a process of technological trial and error as any of the technological challenges we discuss in the Democracy part of the book.  Yet there are a number of promising recent proposals that seem plausibly close to fulfilling many of these objectives as we iterate further:
-1. Concentrated computational asset tax: Application of a progressive (either in rate or by giving a generous exemption) common ownership tax to digital assets such as computation, storage and some kinds of data. 
+1. Concentrated computational asset tax: Application of a progressive (either in rate or by giving a generous exemption) common ownership tax to digital assets such as computation, storage and some kinds of data.[^Siegmann] 
 2. Digital land tax: Taxing the commercialization or holding of scarce of digital space, including taxes on online advertising, holding of spectrum licenses and web address space in a more competitive way and, eventually, taxing exclusive spaces in virtual worlds.[^Romer]
 3. Implicit data/attention exchange tax: Taxes on implicit data or attention exchanges involved in "free" services online, which would otherwise typically accrue labor and value added taxes.
 4. Digital asset taxes: Common ownership taxes on pure-digital assets, such as digital currencies, utility tokens and non-fungible token.
 5. Commons-derived data tax: Profits earned from models trained on unlicensed, commons-derived data could be taxed.
 6. Flexible/gig work taxes: Profits of companies that primarily employ "gig workers" and thus avoid many of the burdens of traditional labor law could be taxed.[^Gray]
 
-
+[^Siegmann]: See the ongoing work developing this idea of Charlotte Siegmann, "AI Use-Case Specific Compute Subsidies and Quotas" (2024) at https://docs.google.com/document/d/11nNPbBctIUoURfZ5FCwyLYRtpBL6xevFi8YGFbr3BBA/edit#heading=h.mr8ansm7nxr8.
 [^Romer]: Paul Romer, "A Tax That Could Fix Big Tech", *New York Times* May 6, 2019 advocated related ideas.
 [^Gray]: Gray and Suri, op. cit.
 
