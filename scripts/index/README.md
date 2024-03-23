@@ -8,6 +8,8 @@
 - `keyword_occurrence.tsv`: occurrence of each keywords in each sections
 - `section_occurrence.tsv`: number of occurrences in each sections of any keywords. It is to find less-covered sections.
 - `no_occurence.txt`: Keywords which does not occur in the contents.
+- `too_many_occurrence.tsv`: Keywords which occur in more than 5 sections.
+- `similar_keywords.txt`: Output if there are keywords like `Neural network` and `Neural Network`.
 
 
 ## memo
@@ -20,3 +22,4 @@
 - Keywords with acronym such as `Artificial Intelligence (AI)`: If it does not occerred, remove after palens and search again.
 - Keywords with quotes such as `Diversity of "groups"`: remove quotes
 - `keyword_occurrence.tsv`: Output "by human" keywords and "by script" keywords on the different columns
+- Fix bug: I ignored `X` derived from `X (formerly Twitter)` but the comparison was done after lower().

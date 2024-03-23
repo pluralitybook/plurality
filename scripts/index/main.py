@@ -7,10 +7,18 @@ import re
 import csv
 from collections import defaultdict
 
+# keywords which should avoid mechine search
+IGNORE = ["x"]  # such as `X(Twitter)`
+
 
 def normalize_section_name(s):
     "XX-YY -> X-Y"
     return "-".join(str(x) for x in [int(x) for x in s.split("-")])
+
+
+def remove_palen(s):
+    "`AAA (BBB)` -> `AAA`"
+    return k.split("(")[0].strip()
 
 
 CSV_FILE = "Plurality Book Indexing Exercise - Main.csv"
@@ -59,14 +67,18 @@ with open(os.path.join(script_directory, "contributors.tsv"), "w") as f:
 keyword_occurence = defaultdict(list)
 section_occurence = defaultdict(int)
 for k in keywords:
+    # find occurence in other sections
+    if k in IGNORE:
+        continue
+
     for section in section_contents:
         if k.lower() in section_contents[section]:
             keyword_occurence[k].append(section)
             section_occurence[section] += 1
         elif "(" in k:
             # if keywords looks `AAA (BBB)` style, use occurrence of `AAA` instead
-            k2 = k.split("(")[0].strip().lower()
-            if k2 in ["", "X"]:  # exception, such as `X(Twitter)`
+            k2 = remove_palen(k).lower()
+            if not k2 or k2 in IGNORE:
                 continue
             if k2 in section_contents[section]:
                 keyword_occurence[k].append(section)
@@ -88,6 +100,7 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
         k = k.replace('"', "")  # care for `Diversity of "groups"`
         print(f"{k}\t{human}\t{occ}", file=f)
 
+
 with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
     print(f"section\tcount\tcount per 10k chars", file=f)
     for sec in sorted(section_occurence):
@@ -97,7 +110,6 @@ with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
 
 with open(os.path.join(script_directory, "too_many_occurrence.tsv"), "w") as f:
     print(f"Keywords\tSection(by Human)\tSection(by Script)", file=f)
-
     for k in sorted(keyword_occurence, key=lambda x: x.lower()):
         if len(keyword_occurence[k]) >= 5:
             human = ", ".join(sorted(keyword_recorded_by_human[k]))
