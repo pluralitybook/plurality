@@ -19,3 +19,4 @@
 - Fix some upper/lower diversity (e.g. `Virtual Reality` and `Virtual reality`)
 - Keywords with acronym such as `Artificial Intelligence (AI)`: If it does not occerred, remove after palens and search again.
 - Keywords with quotes such as `Diversity of "groups"`: remove quotes
+- `keyword_occurrence.tsv`: Output "by human" keywords and "by script" keywords on the different columns

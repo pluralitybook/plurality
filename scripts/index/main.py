@@ -8,6 +8,11 @@ import csv
 from collections import defaultdict
 
 
+def normalize_section_name(s):
+    "XX-YY -> X-Y"
+    return "-".join(str(x) for x in [int(x) for x in s.split("-")])
+
+
 CSV_FILE = "Plurality Book Indexing Exercise - Main.csv"
 # This will get the absolute path of the current script file.
 script_directory = os.path.dirname(os.path.abspath(__file__))
@@ -29,9 +34,12 @@ for filename in sections:
 lines = open(os.path.join(script_directory, CSV_FILE)).readlines()[1:]
 poc_count = defaultdict(int)
 keywords = set()
+keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
     keywords.add(row[1])
+    keyword_recorded_by_human[row[1]].add(normalize_section_name(row[2]))
     poc_count[row[3]] += 1
+
 
 with open(os.path.join(script_directory, "contributors.tsv"), "w") as f:
     for name in sorted(poc_count):
@@ -61,10 +69,13 @@ with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_oc
 
 
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
+    print(f"Keywords\tSection(by Human)\tSection(by Script)", file=f)
+
     for k in sorted(keyword_occurence, key=lambda x: x.lower()):
+        human = ", ".join(sorted(keyword_recorded_by_human[k]))
         occ = ", ".join(sorted(keyword_occurence[k]))
         k = k.replace('"', "")  # care for `Diversity of "groups"`
-        print(f"{k}\t{occ}", file=f)
+        print(f"{k}\t{human}\t{occ}", file=f)
 
 with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
     for sec in sorted(section_occurence):
