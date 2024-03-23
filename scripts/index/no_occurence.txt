@@ -1,21 +1,29 @@
+AI-driven Intervention
 Abundance technocracy (AT)
 Acemoglu, Daron
 Aging Simulation
 Ainulindalë
+Artistic co-creation
 Athena's tapestry
 Attention auction
 Bridging the Crowd
 Catastrophic Risks
+Climate Change Simulations
 Co-construction of Health Agency
+Co-writing
+Collective Response Model
 Competitive Effect
 Competitive authoritarian regimes
 Cross-Cultural Exchanges
+De Tocqueville, Alexis
 Defense Advanced Research Projects Agency
 Digital Democracy Initiative
+Digital Legacy Realms
 Digital Realpolitik
 Digital literacy
 Direct Thought Transmission
 Distributed Ledger Technology (DLT)
+Diversification of Seeing
 Emotion Tracking
 Empathetic Technology
 Entrepreneurial Sovereignty (ES)
@@ -23,28 +31,42 @@ Fabric of Trust
 Ganga River
 Globarization
 Hunter-gatherer Model
+Immersive Education
+Immersive Shared Reality Campuse
 Industry 1.0
 Industry 2.0
 Industry 3.0
 Industry 4.0
+Inter-species Communication
 Intersectional Identity
 J.R.R. Tolkien
 Jefferson, Thomas
 Jobs, Steve
+Kela-Kelpo project
+LLM-based Representative
 Left-right Divide
 Monolithic Threat
 National Socialist German Workers party
 North Atlantic Treaty Organization
+Online collaboration platform
 Open Recognition Community
 Open-source Technology
+Page Rank
+Pigouvian Taxes
+Pixar's headquarters
 Plural Future
+Plural workplace
+Populist Movement 
 Proprioceptive Communication
+Public Welfare Shcemes
 Pythagoras
 Regenerative Economies
 Regenerative Plurality
 Robinson, James
 Sensory Degradation
+Simon, Herbert
 Siraya language
+Snowden, Edward
 Social Dynamics
 Sprightly
 Strava model
@@ -52,6 +74,7 @@ Structured Communication
 Surveillance Risks
 Technocratic Narrative
 Tensions between technology and democracy
+The Parliament of Things
 Transculturalism
 Unstructured Communication
 Urgency of innovation leadership
@@ -60,6 +83,8 @@ Virtual Civic Spaces
 Vulcan philosophy
 WEIRD societies
 Whanganui River
+Wised Democracy Pattern Language
+World Trade Organization,
 charter town
 individuality loss
-nishio
+⿻ Rule
