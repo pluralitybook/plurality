@@ -80,3 +80,14 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
 with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
     for sec in sorted(section_occurence):
         print(f"{sec}\t{section_occurence[sec]}", file=f)
+
+
+with open(os.path.join(script_directory, "too_many_occurrence.tsv"), "w") as f:
+    print(f"Keywords\tSection(by Human)\tSection(by Script)", file=f)
+
+    for k in sorted(keyword_occurence, key=lambda x: x.lower()):
+        if len(keyword_occurence[k]) >= 5:
+            human = ", ".join(sorted(keyword_recorded_by_human[k]))
+            occ = ", ".join(sorted(keyword_occurence[k]))
+            k = k.replace('"', "")  # care for `Diversity of "groups"`
+            print(f"{k}\t{human}\t{occ}", file=f)
