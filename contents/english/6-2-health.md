@@ -19,16 +19,11 @@ Achieving this goal, however, requires embracing a ⿻ concept of health (Figure
 5. Non-aligned incentives
 6. Lack of enabling services.
 
-
 <figure>
   <img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-02-Fig1.jpg" width="100%" alt="RelationalConceptHealth">
 
   **<figcaption>Figure 1. The Relational Concept of Health</figcaption>**
 </figure>
-
-**Figure 1. The Relational Concept of Health**
-
-
 
 ### Reimagining health insurance
 
