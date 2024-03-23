@@ -40,7 +40,18 @@ for row in csv.reader(lines):
     keyword_recorded_by_human[row[1]].add(normalize_section_name(row[2]))
     poc_count[row[3]] += 1
 
+# find similar words
+similar_keywords = defaultdict(set)
+for k in keywords:
+    similar_keywords[k.lower()].add(k)
 
+with open(os.path.join(script_directory, "similar_words.tsv"), "w") as f:
+    for k in similar_keywords:
+        if len(similar_keywords[k]) > 1:  # has multiple presentatin
+            print(similar_keywords[k], file=f)
+
+
+# output contributors
 with open(os.path.join(script_directory, "contributors.tsv"), "w") as f:
     for name in sorted(poc_count):
         print(f"{name}\t{poc_count[name]}", file=f)
