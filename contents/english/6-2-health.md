@@ -115,7 +115,7 @@ The blockers noted above (lack of financing, missing markets, coordination failu
 [^Haraway]: Donna Haraway, "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century," in _Simians, Cyborgs and Women: The Reinvention of Nature_ (New York; Routledge, 1991), pp. 149-181.  
 [^Anderson]: Gillian  Anderson, Paul Jenkins, David McDonald, Robert Van Der Meer, Alec Morton, Margaret Nugent, and Lech A Rymaszewski, “Cost Comparison of Orthopaedic Fracture Pathways Using Discrete Event Simulation in a Glasgow Hospital,” BMJ Open 7, no. 9 (September 2017): e014509, https://doi.org/10.1136/bmjopen-2016-014509.
 [^Frossard]: Laurent Frossard, Silvia Conforto, and Oskar Aszmann, “Editorial: Bionics Limb Prostheses: Advances in Clinical and Prosthetic Care Editorial on the Research Topic Bionic Limb Prostheses: Advances in Clinical and Prosthetic Care Context Importance of Residuum Health,” _Frontiers in Rehabilitation Sciences_ 3 (August 18, 2022). https://doi.org/10.3389/fresc.2022.950481.
-[^medshare] Nicola Rieke et al. "The Future of Digital Health with Federated Learning" *npj Digital Medicine* 3 (2020): article 119.
+[^medshare]: Nicola Rieke et al. "The Future of Digital Health with Federated Learning" *npj Digital Medicine* 3 (2020): article 119.
 
 
 
