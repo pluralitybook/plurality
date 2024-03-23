@@ -7,9 +7,6 @@ import re
 import csv
 from collections import defaultdict
 
-# keywords which should avoid mechine search
-IGNORE = ["x"]  # such as `X(Twitter)`
-
 
 def normalize_section_name(s):
     "XX-YY -> X-Y"
@@ -28,6 +25,10 @@ script_directory = os.path.dirname(os.path.abspath(__file__))
 # Construct the path to the target directory relative to the script file.
 # This moves up two levels from the script's directory and then into the "contents/english" directory.
 target_directory = os.path.join(script_directory, "..", "..", "contents", "english")
+
+# keywords which should avoid mechine search, such as `X`(Twitter) or `her`(Movie name)
+ignore_file = os.path.join(script_directory, "ignore.txt")
+IGNORE = open(ignore_file).read().strip().splitlines()
 
 # List the contents of the target directory.
 sections = os.listdir(target_directory)
@@ -77,17 +78,17 @@ for k in keywords:
             section_occurence[section] += 1
         elif "(" in k:
             # if keywords looks `AAA (BBB)` style, use occurrence of `AAA` instead
-            k2 = remove_palen(k).lower()
+            k2 = remove_palen(k)
             if not k2 or k2 in IGNORE:
                 continue
-            if k2 in section_contents[section]:
+            if k2.lower() in section_contents[section]:
                 keyword_occurence[k].append(section)
                 section_occurence[section] += 1
 
 
 with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
     for k in sorted(keywords):
-        if not keyword_occurence[k]:
+        if not keyword_occurence[k] and k not in IGNORE:
             print(k, file=warn_no_occurence)
 
 

@@ -21,7 +21,7 @@ Acemoglu, Daron	2-0
 Active Listening	5-4	5-4
 ActivityPub	2-0, 3-3	2-0, 3-3, 4-2
 Adaptive Representation	5-6	5-6
-Administration	5-4	2-0, 2-2, 3-3, 4-1, 5-0, 5-4, 5-5, 6-2
+Administration	5-4	
 Administrative Application	5-5	5-5
 Administrative Practice	5-5	5-5
 Administrative State	5-5	5-5
@@ -97,7 +97,7 @@ Audrey Tang	3-0	0-1, 2-2, 3-0, 5-4, 8
 Augmented Reality	4-0, 5-2	4-0, 5-2, 7-1
 Australia	6-2	2-0, 5-5, 6-2
 Australian Government	5-5	5-5
-Author	5-4	0-1, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-0, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
+Author	5-4	
 Authoritarian	1-1	1, 2-0, 2-1, 4-0, 7-1
 Authoritarian Regimes	2-0	1, 2-0
 Authoritarian Repressive State	2-1	2-1
@@ -599,7 +599,7 @@ healthy minds in healthy bodies	6-2	6-2
 Henry George	2-1, 2-2, 3-0, 3-2, 5-7	2-1, 2-2, 3-0, 3-2, 5-7
 Henry George Theorem	3-2	3-2, 5-7
 Henry George Theorem States	5-7	5-7
-Her	2-0	0-2, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
+Her	2-0	
 Herbert Simon	5-4	4-2, 5-4
 Herculaneum	5-3	5-3
 Herculaneum scrolls	5-3	5-3
@@ -962,8 +962,8 @@ Optimism Collective	6-2	6-2
 Organizational Chart	6-1	6-1
 Oscar Wilde	5-4	5-4
 Out-of-pocket Payment	6-2	6-2
-Outcome	6-2	2-0, 2-1, 2-2, 3-1, 4-0, 4-4, 4-5, 5-0, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-2, 6-3, 7-0
-Output	6-2	4-2, 4-4, 5-2, 5-3, 5-4, 5-5, 5-7, 6-0, 6-1, 6-2, 7-0
+Outcome	6-2	
+Output	6-2	
 Packet Switching	3-3	3-3, 4-1
 Packet-switching	5-5	3-3, 5-5
 Page Rank	5-6	
@@ -972,7 +972,7 @@ Paradox.ai	5-5	5-5
 PARC	3-3	3-3, 7-0
 Park of Aging	5-1	5-1
 Partial Common Ownership	5-7	5-7
-Participation	2-0	2-0, 2-1, 2-2, 3-2, 3-3, 4-0, 4-1, 4-3, 4-5, 5-0, 5-1, 5-3, 5-4, 5-7, 6-0, 6-2, 6-3, 6-4, 7-0, 7-1
+Participation	2-0	
 Participative Production	2-1	2-1
 Participatory Design	5-7	5-7
 Participedia	5-4	5-4
@@ -1149,7 +1149,7 @@ Shared Goods	5-7	5-7, 7-0
 Shared Knowledge Base	5-3	5-3
 Shoshanna Zuboff	2-0	2-0
 Sidewalk Labs	2-0	2-0
-Signal	4-2	2-1, 2-2, 4-1, 4-2, 4-4, 4-5, 5-0, 5-1, 5-5, 5-6, 6-2, 7-0
+Signal	4-2	
 Silent Majority	6-3	6-3
 Simon Chang	2-2	2-2
 Simon Johnson	2-0	2-0, 5-6
@@ -1311,7 +1311,7 @@ Tradable Carbon Permits	5-7	5-7
 Traditional Practice	5-5	5-5
 Transculturalism	1-1	
 Transhuman	6-2	6-2
-Translation	5-5	2-0, 3-2, 3-3, 5-0, 5-4, 5-5, 6-1
+Translation	5-5	
 Transnational Corporations	5-7	5-7
 Transparent Database	5-5	5-5
 Trello	6-1	6-1
@@ -1324,7 +1324,7 @@ Twitter	6-3	2-0, 2-2, 3-3, 4-2, 4-3, 5-4, 6-3
 Tyranny of Structurelessness	5-4	5-4
 Tyranny Of The Majority	5-6	5-6
 UAE	2-0	2-0
-UN	6-4	0-0, 0-1, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
+UN	6-4	
 UN-Water	6-2	6-2
 UNDP	6-2	4-0, 4-1, 6-2
 Uniform Resource Locator (URL)	4-4	4-4
@@ -1418,7 +1418,7 @@ World Press Freedom Index	6-3	6-3
 World Trade Organization,	5-7	
 World War	6-3	2-0, 2-1, 3-3, 4-0, 6-3
 World Wide Web Consortium (W3C)	4-2	4-2
-Writing	5-4	2-0, 2-1, 3-1, 3-2, 3-3, 4-2, 4-3, 4-4, 5-0, 5-3, 5-4, 6-0, 6-1, 7-1
+Writing	5-4	
 WWII	2-1	2-1
 X (formerly Twitter)	5-4	6-3
 Yamuna River	6-4	6-4
