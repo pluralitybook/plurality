@@ -14,12 +14,12 @@ On the horizon, shared ISR is poised for rapid expansion. Technological advance 
 
 Throughout history of the most meaningful human experiences involve multisensory copresence.  Religious observances often engage many senses in large groups.  Clubs and parties are among the most treasured entertainment experiences because of their multisesnory activation.  Political rallies, group assemblies (whether at schools or for concerts), collective outings (hiking, sports, etc.) all engage a range of sense.  
 
-Technology has increasingly played a role in facilitating such copresence, especially at a distance, in recent years. ISR refers to technology that creates a shared virtual environment where users can interact in real-time. This type of “reality” can be considered a subset application of Mediated Reality, a broader term that encompasses various technologies that mediate our perception of reality, including Virtual, Augmented and Mixed Reality (a.k.a. VR, AR, MR). 
+Technology has increasingly played a role in facilitating such copresence, especially at a distance, in recent years. ISR refers to technology that creates a shared virtual environment where users can interact in real-time. This type of “reality” can be considered a subset application of Mediated Reality as illustrated in Figure A, a broader term that encompasses various technologies that mediate our perception of reality, including Virtual, Augmented and Mixed Reality (a.k.a. VR, AR, MR). 
 
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png" width="100%" alt='Venn diagram with four overlapping circles labeled "Virtual Reality", "Augmented Reality", "Mixed Reality," and "Modulated Reality." A larger circle encompasses these, labeled "Mediated Reality."'>
 
-**<figcaption>Figure 5-2-A. Mediated Reality Framework adapted from Mann and Nnlf (1994)</figcaption>**
+**<figcaption>Figure 5-2-A. Mediated Reality Framework adapted from Mann and Nnlf (1994). Source: [Wikipedia](https://en.wikipedia.org/wiki/Computer-mediated_reality), CC 3.0 BY-SA. </figcaption>**
 </figure>
 <br></br>
 
