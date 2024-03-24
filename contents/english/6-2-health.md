@@ -20,10 +20,12 @@ Achieving this goal, however, requires embracing a ⿻ concept of health (Figure
 6. Lack of enabling services.
 
 <figure>
-  <img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-02-Fig1.jpg" width="100%" alt="RelationalConceptHealth">
+<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-02-Fig1.jpg" width="100%" alt="RelationalConceptHealth">
 
-  **<figcaption>Figure 1. The Relational Concept of Health</figcaption>**
+**<figcaption>Figure 1. The Relational Concept of Health</figcaption>**
 </figure>
+<br></br>
+
 
 ### Reimagining health insurance
 
@@ -44,22 +46,34 @@ For example, it might be formed, in a developing country, to ensure the provisio
 For the purpose of this discussion, *outputs* are the direct result of health services (e.g. people vaccinated); *outcomes* are the final intended result (e.g. deaths avoided through morbidity or mortality risk reduction); and *impacts* are the knock-on effects outcomes have in the world at large (e.g. future children born).  Impact is thus an open-source commodity: it can be forked to whatever use the beneficiary can devise (Figure 2).  Although impacts are a *causal* effect of health services (e.g. a child who otherwise would have died did not, and then went on to be a parent), impacts are not the primary *intended* effect of health services.  The  primary intended effect of health services is reducing morbidity or mortality risk, which as we have seen is an insurance function.  Health services, which produce non-market-traded outcomes (e.g. lives saved *and* healthier lives, through the insurance function) and market-traded and non-market-traded impacts (e.g. more labour to sell *and* more time for visits with friends, through the open-source function), thus have an accounting problem: it is hard to measure the value of outcomes (e.g. the value of a life saved) but it is often still harder to measure the value of relevant impacts.  Thus, since the full social value of health projects is in practice never counted, let alone captured or rendered tradeable, many win-win health investments remain blocked.  
 
 <figure>
-  <img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-02-Fig2.jpg" width="100%" alt="DifferentPathwaysImpact">
+<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-02-Fig2.jpg" width="100%" alt="DifferentPathwaysImpact">
 
-  **<figcaption>Figure 2. Different Pathways to Impact</figcaption>**
+**<figcaption>Figure 2. Different Pathways to Impact</figcaption>**
 </figure>
+<br></br>
 
-For example, the Global Fund claims to have saved 44 million lives over 20 years at a cumulative cost of $55.4 billion in disbursements plus approximately $6 billion in operating costs funded primarily by governments and philanthropists.  Median estimates for the insurance value of a mortality risk reduction of this scale come in at about $200 trillion dollars, attributing to the Global Fund an (undiscounted) outcomes-based return on investment (ROI) of over 3000:1.  Accordingly, if the Global Fund could have captured a fraction of the insurance value of the outcomes it produced, it would be one of the most valuable entities in the world today, and everyone would want to buy its shares.  In fact, everyone in the world already *does* own non-tradeable shares in the Global Fund, which pays out regular dividends in, for example, the form of reduced rates of disease, increased economic growth and the benefits of loved ones living fuller lives.  The question is how to raise revenue against these implicit, untraded shares to fund investment that can increase the benefits they pay out.[^Disc]
+For example, it might be formed, in a developing country, to ensure the provision of clean water, sanitation, or adequate nutrition or in a wealthy country to mitigate the abuse of substances and ultra-processed foods that account for 20 million global deaths a year.[^LancetCommDet]  The relevant needs are highly localized and, in fact, are often hard to address outside of a community context grounded in shared values, professional goals and belief systems.  Or it could another such might be formed on the global level for infections and globally transmissible diseases such as malaria, HIV or tuberculosis, such as the [Global Fund to AIDS, Tuberculosis and Malaria](https://www.theglobalfund.org/en/).  National reinsurers for local health production societies could help ensure that local networks most effective at interventions do not excessively fall prey to shared common health risks. In short, a range of intersecting ⿻ health production societies could move beyond an atomistic, risk-based understanding of health to address the full range of social challenges in health, seeing the pooling of risk as simply one example of supermodularity.  As such they would rely heavily on the full host of technologies we have described above for building community consensus, common understanding/purpose and shielding such action from outside surveillance (such as by a national insurer) that could undermine it.
+
+### Health impact tokenization
+
+For the purpose of this discussion, *outputs* are the direct result of health services (e.g. people vaccinated); *outcomes* are the final intended result (e.g. deaths avoided through morbidity or mortality risk reduction); and *impacts* are the knock-on effects outcomes have in the world at large (e.g. future children born).  Impact is thus an open-source commodity: it can be forked to whatever use the beneficiary can devise (Figure 2).  Although impacts are a *causal* effect of health services (e.g. a child who otherwise would have died did not, and then went on to be a parent), impacts are not the primary *intended* effect of health services.  The  primary intended effect of health services is reducing morbidity or mortality risk, which as we have seen is an insurance function.  Health services, which produce non-market-traded outcomes (e.g. lives saved *and* healthier lives, through the insurance function) and market-traded and non-market-traded impacts (e.g. more labour to sell *and* more time for visits with friends, through the open-source function), thus have an accounting problem: it is hard to measure the value of outcomes (e.g. the value of a life saved) but it is often still harder to measure the value of relevant impacts.  Thus, since the full social value of health projects is in practice never counted, let alone captured or rendered tradeable, many win-win health investments remain blocked.  
+
+<figure>
+<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-02-Fig2.jpg" width="100%" alt="DifferentPathwaysImpact">
+
+**<figcaption>Figure 3. Different Pathways to Impact</figcaption>**
+</figure>
+<br></br>
+
+For example, the Global Fund claims to have saved 44 million lives over 20 years at a cumulative cost of \$55.4 billion in disbursements plus approximately $6 billion in operating costs funded primarily by governments and philanthropists.  Median estimates for the insurance value of a mortality risk reduction of this scale would come in at about \$200 trillion dollars, attributing to the Global Fund an (undiscounted) outcomes-based return on investment (ROI) of over 3000:1.  Accordingly, if the Global Fund could have captured a fraction of the insurance value of the outcomes it produced, it would be one of the most valuable entities in the world today, and everyone would want to buy its shares.  In fact, everyone in the world already *does* own non-tradeable shares in the Global Fund, which pays out regular dividends in the form of reduced rates of disease contraction, increased economic growth and the benefits of loved ones living fuller lives among many other things.  The question is how to raise revenue against these implicit, untraded shares to fund investment that can increase the benefits they pay out.[^Disc]
 
 1. We must be able to represent both the insurance and the broader social value of these investments.  These can be tokenized based on digital certificates that use a combination of technocratic outcome evaluation, but also using "crowd-sourced" intelligence as highlighted, for example, in our [⿻ Voting](https://www.plurality.net/v/chapters/5-6/eng/?mode=dark) chapter.  
 2. Build on this to coordinate fragmented funders and implementers through open impact pools that address the shortcomings noted with existing health financing.  Develop an open coordination standard for subscription to pools that addresses the drawbacks of current health financing.  Tokens can be used to participate in the governance of projects or of the funding pools.  Projects can allocate tokens linked to contributions.  Tokens can be used to participate in governance; to trade and invest; to exchange for selected services; or to fund further projects.
 3. Harness generative foundation models (GFMs) and other applications to accelerate the process of forming such instruments and adapting them to particular investments.  Through tokenization, bundling and trading, it can be made as simple to buy health impact as carbon credits.  Tokens can be reinvested into projects or used to purchase health services according to a standardized impact model.  Value can be linked to specific projects or aggregated into blocks, supporting the development of cascading ('fractal') health-impact markets.  
 
-
 ### Incenting equitable benefit sharing
 
 Health insurance consists of  pooled mechanisms for the prepayment for health services that reduce mortality or morbidity risk, with a flexible element of benefit and risk redistribution.  Benefit sharing in particular has bedeviled blended-finance agreements that promised to mobilize additional sources of funds from private, profit-seeking actors; instead of mobilizing new sources of funding, however, existing arrangements have tended to allow private investors to capture the benefits of public de-risking while offering little or no financial incentive to ensure the active engagement of direct (or indirect) beneficiaries or to reward the commitment of, for example, biological, behavioural, or other services by stakeholders and participants.  Open impact pools that allow for broad participation in governance including by beneficiaries themselves, and therefore also a broader entitlement to benefits through productizing benefit classes based on a standardized impact model, can more equitably distribute both risk and benefit and help incentivize the at-scale production of key ⿻ goods.  
-
 
 ### Deliberative tools for health cooperation
 

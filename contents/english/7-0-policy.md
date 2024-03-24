@@ -35,11 +35,6 @@ The primary rival model to the US has been the PRC, where the Central Committee 
 
 In contrast to the US and the PRC, the European Union (EU) and United Kingdom (UK) have (despite a few notable exceptions) primarily acted as importers of technical frameworks produced by these two geopolitical powers.  The EU has tried to harness its bargaining power in that role, however, to act as a "regulatory powerhouse", intervening to protect the interests of human rights that it fears the other two powers often ignore in their race for technological supremacy.  This has included setting the global standard for privacy regulation with their [General Data Protection Regulation](https://gdpr-info.eu/), taking the lead on regulation of generative foundation models (GFMs) with their [AI Act](https://artificialintelligenceact.eu/the-act/), and helping shape the standards for competitive marketplaces with a series of recent ex-ante competition regulations including the [Digital Services Act](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package), the [Digital Markets Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en) and the [Data Act](https://digital-strategy.ec.europa.eu/en/policies/data-act).  While these have not  defined an alternative positive technological model, they have constrained and shaped the behavior of both US and Chinese firms who seek to sell into the European market. The EU also aspires to tight interoperability across the markets they serve, often leading to copycat legislation in other jurisdictions.
 
-
-
-
-
-
 ### A road less traveled
 
 Just as Taiwan's YuShan (Jade) Mountain rises from the intersection of the Eurasian and Pacific tectonic plates, the policy approach we surveyed in our [Life of a Digital Democracy](https://www.plurality.net/v/chapters/2-2/eng/?mode=dark) chapter from its peak arises from the intersection of the philosophies behind these three digital empires.  From the US model, Taiwan has drawn the emphasis on a dynamic, decentralized, free, entrepreneurial ecosystem open to the world that generates scalable and exportable technologies, especially within the open source ecosystem.  From the European model, it has drawn a focus on human rights and democracy as the fundamental aspirations both for the development of basic digital public infrastructure and on which the rest of the digital ecosystem depends.  From the PRC model, it has drawn the importance of public investment to proactively advance technology, steering it toward societal interests.
@@ -58,7 +53,8 @@ On the one hand, ARPA's Information Processing Techniques Office (IPTO) led by L
 1. The development of this research network into the seeds of what became the modern internet.
 2. The development of the groups making up this network into the many of the first and still the among the most prominent computer science and computer engineering departments in the world.
 3. The development around these universities of the leading regional digital innovation hubs in the world, including Silicon Valley and the Boston Route 128 corridor.
- Yet while these technology hubs have become the envy and aspiration of (typically unsuccessful) regional development and industrial policy around the world, it is critical to remember how fundamentally different the aspirations underpinning Lick's vision were from those of his imitators. 
+
+Yet while these technology hubs have become the envy and aspiration of (typically unsuccessful) regional development and industrial policy around the world, it is critical to remember how fundamentally different the aspirations underpinning Lick's vision were from those of his imitators. 
  
  Where the standard goal of industrial policy is directly to achieve outcomes like the development of a Silicon Valley, this was not Lick's intention.  He was instead focused on developing a vision of the future of computing grounded in human-computer symbiosis, attack-resilient networking and the computer as a communication device. ⿻ builds closely on Lick's very much unfinished vision.  Lick selected participating universities not on the basis of an interest in regional economic development, but rather to maximize the chances of achieving vision of the future of computing.
  
@@ -71,17 +67,9 @@ On the one hand, ARPA's Information Processing Techniques Office (IPTO) led by L
 Yet while dictating this mission, Lick did not prejudge the right components to achieve it, instead establishing a network of "coopetitive" research labs, each experimenting and racing to develop prototypes of different components of these systems that could then be standardized in interaction with each other and spread across the network.  Private sector collaborators played important roles in contributing to this development, including Bolt Beranek and Newman (where Lick served as Vice President just before his role at IPTO and which went on to build a number of prototype systems for the internet) and Xerox PARC (where many of the researchers Lick supported later assembled and continued their work, especially after federal funding diminished). Yet, as is standard in the development and procurement of infrastructure and public works in a city, these roles were components of an overall vision and plan developed by the networked, multi-sectoral alliance that constituted ARPANET. Contrast this with a model primarily developed and driven in the interest of private corporations, the basis for most personal computing and mobile operating systems, social networks and cloud infrastructures.  
 
 
-
-
 As we have noted repeatedly above, we need not only look back to the "good old days" for ARPANET or Taiwan  for inspiration.  India's development of the "[Indiastack](https://indiastack.org/)" has many similar characteristics.[^IndiaStack]  More recently, the EU has been developing  initiatives including [European Digital Identity](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en)and [Gaia-X](https://gaia-x.eu/).  Jurisdictions as diverse as [Brazil](https://www.bcb.gov.br/en/financialstability/pix_en) and [Singapore](https://www.abs.org.sg/consumer-banking/fast) have experimented successfully with similar approaches.  While each of these initiatives has strengths and weaknesses, the idea that a public mission aimed at creating infrastructure that empowers decentralized innovation in collaboration with civil society and participation but not dominance from the private sector is increasingly a pattern, often labeled "digital public infrastructure" (DPI).  To a large extent, we are primarily advocating for this approach to be scaled up and become the central approach to the development of global ⿻ society.  Yet for this to occur, the ARPA and Taiwan models need to be updated and adjusted for this potentially dramatically increased scale and ambition.
 
 [^Indiastack]: Vivek Raghavan, Sanjay Jain and Pramod Varma, "India Stack—Digital Infrastructure as Public Good", *Communications of the ACM* 62, no. 11: 76-81.
-
-
-
-
-
-
 
 ### A new ⿻ order
 
@@ -125,6 +113,7 @@ Some organizations developing generative foundation models, such as [OpenAI](htt
 
 Furthermore, whatever the ideal structures, it is unlikely that such public interest institutions will simply substitute for the large, private digital ecosystem built up over the last decades.  Many social networks, cloud infrastructures, single-sign-on architectures, and so forth would be wasteful to simply scrap.  Instead it likely makes sense to harness these investments towards the public interest by pairing public investment with agreements to shift governance to respect public input in much the way we discussed in our chapters on [⿻ Voting](https://www.plurality.net/v/chapters/5-6/eng/?mode=dark), [Workplace](https://www.plurality.net/v/chapters/6-1/eng/?mode=dark) and [Media](https://www.plurality.net/v/chapters/6-3/eng/?mode=dark).  This closely resembles the way that a previous wave of economic democracy reform with which John Dewey was closely associated did not simple out-compete privately created power generation, but instead sought to bring them under a network of partially local democratic control through utility boards.  Many leaders in the tech world refer to their platforms as "utilities", "infrastructure" or "public squares"; it stands to reason that part of a program of ⿻ digital infrastructure will be reforming them so they truly act as such. 
 
+Furthermore, whatever the ideal structures, it is unlikely that such public interest institutions will simply substitute for the large, private digital infrastructure built up over the last decades.  Many social networks, cloud infrastructures, single-sign-on architectures, and so forth would be wasteful to simply scrap.  Instead it likely makes sense to harness these investments towards the public interest by pairing public investment with agreements to shift governance to respect public input in much the way we discussed in our chapters on Voting, Media and Workplace.  This closely resembles the way that a previous wave of economic democracy reform with which Dewey was closely associated did not simple out-compete privately created power generation, but instead sought to bring them under a network of partially local democratic control through utility boards.  Many leaders in the tech world refer to their platforms as "utilities", "infrastructure" or "public squares"; it stands to reason that part of a program of ⿻ digital infrastructure will be reforming them so they truly act as such.
 
 Fostering a ⿻ ecosystem of organizations that serve ⿻ publics including but not limited to open source models will be critical to moving beyond the limits of the academic ARPA model. Luckily a variety of ⿻ technologies are available to policymakers to foster such an ecosystem.
 
@@ -206,12 +195,11 @@ Different elements of our vision require very different degrees of government en
 
 Luckily, while they are dramatically underfunded, often imperfectly coordinated and lack the ambitious mission we have outlined here, many of the existing transnational structures for digital and internet governance have roughly these features.  In short, while specific new capabilities need to be added, funding improved, networks and connections enhanced and public engagement augmented, the internet is already, as imagined by the ARPANET founders, ⿻ in its structure and governance.  More than anything, what needs to be done is build the public understanding of and engagement with this work necessary to uplift, defend and support it.
 
-
-
 ### Organizing change
 
 
 Of course, achieving that is an enormous undertaking.  The ideas discussed in this chapter, and throughout this book, are deeply technical and even the fairly dry discussion here barely skims the surface.  Very few will deeply engage even with the ideas in this book, much less the much farther ranging work that will need to be done both in the policy arena and far beyond it in the wide range of research, development and deployment work that policy world will empower.  
+
 
 It is precisely for this reason that "policy" is just one small slice of the work required to build ⿻.  For every policy leader, there will have to be dozens, probably hundreds of people building the visions they help articulate.  And for each one of those, there will need to be hundreds who, while not focused on the technical concerns, share a general aversion to the default Libertarian and Technocratic directions technology might otherwise go and are broadly supportive of the vision of ⿻.  They will have to understand it at more of an emotive, visceral and/or ideological level, rather than a technical or intellectual one, and build networks of moral support, lived perspectives and adoption for those at the core of the policy and technical landscape.  
 

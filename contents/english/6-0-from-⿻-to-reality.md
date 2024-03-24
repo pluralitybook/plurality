@@ -1,6 +1,5 @@
 # From ⿻ to Reality
 
-
 ⿻ has the tangible potential, in the next decade, to transform almost every sector of society.  Examples we study are
 
 1. The workplace, where we believe it could raise economic output by 10% and increase the growth rate by a percentage point;
@@ -12,14 +11,11 @@ While we do not detail them here, we also expect fundamental effects in a wide r
 - Energy, where it can help underpin a fundamental transition from the "hunter-gatherer" model of fossil fuels to the "agricultural" model of directly harnessing solar energy;
 - Learning, where it can upend the linear structure of current schooling to allow far more diverse and flexible, lifelong learning paths.
 
-
 ---
 
 The previous parts of this book have sketched lofty visions of transforming a broad range of social systems.  Yet however imaginative such futurism is, it can quickly feel impractical, empty, and false if disconnected from the presently felt needs of real people today and pathways to address these needs while bringing systemic change.  Furthermore, much of the rhetoric so far has focused on broad social systems like "democracy" that, while inspiring, can often feel distant from the lived experience or scope of agency of most people.
 
 In this section we therefore try to bring the potential impact of ⿻ down to the concrete challenges facing citizens, workers and leaders across a range of social activities and sectors.  Before turning to specific such sectors, in this chapter we aim to sketch general contours of a ⿻ "theory of change", highlighting how these sectors are natural starting points and showing how and why experiments in these areas can prove both of direct value and capable of spreading to systemic, global empowerment of ⿻.
-
-
 
 ### The graph structure of social revolutions
 
@@ -42,7 +38,6 @@ This approach contrasts with  "community-based innovation" allied to academic "P
 
 [^PAR]: Fran Baum, Colin MacDougall and Danielle Smith, "Participatory Action Research", *Journal of Epidemiology and Community Health* 60, no. 10: 854-857.  
 
-
 "Experimentation on" and "experimentation with" each clearly have their strengths and drawbacks.  But the latter mode has become increasingly inconsistent and even dangerous given the style of adoption spread that is sought in today's venture capital fueled digital technology industry. Venture capitalists like LinkedIn Founder [Reid Hoffman](https://en.wikipedia.org/wiki/Reid_Hoffman) have celebrated the "masters of scale" who champion "blitzscaling", in which start-ups receive large, early injections of venture financing to allow them to invest in growing their user base rapidly and and then leveraging the benefits of this supermodularity (e.g. network effects, learning from user data, etc.) to achieve a dominant market position.[^Blitz]  Perhaps the most dramatic example of this was Hoffman-backed OpenAI, which achieved 100 million users within a few months of launching its ChatGPT. Such rapid adoption led to [widespread public concern](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) about the potential social harms from such systems and regulation aimed at avoiding the cycle of "move fast and break things" and the  social backlash that accompanied comparatively earlier, slower-growing technologies (like ride hailing and social media).[^pause]
 
 [^Blitz]: Reid Hoffman and Chris Yeh, *Blitzscaling: The Lightening-Fast Path to Building Massively Valuable Companies* (New York: Currency, 2018).  For a thoughtful and balanced evaluation see Donald F. Kuratko, Harrison L. Holt and Emily Neubert, "Blitzscaling: The Good, the Bad and the Ugly", *Business Horizons* 63, no. 1 (2020): 109-119.
@@ -59,7 +54,6 @@ In particular, even when technologies are successfully developed in the interest
 
 A natural way to overcome this tendency is for the technology to develop in rough balance across primary existing social divides, allowing a network of participants to both govern its internal harms but also to resolve the potentially competing interests of the groups represented in accessing and directing the technology.  At the same time, for such spread to be effective, early adopters have to hold sufficient prestige or be able to gain it through the benefits of the tools that, in a roughly balanced way across their respective networks, the technology can spread.  
 
-
 This sketches an ambitious but reasonably clear picture of what a ⿻ strategy for diffusing ⿻ looks like:
 1. Seeds must be of a scale of community sufficient to encompass the diversity the technology aims to bridge, but also small enough to be one of a very large number of such experiments.
 2. Seeds should be communities of early adopters gaining tangible value or with clear interest in not just using but contributing to the technology and not so vulnerable that to-be-expected failures will prove deeply harmful.
@@ -69,22 +63,18 @@ This sketches an ambitious but reasonably clear picture of what a ⿻ strategy f
 
 While it is obviously impossible to perfectly achieve these five goals simultaneously, each challenging in itself, they provide a rough "north star" to guide towards as we consider sectors for impact of ⿻.  Furthermore, to illustrate that trying to achieve them is not impractical, we implemented using these criteria in marketing this book (viz. in choosing endorsements to pursue, media to seek coverage in, events to hold etc.), an approach we refer to as ⿻ Marketing.  While fully illustrating this is complex, we show our approach to the last criterion in the figure.  We took our full audience, tried to consider the primary lines of division within it and then chose a marketing vector (such as an endorser) with respect across these lines of division, then recursively applied this approach to each sub-community; the figure shows the categories thus generated two levels deep into the associated "tree".  As to whether the result of this approach was effective and whether we did a good job implementing this, you should be able to judge on reading this book and its endorsements better than we can at the time of writing this! As in many parts of this project, we invite you to experiment and learn with us.
 
-
-
-
-
-
-
-
-
 ### Fertile ground
 
-Let us first consider the question of scale.  To realize the benefits of ⿻ technology within a community requires the community to contain at least a rough approximation of the diversity that technology aims to span.  This differs dramatically across various directions of technology.  The most intimate technologies of [post-symbolic communication](https://www.plurality.net/v/chapters/5-1/eng/?mode=dark) and [immersive shared reality](https://www.plurality.net/v/chapters/5-2/eng/?mode=dark) can be powerful even in the smallest communities and relationships, creating few constraints on scale and diversification of seeding and thus making it natural to prioritize other criteria above.  At the opposite extreme, voting systems and markets are rarely used in intimate communities and require significant scale to be relevant, especially in their socially enriched forms, making entry points far scarcer, more ambitious, and potentially hazardous. 
+Let us first consider the question of scale.  To realize the benefits of ⿻ technology within a community requires the community to contain at least a rough approximation of the diversity that technology aims to span.  This differs dramatically across various directions of technology.  The most intimate technologies of [post-symbolic communication](https://www.plurality.net/v/chapters/5-1/eng/?mode=dark) and [immersive shared reality](https://www.plurality.net/v/chapters/5-2/eng/?mode=dark) can be powerful even in the smallest communities and relationships, creating few constraints on scale and diversification of seeding and thus making it natural to prioritize other criteria above.  At the opposite extreme, voting systems and markets are rarely used in intimate communities and require significant scale to be relevant, especially in their socially enriched forms, making entry points far scarcer, more ambitious, and potentially hazardous.
+
 <figure>
-  <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/squarerootscale.png" width="100%" alt="Bubbles filled with smaller bubbles, some of which contain symbols of the social areas of workplace, media, health and environment.">
-  <figcaption>Bubbles filled with smaller bubbles, some of which contain symbols of the social areas of workplace, media, health and environment.</figcaption>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/squarerootscale.png" width="100%" alt="Bubbles filled with smaller bubbles, some of which contain symbols of the social areas of workplace, media, health and environment.">
+
+**<figcaption>Figure 1. Bubbles filled with smaller bubbles, some of which contain symbols of the social areas of workplace, media, health and environment.</figcaption>**
+
 </figure>
 <br><br>
+
  However, given the reasonable flexibility across scales of most ⿻ technologies, the most broadly attractive sites for experimentation will be those that both contain enough diversity *within them* to enable most applications and are themselves sufficiently diverse *across them* to allow reasonable choice of diverse, safe, prestigious seeds.  While any simplistic quantitative representation falls short of the richness needed to characterize such examples, a simple rule of thumb is to seek for roughly the same diversity *across communities* as *within communities* as quantified by the number of units as illustrated in the figure.  In a world of (very roughly) 10 billion people, these would be units of roughly 100,000 people, as there are 100,000 such units if the whole world were partitioned into them: they have the scale of the square root of global population.  There is, of course, nothing magic about 100,000, but it offers a rough sense for the scale of communities and organizations that are the most fertile ground in which to plant the seeds of ⿻.
 
 There are many kinds of communities at this scale.  Geographically, this is roughly the scale of most middle-sized municipalities (large towns or small cities).  Economically, it is the size of employees in a large corporation or, politically, in a median nation.  Religiously, it is, for example, roughly the number of Catholics in a Diocese.  Educationally, it is a bit larger than  the number of students at a large university.  Socially, it resembles the membership of many mid-sized civic organizations or social movements. Culturally, it is roughly the active fan base of a typical television program, performing artist or professional sports club.  In short, it is a prevalent level of organization in a wide range of social spheres, offering rich terrain for surveying. 

@@ -1,4 +1,4 @@
-# What is ⿻?
+b# What is ⿻?
 
 
 
@@ -15,7 +15,12 @@ The increasing tensions between democracy and technology and the way that, start
 
 Nor is the possibility of such a direction for technology especially novel.  Perhaps the most canonical work of science fiction and thus vision of a positive future is *Star Trek*, in the original series of which the heroic Vulcans maintain a philosophy of "Infinite Diversity in Infinite Combinations...a...belief that beauty, growth, progress -- all result from the union of the unlike."  Consistent with this idea, we define "⿻ 數位 Plurality", the subject of the rest of this book, briefly as "technology for collaboration across social difference".  This contrasts with a common element between Libertarianism and Technocracy: that both consider the world to be made up of atoms (viz. individuals) and a social whole, a view we call "monist atomism".  While they take different positions on how much authority should go to each, they miss the core idea of ⿻ 數位 Plurality, that intersecting diverse social groups and the diverse and collaborative people whose identities are constituted by these intersections are the core fabric of the social world.
 
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/triptych.png" width="100%" alt="Three-part definition of Plurality">
+
+**<figcaption>Figure 1. Three-part definition of Plurality</figcaption>**
+</figure>
+<br></br>
 
 To be more precise, we can break Plurality into three components (descriptive, normative and prescriptive) each associated with one of three thinkers (Hannah Arendt, Danielle Allen and Audrey Tang) each of whom has used the term in these three distinct and yet tightly connected ways, as captured in the figure above:
 
