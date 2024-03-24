@@ -30,7 +30,7 @@ More than any other institution, [g0v](https://g0v.tw/) (pronounced gov-zero) sy
 
 **<figcaption>Figure 2-2-A. Principles of g0v  displayed in a venn diagram.  </figcaption>**
 </figure>
-<br><br>
+<br></br>
 
 g0v built on this success to establish a vibrant community of civic hackers interacting with a range of non-technical civil society groups at regular hackathon, called "[jothons](https://jothon.g0v.tw/about/en/)" (based on a Mandarin play on words, meaning roughly "join-athon").  While hackathons are common in many parts of the world, some of the unique features of g0v practices include the diversity of participant (usually a majority non-technical and with nearly full gender parity), the orientation towards civic problems rather than commercial outcomes and the close collaboration with a range of civic organizations.  These features are perhaps best summarized by the slogan "Ask not why nobody is doing this. You are the 'nobody'!", which has led the group to be labeled the "nobody movement".  They are also reflected in a Venn diagram commonly used to explain the movement's intentions shown in Figure A.  As we will note below, a majority of the initiatives we highlight grew out of g0v and closely aligned projects.
 
