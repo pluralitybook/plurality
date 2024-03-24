@@ -3,9 +3,9 @@
 Overlooking Tokyo, nestled within the National Museum of Emerging Science and Innovation ([Miraikan](https://www.miraikan.jst.go.jp/en/)) lies [The Park of Aging](https://www.miraikan.jst.go.jp/en/exhibitions/future/oipark/), a realm where time bends into the distant future, offering a rare portal to your mind and body after years worn by aging.[^Odaiba] Visors blur vision, mimicking cataracts. Sounds are stripped of high pitches. In a photo booth that mirrors the trials of aged perception, facial expressions are faded and blurred. The simple act of recalling a shopping list committed to memory becomes an odyssey as one is ceaselessly interrupted in a bustling market. Walking in place on pedals with ankle weights on and while leaning on a cart simulates the wear of time on the body or the weight of age on posture. The Park of Aging is not just an exhibit, but an immersive conversation across time; a dialogue with your older self through the senses of sight, sound, and the aches and pains of age. This journey of empathy extends beyond the future self, to also foster a deeper connection with a present overlooked cohort: the elderly.
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/miraikan.jpg" width="100%" alt="Park of Aging in Miraikan - The National Museum of Emerging Science and Innovation">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/miraikan.jpg" width="100%" alt="A photo of the Park of Aging with several different booths where visitors are wearing apparatuses and interacting with the exhibit">
 	
-**<figcaption>Figure 1. Visitors explore The Park of Aging at Miraikan - The National Museum of Emerging Science and Innovation - Tokyo, Japan</figcaption>**
+**<figcaption>Figure 5-1-A. Visitors explore The Park of Aging at Miraikan - The National Museum of Emerging Science and Innovation - Tokyo, Japan</figcaption>**
 </figure>
 <br><br>
 
