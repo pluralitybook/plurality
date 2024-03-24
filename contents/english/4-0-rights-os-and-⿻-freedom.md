@@ -91,9 +91,8 @@ OSs roughly define the possibility space for applications that run on them. Ther
 Boundaries are rarely sharp. While [Macintosh](https://en.wikipedia.org/wiki/Mac_(computer)) was the first mass-market computer with a graphical user interface ([GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)) OS
 
 <figure>
-<img src="../../figs/4-0-macintosh.jpeg" width="100%" alt="Apple LISA II Macintosh-XL by Gerhard »GeWalt« Walter, retrieved from https://commons.wikimedia.org/wiki/File:Apple-LISA-Macintosh-XL.jpg. Used under Creative Creative Commons CC0 1.0 Universal Public Domain Dedication.(https://creativecommons.org/publicdomain/zero/1.0/deed.en)">
-
-**<figcaption>Figure 1. Apple LISA II Macintosh-XL</figcaption>**
+<img src="../../figs/4-0-macintosh.jpeg" width="100%" alt=Apple LISA II Macintosh-XL, one of the first commercially available graphical user interface computers.">
+**<figcaption>Figure 4-0-A. Apple LISA II Macintosh-XL, one of the first commercially available personal computers using a graphical user interface.  Source: bGerhard »GeWalt« Walter, retrieved from [Wikipedia](https://commons.wikimedia.org/wiki/File:Apple-LISA-Macintosh-XL.jpg). CC0. </figcaption>**
 </figure>
 <br></br>
 
@@ -155,7 +154,7 @@ However skeptical one may be of a future immersed in digital simulated worlds (s
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/hypergraph.png" width="100%" alt="Illustration of a hypergraph, nodes connected by blobs representing communities.  Inside each blob are assets controlled by communities and the saturation of these blobs represent commercial trust and arrows into the diagram represent points of access to the digital world.">
 
-**<figcaption>Figure 2. A hypergraph that visualizes people, groups, relationships, and digital assets</figcaption>**
+**<figcaption>Figure 4-0-B. A hypergraph that visualizes people, groups, relationships, and digital assets</figcaption>**
 </figure>
 <br></br>
 
