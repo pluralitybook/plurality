@@ -14,16 +14,17 @@ On the horizon, shared ISR is poised for rapid expansion. Technological advance 
 
 Throughout history of the most meaningful human experiences involve multisensory copresence.  Religious observances often engage many senses in large groups.  Clubs and parties are among the most treasured entertainment experiences because of their multisesnory activation.  Political rallies, group assemblies (whether at schools or for concerts), collective outings (hiking, sports, etc.) all engage a range of sense.  
 
-Technology has increasingly played a role in facilitating such copresence, especially at a distance, in recent years. ISR refers to technology that creates a shared virtual environment where users can interact in real-time. This type of “reality” can be considered a subset application of Mediated Reality, a broader term that encompasses various technologies that mediate our perception of reality, including Virtual, Augmented and Mixed Reality (a.k.a. VR, AR, MR). 
+Technology has increasingly played a role in facilitating such copresence, especially at a distance, in recent years. ISR refers to technology that creates a shared virtual environment where users can interact in real-time. This type of “reality” can be considered a subset application of Mediated Reality as illustrated in Figure A, a broader term that encompasses various technologies that mediate our perception of reality, including Virtual, Augmented and Mixed Reality (a.k.a. VR, AR, MR). 
 
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png" width="100%" alt='Venn diagram with four overlapping circles labeled "Virtual Reality", "Augmented Reality", "Mixed Reality," and "Modulated Reality." A larger circle encompasses these, labeled "Mediated Reality."'>
 
-**<figcaption>Figure 1. Mediated Reality Framework adapted from Mann and Nnlf (1994)</figcaption>**
+**<figcaption>Figure 5-2-A. Mediated Reality Framework adapted from Mann and Nnlf (1994). Source: [Wikipedia](https://en.wikipedia.org/wiki/Computer-mediated_reality), CC 3.0 BY-SA. </figcaption>**
 </figure>
 <br></br>
 
 ISR can apply to many human interactions. Some of the most common applications are socialization, gaming, entertainment, sports and fitness:
+
 - VR gatherings: These digital spaces enable people from around the world to interact in a shared virtual environment. Here, avatars represent participants, allowing for expressive movements and interactions that go beyond verbal communication. These virtual gatherings can range from collaborative work meetings to social events, where the sense of presence is amplified by the immersive, 3D environment. Participants experience a sense of togetherness and community, facilitating connections that, while not as intense as physical interactions, are still meaningful and emotionally resonant.
 - Mass online gaming: Online multiplayer games create expansive worlds where players collaborate, compete, and strategize together. Communication  is a blend of in-game gestures, strategic planning, and quick decision-making, often under time pressure. This environment nurtures a form of camaraderie and collective intelligence, as players become attuned to each other's play styles and tactics and take common action towards common goals.
 - Online religious services: In the digital era, religious gatherings have expanded into online platforms, allowing congregations to participate in services and rituals remotely. This form of communal worship, while lacking the physical closeness of traditional services, still offers a sense of shared belief, uniting participants in a common religious experience.

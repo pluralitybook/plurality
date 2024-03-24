@@ -5,9 +5,8 @@ To launch what has come be known as the "Year of AI", [Microsoft CEO](https://ww
 This demonstration built on years of work and multi stakeholder collaborations including [AI4Bharat](https://ai4bharat.iitm.ac.in/), [Karya](https://karya.in/) and [IVR Junction](https://www.usenix.org/conference/nsdr12/workshop-program/presentation/vashistha), which have employed Indians to gather data on local languages, harnessed these data to empower LLMs to translate across these languages and connected illiterate Indians with access only to simple feature phones to connect to a "voice-based internet".  Together these hold the promise of helping preserve and strengthen the cultural diversity of India by ensuring those who speak less prominent languages and live far from cities are still able to access the public services they need to sustain their ways of life.
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg" width="100%" alt="Indian farmers looking at a mobile phone">
-
-**<figcaption>Figure 1. Image courtesy of Microsoft</figcaption>**
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg" width="100%" alt="One Indian farmer pointing out something to another on his mobile phone">
+**<figcaption>Figure 5-5-A. The results of this work can be seen taking place already. Source: Courtesy of Microsoft.</figcaption>**
 </figure>
 <br></br>
 
@@ -25,6 +24,7 @@ The classic complaints against bureaucracy and administration are that they are 
 
 
 Many of the most consequential junctures of life turn on administrative outcomes based on information structures (various kinds of "forms") that are much thinner than the way we conduct most of our lives.  Examples include
+
 *  Identification and travel documents
 *  Educational transcripts, resumés and other summaries of "the course of a life" (curriculum vitae/CV)
 * Legal documents, including property deeds and contracts
@@ -43,6 +43,7 @@ Thus, administrations run into two opposing complaints, which roughly correspond
 [^Davies]: A forthcoming book provides an excellent study in these pathologies, as well as providing the squirrel example below. Davies, op. cit.
 
 The first might be called the problem of "rigidity", namely that bureaucratic rules, by throwing away a lot of detail, lead to outcomes that are insensitive to important features of specific cases or local circumstances. Examples range from the mundane to the oppressive and simply ridiculous. Consider:
+
 * Most jurisdictions have speed limits for driving cars to ensure safety.  Yet the safe speed for driving varies dramatically with road, environmental and other related conditions.  This means that speed limits are, most of the time, either too high or too low for the circumstances.  Similar logic applies to almost all administrative policy settings, from the prices of goods to the break time allowed workers.
 * To obtain most high-paying jobs, people from a diversity of cultures around the world have to fit their accomplishments and lives into the format of CVs and transcripts designed to make them legible to administrative bureaucracies and hiring managers, rather than to reflect their accomplishments accurately. 
 * In the late 1990s, a Dutch airliner ended up physically shredding hundreds of live squirrels that lacked appropriate paperwork for transiting Schiphol airport.[^squirrelshredding]  While a particularly gruesome example, almost anyone who has flown is aware of the rigidity of the bureaucratic systems that administer air travel and will thus not be overly surprised by this outcome.
@@ -65,6 +66,7 @@ In sharp contrast to GOFAI, machine learning is a statistical and emergent appro
 Such successes have created the tantalizing prospect of GFMs ameliorating the fundamental tradeoff at the heart of administration.  Harnessing GFMs as components in administrative processes could allow them to take a far more diverse and unstructured range of inputs, adapt to them in the manner that a thoughtful and knowledgeable expert might, and do so in a way that offers a degree of reproducibility without imposing undue burdens on users to fill out specialized forms. 
 
 Explorations of this possibility have emerged especially in the last two years as interest around GFMs has exploded:
+
  - As we highlighted in our introductory vignette, these tools have shown significant promise in allowing marginalized communities access public services that they may otherwise struggle to discover and navigate.  A primary role of social workers has long been to support such navigation, but public expenditures have typically been far too small to ensure anywhere close to universal access, especially in developing countries.  Leaders in such practices have been the Finnish government's [Kela-Kelpo](https://www.kela.fi/chattirobotti) project, Germany's [Federal Pension Insurance system](https://www.issa.int/analysis/artificial-intelligence-social-security-institutions-case-intelligent-chatbots) and the [Benefits Data Trust](https://bdtrust.org/ai-and-the-future-of-government-services/) in the US.
 -  A similar but even more ambitious application is harnessing GFMs to improve access to legal advice and services for those who cannot afford high quality traditional legal support.  Examples include [Legal Robot](https://legalrobot.com/) and [DoNotPay](https://donotpay.com/), both of which aim to help customers with limited means reduce the imbalance in legal access with corporate entities that can afford high quality legal services because they care not just about case outcomes but the precedents they create.[^precedents] 
 - Job markets often fall into a "rich get richer" pattern as top employers often recruit exclusively from elite universities or use job experience at famous peer firms as a primary indicator of potential, foreclosing paths to opportunity for many who may have less conventional paths and, perhaps more importantly, forcing everyone interested in such opportunities down a narrow educational and career path.  Several new human resources platforms (such as [HiredScore](https://www.hiredscore.com/), [Paradox.ai](https://www.paradox.ai/), [Turing](https://www.turing.com/) and [Untapped](https://www.untapped.io/)) aim to expand the breadth and diversity of candidates that hiring managers can consider.  A leading challenge is that the limited examples of hiring such diverse candidates in the past can undermine the reliability and flexibility of such algorithms.

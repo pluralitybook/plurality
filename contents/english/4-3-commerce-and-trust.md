@@ -71,9 +71,9 @@ Until roughly the last decade, this constellation covered most transactions. A m
 ### Digital money and privacy
 
 <figure>
-<img src="../../figs/4-3-bitcoin.png" width="100%" alt="Bitcoin 0.3.23, on Ubuntu 11.04, retrieved from https://commons.wikimedia.org/wiki/File:Bitcoin-0.3.23_screenshot.png.">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/4-3-bitcoin.png" width="100%" alt="Simple user interface for use of early BitCoin.">
 
-**<figcaption>Figure 1. Bitcoin 0.3.23 on Ubuntu 11.04 </figcaption>**
+**<figcaption> Figure 4-3-A. An early implementation of Bitcoin code. Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Bitcoin-0.3.23_screenshot.png), public domain. </figcaption>**
 </figure>
 <br></br>
 

@@ -1,4 +1,4 @@
-b# Living in a ⿻ World
+# Living in a ⿻ World
 
 > Until lately the best thing that I was able to think in favor of civilization…was that it made possible the artist, the poet, the philosopher, and the man of science. But I think that is not the greatest thing. Now I believe that the greatest thing is a matter that comes directly home to us all. When it is said that we are too much occupied with the means of living to live, I answer that the chief worth of civilization is just that it makes the means of living more complex; that it calls for great and combined intellectual efforts, instead of simple, uncoordinated ones, in order that the crowd may be fed and clothed and houses and moved from place to place. Because more complex and intense intellectual efforts mean a fuller and richer life. They mean more life. Life is an end in itself, and the only question as to whether it is worth living is whether you have enough of it. — Oliver Wendell Holmes, 1900[^LifeAsJoy]
 
@@ -44,9 +44,9 @@ Nineteenth century mathematics saw the rise of formalism: being precise and rigo
 [^chaos]: James Gleick, *Chaos: Making a New Science* (New York: Penguin, 2018).
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/science.jpg" width="100%" alt="Science">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/science.jpg" width="100%" alt="Pictures the Mandelbrot set, a canoncical circular snowflake shaped fractal, at two scales.">
 
-**<figcaption> Figure 1: The Mandelbrot Set (characterizing the chaotic behavior of simple quadratic functions depending on parameter values in the function) shown at two scales</figcaption>**
+**<figcaption> Figure 3-1-A: The Mandelbrot Set (characterizing the chaotic behavior of simple quadratic functions depending on parameter values in the function) shown at two scales. Source: Wikipedia CC 3.0 BY-SA.</figcaption>**
 </figure>
 <br></br>
 

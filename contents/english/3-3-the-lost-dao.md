@@ -1,4 +1,4 @@
-b# The Lost Dao
+# The Lost Dao
 
 > (D)ecisions about the development and exploitation of computer technology must be made not only "in the public interest" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, "Computers and Government", 1980[^CandG]
 
@@ -63,18 +63,20 @@ At the core of the development of what became the internet was replacing central
 
 All three ideas had their seeds at the edges of the early community Lick formed and grew into core features of the ARPANET community.
 
-While the concept of networks, redundancy and sharing permeate Lick's original vision, it was Paul Baran's 1964 report "On Distributed Communications" that clearly articulated how and why communications networks should strive for a ⿻ rather than centralized structure.
+While the concept of networks, redundancy and sharing permeate Lick's original vision, it was Paul Baran's 1964 report "On Distributed Communications" that clearly articulated how and why communications networks should strive for a ⿻ rather than centralized structure.[^Baran]
 
-<figure>
-<img src="../../figs/3-3-Fig1.png" width="100%" alt="Paul Baran's work On Distributed Communication">
-
-**<figcaption> Figure 1. Paul Baran's work on distributed communication </figcaption>**
-</figure>
-<br></br>
+[^Baran]: Paul Baran, "On Distributed Communications Networks," *IEEE Transactions on Communications Systems* 12, no. 1 (1964): 1-9.
 
 Baran argued that while centralized switchboards achieved high reliability at low cost under normal conditions, they were fragile to disruptions. Conversely, networks with many centers could be built with cheap and unreliable components and still withstand even quite devastating attacks by "routing around damage", taking a dynamic path through the network based on availability rather than prespecified planning. While Baran received support and encouragement from scientists at Bell Labs, his ideas were roundly dismissed by AT&T, the national telephone monopoly in whose culture high-quality centralized dedicated machinery was deeply entrenched.
 
-Despite the apparent threat it posed to that private interest, packet switching caught the positive attention of another organization that owed its genesis to the threat of devastating attacks: ARPA. At a 1967 conference, ARPANET's first program manager, Lawrence Roberts, learned of packet switching through a presentation by Donald Davies, who concurrently and independently developed the same idea as Baran, and drew on Baran's arguments that he soon learned of to sell the concept to the team.
+Despite the apparent threat it posed to that private interest, packet switching caught the positive attention of another organization that owed its genesis to the threat of devastating attacks: ARPA. At a 1967 conference, ARPANET's first program manager, Lawrence Roberts, learned of packet switching through a presentation by Donald Davies, who concurrently and independently developed the same idea as Baran, and drew on Baran's arguments that he soon learned of to sell the concept to the team.  Figure A shows the decentralized logical structure of early ARPANET that resulted
+
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-arpanet.png" width="100%" alt="The decentralized logical structure of early ARPANET." />
+
+ **<figcaption>Figure 3-3-A. Early logical structure of ARPANET. Source: [Wikipedia](https://en.wikipedia.org/wiki/ARPANET#/media/File:Arpanet_logical_map,_march_1977.png), public domain.</figcaption>**
+ </figure>
+ <br></br>
 
 If one path to networked thinking was thus motivated by technical resilience, another was motivated by creative expression. Ted Nelson trained as a sociologist, was inspired in his work by a visit to campus he hosted in 1959 by cybernetic pioneer Margaret Mead's vision of democratic and pluralistic media and developed into. an artist. Following these early experiences, he devoted his life beginning in his early 20s to the development of "[Project Xanadu](https://www.xanadu.net/)", which aimed to create a revolutionary human-centered interface for computer networks. While [Xanadu](https://www.youtube.com/watch?v=Bqx6li5dbEY) had so many components that Nelson considered indispensable that it was not released fully until the 2010s, its core idea, co-developed with Engelbart, was "hypertext" as Nelson labeled it.
 
@@ -92,7 +94,16 @@ This culture manifested in the development of the "Request for Comments" (RFC) p
 
 ### Triumph and tragedy
 
-Much of what resulted from this project is so broadly known it hardly bears repeating here. During the 1970's, Taylor's Xerox PARC produced a series of expensive, and thus commercially unsuccessful, but revolutionary "personal workstations" that incorporated much of what became the personal computer of the 1990s. At the same time, as computer components were made available to broader populations, businesses like Apple and Microsoft began to make cheaper and less user-friendly machines available broadly. Struggling to commercialize its inventions, Xerox allowed Apple Co-Founder Steve Jobs access to its technology in exchange for a stake, resulting in the Macintosh's ushering in of modern personal computing and Microsoft's subsequent mass scaling through their Windows operating system. By 2000, a majority of Americans had a personal computer in their homes.
+Much of what resulted from this project is so broadly known it hardly bears repeating here. During the 1970's, Taylor's Xerox PARC produced a series of expensive, and thus commercially unsuccessful, but revolutionary "personal workstations" that incorporated much of what became the personal computer of the 1990s. At the same time, as computer components were made available to broader populations, businesses like Apple and Microsoft began to make cheaper and less user-friendly machines available broadly. Struggling to commercialize its inventions, Xerox allowed Apple Co-Founder Steve Jobs access to its technology in exchange for a stake, resulting in the Macintosh's ushering in of modern personal computing and Microsoft's subsequent mass scaling through their Windows operating system. By 2000, a majority of Americans had a personal computer in their homes.  Internet use has steadily spread, as pictured in Figure B.
+
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/share_online/share_online.png" width="100%" alt="The rapid rise in the past few decades of the share of the population online." />
+
+ **<figcaption>Figure 3-3-B. Population share with internet access over time in the world and various regions. Source: Our World in Data.[^WiD]</figcaption>**
+ </figure>
+ <br></br>
+
+[^WiD]: World Bank, "World Development Indicators" December 20, 2023 at https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators.
 
 #### The internet and its discontents
 
@@ -144,14 +155,13 @@ While the internet backbone continued to improve in limited ways, adding securit
 Yet faded dreams have a stubborn persistence, nagging throughout a day. While Lick passed away in 1990, many of the early internet pioneers lived to see their triumph and tragedy.
 
 <figure>
-<img src="../../figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999 by Belinda Barnet, retrieved from https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg. Used under Creative Commons Attribution-Share Alike 4.0 International license.
- (https://creativecommons.org/licenses/by-sa/4.0/deed.en)">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999." />
 
- **<figcaption>Figure 2. Ted Nelson at Keio University, Japan, 1999</figcaption>**
+ **<figcaption>Figure 3-3-C. Ted Nelson at Keio University, Japan, 1999. Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg), used under CC  4.0 BY-SA.</figcaption>**
  </figure>
  <br></br>
 
-Ted Nelson and many other pioneers in Project Xanadu continue to carry their complaints about and reforms to the internet forward to this day. Engelbart, until his death in 2013, continued to speak, organize and write about his vision of "boosting Collective IQ". These activities included supporting, along with Terrence Winograd (PhD advisor to the Google founders), a community around Online Deliberation based at Stanford University that nurtured key leaders of the next generation of ⿻ as we will see below. While none of these efforts met with the direct successes of their earlier years, they played critical roles as inspiration and in some case even incubation for a new generation of ⿻ innovators, who have helped revive and articulate the dream of ⿻.
+Ted Nelson (shown in Figure C) and many other pioneers in Project Xanadu continue to carry their complaints about and reforms to the internet forward to this day. Engelbart, until his death in 2013, continued to speak, organize and write about his vision of "boosting Collective IQ". These activities included supporting, along with Terrence Winograd (PhD advisor to the Google founders), a community around Online Deliberation based at Stanford University that nurtured key leaders of the next generation of ⿻ as we will see below. While none of these efforts met with the direct successes of their earlier years, they played critical roles as inspiration and in some case even incubation for a new generation of ⿻ innovators, who have helped revive and articulate the dream of ⿻.
 
 #### Nodes of light
 
@@ -163,22 +173,24 @@ The concept of "Wiki," from which Wikipedia derives its name, comes from a Hawai
 
 [^Wikiway]: Bo Leuf and Ward Cunningham, _The Wiki Way: Quick Collaboration on the Web_ (Boston: Addison-Wesley, 2001).
 
-While Wikis themselves have found significant applications, they have had an even broader impact in helping stimulate the "groupware" revolution that many internet users associate with products like Google docs but has its roots in the open source WebSocket protocol.[^group] [HackMD](https://hackmd.io/), a collaborative real-time Markdown editor, is used within the g0v community to collaboratively edit and openly share documents such as meeting minutes.[^Japan] While collaboratively constructed documents illustrate this ethos, it more broadly pervades the very foundation of the online world itself. Open source software (OSS) embodies this ethos of participatory, networked, transnational self-governance. Significantly represented by the Linux operating system, OSS underlies the majority of public cloud infrastructures and connects with many through platforms like GitHub, boasting over 100 million contributors. The Android OS, which powers over 70% of all smartphones, is an OSS project, despite being primarily maintained by Google. The success and impact of such "peer production" has forced the broad reconsideration of many assumptions underlying standard economic analysis.[^benkler]
+While Wikis themselves have found significant applications, they have had an even broader impact in helping stimulate the "groupware" revolution that many internet users associate with products like Google docs but has its roots in the open source WebSocket protocol.[^group] [HackMD](https://hackmd.io/), a collaborative real-time Markdown editor, is used within the g0v community to collaboratively edit and openly share documents such as meeting minutes.[^Japan] While collaboratively constructed documents illustrate this ethos, it more broadly pervades the very foundation of the online world itself. Open source software (OSS) embodies this ethos of participatory, networked, transnational self-governance. Significantly represented by the Linux operating system, OSS underlies the majority of public cloud infrastructures and connects with many through platforms like GitHub, boasting over 100 million contributors, growing rapidly in recent years especially in the developed world as pictured in Figure D. The Android OS, which powers over 70% of all smartphones, is an OSS project, despite being primarily maintained by Google. The success and impact of such "peer production" has forced the broad reconsideration of many assumptions underlying standard economic analysis.[^benkler]
 
 [^group]: The term "groupware" was coined by Peter and Trudy Johnson-Lenz in 1978, with early commercial products appearing in the 1990s, such as Lotus Notes, enabling remote group collaboration. Google Docs, originated from Writely launched in 2005, has widely popularized the concept of collaborative real-time editing.
 [^Japan]: [Scrapbox](https://scrapbox.io/product), a combination of real-time editor with a wiki system, is utilized by the Japanese forum of this book. Visitors of the forum can read the drafts and add questions, explanations, or links to related topics in real time. This interactive environment supports activities like book reading events, where participants can write questions, engage in oral discussions, or take minutes of these discussions. The feature to rename keywords while maintaining the network structure helps the unification of variations in terminology and provides a process to find the good translation. As more people read through, a network of knowledge is nurtured to aid the understanding of subsequent readers.
 
-OSS emerged in reaction to the secretive and commercial direction of the software industry that emerged in the 1970s.
-
 <figure>
-<img src="../../figs/3-3-arpanet.png" width="100%" alt="TARPANET logical map circa 1977, with PDP-10 systems highlighted by The Computer History Museum , retrieved from https://commons.wikimedia.org/wiki/File:Arpanet_logical_map,_march_1977_PDP-10.png. Used under Creative Creative Commons CC0 1.0 Universal Public Domain Dedication.
- (https://creativecommons.org/publicdomain/zero/1.0/deed.en)">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/oss_impact/oss_impact.gif" width="100%" alt="Gif showing the share of working age population that are contributors to open source software overtime by countries of the work over the last few years.  Share rises from about 1 to 2% in most countries and concentrates in North America, Europe, Oceania and East Asia, especially Taiwan. 
+ ">
 
- **<figcaption>Figure 3. TARPANET logical map with PDP-10 systems highlighted by The Computer History Museum, 1977 </figcaption>**
+ **<figcaption>Figure 3-3-D. GitHub contributors as share of working-age population by country. Source: GitHub Innovation Graph[^GHgraph], World Bank[^WB] and Taiwan Ministry of Interior[^TaiwanMI]   .</figcaption>**
  </figure>
  <br></br>
+ 
+ [^GHgraph]: GitHub Innovation graph at https://github.com/github/innovationgraph/
+ [^WB]: World Bank, "Population ages 15-64, total" at https://data.worldbank.org/indicator/SP.POP.1564.TO.
+ [^TaiwanMI]: Department of Household Registration, Ministry of the Interior, "Household Registration Statistics in January 2024" at https://www.ris.gov.tw/app/en/2121?sn=24038775.
 
-The free and open development approach of the early days of ARPANET was sustained even after the withdrawal of public funding, thanks to a global volunteer workforce. [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), opposing the closed nature of the [Unix](https://en.wikipedia.org/wiki/Unix) OS developed by AT&T, led the "free software movement", promoting the “GNU General Public License” that allowed users to run, study, share, and modify the source code. This was eventually rebranded as OSS, with a goal to replace Unix with an open-source alternative, [Linux](https://www.linux.org/), led by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).
+OSS emerged in reaction to the secretive and commercial direction of the software industry that emerged in the 1970s. The free and open development approach of the early days of ARPANET was sustained even after the withdrawal of public funding, thanks to a global volunteer workforce. [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), opposing the closed nature of the [Unix](https://en.wikipedia.org/wiki/Unix) OS developed by AT&T, led the "free software movement", promoting the “GNU General Public License” that allowed users to run, study, share, and modify the source code. This was eventually rebranded as OSS, with a goal to replace Unix with an open-source alternative, [Linux](https://www.linux.org/), led by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).
 
 OSS has expanded across various internet and computing sectors, even earning support from formerly hostile companies like Microsoft, now owner of leading OSS service company GitHub and employer of one of the authors of this book. This represents the practice of ⿻ on a large scale; emergent, collective co-creation of shared global resources. Communities form around shared interests, freely build on each other’s work, vet contributions through unpaid maintainers, and "fork" projects into parallel versions in case of irreconcilable differences. The protocol “git” supports collaborative tracking of changes, with platforms like GitHub and GitLab facilitating millions of developers' participation. This book is a product of such collaboration and has been supported by Microsoft and GitHub.
 

@@ -1,4 +1,4 @@
-b# Connected Society
+# Connected Society
 
 > Industry and inventions in technology, for example, create means which alter the modes of associated behavior and which radically change the quantity, character and place of impact of their indirect consequences. These changes are extrinsic to political forms which, once established, persist of their own momentum. The new public which is generated remains long inchoate, unorganized, because it cannot use inherited political agencies. The latter, if elaborate and well institutionalized, obstruct the organization of the new public. They prevent that development of new forms of the state which might grow up rapidly were social life more fluid, less precipitated into set political and legal molds. To form itself, the public has to break existing political forms. This is hard to do because these forms are themselves the regular means of instituting change. The public which generated political forms is passing away, but the power and lust of possession remains in the hands of the officers and agencies which the dying public instituted. This is why the change of the form of states is so often effected only by revolution. — John Dewey, *The Public and its Problems*, 1927[^Public]
 
@@ -28,12 +28,15 @@ Prior to modernity, individuals were born into families rooted within kin-based 
 
 [^universalreg]: It is worth noting, however, that universal birth registration is a very recent phenomenon and only was achieved in the US in 1940. Universal registration for Social Security Numbers did not even begin until 1987 when Enumeration at Birth was instituted at the federal level in collaboration with county level governments where births are registered. 
 
-This helped circumvent the reliance on personal relationships, building the foundation of identity in a relationship to a state, which in turn served as a trust anchors for many other types of institutions ranging from children's sports teams to medical care providers. These abstract representations enabled people to navigate the world not based on "who they know" or "where they fit" in a tight social world but as who they are in an abstracted universal sense relative to the state.  This "WEIRD" (Western Educated Industrialized Rich Democratic) universalism thus broke with the social embedding of identity while thereby "freeing" people to travel and interact much more broadly using modern forms of identification issued by governments like passports and national identity cards. While other critical credentials, such as  educational attainment are more diverse, they almost uniformly conform to a limited structure, implying one of a small number of "degrees" derived from courses with a particular "Carnegie unit" structure (in theory, 120 hours spent with an instructor).  In short, just as modernity abstracted ownership private property, removing it from its many social entanglements, it also abstracted personal identity from the social anchoring that limited travel and the formation of new relationships.
+This helped circumvent the reliance on personal relationships, building the foundation of identity in a relationship to a state, which in turn served as a trust anchors for many other types of institutions ranging from children's sports teams to medical care providers. These abstract representations enabled people to navigate the world not based on "who they know" or "where they fit" in a tight social world but as who they are in an abstracted universal sense relative to the state.  This "WEIRD" (Western Educated Industrialized Rich Democratic) universalism thus broke with the social embedding of identity while thereby "freeing" people to travel and interact much more broadly using modern forms of identification issued by governments like passports and national identity cards. While other critical credentials, such as  educational attainment are more diverse, they almost uniformly conform to a limited structure, implying one of a small number of "degrees" derived from courses with a particular "Carnegie unit" structure (in theory, 120 hours spent with an instructor), in contrast to the broad range of potential recognition that could be given to learning attainment as illustrated in Figure A.  In short, just as modernity abstracted ownership private property, removing it from its many social entanglements, it also abstracted personal identity from the social anchoring that limited travel and the formation of new relationships.
+
+
+
 
 <figure>
-<img src="https://raw.githubusercontent.com/audreyt/plurality/main/figs/252527680-2ae7e6db-6044-4495-8ad0-654614b46fbc.png" width="100%" alt="Science">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/taxonomies.png" width="100%" alt="A diagram displaying a range of different forms of recognition of leanring achievement in terms of formality and importance.">
 
-**<figcaption>Figure 1. Flexible taxonomies across a broad spectrum of recognition<figcaption>**
+**<figcaption>Figure 3-2-A. Flexible taxonomies across a broad spectrum of recognition.  Source: Learning Agents Inc. (https://www.learningagents.ca) <figcaption>**
 </figure>
 <br></br>
 
@@ -66,6 +69,7 @@ In fact these institutions were core to what allowed modern, wealthy, liberal de
 ### Henry George and the networked value
 
 We remember Karl Marx and Adam Smith more sharply, but the social thinker that may have had the greatest influence during and immediately following his lifetime was Henry George.[^Englandbio]  Author of the for-years best-selling book in English other than the Bible, *[Progress and Poverty](https://oll.libertyfund.org/titles/george-progress-and-poverty)*, George inspired or arguably founded many of the most successful political movements and even cultural artifacts of the early twentieth century including:[^PP]
+
 * the American center-left, as a nearly-successful United Labor candidate for Mayor of New York City; 
 * the Progressive and social gospel movements, which both traced their names to his work;
 * Tridemism, which, as we saw above in our chapter [A View from Yushan](https://www.plurality.net/v/chapters/2-1/eng/?mode=dark), had its economic leg firmly founded in Georgism;
@@ -101,7 +105,14 @@ To make matters yet more complex, the revenue earned on the property is but one 
 ### Georg Simmel and the intersectional (in)dividual
 
 
-But if network thinking was implicit in George's work, it took another thinker, across the Atlantic, to make it explicit and, accidentally, give it a name. Georg Simmel was a German philosopher and sociologist of the turn of the twentieth century who pioneered the idea of social networks. The mistranslation of his work as focused on a “web” eventually went “worldwide”.  In his 1955 translation of Simmel’s classic 1908 Soziologie, Reinhard Bendix chose to describe Simmel’s idea as describing a “web of group-affiliations” over what he described as the “almost meaningless” direct translation “intersection of social circles”.[^Soziologie] While the precise lines of influence are hard to trace, it is possible that, had Bendix made an opposite choice, we might talk of the internet in terms of "intersecting global circles" rather than the "world wide web".[^InfluenceOfSimmel]
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-2-georg.jpg" width="100%" alt="Georg Simmel with glasses and full facial hair.">
+
+**<figcaption>Figure 3-2-B. Georg Simmel.  Source: [Wikipedia](https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG), public domain. <figcaption>**
+</figure>
+<br></br>
+
+But if network thinking was implicit in George's work, it took another thinker, across the Atlantic, to make it explicit and, accidentally, give it a name. Georg Simmel, pictured in Figure B, was a German philosopher and sociologist of the turn of the twentieth century who pioneered the idea of social networks. The mistranslation of his work as focused on a “web” eventually went “worldwide”.  In his 1955 translation of Simmel’s classic 1908 Soziologie, Reinhard Bendix chose to describe Simmel’s idea as describing a “web of group-affiliations” over what he described as the “almost meaningless” direct translation “intersection of social circles”.[^Soziologie] While the precise lines of influence are hard to trace, it is possible that, had Bendix made an opposite choice, we might talk of the internet in terms of "intersecting global circles" rather than the "world wide web".[^InfluenceOfSimmel]
 
 Simmel’s “intersectional” theory of identity offered an alternative to both the traditional individualist/atomist (characteristic at the time in sociology with the work of Max Weber and deeply influential on Libertarianism) and collectivist/structuralist (characteristic at the time of the sociology of Émile Durkheim and deeply influential on Technocracy) accounts.  From a Simmelian point of view, both appear as extreme reductions/projections of a richer underlying theory.  
 
