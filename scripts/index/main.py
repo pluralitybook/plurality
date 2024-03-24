@@ -51,9 +51,12 @@ poc_count = defaultdict(int)
 keywords = set()
 keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
-    keywords.add(row[1])
-    keyword_recorded_by_human[row[1]].add(normalize_section_name(row[2]))
     poc_count[row[3]] += 1
+    k = row[1]
+    if k in ["Just", "Author", "Fair", "Writing"]:  # not a keyword
+        continue
+    keywords.add(k)
+    keyword_recorded_by_human[k].add(normalize_section_name(row[2]))
 
 
 # detect similar words
