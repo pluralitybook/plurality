@@ -49,7 +49,8 @@ for row in csv.reader(lines):
     keyword_recorded_by_human[row[1]].add(normalize_section_name(row[2]))
     poc_count[row[3]] += 1
 
-# find similar words
+
+# detect similar words
 similar_keywords = defaultdict(set)
 for k in keywords:
     similar_keywords[k.lower()].add(k)
@@ -57,6 +58,7 @@ for k in keywords:
         k2 = remove_palen(k)
         if k2 != "":
             similar_keywords[k2.lower()].add(k)
+
 
 with open(os.path.join(script_directory, "similar_words.tsv"), "w") as f:
     for k in similar_keywords:
@@ -69,6 +71,8 @@ with open(os.path.join(script_directory, "contributors.tsv"), "w") as f:
     for name in sorted(poc_count):
         print(f"{name}\t{poc_count[name]}", file=f)
 
+
+# find keyword occurence in other sections
 keyword_occurence = defaultdict(list)
 section_occurence = defaultdict(int)
 for k in keywords:
