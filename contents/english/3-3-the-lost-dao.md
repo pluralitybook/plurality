@@ -72,8 +72,7 @@ Baran argued that while centralized switchboards achieved high reliability at lo
 Despite the apparent threat it posed to that private interest, packet switching caught the positive attention of another organization that owed its genesis to the threat of devastating attacks: ARPA. At a 1967 conference, ARPANET's first program manager, Lawrence Roberts, learned of packet switching through a presentation by Donald Davies, who concurrently and independently developed the same idea as Baran, and drew on Baran's arguments that he soon learned of to sell the concept to the team.  Figure A shows the decentralized logical structure of early ARPANET that resulted
 
 <figure>
-<img src="../../figs/3-3-arpanet.png" width="100%" alt="The decentralized logical structure of early ARPANET. 
- ">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-arpanet.png" width="100%" alt="The decentralized logical structure of early ARPANET." />
 
  **<figcaption>Figure 3-3-A. Early logical structure of ARPANET. Source: [Wikipedia](https://en.wikipedia.org/wiki/ARPANET#/media/File:Arpanet_logical_map,_march_1977.png), public domain.</figcaption>**
  </figure>
@@ -98,8 +97,7 @@ This culture manifested in the development of the "Request for Comments" (RFC) p
 Much of what resulted from this project is so broadly known it hardly bears repeating here. During the 1970's, Taylor's Xerox PARC produced a series of expensive, and thus commercially unsuccessful, but revolutionary "personal workstations" that incorporated much of what became the personal computer of the 1990s. At the same time, as computer components were made available to broader populations, businesses like Apple and Microsoft began to make cheaper and less user-friendly machines available broadly. Struggling to commercialize its inventions, Xerox allowed Apple Co-Founder Steve Jobs access to its technology in exchange for a stake, resulting in the Macintosh's ushering in of modern personal computing and Microsoft's subsequent mass scaling through their Windows operating system. By 2000, a majority of Americans had a personal computer in their homes.  Internet use has steadily spread, as pictured in Figure B.
 
 <figure>
-<img src="../../figs/data/share_online/share_online.png" width="100%" alt="The rapid rise in the past few decades of the share of the population online. 
- ">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/share_online/share_online.png" width="100%" alt="The rapid rise in the past few decades of the share of the population online." />
 
  **<figcaption>Figure 3-3-B. Population share with internet access over time in the world and various regions. Source: Our World in Data.[^WiD]</figcaption>**
  </figure>
@@ -157,8 +155,7 @@ While the internet backbone continued to improve in limited ways, adding securit
 Yet faded dreams have a stubborn persistence, nagging throughout a day. While Lick passed away in 1990, many of the early internet pioneers lived to see their triumph and tragedy.
 
 <figure>
-<img src="../../figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999. 
- ">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999." />
 
  **<figcaption>Figure 3-3-C. Ted Nelson at Keio University, Japan, 1999. Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg), used under CC  4.0 BY-SA.</figcaption>**
  </figure>
@@ -182,7 +179,7 @@ While Wikis themselves have found significant applications, they have had an eve
 [^Japan]: [Scrapbox](https://scrapbox.io/product), a combination of real-time editor with a wiki system, is utilized by the Japanese forum of this book. Visitors of the forum can read the drafts and add questions, explanations, or links to related topics in real time. This interactive environment supports activities like book reading events, where participants can write questions, engage in oral discussions, or take minutes of these discussions. The feature to rename keywords while maintaining the network structure helps the unification of variations in terminology and provides a process to find the good translation. As more people read through, a network of knowledge is nurtured to aid the understanding of subsequent readers.
 
 <figure>
-<img src="../../figs/data/oss_impact.gif" width="100%" alt="Gif showing the share of working age population that are contributors to open source software overtime by countries of the work over the last few years.  Share rises from about 1 to 2% in most countries and concentrates in North America, Europe, Oceania and East Asia, especially Taiwan. 
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/oss_impact/oss_impact.gif" width="100%" alt="Gif showing the share of working age population that are contributors to open source software overtime by countries of the work over the last few years.  Share rises from about 1 to 2% in most countries and concentrates in North America, Europe, Oceania and East Asia, especially Taiwan. 
  ">
 
  **<figcaption>Figure 3-3-D. GitHub contributors as share of working-age population by country. Source: GitHub Innovation Graph[^GHgraph], World Bank[^WB] and Taiwan Ministry of Interior[^TaiwanMI]   .</figcaption>**
