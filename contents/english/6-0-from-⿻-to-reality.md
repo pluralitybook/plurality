@@ -55,6 +55,7 @@ In particular, even when technologies are successfully developed in the interest
 A natural way to overcome this tendency is for the technology to develop in rough balance across primary existing social divides, allowing a network of participants to both govern its internal harms but also to resolve the potentially competing interests of the groups represented in accessing and directing the technology.  At the same time, for such spread to be effective, early adopters have to hold sufficient prestige or be able to gain it through the benefits of the tools that, in a roughly balanced way across their respective networks, the technology can spread.  
 
 This sketches an ambitious but reasonably clear picture of what a ⿻ strategy for diffusing ⿻ looks like:
+
 1. Seeds must be of a scale of community sufficient to encompass the diversity the technology aims to bridge, but also small enough to be one of a very large number of such experiments.
 2. Seeds should be communities of early adopters gaining tangible value or with clear interest in not just using but contributing to the technology and not so vulnerable that to-be-expected failures will prove deeply harmful.
 3. Seeds should have prestige within some network or be able to attain it with help from the technology, so further spread is likely.
@@ -70,7 +71,7 @@ Let us first consider the question of scale.  To realize the benefits of ⿻ tec
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/squarerootscale.png" width="100%" alt="Bubbles filled with smaller bubbles, some of which contain symbols of the social areas of workplace, media, health and environment.">
 
-**<figcaption>Figure 1. Bubbles filled with smaller bubbles, some of which contain symbols of the social areas of workplace, media, health and environment.</figcaption>**
+**<figcaption>Figure 6-0-A. Bubbles filled with smaller bubbles, some of which contain symbols of the social areas of workplace, media, health and environment.</figcaption>**
 
 </figure>
 <br><br>
@@ -94,6 +95,7 @@ Both have been critical early testbeds for ⿻, yet measuring them against our c
 It is therefore crucial to carefully consider which places might be the most promising for ⿻ to spread next.  One obvious example, that pervades our discussions so far, is the governance of cities.  Yet precisely because we have drawn on such public sector examples so heavily thus far, we focus in this part of the book on a diversity of social sectors where ⿻ can seed reality that touch a much broader range of life than the narrow definition of public sector "democracy".  In doing so, we aim to match the scales mentioned above and covering a broad range of life experiences, while attending to areas with respect and prestige in a broad range of societies.   
 
 In particular, we consider, as symbolized also in the figure above:
+
 1. Workplace, which is a highly influential sector because so much of the capitalist economy is driven by it.  Again, especially in the largest companies, finding scale matches is quite straightforward.
 2. Health, which is another sector touching almost every life, is especially relevant outside of the working years we cover in the previous chapter and perhaps the most widely respected social sector.  Many health systems, as noted above, match in scale.
 3. Media, which perhaps has the greatest capacity to spread new practices as it is close to the conceptual, communicative and ideational foundation of most societies.  Many publications and social media platforms match the relevant scale.
