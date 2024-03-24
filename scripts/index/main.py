@@ -72,7 +72,7 @@ for k in keywords:
 with open(os.path.join(script_directory, "similar_words.tsv"), "w") as f:
     for k in similar_keywords:
         if len(similar_keywords[k]) > 1:  # has multiple presentatin
-            print(similar_keywords[k], file=f)
+            print(", ".join(sorted(similar_keywords[k])), file=f)
 
 
 # output contributors
@@ -119,7 +119,7 @@ with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_oc
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
     print(f"Keywords\tSection(by Human)\tSection(by Script)", file=f)
 
-    for k in sorted(keyword_occurence, key=lambda x: x.lower()):
+    for k in sorted(keyword_occurence, key=lambda x: (x.lower(), x)):
         human = ", ".join(sorted(keyword_recorded_by_human[k]))
         occ = ", ".join(sorted(keyword_occurence[k]))
         k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
