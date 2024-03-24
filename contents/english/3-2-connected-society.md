@@ -87,6 +87,7 @@ Yet, as attractive as this argument has proven to politicians and intellectuals 
 
 
 Given this is a book about technology, an elegant illustration is the San Francisco Bay Area, where both authors and George himself  lived parts of their lives and which has some of the most expensive land in the world.  To whom does the enormous value of this land belong?  
+
 * Certainly not to the homeowners who simply had the good fortune of seeing the computer industry grow up around them.  Then perhaps to the cities in the region?  Many reformers have argued these cities, which are in any case fragmented and tend to block development, can hardly take credit for the miraculous increase in land values.  
 * Perhaps Stanford University and the University of California at Berkeley, to which various scholars have attributed much of the dynamism of Silicon Valley?[^Sax]  Certainly these played some role, but it would be strange to attribute the full value of Bay Area land to two universities, especially when these universities succeeded with the financial support of the US government and the collaboration of other universities across the country.
 *  Perhaps the State of California?  Arguably the national defense industry, research complex that created the internet (as we discuss below) and political institutions played a far greater role than anything at the state level.  
