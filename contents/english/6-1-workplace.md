@@ -71,9 +71,9 @@ Another effect of traditional hierarchies is that those managed by different hig
 [^Refresh]: Satya Nadella with Greg Shaw and Jill Tracie Nichols, *Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone* (New York: Harper Business, 2017).
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/microsoft_satirical_organization_chart.png" width="100%" alt="Microsoft Organizational Chart">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/microsoft_satirical_organization_chart.png" width="100%" alt="A hand drawn hierarchical organization chart that depicts Microsoft being branched into 3 smaller hierachies. Each of these smaller hierachies have guns pointed at each other">
 
-**<figcaption>Figure 1. Satircal Microsoft Coproration organizational chart adapted from "Organizational Charts" by Manu Cornet</figcaption>**
+**<figcaption>Figure 1. Satircal Microsoft Coproration organizational chart adapted from "Organizational Charts" by [Manu Cornet](https://en.wikipedia.org/wiki/Manu_Cornet)</figcaption>**
 </figure>
 <br></br>
 
