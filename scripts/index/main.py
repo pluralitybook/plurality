@@ -98,7 +98,7 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
     for k in sorted(keyword_occurence, key=lambda x: x.lower()):
         human = ", ".join(sorted(keyword_recorded_by_human[k]))
         occ = ", ".join(sorted(keyword_occurence[k]))
-        k = k.replace('"', "")  # care for `Diversity of "groups"`
+        k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
         print(f"{k}\t{human}\t{occ}", file=f)
 
 
@@ -115,5 +115,5 @@ with open(os.path.join(script_directory, "too_many_occurrence.tsv"), "w") as f:
         if len(keyword_occurence[k]) >= 5:
             human = ", ".join(sorted(keyword_recorded_by_human[k]))
             occ = ", ".join(sorted(keyword_occurence[k]))
-            k = k.replace('"', "")  # care for `Diversity of "groups"`
+            k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
             print(f"{k}\t{human}\t{occ}", file=f)
