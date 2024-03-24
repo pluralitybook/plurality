@@ -1,4 +1,4 @@
-b# The Lost Dao
+# The Lost Dao
 
 > (D)ecisions about the development and exploitation of computer technology must be made not only "in the public interest" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, "Computers and Government", 1980[^CandG]
 
@@ -63,18 +63,21 @@ At the core of the development of what became the internet was replacing central
 
 All three ideas had their seeds at the edges of the early community Lick formed and grew into core features of the ARPANET community.
 
-While the concept of networks, redundancy and sharing permeate Lick's original vision, it was Paul Baran's 1964 report "On Distributed Communications" that clearly articulated how and why communications networks should strive for a ⿻ rather than centralized structure.
+While the concept of networks, redundancy and sharing permeate Lick's original vision, it was Paul Baran's 1964 report "On Distributed Communications" that clearly articulated how and why communications networks should strive for a ⿻ rather than centralized structure.[^Baran]
 
-<figure>
-<img src="../../figs/3-3-Fig1.png" width="100%" alt="Paul Baran's work On Distributed Communication">
-
-**<figcaption> Figure 1. Paul Baran's work on distributed communication </figcaption>**
-</figure>
-<br></br>
+[^Baran]: Paul Baran, "On Distributed Communications Networks," *IEEE Transactions on Communications Systems* 12, no. 1 (1964): 1-9.
 
 Baran argued that while centralized switchboards achieved high reliability at low cost under normal conditions, they were fragile to disruptions. Conversely, networks with many centers could be built with cheap and unreliable components and still withstand even quite devastating attacks by "routing around damage", taking a dynamic path through the network based on availability rather than prespecified planning. While Baran received support and encouragement from scientists at Bell Labs, his ideas were roundly dismissed by AT&T, the national telephone monopoly in whose culture high-quality centralized dedicated machinery was deeply entrenched.
 
-Despite the apparent threat it posed to that private interest, packet switching caught the positive attention of another organization that owed its genesis to the threat of devastating attacks: ARPA. At a 1967 conference, ARPANET's first program manager, Lawrence Roberts, learned of packet switching through a presentation by Donald Davies, who concurrently and independently developed the same idea as Baran, and drew on Baran's arguments that he soon learned of to sell the concept to the team.
+Despite the apparent threat it posed to that private interest, packet switching caught the positive attention of another organization that owed its genesis to the threat of devastating attacks: ARPA. At a 1967 conference, ARPANET's first program manager, Lawrence Roberts, learned of packet switching through a presentation by Donald Davies, who concurrently and independently developed the same idea as Baran, and drew on Baran's arguments that he soon learned of to sell the concept to the team.  Figure A shows the decentralized logical structure of early ARPANET that resulted
+
+<figure>
+<img src="../../figs/3-3-arpanet.png" width="100%" alt="The decentralized logical structure of early ARPANET. 
+ ">
+
+ **<figcaption>Figure 3-3-A. Early logical structure of ARPANET. Source: [Wikipedia](https://en.wikipedia.org/wiki/ARPANET#/media/File:Arpanet_logical_map,_march_1977.png), public domain.</figcaption>**
+ </figure>
+ <br></br>
 
 If one path to networked thinking was thus motivated by technical resilience, another was motivated by creative expression. Ted Nelson trained as a sociologist, was inspired in his work by a visit to campus he hosted in 1959 by cybernetic pioneer Margaret Mead's vision of democratic and pluralistic media and developed into. an artist. Following these early experiences, he devoted his life beginning in his early 20s to the development of "[Project Xanadu](https://www.xanadu.net/)", which aimed to create a revolutionary human-centered interface for computer networks. While [Xanadu](https://www.youtube.com/watch?v=Bqx6li5dbEY) had so many components that Nelson considered indispensable that it was not released fully until the 2010s, its core idea, co-developed with Engelbart, was "hypertext" as Nelson labeled it.
 
@@ -144,10 +147,10 @@ While the internet backbone continued to improve in limited ways, adding securit
 Yet faded dreams have a stubborn persistence, nagging throughout a day. While Lick passed away in 1990, many of the early internet pioneers lived to see their triumph and tragedy.
 
 <figure>
-<img src="../../figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999 by Belinda Barnet, retrieved from https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg. Used under Creative Commons Attribution-Share Alike 4.0 International license.
- (https://creativecommons.org/licenses/by-sa/4.0/deed.en)">
+<img src="../../figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999. 
+ ">
 
- **<figcaption>Figure 2. Ted Nelson at Keio University, Japan, 1999</figcaption>**
+ **<figcaption>Figure 3-3-B. Ted Nelson at Keio University, Japan, 1999. Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg), used under CC  4.0 BY-SA.</figcaption>**
  </figure>
  <br></br>
 

@@ -104,7 +104,14 @@ To make matters yet more complex, the revenue earned on the property is but one 
 ### Georg Simmel and the intersectional (in)dividual
 
 
-But if network thinking was implicit in George's work, it took another thinker, across the Atlantic, to make it explicit and, accidentally, give it a name. Georg Simmel was a German philosopher and sociologist of the turn of the twentieth century who pioneered the idea of social networks. The mistranslation of his work as focused on a “web” eventually went “worldwide”.  In his 1955 translation of Simmel’s classic 1908 Soziologie, Reinhard Bendix chose to describe Simmel’s idea as describing a “web of group-affiliations” over what he described as the “almost meaningless” direct translation “intersection of social circles”.[^Soziologie] While the precise lines of influence are hard to trace, it is possible that, had Bendix made an opposite choice, we might talk of the internet in terms of "intersecting global circles" rather than the "world wide web".[^InfluenceOfSimmel]
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-2-georg.jpg" width="100%" alt="Georg Simmel with glasses and full facial hair.">
+
+**<figcaption>Figure 3-2-B. Georg Simmel.  Source: [Wikipedia] (https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG), public domain. <figcaption>**
+</figure>
+<br></br>
+
+But if network thinking was implicit in George's work, it took another thinker, across the Atlantic, to make it explicit and, accidentally, give it a name. Georg Simmel, pictured in Figure B, was a German philosopher and sociologist of the turn of the twentieth century who pioneered the idea of social networks. The mistranslation of his work as focused on a “web” eventually went “worldwide”.  In his 1955 translation of Simmel’s classic 1908 Soziologie, Reinhard Bendix chose to describe Simmel’s idea as describing a “web of group-affiliations” over what he described as the “almost meaningless” direct translation “intersection of social circles”.[^Soziologie] While the precise lines of influence are hard to trace, it is possible that, had Bendix made an opposite choice, we might talk of the internet in terms of "intersecting global circles" rather than the "world wide web".[^InfluenceOfSimmel]
 
 Simmel’s “intersectional” theory of identity offered an alternative to both the traditional individualist/atomist (characteristic at the time in sociology with the work of Max Weber and deeply influential on Libertarianism) and collectivist/structuralist (characteristic at the time of the sociology of Émile Durkheim and deeply influential on Technocracy) accounts.  From a Simmelian point of view, both appear as extreme reductions/projections of a richer underlying theory.  
 
