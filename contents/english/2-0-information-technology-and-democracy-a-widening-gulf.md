@@ -6,7 +6,7 @@
 
 > “We are being lied to...told that technology takes our jobs, reduces our wages, increases inequality, threatens our health, ruins the environment, degrades our society, corrupts our children, impairs our humanity, threatens our future, and is ever on the verge of ruining everything.” — Marc Andreessen, "[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)"[^OptimistManifesto], 2023
 
-[^OptimistManifesto]: Mar Andreessen, "The Techno-Optimist Manifesto", *Andreessen Horowitz Blog*, October 16, 2023, https://a16z.com/the-techno-optimist-manifesto/.
+[^OptimistManifesto]: Marc Andreessen, "The Techno-Optimist Manifesto", *Andreessen Horowitz Blog*, October 16, 2023, https://a16z.com/the-techno-optimist-manifesto/.
 
 ---
 
