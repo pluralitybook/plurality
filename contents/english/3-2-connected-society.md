@@ -28,12 +28,15 @@ Prior to modernity, individuals were born into families rooted within kin-based 
 
 [^universalreg]: It is worth noting, however, that universal birth registration is a very recent phenomenon and only was achieved in the US in 1940. Universal registration for Social Security Numbers did not even begin until 1987 when Enumeration at Birth was instituted at the federal level in collaboration with county level governments where births are registered. 
 
-This helped circumvent the reliance on personal relationships, building the foundation of identity in a relationship to a state, which in turn served as a trust anchors for many other types of institutions ranging from children's sports teams to medical care providers. These abstract representations enabled people to navigate the world not based on "who they know" or "where they fit" in a tight social world but as who they are in an abstracted universal sense relative to the state.  This "WEIRD" (Western Educated Industrialized Rich Democratic) universalism thus broke with the social embedding of identity while thereby "freeing" people to travel and interact much more broadly using modern forms of identification issued by governments like passports and national identity cards. While other critical credentials, such as  educational attainment are more diverse, they almost uniformly conform to a limited structure, implying one of a small number of "degrees" derived from courses with a particular "Carnegie unit" structure (in theory, 120 hours spent with an instructor).  In short, just as modernity abstracted ownership private property, removing it from its many social entanglements, it also abstracted personal identity from the social anchoring that limited travel and the formation of new relationships.
+This helped circumvent the reliance on personal relationships, building the foundation of identity in a relationship to a state, which in turn served as a trust anchors for many other types of institutions ranging from children's sports teams to medical care providers. These abstract representations enabled people to navigate the world not based on "who they know" or "where they fit" in a tight social world but as who they are in an abstracted universal sense relative to the state.  This "WEIRD" (Western Educated Industrialized Rich Democratic) universalism thus broke with the social embedding of identity while thereby "freeing" people to travel and interact much more broadly using modern forms of identification issued by governments like passports and national identity cards. While other critical credentials, such as  educational attainment are more diverse, they almost uniformly conform to a limited structure, implying one of a small number of "degrees" derived from courses with a particular "Carnegie unit" structure (in theory, 120 hours spent with an instructor), in contrast to the broad range of potential recognition that could be given to learning attainment as illustrated in Figure A.  In short, just as modernity abstracted ownership private property, removing it from its many social entanglements, it also abstracted personal identity from the social anchoring that limited travel and the formation of new relationships.
+
+
+
 
 <figure>
-<img src="https://raw.githubusercontent.com/audreyt/plurality/main/figs/252527680-2ae7e6db-6044-4495-8ad0-654614b46fbc.png" width="100%" alt="Science">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/taxonomies.png" width="100%" alt="A diagram displaying a range of different forms of recognition of leanring achievement in terms of formality and importance.">
 
-**<figcaption>Figure 1. Flexible taxonomies across a broad spectrum of recognition<figcaption>**
+**<figcaption>Figure 3-2-A. Flexible taxonomies across a broad spectrum of recognition.  Source: Learning Agents Inc. (https://www.learningagents.ca) <figcaption>**
 </figure>
 <br></br>
 
@@ -101,7 +104,14 @@ To make matters yet more complex, the revenue earned on the property is but one 
 ### Georg Simmel and the intersectional (in)dividual
 
 
-But if network thinking was implicit in George's work, it took another thinker, across the Atlantic, to make it explicit and, accidentally, give it a name. Georg Simmel was a German philosopher and sociologist of the turn of the twentieth century who pioneered the idea of social networks. The mistranslation of his work as focused on a “web” eventually went “worldwide”.  In his 1955 translation of Simmel’s classic 1908 Soziologie, Reinhard Bendix chose to describe Simmel’s idea as describing a “web of group-affiliations” over what he described as the “almost meaningless” direct translation “intersection of social circles”.[^Soziologie] While the precise lines of influence are hard to trace, it is possible that, had Bendix made an opposite choice, we might talk of the internet in terms of "intersecting global circles" rather than the "world wide web".[^InfluenceOfSimmel]
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-2-georg.jpg" width="100%" alt="Georg Simmel with glasses and full facial hair.">
+
+**<figcaption>Figure 3-2-B. Georg Simmel.  Source: [Wikipedia] (https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG), public domain. <figcaption>**
+</figure>
+<br></br>
+
+But if network thinking was implicit in George's work, it took another thinker, across the Atlantic, to make it explicit and, accidentally, give it a name. Georg Simmel, pictured in Figure B, was a German philosopher and sociologist of the turn of the twentieth century who pioneered the idea of social networks. The mistranslation of his work as focused on a “web” eventually went “worldwide”.  In his 1955 translation of Simmel’s classic 1908 Soziologie, Reinhard Bendix chose to describe Simmel’s idea as describing a “web of group-affiliations” over what he described as the “almost meaningless” direct translation “intersection of social circles”.[^Soziologie] While the precise lines of influence are hard to trace, it is possible that, had Bendix made an opposite choice, we might talk of the internet in terms of "intersecting global circles" rather than the "world wide web".[^InfluenceOfSimmel]
 
 Simmel’s “intersectional” theory of identity offered an alternative to both the traditional individualist/atomist (characteristic at the time in sociology with the work of Max Weber and deeply influential on Libertarianism) and collectivist/structuralist (characteristic at the time of the sociology of Émile Durkheim and deeply influential on Technocracy) accounts.  From a Simmelian point of view, both appear as extreme reductions/projections of a richer underlying theory.  
 
