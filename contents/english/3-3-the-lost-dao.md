@@ -171,17 +171,19 @@ While Wikis themselves have found significant applications, they have had an eve
 [^group]: The term "groupware" was coined by Peter and Trudy Johnson-Lenz in 1978, with early commercial products appearing in the 1990s, such as Lotus Notes, enabling remote group collaboration. Google Docs, originated from Writely launched in 2005, has widely popularized the concept of collaborative real-time editing.
 [^Japan]: [Scrapbox](https://scrapbox.io/product), a combination of real-time editor with a wiki system, is utilized by the Japanese forum of this book. Visitors of the forum can read the drafts and add questions, explanations, or links to related topics in real time. This interactive environment supports activities like book reading events, where participants can write questions, engage in oral discussions, or take minutes of these discussions. The feature to rename keywords while maintaining the network structure helps the unification of variations in terminology and provides a process to find the good translation. As more people read through, a network of knowledge is nurtured to aid the understanding of subsequent readers.
 
-OSS emerged in reaction to the secretive and commercial direction of the software industry that emerged in the 1970s.
-
 <figure>
-<img src="../../figs/3-3-arpanet.png" width="100%" alt="TARPANET logical map circa 1977, with PDP-10 systems highlighted by The Computer History Museum , retrieved from https://commons.wikimedia.org/wiki/File:Arpanet_logical_map,_march_1977_PDP-10.png. Used under Creative Creative Commons CC0 1.0 Universal Public Domain Dedication.
- (https://creativecommons.org/publicdomain/zero/1.0/deed.en)">
+<img src="../../figs/data/oss_impact.gif" width="100%" alt="Gif showing the share of working age population that are contributors to open source software overtime by countries of the work over the last few years.  Share rises from about 1 to 2% in most countries and concentrates in North America, Europe, Oceania and East Asia, especially Taiwan. 
+ ">
 
- **<figcaption>Figure 3. TARPANET logical map with PDP-10 systems highlighted by The Computer History Museum, 1977 </figcaption>**
+ **<figcaption>Figure 3-3-C. GitHub contributors as share of working-age population by country. Source: GitHub Innovation Graph[^GHgraph], World Bank[^WB] and Taiwan Ministry of Interior[^TaiwanMI]   .</figcaption>**
  </figure>
  <br></br>
+ 
+ [^GHgraph]: GitHub Innovation graph at https://github.com/github/innovationgraph/
+ [^WB]: World Bank, "Population ages 15-64, total" at https://data.worldbank.org/indicator/SP.POP.1564.TO.
+ [^TaiwanMI]: Department of Household Registration, Ministry of the Interior, "Household Registration Statistics in January 2024" at https://www.ris.gov.tw/app/en/2121?sn=24038775.
 
-The free and open development approach of the early days of ARPANET was sustained even after the withdrawal of public funding, thanks to a global volunteer workforce. [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), opposing the closed nature of the [Unix](https://en.wikipedia.org/wiki/Unix) OS developed by AT&T, led the "free software movement", promoting the “GNU General Public License” that allowed users to run, study, share, and modify the source code. This was eventually rebranded as OSS, with a goal to replace Unix with an open-source alternative, [Linux](https://www.linux.org/), led by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).
+OSS emerged in reaction to the secretive and commercial direction of the software industry that emerged in the 1970s. The free and open development approach of the early days of ARPANET was sustained even after the withdrawal of public funding, thanks to a global volunteer workforce. [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), opposing the closed nature of the [Unix](https://en.wikipedia.org/wiki/Unix) OS developed by AT&T, led the "free software movement", promoting the “GNU General Public License” that allowed users to run, study, share, and modify the source code. This was eventually rebranded as OSS, with a goal to replace Unix with an open-source alternative, [Linux](https://www.linux.org/), led by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).
 
 OSS has expanded across various internet and computing sectors, even earning support from formerly hostile companies like Microsoft, now owner of leading OSS service company GitHub and employer of one of the authors of this book. This represents the practice of ⿻ on a large scale; emergent, collective co-creation of shared global resources. Communities form around shared interests, freely build on each other’s work, vet contributions through unpaid maintainers, and "fork" projects into parallel versions in case of irreconcilable differences. The protocol “git” supports collaborative tracking of changes, with platforms like GitHub and GitLab facilitating millions of developers' participation. This book is a product of such collaboration and has been supported by Microsoft and GitHub.
 
