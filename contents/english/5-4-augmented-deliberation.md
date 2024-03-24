@@ -4,9 +4,9 @@
 As we [have noted above](https://www.plurality.net/v/chapters/2-0/eng/?mode=dark), one of the most common concerns about social media has been its tendency to entrench existing social divisions, creating "echo chambers" that undermine a sense of shared reality.[^Sunstein] News feed algorithms based on "collaborative filtering" selects content that is likely to maximize user engagements, prioritizing like-minded content that reinforces users' existing beliefs and insulates them from diverse information. Despite mixed findings on whether these algorithms truly exacerbate political polarization and hamper deliberations, it is natural to ask how these systems might be redesigned with the opposite intention of “bridging” the crowd. The largest-scale attempt at this is the Community Notes (formerly Birdwatch) system in the [X](https://www.twitter.com) (formerly Twitter) social media platform.
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/communitynotes.png" width="100%" alt="Twitter Community Notes">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/communitynotes.png" width="100%" alt="A screenshot with an example of Community Notes. One user claimed, with questionable reasoning, that whales are not mammals. A second box is displayed below it stating that 'readers added context' and included referenced information on why they are indeed mammals.">
 
-**<figcaption> Figure 1. Community Notes on X</figcaption>**
+**<figcaption> Figure 5-4-A. Community Notes on X correcting a misleading post</figcaption>**
 </figure>
 <br></br>
 

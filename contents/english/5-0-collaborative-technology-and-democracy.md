@@ -81,9 +81,9 @@ One rough way to think about quantifying the differences between these interacti
 The natural trade-off, however, that is the reason capitalism has not been superseded by universal intimacy is that high bandwidth communication is challenging to establish among large and diverse groups.  Thinner and shallower collaboration scales more easily.  While the simplest notion of scale is the number of people involved, this is shorthand.  Breadth is best understood in terms of inclusion across lines of social and cultural distance rather than simply large numbers of people.  For example, deep collaboration may well be easier among a large extended family, physically co-located and sharing a language and religion than among a handful of people scattered around the world, speaking different languages, etc. 
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/PPF.png" width="100%" alt="The trade-off between breadth and depth of collaboration represented as points along a production possibilities frontier, which it is the goal of ⿻ to push outwards.">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/PPF.png" width="100%" alt="A chart with the bredth of diversity(# of interoperable participants) on the x-axis and depth of collaboration (degree of coexistence) on the y-axis. Points displayed in an inner arc represent what is currently possible and corresponding points on an outer arc represent what is possible with ⿻">
 
-**<figcaption>Figure 1. The trade-off between breadth of diversity and depth of collaboration represented as points along a production possiblities frontier</Figure>**
+**<figcaption>Figure 5-0-A. The trade-off between breadth of diversity and depth of collaboration represented as points along a production possiblities frontier</figcaption>**
 </figure>
 <br></br>
 
