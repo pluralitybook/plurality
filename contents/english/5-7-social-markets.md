@@ -7,16 +7,17 @@ Recent attempts to overcome this challenge have focused on matching funds and co
 To overcome this, a number of new matching platforms, such as [GitCoin Grants](https://www.gitcoin.co/), connect sponsors (small donors and grants) using a "plural funding" formula that accounts not just for the total funding received, but also the diversity of its source across individual contributors and connected social groups.  These platforms have become important sources of funding for OSS, channeling in total more than a hundred million of dollars in funding. This has been especially important to Web3 related projects, in Taiwan, and in supporting this book. They are also increasingly being applied to domains (e.g. [environment](https://moda.gov.tw/en/ADI/news/bulletin-board/5451), [local business development](https://medium.com/@katiebrenjohnson/downtown-stimulus-program-review-e89f67e29f4f)) outside OSS.
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_matching.png" width="100%" alt="Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a ⿻ funding formula because it elevates many small contributions across social distance.">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_matching.png" width="100%" alt="Illustrion of 2 sliding scales. The one of the left sliding straight from $0 to $1000, and is currently set at $10. The one on the right is a corresponding quadratic slider showing that $10 will be matched by $74 and that if the left one was slid all the way to $1000 the match would be $5000. Together this illustrated that due to quadratic matching, lesser donations receive a higher match per dollar.>
 
-**<figcaption>Figure 1. Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a ⿻ funding formula because it elevates many small contributions across social distance.</figcaption>**
+**<figcaption>Figure 5-7-A. Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a ⿻ funding formula because it elevates many small contributions across social distance.</figcaption>**
 </figure>
 <br></br>
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_projectpage.png" width="100%" alt="The project page for the plurality book on Gitcoin.  As of February 2 2024, the ⿻ book had received $332.84 in funding from 87 contributors.">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_projectpage.png" width="100%" alt="Screenshot of The project page for the plurality book on Gitcoin. It shows details and a description of the project, contacts, the date it was created, how many rounds have ended, the number of contributors, and the amount received to date.">
 
-**<figcaption>Figure 2. The project page for the ⿻ book on Gitcoin.  As of February 2 2024, the ⿻ book had received $332.84 in funding from 87 contributors.</figcaption>**
+**<figcaption>Figure 5-7-B. The project page for the ⿻ book on Gitcoin.  As of February 2 2024, the ⿻ book had received $332.84 in funding from 87 contributors.</figcaption>**
+</figure>
 <br></br>
 
 ---
@@ -48,9 +49,9 @@ Many textbooks have been written, including some by some of our close friends, o
 [^Smith]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (London: W. Strahan and T. Cadell, 1776).
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/Returnsfig.png" width="100%" alt="Illustration of the incompatibility of increasing returns with a profitable efficient market." />
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/Returnsfig.png" width="100%" alt="Illustration of the incompatibility of increasing returns with a profitable efficient market. A chart on the left depicts decreasing returns with a positive profit and a chart on the right depicts increasing returns with a negative profit." />
 
-**<figcaption>Figure 3. Payment of marginal returns requires paying workers and other factor providers an amount derived from tracing the tangent to graph of output as a function of inputs back to 0 input.  The gap to the origin indicates profits, which are positive under decreasing returns, but negative (thus loses) under increasing returns.</figcaption>**
+**<figcaption>Figure 5-7-C. Payment of marginal returns requires paying workers and other factor providers an amount derived from tracing the tangent to graph of output as a function of inputs back to 0 input.  The gap to the origin indicates profits, which are positive under decreasing returns, but negative (thus loses) under increasing returns.</figcaption>**
 </figure>
 <br></br>
 
