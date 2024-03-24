@@ -5,9 +5,8 @@ To launch what has come be known as the "Year of AI", [Microsoft CEO](https://ww
 This demonstration built on years of work and multi stakeholder collaborations including [AI4Bharat](https://ai4bharat.iitm.ac.in/), [Karya](https://karya.in/) and [IVR Junction](https://www.usenix.org/conference/nsdr12/workshop-program/presentation/vashistha), which have employed Indians to gather data on local languages, harnessed these data to empower LLMs to translate across these languages and connected illiterate Indians with access only to simple feature phones to connect to a "voice-based internet".  Together these hold the promise of helping preserve and strengthen the cultural diversity of India by ensuring those who speak less prominent languages and live far from cities are still able to access the public services they need to sustain their ways of life.
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg" width="100%" alt="Indian farmers looking at a mobile phone">
-
-**<figcaption>Figure 1. Image courtesy of Microsoft</figcaption>**
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg" width="100%" alt="One Indian farmer pointing out something to another on his mobile phone">
+**<figcaption>Figure 5-5-A. The results of this work can be seen taking place already. Image courtesy of Microsoft</figcaption>**
 </figure>
 <br></br>
 
