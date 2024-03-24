@@ -22,7 +22,7 @@ Access	4-5	2-0, 2-1, 2-2, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-2, 5-3, 5-5,
 Access with Integrity	4-5	4-5
 Acemoglu, Daron	2-0	
 Active Listening	5-4	5-4
-ActivityPub	2-0, 3-3	2-0, 3-3, 4-2
+ActivityPub	2-0, 3-3, 4-2	2-0, 3-3, 4-2
 Adaptive Representation	5-6	5-6
 Administration	5-4	2-0, 2-2, 3-3, 4-1, 5-0, 5-4, 5-5, 6-2, 6-4
 Administrative Application	5-5	5-5
@@ -91,8 +91,7 @@ ARPANET	2-0, 3-3, 4-4	3-3, 4-4, 7-0
 Arrow's Theorem	5-6	5-6
 Articles 145 of the ROC	2-1	2-1
 Artificial General Intelligence	2-0	2-0
-Artificial Intelligence	2-0, 3-1	2-0, 3-1, 3-3, 4-1, 4-2, 5-0, 5-3, 5-5
-Artificial Intelligence (AI).	5-5	2-0, 3-1, 3-3, 4-1, 5-0, 5-3, 5-5
+Artificial Intelligence (AI)	2-0, 3-1, 5-5	2-0, 3-1, 3-3, 4-1, 5-0, 5-3, 5-5
 Artificial Neural Networks	3-1	3-1
 Artistic co-creation	5-3	
 Artistic Expression	5-3	5-3
@@ -103,6 +102,7 @@ Asset sharing	4-4	3-3, 4-4
 Assimilation	2-1	2-1
 Assisted Real-time Voting	5-6	5-6
 Associated Identification Number	4-1	4-1
+Association	4-2	2-0, 2-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-2, 5-4, 5-6, 6-0, 6-2, 6-3, 7-0
 Asynchronous Communication	6-1	6-1
 Athena's tapestry	1-1	
 Athenian Marketplace	5-4	5-4
@@ -152,11 +152,12 @@ Blake Masters	2-0	2-0
 Blended-finance Agreement	6-2	6-2
 Blindness of Justice	5-5	5-5
 Blitzscaling	6-0	6-0
-Blockchain	2-0, 4-1, 5-7	2-0, 3-3, 4-1, 4-2, 4-3, 5-7, 7-1
+Blockchain	2-0, 4-1, 4-2, 5-7	2-0, 3-3, 4-1, 4-2, 4-3, 5-7, 7-1
 Blockchain-centric Identity Systems	4-1	4-1
 Blockchains	2-0	2-0, 3-3, 4-1, 4-2, 5-7
 Bluesky	4-2	3-3, 4-2
 Bottom-up	5-6	5-6
+Bowling Alone	4-2	4-2
 Brain interface	6-3	5-0, 6-3
 Brain-Computer Interfaces	5-1	5-1
 Braver Angels	5-4	5-4
@@ -249,6 +250,7 @@ Collaborative Problem Solving	2-1	2-1
 Collaborative Technologies	5-6	5-6
 Collaborative Technology	1-1, 5-0	1, 4-5, 5-0
 Collaboratives	4-4	4-4
+Collective action	4-2	2-0, 4-2, 4-5, 5-2, 6-2, 6-4
 Collective Alignment	5-4	5-4
 Collective bargaining	4-4	4-0, 4-4, 7-0
 Collective Consciousness	5-3	5-1, 5-3
@@ -266,12 +268,13 @@ Colonial Outsider	5-5	5-5
 Colorado State Legislature	5-6	5-6
 Commanding Heights	2-0	2-0, 7-0
 Common Asylum System	4-1	4-1
-Common Belief	6-0	4-2, 6-2
+Common Belief	4-2, 6-0	4-2, 6-2
 Common Carriers of Public Discussion	6-3	6-3
 Common Content	6-3	6-3
 Common Corporate Infrastructure	6-1	6-1
 Common European Asylum System	4-1	4-1
 Common Good	5-7	5-0, 5-7
+Common interest	4-2	3-2, 4-0, 4-2, 5-7
 Common Knowledge	4-2	4-2, 5-4
 Common Will	5-4, 5-6	5-4, 5-6
 Commons-Based Property	3-3	3-2
@@ -290,6 +293,7 @@ Complexity Theory	3-1	3-1
 Comprehensiveness	4-1	4-1
 Compulsory Purchase	5-7	5-7
 Computational complexity	3-1	3-1
+Computer as Communication Device	4-2	4-2
 Computer-simulated Neuron	5-5	5-5
 Confidential Computers	4-4	4-4
 Confidential Computing	4-2	4-2
@@ -299,6 +303,8 @@ Connected Society	3-2	3-0, 3-2, 4-0, 4-1, 5-7
 Consociational	5-6	3-2, 5-6
 Consociationalism	3-3, 5-6	3-2, 5-6
 Constitutional Court	2-2	2-2
+Context for the association	4-2	
+Contextual confidence	4-2	4-2, 4-5
 Contextual Integrity	4-1	4-1, 4-3, 4-5
 Contribution	6-1	0-2, 0-3, 2-2, 3-2, 3-3, 4-1, 4-3, 5-0, 5-3, 5-7, 6-1, 6-2, 7-0
 Control	4-1	2-0, 2-1, 2-2, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-0, 5-1, 5-2, 5-4, 5-6, 5-7, 6-0, 6-1, 6-2, 7-0
@@ -394,7 +400,7 @@ Deforestation	6-4	5-2, 6-4
 Degressive Proportionality	3-3, 5-6	3-2, 5-6
 Deliberation	5-0, 5-4, 6-3	2-2, 3-3, 5-0, 5-2, 5-4, 5-5, 5-6, 5-7, 6-1, 6-2, 6-3, 7-0, 7-1
 Democracy	2-0, 3-0, 4-5, 5-6	1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-5, 5-0, 5-4, 5-5, 5-6, 5-7, 6-0, 6-3, 7-0, 7-1, 8
-Democracy in America	2-0	2-0, 4-2
+Democracy in America	2-0, 4-2	2-0, 4-2
 Democratic Advocates	2-1	2-1
 Democratic freedom	2-1	2-1
 Democratic Input to AI project	2-2	2-2
@@ -426,6 +432,7 @@ Digital Democracies	2-0	2-0
 Digital Democracy	1-1, 2-0, 4-5, 5-5, 7-1	2-0, 2-1, 2-2, 3-3, 4-0, 4-5, 5-4, 5-5, 7-0, 7-1, 8
 Digital Democracy Initiative	1-1	
 Digital Divide	4-5, 5-2, 5-3	4-5, 5-2, 5-3
+Digital freedom of association	4-2	4-2
 Digital Identity Systems	4-1	4-1
 Digital Infrastructure	4-5	3-3, 4-1, 4-5, 7-0
 Digital interaction	4-0	4-0
@@ -441,6 +448,7 @@ Digital Platform	4-1	4-1, 5-2, 5-3, 5-7
 Digital Public Infrastructure	4-0, 4-1, 4-5	4-0, 4-1, 4-5, 7-0
 Digital Public Services	2-0	2-0, 4-5
 Digital Realpolitik	2-0	
+Digital rights	4-2	4-2
 Digital Services Act	2-0	2-0, 7-0
 Digital Social Engagement	6-4	6-4
 Digital Stagnation	2-0	2-0
@@ -574,6 +582,7 @@ Expert	5-5	3-2, 3-3, 4-2, 4-5, 5-0, 5-3, 5-4, 5-5, 6-0, 6-1, 6-2, 7-1
 Export-orientation	2-1	2-1
 Extended Evolutionary Synthesis	3-1	3-1
 Extended Reality	6-2	6-2
+External surveillance	4-2	4-2, 4-3
 Externalities	5-7	3-2, 5-7, 7-0
 Extreme Preservation of Privacy	4-1	4-1
 Extreme Sports	6-1	6-1
@@ -595,7 +604,7 @@ Fast, Fun and Fair	2-2	2-2
 Feature Phone	5-5	5-5
 Federal	5-6	2-0, 3-2, 4-0, 4-1, 4-3, 4-4, 5-5, 5-6, 7-0
 Federal Pension Insurance system	5-5	5-5
-Federated Learning	4-4	4-2, 4-4, 6-2
+Federated Learning	4-2, 4-4	4-2, 4-4, 6-2
 FIDES	6-2	
 Filecoin	4-4	4-0, 4-4
 Financial Capitalism	2-0	2-0
@@ -656,13 +665,11 @@ General Reticence	2-0	2-0
 Generative AI	4-5, 5-1	4-2, 4-5
 Generative Art	5-3	5-3
 Generative Artists	5-3	5-3
-Generative Foundation Models	6-2, 6-3	4-1, 4-2, 4-4, 5-1, 5-3, 5-4, 5-5, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
-Generative Foundation Models (GFMs)	4-1, 5-3, 5-5	4-1, 4-2, 4-4, 5-1, 5-3, 5-4, 5-5, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
-Generative Foundation Models(GFMs)	4-4	4-1, 4-2, 4-4, 5-1, 5-4, 5-5, 6-2, 6-4, 7-0, 7-1
+Generative Foundation Models (GFMs)	4-1, 4-4, 5-3, 5-5, 6-2, 6-3	4-1, 4-2, 4-4, 5-1, 5-3, 5-4, 5-5, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
 Generative Pretrained Transformer	2-0	2-0
 Geographical Information System	5-5	5-5
 Geopolitics	2-0	2-0, 2-2, 4-3, 7-1
-Georg Simmel	3-2	3-2
+Georg Simmel	3-2, 4-2	3-2
 Georgist land value tax	2-1	2-1
 Germany	5-5	4-0, 5-2, 5-5, 6-3
 GFM-driven Process	5-3	5-3
@@ -705,6 +712,7 @@ Green movement	7-1	7-1
 Green Technologies	6-4	6-4
 Gross Domestic Product	2-0	2-0, 2-2, 6-1
 Group Works	5-4	5-4
+Guard (hackathon)	4-2	2-2, 3-1, 4-2, 4-4, 4-5, 5-0, 5-1, 5-3, 5-7, 6-4, 7-0
 Guiding Light And Symbol For ⿻	7-1	7-1
 Gödel's Theorem	3-1	3-1
 Hackathon	2-2, 6-4	2-2, 4-0, 4-2, 6-4, 7-0, 7-1
@@ -712,6 +720,7 @@ Hackathons	7-1	2-2, 4-2, 7-1
 HackMD	6-2	3-3
 Hakka	2-1	2-1
 Hannah Arendt	3-0, 6-0	3-0, 4-1, 6-0
+Hans Christian Andersen	4-2	4-2
 Hanson	6-2	5-6, 6-2
 Haptic Feedback	5-1, 5-2	5-1, 5-2
 Hard Journalism	6-3	6-3
@@ -768,6 +777,7 @@ Hybrid Reality Environments	5-2	5-2
 Hybrid Work Style	6-1	6-1
 HyperCerts	6-2	
 Hypertext	3-3	3-3, 4-1, 4-3, 4-4
+Hypertext Transfer Protocol Secure (HTTPS)	4-4	4-4
 Ian Banks	2-0	2-0
 Iceland	5-6	3-3, 5-6
 ID2020	5-5	5-5
@@ -816,7 +826,7 @@ Influence Function	4-4	4-4
 Infodemic	2-2	2-0, 2-2, 8
 Information Age	4-5	2-0, 3-3, 4-5
 Information commons	4-0	4-0, 4-5
-Information Integrity	4-5	2-2, 4-2, 4-5
+Information Integrity	4-2, 4-5	2-2, 4-2, 4-5
 Information Openness	4-5	4-5
 Information Technology	2-0, 4-0	2-0, 3-1, 3-3, 4-0, 4-1, 4-3, 6-1, 7-0
 InformationCard	4-1	4-1
@@ -824,6 +834,7 @@ Infrastructure	5-7	2-0, 2-1, 2-2, 3-2, 3-3, 4-0, 4-1, 4-2, 4-4, 4-5, 5-3, 5-5, 5
 Infringement On Privacy	4-1	4-1
 Inji	4-1	4-1
 Insurer	6-2	6-2
+Integrity of identity	4-2	4-2
 Intelligence Augmentation	2-0	2-0
 Inter-operation	4-1	3-3, 4-1, 4-2, 4-3
 Inter-species Communication	5-2	
@@ -872,9 +883,11 @@ Jeremy Corbyn	2-0	2-0
 Jetsons	2-0	2-0
 Jobs, Steve	6-1	
 John Dewey	2-1, 3-0, 3-2, 5-7	2-1, 3-0, 3-2, 5-7, 7-0
+John Kenneth Galbraith	4-2	4-2, 5-7
 John Perry Barlow	2-0	2-0
 Joint Learning	6-1	6-1
 Joseph Gordon-Levitt	5-3	5-3
+Joseph Licklider	4-2	4-2
 Joseph Stiglitz	5-7	5-7
 Josh Hawley	2-0	2-0
 Jothons	2-2	2-2
@@ -890,6 +903,7 @@ Kaohsiung Incident	2-1	2-1
 Karya	5-5	5-5
 Kazakhstan	2-0	2-0
 Kela-Kelpo project	5-5	
+Ken Suzuki	5-6	5-6
 Kenneth Arrow	5-6	5-6, 6-2
 Kevin Scott	6-1	6-1
 Khan Academy	5-3	5-3
@@ -899,6 +913,7 @@ Kim Stanley Robinson	5-4	5-4
 Knappschaften	6-2	6-2
 Know Your Customer	4-1	4-1
 knowledge is power	4-5	4-5
+Kojin Karatani	5-6	4-2, 4-3, 5-0, 5-6
 Kuomintang	2-1	2-1
 Labor Augmentation	2-0	2-0
 Labor Automation	2-0	2-0
@@ -919,7 +934,7 @@ Legal Jurisdiction	5-5	5-5
 Legal Robot	5-5	5-5
 Legal Tender	4-3	4-3
 Legislative Yuan	2-2	2-2
-Legitimacy	6-0	2-2, 4-0, 4-1, 4-2, 5-4, 5-5, 5-6, 6-0, 7-0
+Legitimacy	4-2, 6-0	2-2, 4-0, 4-1, 4-2, 5-4, 5-5, 5-6, 6-0, 7-0
 Legitimation	2-0	2-0
 Lego	5-7	5-7
 Lesser of Two Evils	5-6	5-6
@@ -947,6 +962,7 @@ Liu Cixin	3-1	3-1
 Livestream-based communication	2-2	2-2
 LLM-based Representative	5-4	
 LLMs	6-1	2-2, 5-4, 5-5, 6-1
+Local Exchange Trading Systems (LETS)	4-3	4-3
 Local Language	5-5	5-5
 Local ⿻ Communities	7-1	
 Location Aware Sensor System	6-4	6-4
@@ -1002,8 +1018,7 @@ Mechanism Design	5-7	4-4, 5-7
 Media	6-0, 6-3	2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-6, 6-0, 6-1, 6-2, 6-3, 7-0, 7-1, 8
 Media Ecosystem	6-3	6-3
 Mediated Reality	5-1, 5-2	5-1, 5-2
-Mediators of Individual Data	4-1	4-1, 4-4
-Mediators of Individual Data (MIDs)	4-4	4-1, 4-4
+Mediators of Individual Data (MIDs)	4-1, 4-4	4-1, 4-4
 Meetings Deemed Unproductive	6-1	6-1
 Mencius Moldbug	2-0	2-0
 Mental Health	6-2	5-1, 5-2, 6-2
@@ -1013,6 +1028,7 @@ Metascience	3-1	3-1
 Metaverse	2-0, 7-1	2-0, 4-0, 5-2, 7-1
 Metaverses	4-0	4-0
 Mezzo Badges	5-5	5-5
+Michael Linton	4-3	4-3
 Michelle Wu	5-4	5-4
 Microsoft	4-1, 5-5, 6-1, 6-3	0-1, 3-3, 4-0, 4-1, 4-4, 5-5, 6-0, 6-1, 6-3, 7-0
 Military Scenario	6-1	6-1
@@ -1104,6 +1120,7 @@ Neurofeedback	5-1	5-1
 Neuromodulation	5-1	5-1
 Neurons	3-1	3-1, 3-2, 5-5
 Neuroscience	3-1	3-1, 5-1, 5-2
+New Associationist Movement	5-6	4-2, 4-3, 5-6
 New England town hall	5-4	5-4
 New Money	4-3	4-3
 New Public	3-2	3-2
@@ -1113,6 +1130,7 @@ New ⿻ Order	7-1	7-0, 7-1
 News feed algorithm	5-4	5-3, 5-4
 Newtonian Mechanics	3-1	3-1, 3-2
 Nicholas Bostrom	2-0	2-0
+Nissenbaum	4-2	4-1, 4-2
 Nixon's visit to PRC	2-1	2-1
 Noah Smith	2-0	2-0
 Nobody Movement	2-2	2-2
@@ -1168,8 +1186,7 @@ Open Recognition Community	3-3
 Open Source	2-0, 5-0, 5-7	2-0, 2-2, 3-3, 4-3, 4-4, 4-5, 5-0, 5-3, 5-4, 5-6, 5-7, 6-3, 7-0, 7-1
 Open Source Intelligence	6-3	6-3
 Open Source Observer	6-2	
-Open Source Software	2-0, 3-3	2-0, 2-2, 3-3, 5-7, 7-0
-Open Source Software (OSS)	5-7	2-0, 2-2, 3-3, 5-7, 7-0
+Open Source Software (OSS)	2-0, 3-3, 5-7	2-0, 2-2, 3-3, 5-7, 7-0
 Open Space Technology	5-4	5-4
 Open Standard	3-3	2-0, 3-3, 4-1, 4-2, 4-4, 4-5
 Open Standards-based Collaborations.	4-4	4-4
@@ -1190,6 +1207,7 @@ Oscar Wilde	5-4	5-4
 Out-of-pocket Payment	6-2	
 Outcome	6-2	2-0, 2-1, 2-2, 3-1, 4-0, 4-4, 4-5, 5-0, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-2, 6-3, 7-0
 Output	6-2	4-2, 4-4, 5-2, 5-3, 5-4, 5-5, 5-7, 6-0, 6-1, 6-2, 7-0
+Over-shared information	4-2	4-2
 Ownership	4-1	3-2, 4-1, 4-4, 5-1, 5-3, 5-7, 7-0
 Packet Switching	3-3	3-3, 4-1
 Packet Switching Architectures	4-1	4-1
@@ -1208,6 +1226,7 @@ Participedia	5-4	5-4
 Pascual Restrepo	2-0	2-0
 Passports	4-1	3-2, 4-1
 Password	4-1	4-1, 4-2, 6-2
+Paucity of attention	4-2	4-2
 Paul Baran	4-1	3-3, 4-1
 Paul Jozef Crutzen	6-4	6-4
 Payment In Digital Spaces	4-3	4-3
@@ -1252,6 +1271,7 @@ Post-symbolic Communication	5-1, 5-3, 5-5, 6-0	5-1, 5-2, 5-3, 5-5, 6-0, 6-1, 6-2
 Power Concentration	5-6	5-6
 Pragmatic	2-1	2-1, 3-3, 5-0
 PRC Surveillance Regime	2-0	2-0
+Pre-digital associations	4-2	4-2
 Precious Metals	4-3	4-3
 Prediction Market	5-0	5-0, 5-6, 5-7
 Prediction Markets	5-6, 5-7	5-0, 5-6, 5-7
@@ -1267,6 +1287,7 @@ Principles of ⿻	5-3	4-0, 5-3
 Privacy	4-1, 4-3, 5-3	2-0, 2-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-1, 5-3, 6-2, 6-3, 7-0, 7-1
 Privacy Budget	4-4	4-4
 Privacy Regulations	4-4	4-2, 4-4
+Privacy-enhancing technologies (PETs)	4-2	4-2
 Private Community-based Sponsorship	5-7	5-7
 Private Health Insurance	6-2	6-2
 Private Information	6-2	4-1, 6-2
@@ -1286,6 +1307,7 @@ Progressive authentication	4-1	4-1
 Project Liberty	4-2	4-0, 4-2
 Projection Mapping	5-1	5-1
 Proof Of Work	4-3	4-3
+Propagational investment currency system (PICSY)	5-6	5-6
 Property	4-4	2-0, 2-1, 2-2, 3-1, 3-2, 4-0, 4-1, 4-4, 5-3, 5-5, 5-7, 7-0, 7-1
 Property Rights	3-2, 4-4, 5-7	4-4, 5-7, 7-0
 Proportional Representation	5-6	3-2, 5-6
@@ -1317,6 +1339,7 @@ Quadratic Funding	5-7	5-7
 Quadratic Liquid Democracy	5-6	5-6
 Quadratic Voting	2-2, 5-6	2-2, 5-6, 5-7, 7-0
 Quantitative Markers 	5-7	5-7
+Quantum computers	4-2	4-2
 Quantum Mechanics	3-1	3-1, 3-3
 Quantum Physics	3-1	3-1, 3-2
 Quick Fixes	4-4	4-4
@@ -1374,6 +1397,8 @@ Rights of free speech	4-0	4-0
 Risk Pooling	6-2	6-2
 River of Democracy	1-1	1
 Robert Atkinson	2-0	2-0
+Robert Putnam	4-2	4-2
+Robert Taylor	4-2	3-3, 4-2, 6-3
 Robin Dunbar	4-1	4-1
 Robin Hanson	5-6	5-6, 6-2
 Robinson, James	2-0	
@@ -1440,6 +1465,7 @@ Smallpox	6-2	6-2
 Smart City	2-0	2-0
 Smart Contract	5-5	3-3, 4-3, 4-4, 5-5
 Smart Contracts	4-4	4-4, 5-5
+SnapChat	4-2	4-2
 Snow Crash	2-0	2-0, 5-2
 Snowden, Edward	4-2	
 Social And Behavioral Psychology	3-1	3-1
@@ -1590,6 +1616,7 @@ The Circle	5-3	4-2, 5-3
 The Diversity Of Cross-species Interactions	3-1	3-1
 The Double Coincidence Of Wants	4-3	4-3
 The Dream Machine	2-0	3-3, 4-4
+The Emperor's New Clothes	4-2	4-2
 The Greatest Good For The Greatest Number	5-6	5-6
 The Hebbian Model Of Connections	3-1	3-1
 The Human Condition	3-0	3-0, 3-1
@@ -1649,6 +1676,7 @@ UN	6-4	2-0, 2-1, 4-0, 4-4, 6-2, 6-4, 7-0
 UN-Water	6-2	
 Undecidable	3-1	3-1
 UNDP	6-2	4-0, 4-1
+Unforgeable and undeniable signatures	4-2	
 Uniform Resource Locator (URL)	4-4	
 United Nations	4-4, 5-6	2-0, 2-1, 3-2, 4-0, 4-4, 4-5, 5-6, 6-2, 7-0
 United States	5-5	2-0, 2-2, 3-3, 4-0, 4-1, 4-3, 5-1, 6-3, 7-0
@@ -1673,9 +1701,7 @@ Vaccine Alliance	6-2	6-2
 Venture Capital	2-0, 5-7, 6-0	2-0, 5-7, 6-0, 7-0
 Venture Capitalist	6-0	2-0, 6-0
 Ventures	5-7	3-1, 4-3, 4-4, 5-1, 5-7, 6-1
-Verifiable Credential	5-5	4-0, 4-1, 5-5
-Verifiable Credentials	4-1	4-0, 4-1, 5-5
-verifiable credentials (VCs)	4-1	4-0, 4-1, 5-5
+Verifiable Credentials (VCs)	4-1, 5-5	4-0, 4-1, 5-5
 Vesuvius Challenge	5-3	5-3
 Violent Revolution	6-0	6-0
 Virtual Civic Spaces	5-2	
@@ -1799,6 +1825,7 @@ Zoning Restrictions	5-7	5-7
 ⿻ Property	5-7	4-4, 5-7
 ⿻ Public	6-2, 6-4	4-2, 4-4, 6-0, 6-2, 6-3, 6-4, 7-0
 ⿻ Public Media	6-3	6-3
+⿻ publics	4-2	4-2, 4-4, 6-0, 6-2, 6-3, 6-4, 7-0
 ⿻ Rule	5-6	
 ⿻ Social Science	3-1	3-1, 3-2, 3-3
 ⿻ Society	4-1	4-0, 4-1, 4-3, 7-0

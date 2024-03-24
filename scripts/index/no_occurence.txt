@@ -30,6 +30,7 @@ Collective Response Model	5-4
 Community Notes (CN)　	5-4
 Competitive Effect	6-0
 Competitive authoritarian regimes	4-0
+Context for the association	4-2
 Cross-Cultural Exchanges	5-2
 Darkening Clouds	6-2
 De Tocqueville, Alexis	4-2
@@ -122,6 +123,7 @@ The Parliament of Things	5-4
 Transculturalism	1-1
 UN-Water	6-2
 USAID	6-2
+Unforgeable and undeniable signatures	4-2
 Uniform Resource Locator (URL)	4-4
 Unstructured Communication	5-1
 Urgency of innovation leadership	2-0
@@ -145,5 +147,5 @@ the Optimism Collective	6-2
 ⿻ Interaction	6-4
 ⿻ Rule	5-6
 ⿻-goods Financing	6-2
-⿻istic	5-6, 5-4
+⿻istic	5-4, 5-6
 ⿻istic Ignorance	6-3

@@ -1,8 +1,9 @@
 # Making Indexes
 
 - `Plurality Book Indexing Exercise - Main.csv`: raw file exported from [Spreadsheet](https://docs.google.com/spreadsheets/d/1gmyjFbErt_CW8-qLKChSpciLlCDGUhLriYFov0HO3qA/edit#gid=0)
-- `main.py`: output POC count, occurence of each keywords in each sections, and the count of occurences 
+- `main.py`: output POC count, occurence of each keywords in each sections, and the count of occurences
 - `ignore.txt`: keywords which should avoid mechine search
+- `case_sensitive.txt`: keywords which should case-sensitive search (e.g. `ROC`, `BERT`, `UN`)
 
 ## output
 - `contributors.tsv`: number of contribution on the spreadsheet
@@ -26,3 +27,4 @@
 - Fix bug: I ignored `X` derived from `X (formerly Twitter)` but the comparison was done after lower().
 - `the ancient concept of 'dao.'` in section 4-5 and `Distributed Autonomous Organizations (DAOs)` are distinct concepts, so I've decided not to merge them. I'll leave a note of this in the final version of the index for attention.
 - `Physical (paper or plastic) Government-issued IDs` is in manuscript but in index it should be `Physical Government-issued IDs`, currently added in ignore list
+- `Open-source software (OSS)` in 4-3 should be `Open Source Software (OSS)` as in other sections, but the manuscript is freezed, so I keep it as is. Need care on the index.
