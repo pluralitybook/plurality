@@ -37,7 +37,7 @@ Affinity	6-2	5-4, 6-2
 African Model	2-0	2-0
 Agglomeration	6-1	6-1
 Aging Simulation	5-1	
-AI	7-1	0-1, 0-2, 0-3, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
+AI	7-1	
 AI Conversation Model	6-4	
 AI Deep Learning	6-4	
 AI GOOGLE NGRAMS CHART	2-0	
@@ -114,7 +114,6 @@ Audrey Tang	3-0	0-1, 2-2, 3-0, 5-4, 8
 Augmented Reality	4-0, 5-2, 7-1	4-0, 5-2, 7-1
 Australia	6-2	2-0, 5-5, 6-2
 Australian Government	5-5	5-5
-Author	5-4	0-1, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-0, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
 Authoritarian	1-1	1, 2-0, 2-1, 4-0, 7-1
 Authoritarian Regimes	2-0	1, 2-0
 Authoritarian Repressive State	2-1	2-1
@@ -359,8 +358,8 @@ Cybernetics	3-2	3-2, 3-3
 Cynthia Wade	7-1	7-1
 Danah Boyd	4-1	4-1, 4-2
 Danielle Allen	3-0, 4-0, 5-5, 5-7	3-0, 4-0, 5-5, 5-7
-DAO	5-6	0-2, 2-0, 2-1, 3-0, 3-3, 4-0, 4-1, 4-5, 5-3, 5-5, 5-6, 5-7, 6-0, 7-0
-Dao	4-5	0-2, 2-0, 2-1, 3-0, 3-3, 4-0, 4-1, 4-5, 5-3, 5-5, 5-6, 5-7, 6-0, 7-0
+DAO	5-6	4-1, 5-5, 5-6, 5-7, 7-0
+Dao	4-5	0-2, 2-0, 2-1, 3-0, 3-3, 4-0, 4-1, 5-3, 5-6, 6-0, 7-0
 Daoism	2-1	2-1
 dApps	6-0	6-0
 Dark Web	4-1	4-1
@@ -595,7 +594,6 @@ Faceted Identity	4-1	4-1
 Facial Recognition	2-0	2-0
 Fact Checkers	2-2	2-2
 Fact-checking	5-4	2-2, 5-4
-Fair	5-5	0-1, 0-2, 2-0, 2-1, 2-2, 3-1, 3-2, 3-3, 4-0, 4-1, 4-3, 4-4, 4-5, 5-0, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-3, 7-0
 Fairness	5-5	3-2, 5-5, 6-3
 Faith in Democratic Institutions	2-0	2-0
 False Consensus	6-3	6-3
@@ -675,7 +673,7 @@ Germany	5-5	4-0, 5-2, 5-5, 6-3
 GFM-driven Process	5-3	5-3
 GFMs	7-1	4-1, 4-4, 5-1, 5-2, 5-3, 5-4, 5-5, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
 Ghost Workers	4-4	4-4
-Git	5-0	0-1, 0-2, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
+Git	5-0	0-2, 3-1, 3-3, 4-1, 5-0, 5-3, 5-7, 6-0, 7-0
 GitCoin	6-0	3-3, 5-7, 6-0, 7-0
 GitCoin Grants	5-7, 6-2	5-7
 GitHub	3-1, 4-1, 5-3	3-1, 3-3, 4-1, 5-3, 5-7, 7-0
@@ -761,7 +759,7 @@ Homogenize	5-7	3-3, 5-0, 5-7
 Homomorphic Encryption	4-2, 4-4	4-2, 4-4
 Horizontal Dialogue	6-1	6-1
 Hsieh Tsung-min	2-1	2-1
-https	4-4	0-0, 0-1, 0-2, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
+https	4-4	
 Hu Shih	2-1	2-1
 Hugging Face	5-3	5-3
 Human Cooperation	5-7	5-7
@@ -896,7 +894,6 @@ Journey of Humanity	5-0	5-0
 Juan Benet	4-4	4-4
 Julian Schilliger	5-3	5-3
 Jurisdictional Boundaries	5-7	4-4, 5-7
-Just	5-5	0-2, 2-0, 2-1, 2-2, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
 Kaliya Young	4-1	4-1, 4-3
 Kao Chia-liang	2-2	2-2
 Kaohsiung Incident	2-1	2-1
@@ -1200,7 +1197,7 @@ OpenMined	4-4	4-4
 Operating System	5-0	3-3, 4-0, 5-0, 6-2, 7-0, 7-1
 Operating systems	4-0	4-0, 5-0, 7-0
 Optimism Collective	6-2	7-0
-orb	4-1	2-0, 2-1, 3-2, 3-3, 4-1, 4-3, 5-1, 5-4, 6-2
+orb	4-1	
 Orderly States	3-1	
 Organizational Chart	6-1	
 Oscar Wilde	5-4	5-4
@@ -1750,7 +1747,7 @@ What's App	5-5	5-5
 White Collar	6-1	6-1
 White Terror	2-1	2-1
 Widening Gulf	2-0	2-0, 3-3
-Wikipedia	2-0, 3-3, 5-3, 6-3	0-0, 0-1, 2-0, 2-1, 2-2, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-3, 6-4, 7-0
+Wikipedia	2-0, 3-3, 5-3, 6-3	2-0, 2-2, 3-1, 3-2, 3-3, 4-0, 4-1, 4-3, 4-4, 5-2, 5-3, 6-3
 wikisurvey	2-2	2-2, 5-4
 Wikisurveys	5-4	5-4
 Will Of The Group	5-6	5-6
@@ -1776,7 +1773,6 @@ World Trade Organization,	5-7
 World War	6-3	2-0, 2-1, 3-3, 4-0, 6-3
 World Wide Web Consortium (W3C)	4-2	4-2
 Worldcoin	4-1	4-1
-Writing	5-4	2-0, 2-1, 3-1, 3-2, 3-3, 4-2, 4-3, 4-4, 5-0, 5-3, 5-4, 6-0, 6-1, 7-0, 7-1
 WWII	2-1	
 X (formerly Twitter)	5-4	6-3
 Yamuna River	6-4	
@@ -1791,7 +1787,7 @@ Zero Trust	2-2	2-2
 Zero-Knowledge Proofs(ZKPs)	4-2, 6-3	6-3
 Zheng Chenggong	2-1	2-1
 Zoning Restrictions	5-7	5-7
-⿻	3-0	0-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
+⿻	3-0	
 ⿻ Approach	4-1	3-1, 3-3, 4-1, 4-3
 ⿻ Artist	5-3	5-3
 ⿻ Book	5-7	5-7
