@@ -1,4 +1,4 @@
-# The Lost Dao
+b# The Lost Dao
 
 > (D)ecisions about the development and exploitation of computer technology must be made not only "in the public interest" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, "Computers and Government", 1980[^CandG]
 
@@ -65,7 +65,12 @@ All three ideas had their seeds at the edges of the early community Lick formed 
 
 While the concept of networks, redundancy and sharing permeate Lick's original vision, it was Paul Baran's 1964 report "On Distributed Communications" that clearly articulated how and why communications networks should strive for a ⿻ rather than centralized structure.
 
+<figure>
 <img src="../../figs/3-3-Fig1.png" width="100%" alt="Paul Baran's work On Distributed Communication">
+
+**<figcaption> Figure 1. Paul Baran's work on distributed communication </figcaption>**
+</figure>
+<br></br>
 
 Baran argued that while centralized switchboards achieved high reliability at low cost under normal conditions, they were fragile to disruptions. Conversely, networks with many centers could be built with cheap and unreliable components and still withstand even quite devastating attacks by "routing around damage", taking a dynamic path through the network based on availability rather than prespecified planning. While Baran received support and encouragement from scientists at Bell Labs, his ideas were roundly dismissed by AT&T, the national telephone monopoly in whose culture high-quality centralized dedicated machinery was deeply entrenched.
 
@@ -137,8 +142,15 @@ While the internet backbone continued to improve in limited ways, adding securit
 ### Flashbacks
 
 Yet faded dreams have a stubborn persistence, nagging throughout a day. While Lick passed away in 1990, many of the early internet pioneers lived to see their triumph and tragedy.
+
+<figure>
 <img src="../../figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999 by Belinda Barnet, retrieved from https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg. Used under Creative Commons Attribution-Share Alike 4.0 International license.
  (https://creativecommons.org/licenses/by-sa/4.0/deed.en)">
+
+ **<figcaption>Figure 2. Ted Nelson at Keio University, Japan, 1999</figcaption>**
+ </figure>
+ <br></br>
+
 Ted Nelson and many other pioneers in Project Xanadu continue to carry their complaints about and reforms to the internet forward to this day. Engelbart, until his death in 2013, continued to speak, organize and write about his vision of "boosting Collective IQ". These activities included supporting, along with Terrence Winograd (PhD advisor to the Google founders), a community around Online Deliberation based at Stanford University that nurtured key leaders of the next generation of ⿻ as we will see below. While none of these efforts met with the direct successes of their earlier years, they played critical roles as inspiration and in some case even incubation for a new generation of ⿻ innovators, who have helped revive and articulate the dream of ⿻.
 
 #### Nodes of light
@@ -157,8 +169,15 @@ While Wikis themselves have found significant applications, they have had an eve
 [^Japan]: [Scrapbox](https://scrapbox.io/product), a combination of real-time editor with a wiki system, is utilized by the Japanese forum of this book. Visitors of the forum can read the drafts and add questions, explanations, or links to related topics in real time. This interactive environment supports activities like book reading events, where participants can write questions, engage in oral discussions, or take minutes of these discussions. The feature to rename keywords while maintaining the network structure helps the unification of variations in terminology and provides a process to find the good translation. As more people read through, a network of knowledge is nurtured to aid the understanding of subsequent readers.
 
 OSS emerged in reaction to the secretive and commercial direction of the software industry that emerged in the 1970s.
+
+<figure>
 <img src="../../figs/3-3-arpanet.png" width="100%" alt="TARPANET logical map circa 1977, with PDP-10 systems highlighted by The Computer History Museum , retrieved from https://commons.wikimedia.org/wiki/File:Arpanet_logical_map,_march_1977_PDP-10.png. Used under Creative Creative Commons CC0 1.0 Universal Public Domain Dedication.
  (https://creativecommons.org/publicdomain/zero/1.0/deed.en)">
+
+ **<figcaption>Figure 3. TARPANET logical map with PDP-10 systems highlighted by The Computer History Museum, 1977 </figcaption>**
+ </figure>
+ <br></br>
+
 The free and open development approach of the early days of ARPANET was sustained even after the withdrawal of public funding, thanks to a global volunteer workforce. [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), opposing the closed nature of the [Unix](https://en.wikipedia.org/wiki/Unix) OS developed by AT&T, led the "free software movement", promoting the “GNU General Public License” that allowed users to run, study, share, and modify the source code. This was eventually rebranded as OSS, with a goal to replace Unix with an open-source alternative, [Linux](https://www.linux.org/), led by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).
 
 OSS has expanded across various internet and computing sectors, even earning support from formerly hostile companies like Microsoft, now owner of leading OSS service company GitHub and employer of one of the authors of this book. This represents the practice of ⿻ on a large scale; emergent, collective co-creation of shared global resources. Communities form around shared interests, freely build on each other’s work, vet contributions through unpaid maintainers, and "fork" projects into parallel versions in case of irreconcilable differences. The protocol “git” supports collaborative tracking of changes, with platforms like GitHub and GitLab facilitating millions of developers' participation. This book is a product of such collaboration and has been supported by Microsoft and GitHub.

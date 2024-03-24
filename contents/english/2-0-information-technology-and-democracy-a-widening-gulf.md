@@ -1,4 +1,4 @@
-# Information Technology and Democracy: a Widening Gulf
+bbbbbb# Information Technology and Democracy: a Widening Gulf
 
 > "Surveillance capitalism is...a coup from above...an overthrow of the people's sovereignty and a prominent force in the perilous drift towards democratic deconsolidation..." — Shoshana Zuboff, [The Age of Surveillance Capitalism](https://www.hachettebookgroup.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/?lens=publicaffairs)[^surveillancecapitalism], 2019
 
@@ -70,7 +70,12 @@ Regulators in both the EU and US have responded with a range of actions, includi
 
 Perhaps the clearest quantitative mark for this declining proactive public interest in information technology has been falling public expenditures on research and development (R&D) as a share of gross domestic product (GDP), especially in information technology. In the great majority of developed democracies, public sector research and development expenditure as a share of GDP has been declining in recent decades even as business spending on R&D has dramatically expanded and spending by the PRC (People's Republic of China) government has dramatically increased as a share of GDP and focused on information technology.[^TechInvestmentDecline]
 
+<figure>
 <img src="https://user-images.githubusercontent.com/143449799/263823794-025834cd-7d73-43f2-8347-5009ca3d2c8e.png" width="100%" alt="Federal R&D">
+
+**<figcaption> Figure 1. Federally funded research and development </figcaption>**
+</figure>
+<br></br>
 
 Beyond this quantitative story, the declining appearance of public support for information technology development has been at least as dramatic.  Where once the public sector took the lead in developing what became the internet (in the US), foundations of the personal computer and analogous projects in other democratic countries (e.g., [France’s Minitel](https://mitpress.mit.edu/9780262537759/minitel/?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8539032139&hsa_cam=21085701000&hsa_grp=163661391070&hsa_ad=693331007723&hsa_src=g&hsa_tgt=dsa-465042797498&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0Goh7iiVwYOG9XDKOJDJ1pdG-QgDhaC8BeyWPqqhEAtvncdcpKbc0gZYaAnQJEALw_wcB)), today almost all major breakthroughs in information technology are driven by the private sector.[^PublicInterestTech] 
 
@@ -119,19 +124,25 @@ So, if our current trajectory of technology and social relationship to it in Wes
 
 While there are many ways to describe the choices democratic societies have made about technology, perhaps the most concrete and easiest to quantify are the investments realized.  These show clear choices about technological paths that Western liberal democracies (and thus most of the financial capital in the world) have made about investments in the future of technology, many are of quite recent origin.  While these have recently been driven primarily by the private sector, they reflect earlier priorities set by governments that are in many ways just beginning to filter through to private sector applications.
 
-Beginning with recent trends in the increasingly well-measured venture capital industry, the last decade has seen a dramatic and overwhelming focus of venture capital within the high technology sector into artificial intelligence and cryptocurrency-adjacent “web3” technologies.  Figure FIX displays data on private investment in AI collected by NetBase Quid and charted by Stanford’s Center for Human-Centered Artificial Intelligence’s 2022 AI Index Report, showing its explosive growth over the course of the 2010s, growth that has come to dominate private technology investment; Figure FIX shows the same (over a different period and quarterly) for the web3 space based on data from Pitchbook, graphed by Galaxy Digital Research. 
+Beginning with recent trends in the increasingly well-measured venture capital industry, the last decade has seen a dramatic and overwhelming focus of venture capital within the high technology sector into artificial intelligence and cryptocurrency-adjacent “web3” technologies.  Figure FIX displays data on private investment in AI collected by NetBase Quid and charted by Stanford’s Center for Human-Centered Artificial Intelligence’s 2022 AI Index Report, showing its explosive growth over the course of the 2010s, growth that has come to dominate private technology investment; Figure FIX shows the same (over a different period and quarterly) for the web3 space based on data from Pitchbook, graphed by Galaxy Digital Research.
+
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/private.png" width="100%" alt="Private">
 
+**<figcaption>Figure 2. Private investment in AI</figcaption>**
+</figure>
+<br></br>
+
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/crypto.png" width="100%" alt="Crypto">
 
-However, while these priorities are relatively recent and appear to emerge from the logic of “the market”, they reflect a much longer-running and collectively direct set of choices.  These stem from the investments governments in democratic countries have made. [^GartnerReport].   
+**<figcaption>Figure 3. Crypto/Blockchain VC deals</figcaption>**
+</figure>
+<br></br>
+
+However, while these priorities are relatively recent and appear to emerge from the logic of “the market”, they reflect a much longer-running and collectively direct set of choices.  These stem from the investments governments in democratic countries have made. [^GartnerReport].
 
 Furthermore, these investments are not just choices that could have been made differently; they are quite recent and were made very differently immediately prior.   These investments are reflected in the canonical technologies of the last few decades.  Artificial intelligence was heralded as a coming revolution throughout much of the 1980s, as reflected in FIX showing the relative frequency of this phrase in English books as tracked by Google nGrams. Yet the defining technology of the 1980s was quite opposite: the personal computer that made computing a complement to individual human creativity.  The 1990s were haunted by Stephenson’s science fictional imagination of the possibilities of escapist virtual worlds and atomizing cryptography, the connective tissue of the internet swept the world, ushering in an unprecedented age of communication and cooperation.  Mobile telephony in the 2000s, social networking in the 2010s, and the scaffolding of remote work in the 2020s…none of these have focused on either cryptographic hypercapitalism or artificial superintelligence.   This reflects, with an extensive lag, the shift in investments made by public sector research funders away from supporting these technologies and towards investment in cryptography and artificial intelligence, as we discuss and document in "The Lost Dao" below, driven by a variety of (geo)poltiical factors.
-
-
-
-
-
 
 ### Ideologies of the twenty-first century
 
@@ -181,20 +192,34 @@ These two ideologies have, to a significant extent though often in moderated for
 
 The radical promises of these visions led many to anticipate dramatic economic and productivity growth from information technology, as well as the waves of privatization, deregulation and tax cuts that went along with them in most liberal democracies beginning roughly half a century ago.  Yet these promises are far from bearing fruit and economic analysis increasingly suggests these directions for technology may play a key role in explaining that failure.
 
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="Golden">
 
-Instead of the promised explosion of economic possibility, the last half-century has seen a dramatic deceleration of economic and especially productivity growth.  Figure FIX shows the growth in the United States of “Total Factor Productivity (TFP)”, economists’ most inclusive measure of the improvement in technology, averaged by decades from the beginning of the 20th century to today.  Rates during the mid-century “Golden Age” roughly doubled their levels both before and after during the period we dub the “Digital Stagnation”.  The pattern is even more dramatic in other liberal democratic countries in Europe and in most of democratic Asia, with South Korea and Taiwan notable exceptions.  
+**<figcaption>Figure 4. Improvement in technology represented by "Total Factor Productivity"</figcaption>**
+</figure>
+<br></br>
 
-To make matters worse, this period of stagnation has also been one of dramatically rising inequality, especially in the United States.  Figure FIX shows average income growth in the US by income percentile during the Golden Age and Great Stagnation respectively.  During the Golden Age, income growth was roughly constant across the distribution, but trailed off for top-income earners.  During the Digital Stagnation, income growth was higher for higher earners and only exceeded the average level during the Golden Age for those in the top 1%, with even smaller groups earning the great majority of the overall much lower income gains.
+Instead of the promised explosion of economic possibility, the last half-century has seen a dramatic deceleration of economic and especially productivity growth.  Figure 4 shows the growth in the United States of “Total Factor Productivity (TFP)”, economists’ most inclusive measure of the improvement in technology, averaged by decades from the beginning of the 20th century to today.  Rates during the mid-century “Golden Age” roughly doubled their levels both before and after during the period we dub the “Digital Stagnation”.  The pattern is even more dramatic in other liberal democratic countries in Europe and in most of democratic Asia, with South Korea and Taiwan notable exceptions.  
 
+To make matters worse, this period of stagnation has also been one of dramatically rising inequality, especially in the United States.  Figure 5 shows average income growth in the US by income percentile during the Golden Age and Great Stagnation respectively.  During the Golden Age, income growth was roughly constant across the distribution, but trailed off for top-income earners.  During the Digital Stagnation, income growth was higher for higher earners and only exceeded the average level during the Golden Age for those in the top 1%, with even smaller groups earning the great majority of the overall much lower income gains.
+
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/income.png" width="100%" alt="Income">
+
+**<figcaption>Figure 5. Average income growth in the US by income percentile during the Golden Age and Great Stagnation</figcaption>**
+</figure>
+<br></br>
 
 What has gone so wrong in the last half-century compared to the one before?  Economists have studied a range of factors, from the rise of market power and the decline of unions to the progressively greater challenge of innovating when so much has already been invented.  But increasing evidence focuses on two factors closely tied to the influence of technocracy and libertarianism respectively: the shift in the direction of technological progress towards automation and away from labor augmentation and the shift in the direction of policy away from proactively shaping industrial development and relations and towards an assumption that “free markets know best”.  
 
-On the first point, in a series of recent papers, Acemoglu, Pascual Restrepo, and collaborators have documented the shift in the direction of technical progress from the Golden Age to the Digital Stagnation.  Figure FIX summarizes their results, plotting cumulative changes in productivity over time from labor automation (what they call “displacement”) and labor augmentation (what they call “reinstatement”)[^AcemogluRestrepoStudy].   During the Golden Age, reinstatement roughly balanced displacement, leaving the share of income going to workers essentially constant.  During the Digital Stagnation, however, displacement has slightly accelerated while reinstatement has dramatically fallen, leading to slower overall productivity growth and a significant reduction in the share of income going to workers.  Furthermore, their analysis shows that the inegalitarian effects of this imbalance have been exacerbated by the concentration of displacement among low-skilled workers. 
+On the first point, in a series of recent papers, Acemoglu, Pascual Restrepo, and collaborators have documented the shift in the direction of technical progress from the Golden Age to the Digital Stagnation.  Figure 6 summarizes their results, plotting cumulative changes in productivity over time from labor automation (what they call “displacement”) and labor augmentation (what they call “reinstatement”)[^AcemogluRestrepoStudy].   During the Golden Age, reinstatement roughly balanced displacement, leaving the share of income going to workers essentially constant.  During the Digital Stagnation, however, displacement has slightly accelerated while reinstatement has dramatically fallen, leading to slower overall productivity growth and a significant reduction in the share of income going to workers.  Furthermore, their analysis shows that the inegalitarian effects of this imbalance have been exacerbated by the concentration of displacement among low-skilled workers.
 
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/displace.png" width="100%" alt="Displace">
 
+**<figcaption>Figure 6. Cumulative changes in productivity over time from Displacement (labor automation) and Reinstatement (labor augmentation)</figcaption>**
+</figure>
+<br></br>
 
 The role of “neoliberal” policies in contributing to the stagnation and inequality of this period is widely debated and we suspect most readers have formed their own views on the matter.  One of us was also co-author of a book that contains a review of the evidence as of roughly a decade ago.[^PosnerWeylBook]  We will thus not go into detail here and refer readers to instead to that or other related writing.[^PhilipponBook]   However, clearly, the defining ideological and policy direction of this period was an embrace of capitalist market economics, often closely tied to claims that such an embrace was necessitated by the globalization of technology and the resulting impossibility of collective governance/action that is core to the Libertarian ideology.  The, largely failed, last half-century of technology and policy has thus been characterized by the dominance of Technocracy in the sphere of technology and Libertarianism in the sphere of policy.
 

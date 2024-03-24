@@ -6,9 +6,10 @@ This demonstration built on years of work and multi stakeholder collaborations i
 
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg" width="100%" alt="Indian farmers looking at a mobile phone">
-<figcaption>Courtesy of Microsoft</figcaption>
-</figure>
 
+**<figcaption>Figure 1. Image courtesy of Microsoft</figcaption>**
+</figure>
+<br></br>
 
 Building on these demonstrations, Indian business, civil and government entities have launched services to harness these capabilities at scale.  These include a government-provided chatbot to support applications to [farmer financial support programs](https://opengovasia.com/2023/09/23/ai-based-chatbot-to-support-indian-farmers/) and a free What's App based multilingual chatbot that offers guidance on a variety of public services.
 

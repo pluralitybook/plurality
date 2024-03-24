@@ -1,7 +1,5 @@
 # Workplace
 
-
-
 More than a billion people worldwide work outside their homes in formal organizations with at least a few other people.[^Formal]  These "workplaces" produce about 70% of global output and are the first thing most people think of when they hear "economy". Just as we consider the vast contribution of workplaces to the global economy, it is essential to address inefficiencies that hinder productivity. U.S. workers spend an average of 31 hours per month in meetings deemed unproductive, a significant drain on both time and resources.[^meeting-stats] If ⿻ is to help re-imagine the economy, it must restructure formal work, which we turn to in this chapter.
 
 [^ILO]: International Labor Organization, " World Employment and Social Outlook: Trends" (2023) at https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_865387.pdf.
@@ -9,8 +7,6 @@ More than a billion people worldwide work outside their homes in formal organiza
 The advances we discuss, which are just a sampling of potential implications of ⿻ in the workplace, cover strengthening remote teams, designing effective corporate campuses, improving communication, accessing talent more inclusively and supporting more effective provision of common corporate infrastructure and more dynamic adaptation to changing industries.  We estimate that the first four of these components could increase global gross domestic product by approximately 10% in total and that the last might permanently increase the GDP growth rate by half a percentage point a year.[^Calc]
 
 ---
-
-
 
 ### Strong remote teams
 
@@ -36,9 +32,7 @@ Much work, especially white collar work, is physically localized to significant 
 
 Achieving this goal, however, requires careful design.  Excessive segregation by organization and discipline or focus on core work undermines the benefit of agglomerative spontaneity.  Excessive fragmentation by organization and discipline undermines direct productivity.  Different elements of campus (walkways, dining facilities, offices, shared space, recreational facilities etc.) play diverse roles in fostering direct work and spontaneous connections.  For instance, Steve Jobs redesigned [Pixar](https://www.bizjournals.com/sanfrancisco/news/2018/11/16/pixar-s-critically-acclaimed-emeryville-campus.html)'s headquarters to include a central atrium with a large theater, cafeteria, mailboxes, and viewing rooms.[^PixarsHead] By encouraging computer scientists, animators and other staff to mingle in a shared space, this layout boosts chance encounters and cross-pollination.  Yet architectural revamps pose significant challenges: they're costly and need to support other elements that are specific to each company, such as nature of the work or brand identity. It is thus little surprise that there is no standard best campus design; campuses differ radically in their design, a leading exemplar being Apple's torus spaceship. Anything that could reduce the costs of exploration could significantly improve the quality.
 
-A natural way to make such experiments dramatically easier is to create ISR campuses in which employees can explore potential configurations and attend virtual meetings.  These configurations can be prototyped far more rapidly and flexibly than building a physical campus, allowing for a range of exploration in the course of time employees spend attending virtual meetings.  Based on feedback, employees can even help redesign the space and iterate on the layout.  If a potential design seems to be achieving its goals reasonably well and fits a potential site, it could then be "printed" through a more standard engineering and construction process.  In short, these tools could make the design of physical space much more like what word processing and collaborative documents have made writing: a process that is able to engage in broad experimentation and accumulate diverse feedback before it has to be greatly scaled. 
-
-
+A natural way to make such experiments dramatically easier is to create ISR campuses in which employees can explore potential configurations and attend virtual meetings.  These configurations can be prototyped far more rapidly and flexibly than building a physical campus, allowing for a range of exploration in the course of time employees spend attending virtual meetings.  Based on feedback, employees can even help redesign the space and iterate on the layout.  If a potential design seems to be achieving its goals reasonably well and fits a potential site, it could then be "printed" through a more standard engineering and construction process.  In short, these tools could make the design of physical space much more like what word processing and collaborative documents have made writing: a process that is able to engage in broad experimentation and accumulate diverse feedback before it has to be greatly scaled.
 
 ### Difficult conversations
 
@@ -54,13 +48,6 @@ While meetings have a variety of goals and structures, perhaps the most common t
 
 Beyond office politics, national politics are also increasingly entering and dividing workplaces, leading some executives to take extreme measures such as banning political discussions at work.[^Coinbase]  A potential alternative to such stringent restrictions, which may suppress but not resolve tensions and undermine employee morale, might be to build channels such as the above to allow thoughtful and inclusive discussions of social issues, especially those relevant to corporate policies, to take place respectfully and at scale.  Overall, these technologies promise to make workplaces more efficient, engaging, consensual and harmonious, providing the tools to help achieve the cultural goals many executives strive for.
 
-
-
-
-
-
-
-
 ### ⿻ hiring
 
 Many businesses and roles have "standard career paths", recruiting primarily graduates from a limited number of degree programs, set of professional backgrounds/experiences, etc.  While these businesses often regret that they thereby exclude many talented and diverse candidates, recruiting from backgrounds that have lower "hit rates" is often very costly: it would require them to learn to identify promising resumés from a broader range of settings, verify accomplishments and credentials outside of typical channels,  send representatives traveling more and further, understand unfamiliar dimensions of diversity and train those who may be less prepared for the culture of their organization. The rigidity created by this hiring process is a leading reason so many are forced into the narrow paths of learning we highlighted in the previous chapter.
@@ -69,14 +56,13 @@ The capabilities of social identity systems, modern large language models (LLMs)
 
 They also may be able to provide a richer sense of the range of diversity spanned by a company's customer base that would be helpful to represent among employees and help them to empathize and connect with customers. It could also allow human resource departments to optimize for diversity in more sophisticated, intersectional ways rather than simply seeking to match population proportions in salient categories. Remote shared reality experiences can help them hold interactive recruiting events in a wider range of venues at lower cost and allow applicants a deeper sense of the work environment.  They can also accelerate the acculturation and on boarding processes much as we described in the previous chapter. In short, these tools can together allow for a future of human resources that reaches a far wider range of talent and allows opportunities for everyone to shine as the unique intersectional contributor they are.
 
- ### Aligning wisdom and influence 
+### Aligning wisdom and influence
 
 In most organizations, power—whether it's about controlling resources, making decisions, accessing important information, or having the power to reward or discipline others—is tied to one's position. Formal hierarchy provides clarity in terms of who is responsible for what, but this "legibility" has significant drawbacks.  Positional authority can be too expansive, like a finance executive becoming CEO and suddenly claiming expertise in product design. It is also binary (you either have it or you do not), which means that incompetent managers retain power until they’re removed (often much later than ideal).  Finally, traditional hierarchies don’t give employees a say in selecting their leaders.  This is the opposite of the social web, where power emerges from the bottom up.[^Human]
 
 [^Human]: See Hamel and Zanini, op. cit. ch. 9.
 
-In ⿻ workplaces, the traditional single hierarchy can be complemented by multiple, issue-specific hierarchies in the spirit of the ⿻ theory of identity. Power can shift fluidly based on contribution. Emerging technologies can help match value added with decision rights. For example, natural language processing can sift through communication data to spot associates who consistently provide valuable insights on specific topics. Generative foundation models (GFMs) can create dynamic social graphs that pinpoint key network figures and provide rich context on the nature of their connections and compile feedback from various sources to present a comprehensive assessment of an individual's "natural leadership." These approaches recognize and reward valuable contributions of people irrespective of role, and serve a reality check for those who still occupy formal positions of authority.  Over time, they can reduce dependency on formal hierarchies altogether. 
-
+In ⿻ workplaces, the traditional single hierarchy can be complemented by multiple, issue-specific hierarchies in the spirit of the ⿻ theory of identity. Power can shift fluidly based on contribution. Emerging technologies can help match value added with decision rights. For example, natural language processing can sift through communication data to spot associates who consistently provide valuable insights on specific topics. Generative foundation models (GFMs) can create dynamic social graphs that pinpoint key network figures and provide rich context on the nature of their connections and compile feedback from various sources to present a comprehensive assessment of an individual's "natural leadership." These approaches recognize and reward valuable contributions of people irrespective of role, and serve a reality check for those who still occupy formal positions of authority.  Over time, they can reduce dependency on formal hierarchies altogether.
 
 ### Supporting intrapreneurship
 
@@ -84,9 +70,12 @@ Another effect of traditional hierarchies is that those managed by different hig
 
 [^Refresh]: Satya Nadella with Greg Shaw and Jill Tracie Nichols, *Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone* (New York: Harper Business, 2017).
 
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/microsoft_satirical_organization_chart.png" width="100%" alt="Microsoft Organizational Chart">
 
-**Figure X, Source: Adapted from "Organizational Charts" by Manu Cornet**
+**<figcaption>Figure 1. Satircal Microsoft Coproration organizational chart adapted from "Organizational Charts" by Manu Cornet</figcaption>**
+</figure>
+<br></br>
 
 While much of this has been demonstrated through exemplars of such cooperation and inspirational leadership, Nadella has also helped establish some institutions intended to help achieve the organizational equivalent of the "solidarity and dynamism" we have discussed above.  In particular, one of us had the honor to serve in the Office of Chief Technology Officer (OCTO) [Kevin Scott](https://en.wikipedia.org/wiki/Kevin_Scott_(computer_scientist)), whose duties included coordinating cross-company investments that no one organization would find it in their interest to take on and stimulating "intrapreneurship", the building of new business lines often drawing on expertise across existing organizations.[^PEST]
 

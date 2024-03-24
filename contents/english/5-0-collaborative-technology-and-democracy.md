@@ -80,7 +80,12 @@ One rough way to think about quantifying the differences between these interacti
 
 The natural trade-off, however, that is the reason capitalism has not been superseded by universal intimacy is that high bandwidth communication is challenging to establish among large and diverse groups.  Thinner and shallower collaboration scales more easily.  While the simplest notion of scale is the number of people involved, this is shorthand.  Breadth is best understood in terms of inclusion across lines of social and cultural distance rather than simply large numbers of people.  For example, deep collaboration may well be easier among a large extended family, physically co-located and sharing a language and religion than among a handful of people scattered around the world, speaking different languages, etc. 
 
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/PPF.png" width="100%" alt="The trade-off between breadth and depth of collaboration represented as points along a production possibilities frontier, which it is the goal of ⿻ to push outwards.">
+
+**<figcaption>Figure 1. The trade-off between breadth of diversity and depth of collaboration represented as points along a production possiblities frontier</Figure>**
+</figure>
+<br></br>
 
 We can see there being a full spectrum of depth and breadth, representing the trade-off between the two. Economists often describe technologies by "production possibilities frontiers" (PPF) illustrating the currently possible trade-offs between two desirable things that are in tension.  In the figure, we plot this spectrum of cooperation as such a PPF, grouping different specific modalities that we study below into broad categories of "communities" with rich but narrow communication, "states" with intermediate on both and "commodities" with thin but broad cooperative modes. The goal of ⿻ is to push this frontier outward at every point along it, as we have illustrated in these seven points, each becoming a technologically-enhanced extension.[^KojinKaratani]
 

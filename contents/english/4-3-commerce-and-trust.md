@@ -70,7 +70,12 @@ Until roughly the last decade, this constellation covered most transactions. A m
 
 ### Digital money and privacy
 
+<figure>
 <img src="../../figs/4-3-bitcoin.png" width="100%" alt="Bitcoin 0.3.23, on Ubuntu 11.04, retrieved from https://commons.wikimedia.org/wiki/File:Bitcoin-0.3.23_screenshot.png.">
+
+**<figcaption>Figure 1. Bitcoin 0.3.23 on Ubuntu 11.04 </figcaption>**
+</figure>
+<br></br>
 
 One of the first and the most attention-grabbing of these was the emergence of [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) in 2008 and later a range of other "[cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency)" in the 2010s.[^crypto] These systems used DLTs, like those we discussed in the last chapter, paired with internally generated financial structures to create a validated substrate for tracking transactions. First, instead of an identity system based on accounting for human participants, they used protocols to prove control over some resource (such as "proof of work" protocols based on solving a puzzle that requires access to powerful computers) to protect against predatory participants. This created an effectively financial screen for participation. On the other hand, they rewarded "honest" participants (those whose recording of transactions match others') with "coins" created by including transactions to their own account. The ledger was otherwise openly available to any participant, creating a global, purely financial ledger with pseudonymous accounts that allowed individual people to potentially have many different identitifiers.
 

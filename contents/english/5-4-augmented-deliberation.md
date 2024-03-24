@@ -3,7 +3,12 @@
 
 As we [have noted above](https://www.plurality.net/v/chapters/2-0/eng/?mode=dark), one of the most common concerns about social media has been its tendency to entrench existing social divisions, creating "echo chambers" that undermine a sense of shared reality.[^Sunstein] News feed algorithms based on "collaborative filtering" selects content that is likely to maximize user engagements, prioritizing like-minded content that reinforces users' existing beliefs and insulates them from diverse information. Despite mixed findings on whether these algorithms truly exacerbate political polarization and hamper deliberations, it is natural to ask how these systems might be redesigned with the opposite intention of “bridging” the crowd. The largest-scale attempt at this is the Community Notes (formerly Birdwatch) system in the [X](https://www.twitter.com) (formerly Twitter) social media platform.
 
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/communitynotes.png" width="100%" alt="Twitter Community Notes">
+
+**<figcaption> Figure 1. Community Notes on X</figcaption>**
+</figure>
+<br></br>
 
 [Community Notes](https://en.wikipedia.org/wiki/Community_Notes) (CN) is a community-based “fact-checking” platform. CN allows members of the X community to flag potentially misleading posts and provide additional contexts about why the posts could be misleading.  CN participants not only submit these notes to the platform; they also rate the notes proposed by others. These ratings are used to assess whether the notes are helpful and are eligible to be publicly released to the X platform as illustrated in figure.[^CNButerin]
 

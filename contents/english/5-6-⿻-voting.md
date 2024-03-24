@@ -2,7 +2,11 @@
 
 In the best-selling strategy game of all time, [Civilization VI](https://civilization.com/), players manage a civilization from the birth of the first settlements to the near future, competing and sometimes cooperating with other civilizations in a race to victory through culture, military conquest, diplomatic support, scientific achievement and/or religious influence.  In the game's widely adopted and climate change-themed expansion pack "[Gathering Storm](https://civilization.com/civilization-6-gathering-storm/)", diplomatic decisions affecting the whole world are decided in a "World Congress".  Civilizations accumulate "diplomatic favor" from alliances, infrastructure, and so forth.  They can then spend these to influence global policies, such as regulation of fossil fuels, controls on nuclear weapons  or immigration rules.  
 
+<figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/worldcongress.png" width="100%" alt="Civilization VI World Congress">
+
+**<figcaption>Figure 1. Screenshot from Civilization VI "World Congress" </figcaption>**
+<br></br>
 
 When voting, countries can choose from a range of options, such as which civilization will be targeted for closer scrutiny of its actions by the world.  Every civilization gets a single vote for free, but additional votes cost increased diplomatic favor, at an increasing rate.  The first additional vote costs 10 diplomatic favor, the second 20, and so on, as illustrated above.  There are typically several votes on different issues in a single Congress and diplomatic favor can be saved across Congresses as well as used for other purposes such as nominating special issues for consideration.  Each civilization must thus gauge how important each issue is to it. Then "buy" votes using diplomatic favor just up to the point where the amount they care matches the increasing cost of having more influence on that issue compared to the value of saving their favor.
 
