@@ -31,6 +31,7 @@ To be more precise, we can break Plurality into three components (descriptive, n
 Given this rich definition and the way it blends together elements from traditional Mandarin and various English traditions, throughout the rest of the book we use the Unicode ⿻ to represent this idea set in both noun form (viz. to stand in for "Plurality") and in the adjective form (viz. to stand in for 數位). 
 
 In English this may be read in a variety of ways depending on context:
+
 - As "Plurality" typically when used as a concept;[^Taiwan]
 - As "digital", "plural", "shuwei", "digital/plural" or even as a range of other things such as "intersectional", "collaborative" or "networked" when used as an adjective;
 

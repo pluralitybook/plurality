@@ -67,7 +67,7 @@ write_file('english.md', $all);
 
 write_file(
     '0-1.tex', (
-	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg }
+	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg =~ s/\[(.*?)\]\((.*?)\)/\\href{$2}{$1}/rg }
              glob 'contents/english/0-2-*.md'
     )
 );
