@@ -30,15 +30,21 @@ target_directory = os.path.join(script_directory, "..", "..", "contents", "engli
 ignore_file = os.path.join(script_directory, "ignore.txt")
 IGNORE = open(ignore_file).read().strip().splitlines()
 
+# keywords which should case sensitive and word boundary sensitive, such as `BERT`, `ROC`, `UN`
+ignore_file = os.path.join(script_directory, "case_sensitive.txt")
+CASE_SENSITIVE = open(ignore_file).read().strip().splitlines()
+
 # List the contents of the target directory.
 sections = os.listdir(target_directory)
 sections.remove("Plurality Book Ownership List.md")
 
 section_contents = {}
+section_contents_lower = {}
 for filename in sections:
     section = re.match("(\d-\d|\d)-", filename).groups()[0]
     content = open(os.path.join(target_directory, filename)).read()
-    section_contents[section] = content.lower()
+    section_contents[section] = content
+    section_contents_lower[section] = content.lower()
 
 lines = open(os.path.join(script_directory, CSV_FILE)).readlines()[1:]
 poc_count = defaultdict(int)
@@ -81,17 +87,22 @@ for k in keywords:
         continue
 
     for section in section_contents:
-        if k.lower() in section_contents[section]:
-            keyword_occurence[k].append(section)
-            section_occurence[section] += 1
-        elif "(" in k:
-            # if keywords looks `AAA (BBB)` style, use occurrence of `AAA` instead
-            k2 = remove_palen(k)
-            if not k2 or k2 in IGNORE:
-                continue
-            if k2.lower() in section_contents[section]:
+        if k in CASE_SENSITIVE:
+            if k in section_contents[section]:
                 keyword_occurence[k].append(section)
                 section_occurence[section] += 1
+        else:
+            if k.lower() in section_contents_lower[section]:
+                keyword_occurence[k].append(section)
+                section_occurence[section] += 1
+            elif "(" in k:
+                # if keywords looks `AAA (BBB)` style, use occurrence of `AAA` instead
+                k2 = remove_palen(k)
+                if not k2 or k2 in IGNORE:
+                    continue
+                if k2.lower() in section_contents[section]:
+                    keyword_occurence[k].append(section)
+                    section_occurence[section] += 1
 
 
 with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:

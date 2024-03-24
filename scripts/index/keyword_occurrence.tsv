@@ -24,7 +24,7 @@ Acemoglu, Daron	2-0
 Active Listening	5-4	5-4
 ActivityPub	2-0, 3-3	2-0, 3-3, 4-2
 Adaptive Representation	5-6	5-6
-Administration	5-4	
+Administration	5-4	2-0, 2-2, 3-3, 4-1, 5-0, 5-4, 5-5, 6-2, 6-4
 Administrative Application	5-5	5-5
 Administrative Practice	5-5	5-5
 Administrative State	5-5	5-5
@@ -40,7 +40,7 @@ Aging Simulation	5-1
 AI	7-1	0-1, 0-2, 0-3, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
 AI Conversation Model	6-4	
 AI Deep Learning	6-4	
-AI GOOGLE NGRAMS CHART	2-0	2-0
+AI GOOGLE NGRAMS CHART	2-0	
 AI researcher	5-5	5-5
 AI-driven Intervention	5-4	
 AI4Bharat	5-5	5-5
@@ -92,7 +92,7 @@ Arrow's Theorem	5-6	5-6
 Articles 145 of the ROC	2-1	2-1
 Artificial General Intelligence	2-0	2-0
 Artificial Intelligence	2-0, 3-1	2-0, 3-1, 3-3, 4-1, 4-2, 5-0, 5-3, 5-5
-Artificial Intelligence (AI).	5-5	2-0, 3-1, 3-3, 4-1, 4-2, 5-0, 5-3, 5-5
+Artificial Intelligence (AI).	5-5	2-0, 3-1, 3-3, 4-1, 5-0, 5-3, 5-5
 Artificial Neural Networks	3-1	3-1
 Artistic co-creation	5-3	
 Artistic Expression	5-3	5-3
@@ -114,14 +114,14 @@ Audrey Tang	3-0	0-1, 2-2, 3-0, 5-4, 8
 Augmented Reality	4-0, 5-2, 7-1	4-0, 5-2, 7-1
 Australia	6-2	2-0, 5-5, 6-2
 Australian Government	5-5	5-5
-Author	5-4	
+Author	5-4	0-1, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-0, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
 Authoritarian	1-1	1, 2-0, 2-1, 4-0, 7-1
 Authoritarian Regimes	2-0	1, 2-0
 Authoritarian Repressive State	2-1	2-1
 Authoritarianism	2-0	2-0, 2-1, 4-0
 Authority	6-0	2-0, 3-0, 3-3, 4-1, 4-3, 5-0, 5-7, 6-0, 6-1, 6-3
 Autodesk	5-3	5-3
-Automated Clearing House(ACH)	4-3	4-3
+Automated Clearing House(ACH)	4-3	
 Automated Clearing Houses (ACHs)	4-3	4-3
 Autonomy	5-3	2-1, 4-0, 4-1, 5-1, 5-3, 5-5
 Aviv Ovadya	5-4	5-4
@@ -134,7 +134,7 @@ Banks	4-3	2-0, 4-1, 4-3
 Basic Antigen	6-2	
 BBN	3-3	3-3
 Benefits Data Trust	5-5	5-5
-BERT	3-1	2-0, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-2, 4-3, 5-4, 5-5, 5-7, 6-0, 6-2, 6-3, 7-0, 7-1
+BERT	3-1	3-1
 Bertelsmann Foundation	2-2	2-2
 Bhagavad Gita	5-3	5-3
 Bible	5-3	3-2, 4-0, 5-0, 5-3
@@ -278,7 +278,7 @@ Commons-Based Property	3-3	3-2
 Communism	2-0	2-0
 Community Currency	4-3, 5-0	4-3, 5-0
 Community Donation	5-7	5-7
-Community Notes (CN)　	5-4	5-4
+Community Notes (CN)　	5-4	
 Community Recovery	4-1	4-1
 Community-based	6-0	3-2, 5-4, 5-7, 6-0
 Community-Based Identity	3-3	3-2
@@ -319,7 +319,7 @@ COVID-19	6-2	2-1, 2-2, 6-0, 6-1, 6-2, 6-3
 COVID-19 pandemic	2-2	2-2, 6-1, 6-3
 Crackle	5-3	5-3
 Creative Collaborations	5-3	5-2, 5-3, 5-6
-Creative Commons	5-0	3-3, 4-0, 5-0
+Creative Commons	5-0	5-0
 Creative Process	5-3	5-3
 Credit Accounts	4-3	4-3
 Credit Card	4-3	4-3
@@ -374,10 +374,10 @@ David Graeber	4-3	3-2, 4-3, 4-4, 6-0
 David Kidd	5-5	5-5
 De Tocqueville, Alexis	4-2	
 Decentralization Of Cryptocurrencies	4-3	4-3
-Decentralized Identifiers (DID)	4-1	4-0, 4-1
+Decentralized Identifiers (DID)	4-1	4-1
 Decentralized Identity	4-1	3-3, 4-0, 4-1
 Decentralized Scientific Community	3-1	3-1
-Decentralized Social Networking Protocol (DSNP)	4-2	4-2
+Decentralized Social Networking Protocol (DSNP)	4-2	
 Decentralized Social Technologies	2-0	2-0
 Decentralized Web	3-3, 4-0	3-3, 4-0
 Decision Trees	5-5	5-5
@@ -466,7 +466,7 @@ Discrimination Law	2-0	2-0
 Disinformation	5-4	2-0, 2-1, 2-2, 5-4, 7-1
 Displacement	2-0	2-0
 Disruption	6-1	2-0, 3-3, 6-1
-Distributed Autonomous Organizations (DAOs)	4-1, 5-5, 5-7	4-1, 5-5, 5-7, 7-0
+Distributed Autonomous Organizations (DAOs)	4-1, 5-5, 5-7	5-5, 5-7, 7-0
 Distributed Denial Of Service (DDoS)	4-5	4-5
 Distributed Ledger Technology (DLT)	4-2	
 Distributed Ledgers	5-5	4-1, 5-5
@@ -532,7 +532,7 @@ Elon Musk	2-0	2-0, 4-2, 4-3
 Emergence	3-1	2-0, 3-1, 3-2, 3-3, 4-1, 4-3, 4-4, 5-3, 5-4, 7-0, 7-1
 Emergent Publics	3-2, 5-7	3-2, 5-7
 Eminent Domain	5-7	5-7
-Emmanuel Saez	2-2	2-2
+Emmanuel Saez	2-2	2-0, 2-2
 Emotion Tracking	5-1	
 Emotional Connectivity	5-2	5-2
 Empathetic Technology	5-1	
@@ -559,7 +559,7 @@ Ethereum	4-3	3-3, 4-3, 7-0
 Ethereum Attestation Service	6-2	
 Ethnic Pluralism	2-1	2-1
 Ethnographer	5-5	5-5
-EU	4-1	2-0, 2-1, 2-2, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 7-0, 7-1
+EU	4-1	2-0, 4-1, 4-2, 4-4, 6-2, 7-0
 Euclidean Geometry	3-1	3-1, 3-2
 European Union	5-6	2-0, 4-4, 5-6, 7-0
 Eusocial	3-1	3-1
@@ -643,7 +643,7 @@ Fusion	5-0	2-1, 3-0, 5-0, 5-2, 5-3, 5-4, 6-0
 Futarchy	5-6	5-6
 Future Collaborator	5-3	5-3
 g0v	2-2, 6-2	2-2, 3-3, 6-0, 6-2, 7-0
-Gabriel Zucman	2-2	2-2
+Gabriel Zucman	2-2	2-0, 2-2
 Gaia-X	4-0	4-0, 4-4, 7-0
 Gamification	6-2	6-2
 Ganga River	6-4	
@@ -658,7 +658,7 @@ Generative Art	5-3	5-3
 Generative Artists	5-3	5-3
 Generative Foundation Models	6-2, 6-3	4-1, 4-2, 4-4, 5-1, 5-3, 5-4, 5-5, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
 Generative Foundation Models (GFMs)	4-1, 5-3, 5-5	4-1, 4-2, 4-4, 5-1, 5-3, 5-4, 5-5, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
-Generative Foundation Models(GFMs)	4-4	4-1, 4-2, 4-4, 5-1, 5-3, 5-4, 5-5, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
+Generative Foundation Models(GFMs)	4-4	4-1, 4-2, 4-4, 5-1, 5-4, 5-5, 6-2, 6-4, 7-0, 7-1
 Generative Pretrained Transformer	2-0	2-0
 Geographical Information System	5-5	5-5
 Geopolitics	2-0	2-0, 2-2, 4-3, 7-1
@@ -669,10 +669,10 @@ GFM-driven Process	5-3	5-3
 GFMs	7-1	4-1, 4-4, 5-1, 5-2, 5-3, 5-4, 5-5, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
 Ghost Workers	4-4	4-4
 Git	5-0	0-1, 0-2, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
-GitCoin	6-0	3-3, 5-7, 6-0
+GitCoin	6-0	3-3, 5-7, 6-0, 7-0
 GitCoin Grants	5-7, 6-2	5-7
-GitHub	3-1, 4-1, 5-3	0-1, 0-2, 2-0, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-4, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2
-GitHub Sponsors	5-7	5-7
+GitHub	3-1, 4-1, 5-3	3-1, 3-3, 4-1, 5-3, 5-7, 7-0
+GitHub Sponsors	5-7	5-7, 7-0
 GitLab	5-3	3-3, 5-3
 Global Anti-colonial Movement	2-1	2-1
 Global Capitalism	5-7	5-7
@@ -690,7 +690,7 @@ Gogolook	2-2	2-2
 Gold Card	2-2, 6-1	2-2, 6-1
 Gold Standard	4-1	4-1
 Golden Age	2-0	2-0
-Good Old-fashioned AI (GOFAI)	5-5	5-5
+Good Old-fashioned AI (GOFAI)	5-5	
 Google	5-7, 6-1	2-0, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-0, 5-3, 5-7, 6-1, 6-2, 7-0
 Google DeepMind	5-3	5-3
 Gov4Git	6-2	0-2
@@ -739,7 +739,7 @@ Higher-fidelity Signals	5-6	5-6
 HiredScore	5-5	5-5
 Hiring Manager	5-5	5-5, 6-1
 Hit Rates	6-1	6-1
-HIV	6-2	2-0, 2-2, 3-2, 3-3, 4-0, 4-2, 4-4, 6-1, 6-2
+HIV	6-2	6-2
 Hokkien	2-1	2-1
 Holdout Issues	4-4	4-4
 Hollowing-out	2-0	2-0
@@ -833,12 +833,12 @@ Intermediate Horizon	7-1	7-1
 International Business Machines (IBM)	4-4	3-3, 4-4
 International Federation	4-1	4-1
 International Monetary Fund	2-2	2-2
-International Telecommunication Union (ITU)	4-5	4-5
+International Telecommunication Union (ITU)	4-5	
 International Trade	7-1	5-7, 7-1
 International Trade Treaties	5-7	5-7
 Internet	3-0, 5-4	1, 2-0, 2-1, 2-2, 3-0, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-2, 5-3, 5-4, 5-5, 5-7, 6-0, 6-3, 7-0, 7-1
 Internet Access Is A Human Right	4-5	4-5
-Internet Corporation for Assigned Names and Numbers (ICANN)	4-4	4-4
+Internet Corporation for Assigned Names and Numbers (ICANN)	4-4	
 Internet of Beings	4-5	2-2, 4-5
 Internet of Things	2-0	2-0, 2-2
 Internet Tidal Wave	2-1	2-1
@@ -847,8 +847,8 @@ Internet-mediated Writing	5-4	5-4
 Interoperability	2-0	2-0, 4-0, 4-1, 4-2, 5-2, 5-5, 7-0
 Interoperability Across Legal Regime	5-5	5-5
 Interoperable Model	4-5	4-5
-Interplanetary File System (IPFS)	4-4	4-4
-Intersect	3-1	2-0, 3-0, 3-1, 3-2, 4-0, 4-2, 4-3, 4-4, 5-0, 5-2, 5-3, 5-4, 5-7, 6-1, 6-2, 6-3, 7-0, 7-1
+Interplanetary File System (IPFS)	4-4	
+Intersect	3-1	2-0, 2-2, 3-0, 3-1, 3-2, 4-0, 4-2, 4-3, 4-4, 5-0, 5-2, 5-3, 5-4, 5-7, 6-1, 6-2, 6-3, 7-0, 7-1
 Intersectional	3-0	3-0, 3-2, 4-3, 4-4, 5-4, 6-1, 6-3
 Intersectional Identity	3-2	
 Intrapreneurship	6-1	6-1, 7-1
@@ -907,8 +907,8 @@ Labor Markets	5-7	2-0, 5-7
 Labor Unions	5-7	2-1, 4-2, 5-7
 Lana Swartz	4-3	4-3
 Land to the Tiller	2-1	2-1
-Large Language Model (LLM)	5-5	5-1, 5-2, 5-3, 5-4, 5-5, 6-1
-Large Language Models (LLMs)	5-4	5-1, 5-2, 5-3, 5-4, 6-1
+Large Language Model (LLM)	5-5	5-3, 5-4, 5-5, 6-1
+Large Language Models (LLMs)	5-4	5-3, 5-4, 6-1
 Laurie Anderson	5-3	5-3
 Laws of Identity	4-1	4-1
 Lee Teng-hui	2-1	2-1
@@ -939,7 +939,7 @@ Life-support System	6-4	6-4
 Limited Cultural Groups	5-7	5-7
 Linkage	4-1	4-1
 LinkedIn	4-1, 6-0	4-1, 6-0
-Linux	4-0	3-3, 4-0
+Linux	4-0	3-3, 4-0, 7-0
 Lionel Penrose	5-6	5-6
 Liquid Democracy	5-4, 5-6	5-4, 5-6
 Little Platoons	6-4	6-4
@@ -1182,14 +1182,14 @@ OpenID Connect	4-1	4-1
 OpenMined	4-4	4-4
 Operating System	5-0	3-3, 4-0, 5-0, 6-2, 7-0, 7-1
 Operating systems	4-0	4-0, 5-0, 7-0
-Optimism Collective	6-2	
+Optimism Collective	6-2	7-0
 orb	4-1	2-0, 2-1, 3-2, 3-3, 4-1, 4-3, 5-1, 5-4, 6-2
 Orderly States	3-1	
-Organizational Chart	6-1	6-1
+Organizational Chart	6-1	
 Oscar Wilde	5-4	5-4
 Out-of-pocket Payment	6-2	
-Outcome	6-2	
-Output	6-2	
+Outcome	6-2	2-0, 2-1, 2-2, 3-1, 4-0, 4-4, 4-5, 5-0, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-2, 6-3, 7-0
+Output	6-2	4-2, 4-4, 5-2, 5-3, 5-4, 5-5, 5-7, 6-0, 6-1, 6-2, 7-0
 Ownership	4-1	3-2, 4-1, 4-4, 5-1, 5-3, 5-7, 7-0
 Packet Switching	3-3	3-3, 4-1
 Packet Switching Architectures	4-1	4-1
@@ -1201,7 +1201,7 @@ Paradox.ai	5-5	5-5
 PARC	3-3	3-3, 7-0
 Park of Aging	5-1	5-1
 Partial Common Ownership	5-7	5-7
-Participation	2-0	
+Participation	2-0	2-0, 2-1, 2-2, 3-2, 3-3, 4-0, 4-1, 4-3, 4-5, 5-0, 5-1, 5-3, 5-4, 5-7, 6-0, 6-2, 6-3, 6-4, 7-0, 7-1
 Participative Production	2-1	2-1
 Participatory Design	5-7	5-7
 Participedia	5-4	5-4
@@ -1214,14 +1214,14 @@ Payment In Digital Spaces	4-3	4-3
 PayPal	4-3	3-3, 4-3
 Peer Production	3-3	3-3
 Peng Ming-min	2-1	2-1
-People's Republic of China (PRC)	2-0, 2-1	2-0, 2-1, 4-3, 7-0
+People's Republic of China (PRC)	2-0, 2-1	2-1, 4-3, 7-0
 Peripheral	2-0	2-0
 Personal Computing	4-4	3-3, 4-4, 6-0, 7-0
 Personal Identities	3-0	3-0
 Peter Thiel	2-0, 4-3, 7-1	2-0, 4-3, 7-1
 Phishing Attack	6-2	4-2, 6-2
 Phone	4-1	2-0, 2-1, 2-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-4, 5-5, 6-2, 7-0, 7-1
-Physical (paper or plastic) Government-issued IDs	4-1	0-2, 2-2, 3-0, 3-1, 3-2, 3-3, 4-1, 4-2, 4-3, 4-4, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-1, 7-0, 7-1
+Physical (paper or plastic) Government-issued IDs	4-1	
 Physical Work	6-1	6-1
 Physics	3-1	3-1, 3-2, 5-0
 Pigouvian Taxes	5-7	
@@ -1232,7 +1232,7 @@ Plural Future	1-1
 Plural Management Protocol	5-7	5-7
 Plural Spirit	2-1	2-1
 Plural workplace	6-1	
-Pluralism	2-1	2-0, 2-1, 3-3, 4-1
+Pluralism	2-1	2-0, 2-1, 3-3, 4-1, 7-0
 Pluralists	7-1	7-1
 Plutocracy	4-1	4-1
 Polarization	2-0	2-0, 2-1, 2-2, 4-5, 5-3, 5-4, 6-3, 8
@@ -1290,7 +1290,7 @@ Property	4-4	2-0, 2-1, 2-2, 3-1, 3-2, 4-0, 4-1, 4-4, 5-3, 5-5, 5-7, 7-0, 7-1
 Property Rights	3-2, 4-4, 5-7	4-4, 5-7, 7-0
 Proportional Representation	5-6	3-2, 5-6
 Proprioceptive Communication	5-1	
-Protocol Labs (PL)	4-4	4-4
+Protocol Labs (PL)	4-4	
 Pseudonymity	4-1	4-1
 Pseudonyms	4-1	4-1
 Public Consent	2-0	2-0
@@ -1298,13 +1298,13 @@ Public Data Repositories	4-1
 Public Digital Innovation Space	2-2	2-2
 Public Expenditure	5-5	2-0, 5-5
 Public Good	6-2	2-0, 5-5, 5-7, 7-0
-Public Goods	5-5, 5-7	2-0, 5-5, 5-7
+Public Goods	5-5, 5-7	2-0, 5-5, 5-7, 7-0
 Public Health Policy	6-2	6-2
 Public Key Cryptography	4-2	4-2
 Public Participation	2-0	2-0, 4-5, 5-4, 7-0
 Public Perception	6-4	6-4
 Public Sector	2-0	2-0, 2-2, 6-0, 7-0
-Public Service	5-5	2-0, 2-1, 3-3, 4-5, 5-5, 5-7, 7-0
+Public Service	5-5	2-0, 2-1, 3-3, 4-5, 5-5, 5-7, 6-2, 7-0
 Public Signals	4-1	4-1
 Public Square	2-0	2-0, 4-0, 4-2, 7-0
 Public Welfare Shcemes	5-7	
@@ -1378,7 +1378,7 @@ Robin Dunbar	4-1	4-1
 Robin Hanson	5-6	5-6, 6-2
 Robinson, James	2-0	
 Roblox	5-7	5-7
-ROC	2-1	2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1
+ROC	2-1	2-1, 3-0, 4-2
 Ropes Course	6-1	6-1
 Rough Consensus	6-3	5-4, 6-3
 Rule Of Law	5-7	5-7
@@ -1402,7 +1402,7 @@ Search Engines	2-0	2-0, 4-4, 5-5
 Seasteads	5-5	2-0, 5-5
 Sebastian Kurz	2-0	2-0
 Secret Information	4-1	4-1
-Secure Multi-Party Computation (SMPC)	4-2	4-2
+Secure Multi-Party Computation (SMPC)	4-2	
 Secure multiparty computation (SMPC)	4-4	4-4
 Securities Laws	2-0	2-0
 Security	4-1	2-0, 2-1, 2-2, 3-2, 3-3, 4-0, 4-1, 4-2, 4-4, 4-5, 5-2, 5-4, 5-5, 6-3, 7-0
@@ -1421,7 +1421,7 @@ Shared Knowledge Base	5-3	5-3
 Shield Of Trust And Safety	4-1	4-1
 Shoshanna Zuboff	2-0	2-0
 Sidewalk Labs	2-0	2-0
-Signal	4-2	
+Signal	4-2	2-1, 2-2, 4-1, 4-2, 4-4, 4-5, 5-0, 5-1, 5-5, 5-6, 6-2, 7-0
 Signatures	4-4	4-2, 4-4, 6-3
 Silent Majority	6-3	6-3
 Simon Chang	2-2	2-2
@@ -1476,7 +1476,7 @@ Social Responsibility	6-3	6-3
 Social Science Experts	3-2	3-2
 Social sciences	3-2	2-0, 3-1, 3-2, 6-0
 Social Sector	6-0	0-2, 3-3, 6-0, 7-1
-Social Security Number (SSN)	4-1	3-2, 4-1
+Social Security Number (SSN)	4-1	4-1
 Social Security Numbers	3-3	3-2, 4-1
 Social Solidarity	6-2	
 Social system	3-1	2-0, 3-1, 3-2, 4-3, 5-0, 6-0
@@ -1536,7 +1536,7 @@ Superposition	3-1	3-1
 Superpower	2-2	2-0, 2-2
 Surveillance	2-0, 5-2	2-0, 3-3, 4-1, 4-2, 4-3, 5-1, 5-2, 5-3, 6-2, 7-0
 Surveillance Risks	5-1	
-Sustainable Development Goals (SDGs)	6-2, 6-4	6-2, 6-4
+Sustainable Development Goals (SDGs)	6-2, 6-4	6-2
 Suzanne Simard	4-5	4-5
 Symbiotic Relationship	1-1	1, 3-1
 Symphony of Minds	5-3	5-3
@@ -1547,7 +1547,7 @@ Systems of rights	4-0	4-0
 Taigi	2-1	2-1
 Taishō Democratic	2-1	2-1
 Taivoan	2-1	2-1
-Taiwan	2-0, 3-0, 4-5, 5-7, 6-1, 6-3, 6-4, 7-1	2-0, 2-1, 2-2, 3-0, 3-2, 3-3, 4-1, 4-4, 4-5, 5-0, 5-1, 5-4, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
+Taiwan	2-0, 3-0, 4-5, 5-7, 6-1, 6-3, 6-4, 7-1	0-1, 2-0, 2-1, 2-2, 3-0, 3-2, 3-3, 4-1, 4-4, 4-5, 5-0, 5-1, 5-4, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
 Taiwan Self-Salvation Manifesto	2-1	2-1
 Taiwan's Digital Civic Infrastructure	2-2	2-2
 Take The Path Of Least Action	3-1	3-1
@@ -1578,7 +1578,7 @@ Telehealth	6-2	6-2
 Telemedicine	6-2	6-2
 Telepathic Creative Exchange	5-3	5-3
 Telepathic Exchange	5-3	5-3
-Telepathy	5-1	5-1, 8
+Telepathy	5-1	5-0, 5-1, 8
 Temporal Collaboration	5-3	5-3
 Tensions between technology and democracy	4-0	
 Teri Whitcraft	7-1	7-1
@@ -1628,7 +1628,7 @@ Traditional Practice	5-5	5-5
 Transculturalism	1-1	
 Transhuman	6-2	6-2
 Transitive Trust	4-1	4-1
-Translation	5-5	
+Translation	5-5	2-0, 3-2, 3-3, 5-0, 5-4, 5-5, 6-1, 7-0
 Transnational Corporations	5-7	5-7
 Transparent Database	5-5	5-5
 Trello	6-1	6-1
@@ -1645,11 +1645,11 @@ Tyranny Of The Majority	5-6	5-6
 UAE	2-0	2-0
 UIDAI	4-1	4-1
 Ukraine	4-5	2-0, 4-5, 7-0, 7-1
-UN	6-4	
+UN	6-4	2-0, 2-1, 4-0, 4-4, 6-2, 6-4, 7-0
 UN-Water	6-2	
 Undecidable	3-1	3-1
 UNDP	6-2	4-0, 4-1
-Uniform Resource Locator (URL)	4-4	4-4
+Uniform Resource Locator (URL)	4-4	
 United Nations	4-4, 5-6	2-0, 2-1, 3-2, 4-0, 4-4, 4-5, 5-6, 6-2, 7-0
 United States	5-5	2-0, 2-2, 3-3, 4-0, 4-1, 4-3, 5-1, 6-3, 7-0
 Universal Basic Income	2-0, 4-1	2-0, 4-1
@@ -1670,7 +1670,7 @@ Usus	4-4, 5-7	3-2, 4-4, 5-7
 Utility Regulation	5-7	5-7
 V-Dem	2-2	1, 2-1, 2-2
 Vaccine Alliance	6-2	6-2
-Venture Capital	2-0, 5-7, 6-0	2-0, 5-7, 6-0
+Venture Capital	2-0, 5-7, 6-0	2-0, 5-7, 6-0, 7-0
 Venture Capitalist	6-0	2-0, 6-0
 Ventures	5-7	3-1, 4-3, 4-4, 5-1, 5-7, 6-1
 Verifiable Credential	5-5	4-0, 4-1, 5-5
@@ -1724,7 +1724,7 @@ What's App	5-5	5-5
 White Collar	6-1	6-1
 White Terror	2-1	2-1
 Widening Gulf	2-0	2-0, 3-3
-Wikipedia	2-0, 3-3, 5-3, 6-3	0-0, 2-0, 2-1, 2-2, 3-1, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-3, 6-4, 7-0
+Wikipedia	2-0, 3-3, 5-3, 6-3	0-0, 0-1, 2-0, 2-1, 2-2, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-3, 6-4, 7-0
 wikisurvey	2-2	2-2, 5-4
 Wikisurveys	5-4	5-4
 Will Of The Group	5-6	5-6
@@ -1744,14 +1744,14 @@ Workspace	5-3	5-3
 World Congress	5-6	5-6
 World Economic Forum	5-5	5-5, 7-0
 World Food Programme	6-2	
-World Health Organization (WHO)	2-2, 6-2	2-0, 2-2, 6-2, 6-4
+World Health Organization (WHO)	2-2, 6-2	2-2
 World Press Freedom Index	6-3	6-3
 World Trade Organization,	5-7	
 World War	6-3	2-0, 2-1, 3-3, 4-0, 6-3
 World Wide Web Consortium (W3C)	4-2	4-2
 Worldcoin	4-1	4-1
-Writing	5-4	
-WWII	2-1	2-1
+Writing	5-4	2-0, 2-1, 3-1, 3-2, 3-3, 4-2, 4-3, 4-4, 5-0, 5-3, 5-4, 6-0, 6-1, 7-0, 7-1
+WWII	2-1	
 X (formerly Twitter)	5-4	6-3
 Yamuna River	6-4	
 Yasmin Eyalat	6-3	6-3
@@ -1762,7 +1762,7 @@ Yu Yong-Ding	2-0	2-0
 Yuans	2-1	2-1
 Yushan	2-1	2-1, 3-2, 5-7, 7-0
 Zero Trust	2-2	2-2
-Zero-Knowledge Proofs(ZKPs)	4-2, 6-3	4-1, 4-2, 6-3
+Zero-Knowledge Proofs(ZKPs)	4-2, 6-3	6-3
 Zheng Chenggong	2-1	2-1
 Zoning Restrictions	5-7	5-7
 ⿻	3-0	0-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
