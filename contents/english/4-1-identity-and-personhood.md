@@ -224,5 +224,5 @@ on Social Security, Committee on Ways and Means, House of Representatives). See 
 [^OAuth]:OAuth 2.0 is the industry-standard protocol for authorization and provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices.  https://oauth.net/2/ IETF Working Group https://datatracker.ietf.org/wg/oauth/about/
 [^OpenID]: OpenID Connect enables application and website developers to launch sign-in flows and receive verifiable assertions about users across Web-based, mobile, and JavaScript clients. https://openid.net/developers/how-connect-works/
 [^Zuboff]: https://en.wikipedia.org/wiki/Surveillance_capitalism
-[^UIDAI] The official UIDAI site https://uidai.gov.in/en/
-[^Inji] Inji is a user-centric digital credential stack in MOSIP for all types of credentials and identification solutions.  https://docs.mosip.io/inji/
+[^UIDAI]: The official UIDAI site https://uidai.gov.in/en/
+[^Inji]: Inji is a user-centric digital credential stack in MOSIP for all types of credentials and identification solutions.  https://docs.mosip.io/inji/
