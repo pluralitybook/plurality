@@ -64,7 +64,7 @@ Yet the hostilities have been far from one-sided.  Democracies have, by and larg
 This failure has manifested in four ways.  First, public opinion in democratic countries and their policy-makers are increasingly hostile to large technology companies and even many technologists, a trend commonly called the “techlash”.  Second, democratic countries have significantly reduced their direct investment in the development of information technology.  Third, democratic countries have been slow to adopt technology in public sector applications or that require significant public sector participation. Finally, and relatedly, democratic governments have largely failed to address the areas where most technologists believe public participation, regulation, and support are critical to technology advancing in a sustainable way, focusing instead on more familiar social and political problems[^DemocracyTechHostility]. 
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/techlash_ngrams/techlash_ngrams.png" width="100%" alt="Figure showing take off in discussion of the "techlash" following 2017 in English books.">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/techlash_ngrams/techlash_ngrams.png" width="100%" alt='Figure showing take off in discussion of the "techlash" following 2017 in English books.'>
 
 **<figcaption>Figure 2-0-A. The rise of the Techlash.  Source: Google nGram Viewer[^ngram2]  </figcaption>**
 </figure>
@@ -160,7 +160,7 @@ Beginning with recent trends in the increasingly well-measured venture capital i
 However, while these priorities are relatively recent and appear to emerge from the logic of “the market”, they reflect a much longer-running and collectively direct set of choices.  These stem from the investments governments in democratic countries have made. [^GartnerReport].
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/ai_ngrams/ai_ngrams.png" width="100%" alt="Shows the relative frequency in English books of "artificial intelligence" from 1950-2019 showing a surge in the late 1980s followed by a retreat and then a much greater surge beginning in the mid 2010s.">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/ai_ngrams/ai_ngrams.png" width="100%" alt='Shows the relative frequency in English books of "artificial intelligence" from 1950-2019 showing a surge in the late 1980s followed by a retreat and then a much greater surge beginning in the mid 2010s.'>
 
 **<figcaption> Figure 2-0-E. The relative frequency of "artificial intelligence in English books 1950-2019. Source: Google ngrams[^ngrams] </figcaption>**
 </figure>
