@@ -112,7 +112,7 @@ with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_oc
     print("Keywords\tSections", file=warn_no_occurence)
     for k in sorted(keywords):
         if not keyword_occurence[k] and k not in IGNORE:
-            sections = ", ".join(keyword_recorded_by_human[k])
+            sections = ", ".join(sorted(keyword_recorded_by_human[k]))
             print(f"{k}\t{sections}", file=warn_no_occurence)
 
 
