@@ -1,10 +1,10 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 50%; text-align: center">
-      <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Glen.png" alt="image" height="220">
+      <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Glen.png" alt="image" height="220" />
     </td>
     <td style="width: 50%; text-align: center">
-      <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Audrey.png" alt="image" height="220">
+      <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Audrey.png" alt="image" height="220" />
     </td>
   </tr>
   <tr>
