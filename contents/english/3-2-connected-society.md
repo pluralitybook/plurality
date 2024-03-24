@@ -1,4 +1,4 @@
-b# Connected Society
+# Connected Society
 
 > Industry and inventions in technology, for example, create means which alter the modes of associated behavior and which radically change the quantity, character and place of impact of their indirect consequences. These changes are extrinsic to political forms which, once established, persist of their own momentum. The new public which is generated remains long inchoate, unorganized, because it cannot use inherited political agencies. The latter, if elaborate and well institutionalized, obstruct the organization of the new public. They prevent that development of new forms of the state which might grow up rapidly were social life more fluid, less precipitated into set political and legal molds. To form itself, the public has to break existing political forms. This is hard to do because these forms are themselves the regular means of instituting change. The public which generated political forms is passing away, but the power and lust of possession remains in the hands of the officers and agencies which the dying public instituted. This is why the change of the form of states is so often effected only by revolution. — John Dewey, *The Public and its Problems*, 1927[^Public]
 
@@ -69,6 +69,7 @@ In fact these institutions were core to what allowed modern, wealthy, liberal de
 ### Henry George and the networked value
 
 We remember Karl Marx and Adam Smith more sharply, but the social thinker that may have had the greatest influence during and immediately following his lifetime was Henry George.[^Englandbio]  Author of the for-years best-selling book in English other than the Bible, *[Progress and Poverty](https://oll.libertyfund.org/titles/george-progress-and-poverty)*, George inspired or arguably founded many of the most successful political movements and even cultural artifacts of the early twentieth century including:[^PP]
+
 * the American center-left, as a nearly-successful United Labor candidate for Mayor of New York City; 
 * the Progressive and social gospel movements, which both traced their names to his work;
 * Tridemism, which, as we saw above in our chapter [A View from Yushan](https://www.plurality.net/v/chapters/2-1/eng/?mode=dark), had its economic leg firmly founded in Georgism;

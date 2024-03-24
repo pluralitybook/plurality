@@ -91,7 +91,7 @@ OSs roughly define the possibility space for applications that run on them. Ther
 Boundaries are rarely sharp. While [Macintosh](https://en.wikipedia.org/wiki/Mac_(computer)) was the first mass-market computer with a graphical user interface ([GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)) OS
 
 <figure>
-<img src="../../figs/4-0-macintosh.jpeg" width="100%" alt=Apple LISA II Macintosh-XL, one of the first commercially available graphical user interface computers.">
+<img src="../../figs/4-0-macintosh.jpeg" width="100%" alt="Apple LISA II Macintosh-XL, one of the first commercially available graphical user interface computers." />
 **<figcaption>Figure 4-0-A. Apple LISA II Macintosh-XL, one of the first commercially available personal computers using a graphical user interface.  Source: bGerhard »GeWalt« Walter, retrieved from [Wikipedia](https://commons.wikimedia.org/wiki/File:Apple-LISA-Macintosh-XL.jpg). CC0. </figcaption>**
 </figure>
 <br></br>

@@ -6,7 +6,7 @@ This demonstration built on years of work and multi stakeholder collaborations i
 
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg" width="100%" alt="One Indian farmer pointing out something to another on his mobile phone">
-**<figcaption>Figure 5-5-A. The results of this work can be seen taking place already. Image courtesy of Microsoft</figcaption>**
+**<figcaption>Figure 5-5-A. The results of this work can be seen taking place already. Source: Courtesy of Microsoft.</figcaption>**
 </figure>
 <br></br>
 
