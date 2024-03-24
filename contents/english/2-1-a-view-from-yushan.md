@@ -30,8 +30,6 @@ Perhaps most importantly, the movement led to a deeper and more lasting shift in
 
 Almost a decade after these events, the other primary author of this book visited to witness the general election held January 13, 2024, which launched a "year of elections" in which more people than in any previous year will vote and followed hot on the heels of the "year of AI", when generative models like GPT burst into the public consciousness. Many expect these models to turbocharge information manipulation and interference by authoritarian actors. This election seemed a test case, with a more concerted, better-funded adversary focused on a small population than anywhere in the world.[^VDemInfo] Walking the streets of Taipei on the eve of that election, he saw no shortage of divisions for such attacks to exploit. At the rally of the ruling Democratic Progressive Party (DPP) he found not a single official flag, only placards of the island, the party's signature green color and occasional rainbow flags 🏳️‍🌈. At the rally of the opposition Kuomintang (KMT or Nationalist) party, he saw only the flag of the Republic of China (ROC) 🇹🇼. It made him imagine how much more extreme the divisions of his American home would be if Democrats waved a historical British flag and Republicans the stars and stripes.
 
-FIX FLAG DIAGRAM
-
 [^VDemInfo]: “Disinformation in Taiwan: International versus Domestic Perpetrators,” V-Dem, 2020. https://v-dem.net/weekly_graph/disinformation-in-taiwan-international-versus
 
 Yet, despite these extreme divides and harnessing the technologies developed partly as a result of the Sunflower movement, the January 13 election has become a positive model to the world, with the candidate of the party opposed by the authoritarian adversary outperforming opinion polls, calm prevailing after the election and a largely consensual outcome being reached across the society. This capacity to harness technology and social organization to channel widely divergent attitudes towards shared progress was most sharply manifested in the decade of work following the Sunflower movement. Yet it has far deeper historical roots, roots that come from different starting points and converge on this fateful decade of digital democracy.
@@ -63,8 +61,6 @@ Despite the enormous efforts and funds invested by the Japanese empire, Taiwan's
 
 Across the Taiwan strait, a young, American-educated, Christian doctor and activist, Sun Yat-Sen, was similarly influenced in a revolutionary democratic direction by Qing's defeat at Japan's hands, but for a very different reason. Concluding that the dynasty was unreformable, Sun and his "Revive China Society" led a series of unsuccessful uprisings that forced him into exile in Japan, where he (like the Taiwanese elites sent to Japan to be educated) absorbed nascent democratic reform. Drawing on these Japanese, Christian and American influences as well as Confucian traditions, Sun articulated his _[Three Principles of the People](<https://en.wikipedia.org/wiki/Three_Principles_of_the_People#:~:text=The%20three%20principles%20are%20often,the%20people%20(or%20welfarism).>)_ in 1905, laying the foundation of the "Tridemism" that would become the official philosophy (and national anthem) of the ROC.
 
-ADD ROC FLAG
-
 The first principle is 民族/Minzú (literally "civil clan"), which is typically translated as "nationalism". However, perhaps more notable was its emphasis on ethnic pluralism (五族共和) reflected in the original flag of the ROC[^ROC1912Flag], which included colors for each of the major ethnicities at the time. The second is 民權/Minquán (literally "civil rights"), usually translated as "democracy" and articulated as a combination of rights of election, recall, initiative and referendum and division of powers among five "Yuans" (the Legislative, Executive and Judicial of the European tradition plus the Control and Examination divisions of the Confucian tradition). The third is 民生/Mínshēng (literally "civil livelihood"), usually translated as "socialism", draws from a variety of economic philosophies, including the ideas of Henry George, an American political economist known for his advocacy of land rights equality, anti-monopoly stances, and support for cooperative enterprises. We will discuss these ideas much more extensively in the next part of the book.
 
 [^ROC1912Flag]: "Flag of China (1912–1928)," n.d. Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Flag_of_China_(1912%E2%80%931928).svg.
@@ -85,15 +81,6 @@ That moment of unity was, however, short-lived, with the communists (under Mao Z
 
 ### Postbellum Taiwan
 
-At the conclusion of the war, Chiang was nominally "Chairman of the National Government of China" and thus received Taiwan from the allies upon Japanese defeat.
-<figure>
-<img src="../../figs/2-1-chiang.jpeg" width="100%" alt="Chiang Kai-Shek by Militaryace, retrieved from https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Colour.jpg)">
-
-**<figcaption> Figure 1. Chiang Kai-shek </figcaption>**
-</figure>
-<br></br>
-
-This change was initially welcomed by the people of Taiwan, who had been inspired by the democratic ideals of Sun.[^JJ13] This excitement quickly soured, however: while the intellectual discussion of democracy flourished in newspapers and periodicals, the reality under the ROC was anything but. The end of the WWII brought an immediate renewal of civil war, during which a corruption-riddled ROC government increasingly took its fury at its increasing defeat out on the one subject population it securely control on Taiwan, culminating in the incident of February 28, 1947; tens of thousands were killed in the aftermath.[^JJ14]
 
 [^JJ13]: Louzon Victor. “From Japanese Soldiers to Chinese Rebels: Colonial Hegemony, War Experience, and Spontaneous Remobilization during the 1947 Taiwanese Rebellion,” _The Journal of Asian Studies_ 77, no. 1 (2018): 168.
 [^JJ14]: Chien-Jung Hsu, _The Construction of National Identity in Taiwan’s Media, 1896-2012_, (Leiden: Brill, 2014), 48.
