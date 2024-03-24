@@ -19,7 +19,7 @@ Technology has increasingly played a role in facilitating such copresence, espec
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png" width="100%" alt='Venn diagram with four overlapping circles labeled "Virtual Reality", "Augmented Reality", "Mixed Reality," and "Modulated Reality." A larger circle encompasses these, labeled "Mediated Reality."'>
 
-**<figcaption>Figure 1. Mediated Reality Framework adapted from Mann and Nnlf (1994)</figcaption>**
+**<figcaption>Figure 5-2-A. Mediated Reality Framework adapted from Mann and Nnlf (1994)</figcaption>**
 </figure>
 <br></br>
 
