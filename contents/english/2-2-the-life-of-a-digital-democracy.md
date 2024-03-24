@@ -26,13 +26,13 @@ More than any other institution, [g0v](https://g0v.tw/) (pronounced gov-zero) sy
 [^g0vManifesto]: [g0v Manifesto](https://g0v.tw/intl/en/manifesto/en/) defines it as "a non-partisan, not-for-profit, grassroots movement". [MoeDict](https://moedict.tw/), an early g0v project, was led by one of the authors of this book.
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/g0v-venn.png" width="100%" alt="Venn diagram of g0v principles">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/g0v-venn.png" width="100%" alt="Venn diagram of g0v principles of being open-source, hands-on and public-spirited.  The intersection of the first two is free software, of the second two is social activism and of the first and third is civic media.  g0v lies at the center">
 
-**<figcaption>Figure 1. Principles of g0v  displayed in a venn diagram</figcaption>**
+**<figcaption>Figure 2-2-A. Principles of g0v  displayed in a venn diagram.  </figcaption>**
 </figure>
 <br><br>
 
-g0v built on this success to establish a vibrant community of civic hackers interacting with a range of non-technical civil society groups at regular hackathon, called "[jothons](https://jothon.g0v.tw/about/en/)" (based on a Mandarin play on words, meaning roughly "join-athon").  While hackathons are common in many parts of the world, some of the unique features of g0v practices include the diversity of participant (usually a majority non-technical and with nearly full gender parity), the orientation towards civic problems rather than commercial outcomes and the close collaboration with a range of civic organizations.  These features are perhaps best summarized by the slogan "Ask not why nobody is doing this. You are the 'nobody'!", which has led the group to be labeled the "nobody movement".  They are also reflected in a Venn diagram commonly used to explain the movement's intentions shown above.  As we will note below, a majority of the initiatives we highlight grew out of g0v and closely aligned projects.
+g0v built on this success to establish a vibrant community of civic hackers interacting with a range of non-technical civil society groups at regular hackathon, called "[jothons](https://jothon.g0v.tw/about/en/)" (based on a Mandarin play on words, meaning roughly "join-athon").  While hackathons are common in many parts of the world, some of the unique features of g0v practices include the diversity of participant (usually a majority non-technical and with nearly full gender parity), the orientation towards civic problems rather than commercial outcomes and the close collaboration with a range of civic organizations.  These features are perhaps best summarized by the slogan "Ask not why nobody is doing this. You are the 'nobody'!", which has led the group to be labeled the "nobody movement".  They are also reflected in a Venn diagram commonly used to explain the movement's intentions shown in Figure A.  As we will note below, a majority of the initiatives we highlight grew out of g0v and closely aligned projects.
 
 #### Sunflower
 
@@ -44,12 +44,12 @@ Many Sunflower participants devoted themselves to the open government movement; 
 
 #### vTaiwan and Join
 
-During this process of institutionalization of g0v, there was growing demand to apply the methods that had allowed for these dispute resolutions to a broader range of policy issues.  This led to the establishment of [vTaiwan](https://vtaiwan.tw/intro/), a platform and project developed by g0v for facilitating deliberation on public policy controversies.  The process involved many steps (proposal, opinion expression, reflection and legisation) each harnessing a range of open source software tools, but has become best known for its use of the at-the-time(2015)-novel machine learning based open-source "wikisurvey"/social media tool Polis, which we discuss further in our chapter on 05-04 Augmented Deliberation below.  In short, Polis functions similarly to conventional microblogging services like Twitter/X, except that it employs dimension reduction techniques to cluster opinions. Instead of displaying content that maximizes engagement, Polis shows the clusters of opinion that exist and highlights statements that bridge them. This approach facilitates both consensus formation and a better understanding of the lines of division.
+During this process of institutionalization of g0v, there was growing demand to apply the methods that had allowed for these dispute resolutions to a broader range of policy issues.  This led to the establishment of [vTaiwan](https://vtaiwan.tw/intro/), a platform and project developed by g0v for facilitating deliberation on public policy controversies.  The process involved many steps (proposal, opinion expression, reflection and legisation) each harnessing a range of open source software tools, but has become best known for its use of the at-the-time(2015)-novel machine learning based open-source "wikisurvey"/social media tool Polis, which we discuss further in our chapter on [Augmented Deliberation](https://www.plurality.net/v/chapters/5-4/eng/?mode=dark) below.  In short, Polis functions similarly to conventional microblogging services like Twitter/X, except that it employs dimension reduction techniques to cluster opinions as shown in Figure B. Instead of displaying content that maximizes engagement, Polis shows the clusters of opinion that exist and highlights statements that bridge them. This approach facilitates both consensus formation and a better understanding of the lines of division.
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/vtaiwan-polis-ai.png" width="70%" alt="diagram of an opinion displayed by polis on vtaiwan">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/vtaiwan-polis-ai.png" width="70%" alt="Diagram of an opinion displayed by polis on vtaiwan, with similar views clustered.">
 
-**<figcaption>Figure 2. Clusters of consensual opinions generated by Polis on vTaiwan</figcaption>**
+**<figcaption>Figure 2-2-B. Clusters of consensual opinions generated by Polis on vTaiwan. Source: vTaiwan.tw, CC0 license.</figcaption>**
 </figure>
 <br><br>
 
