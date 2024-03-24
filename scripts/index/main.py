@@ -95,9 +95,11 @@ for k in keywords:
 
 
 with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
+    print("Keywords\tSections", file=warn_no_occurence)
     for k in sorted(keywords):
         if not keyword_occurence[k] and k not in IGNORE:
-            print(k, file=warn_no_occurence)
+            sections = ", ".join(keyword_recorded_by_human[k])
+            print(f"{k}\t{sections}", file=warn_no_occurence)
 
 
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
