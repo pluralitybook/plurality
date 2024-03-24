@@ -22,7 +22,7 @@ Achieving this goal, however, requires embracing a ⿻ concept of health (Figure
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-02-Fig1.jpg" width="100%" alt="Diagram dislpaying the interconnected aspects of health; bubbles, each with arrows connecting them read: 'my consciousness', 'my current physical condition', 'my community, my ecosystem, my planet','my friend, my partner, my family', 'my future physical condition' ">
 
-**<figcaption>Figure 1. The Relational Concept of Health - Including social and intersubjective aspects of health rather than just the atomistic</figcaption>**
+**<figcaption>Figure 6-2-A. The Relational Concept of Health - Including social and intersubjective aspects of health rather than just the atomistic</figcaption>**
 </figure>
 <br></br>
 
@@ -48,7 +48,7 @@ For the purpose of this discussion, *outputs* are the direct result of health se
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-02-Fig2.jpg" width="100%" alt="A diagram showing the various possible paths impact can take. After a project effects the direct beneficiary there are dotted lines of possible paths of how it can impact: family, employers, tax authorities, consumers, businesses, public services, trade partners and the global economy">
 
-**<figcaption>Figure 2. Different Pathways to Impact - Illustrating the knock-on effects that outcomes have in the world at large</figcaption>**
+**<figcaption>Figure 6-2-B. Different Pathways to Impact - Illustrating the knock-on effects that outcomes have in the world at large</figcaption>**
 </figure>
 <br></br>
 
