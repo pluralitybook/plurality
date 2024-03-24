@@ -72,8 +72,7 @@ Baran argued that while centralized switchboards achieved high reliability at lo
 Despite the apparent threat it posed to that private interest, packet switching caught the positive attention of another organization that owed its genesis to the threat of devastating attacks: ARPA. At a 1967 conference, ARPANET's first program manager, Lawrence Roberts, learned of packet switching through a presentation by Donald Davies, who concurrently and independently developed the same idea as Baran, and drew on Baran's arguments that he soon learned of to sell the concept to the team.  Figure A shows the decentralized logical structure of early ARPANET that resulted
 
 <figure>
-<img src="../../figs/3-3-arpanet.png" width="100%" alt="The decentralized logical structure of early ARPANET. 
- ">
+<img src="../../figs/3-3-arpanet.png" width="100%" alt="The decentralized logical structure of early ARPANET." />
 
  **<figcaption>Figure 3-3-A. Early logical structure of ARPANET. Source: [Wikipedia](https://en.wikipedia.org/wiki/ARPANET#/media/File:Arpanet_logical_map,_march_1977.png), public domain.</figcaption>**
  </figure>
@@ -98,8 +97,7 @@ This culture manifested in the development of the "Request for Comments" (RFC) p
 Much of what resulted from this project is so broadly known it hardly bears repeating here. During the 1970's, Taylor's Xerox PARC produced a series of expensive, and thus commercially unsuccessful, but revolutionary "personal workstations" that incorporated much of what became the personal computer of the 1990s. At the same time, as computer components were made available to broader populations, businesses like Apple and Microsoft began to make cheaper and less user-friendly machines available broadly. Struggling to commercialize its inventions, Xerox allowed Apple Co-Founder Steve Jobs access to its technology in exchange for a stake, resulting in the Macintosh's ushering in of modern personal computing and Microsoft's subsequent mass scaling through their Windows operating system. By 2000, a majority of Americans had a personal computer in their homes.  Internet use has steadily spread, as pictured in Figure B.
 
 <figure>
-<img src="../../figs/data/share_online/share_online.png" width="100%" alt="The rapid rise in the past few decades of the share of the population online. 
- ">
+<img src="../../figs/data/share_online/share_online.png" width="100%" alt="The rapid rise in the past few decades of the share of the population online." />
 
  **<figcaption>Figure 3-3-B. Population share with internet access over time in the world and various regions. Source: Our World in Data.[^WiD]</figcaption>**
  </figure>
@@ -157,8 +155,7 @@ While the internet backbone continued to improve in limited ways, adding securit
 Yet faded dreams have a stubborn persistence, nagging throughout a day. While Lick passed away in 1990, many of the early internet pioneers lived to see their triumph and tragedy.
 
 <figure>
-<img src="../../figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999. 
- ">
+<img src="../../figs/3-3-TedNelson.jpeg" width="100%" alt="Ted Nelson at Keio University, Japan, 1999." />
 
  **<figcaption>Figure 3-3-C. Ted Nelson at Keio University, Japan, 1999. Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Ted-nelson-1999.jpg), used under CC  4.0 BY-SA.</figcaption>**
  </figure>
