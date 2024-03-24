@@ -20,9 +20,9 @@ Achieving this goal, however, requires embracing a ⿻ concept of health (Figure
 6. Lack of enabling services.
 
 <figure>
-<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-02-Fig1.jpg" width="100%" alt="RelationalConceptHealth">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-02-Fig1.jpg" width="100%" alt="Diagram dislpaying the interconnected aspects of health; bubbles, each with arrows connecting them read: 'my consciousness', 'my current physical condition', 'my community, my ecosystem, my planet','my friend, my partner, my family', 'my future physical condition' ">
 
-**<figcaption>Figure 1. The Relational Concept of Health</figcaption>**
+**<figcaption>Figure 1. The Relational Concept of Health - Including social and intersubjective aspects of health rather than just the atomistic</figcaption>**
 </figure>
 <br></br>
 
@@ -46,22 +46,9 @@ For example, it might be formed, in a developing country, to ensure the provisio
 For the purpose of this discussion, *outputs* are the direct result of health services (e.g. people vaccinated); *outcomes* are the final intended result (e.g. deaths avoided through morbidity or mortality risk reduction); and *impacts* are the knock-on effects outcomes have in the world at large (e.g. future children born).  Impact is thus an open-source commodity: it can be forked to whatever use the beneficiary can devise (Figure 2).  Although impacts are a *causal* effect of health services (e.g. a child who otherwise would have died did not, and then went on to be a parent), impacts are not the primary *intended* effect of health services.  The  primary intended effect of health services is reducing morbidity or mortality risk, which as we have seen is an insurance function.  Health services, which produce non-market-traded outcomes (e.g. lives saved *and* healthier lives, through the insurance function) and market-traded and non-market-traded impacts (e.g. more labour to sell *and* more time for visits with friends, through the open-source function), thus have an accounting problem: it is hard to measure the value of outcomes (e.g. the value of a life saved) but it is often still harder to measure the value of relevant impacts.  Thus, since the full social value of health projects is in practice never counted, let alone captured or rendered tradeable, many win-win health investments remain blocked.  
 
 <figure>
-<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-02-Fig2.jpg" width="100%" alt="DifferentPathwaysImpact">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/06-02-Fig2.jpg" width="100%" alt="A diagram showing the various possible paths impact can take. After a project effects the direct beneficiary there are dotted lines of possible paths of how it can impact: family, employers, tax authorities, consumers, businesses, public services, trade partners and the global economy">
 
-**<figcaption>Figure 2. Different Pathways to Impact</figcaption>**
-</figure>
-<br></br>
-
-For example, it might be formed, in a developing country, to ensure the provision of clean water, sanitation, or adequate nutrition or in a wealthy country to mitigate the abuse of substances and ultra-processed foods that account for 20 million global deaths a year.[^LancetCommDet]  The relevant needs are highly localized and, in fact, are often hard to address outside of a community context grounded in shared values, professional goals and belief systems.  Or it could another such might be formed on the global level for infections and globally transmissible diseases such as malaria, HIV or tuberculosis, such as the [Global Fund to AIDS, Tuberculosis and Malaria](https://www.theglobalfund.org/en/).  National reinsurers for local health production societies could help ensure that local networks most effective at interventions do not excessively fall prey to shared common health risks. In short, a range of intersecting ⿻ health production societies could move beyond an atomistic, risk-based understanding of health to address the full range of social challenges in health, seeing the pooling of risk as simply one example of supermodularity.  As such they would rely heavily on the full host of technologies we have described above for building community consensus, common understanding/purpose and shielding such action from outside surveillance (such as by a national insurer) that could undermine it.
-
-### Health impact tokenization
-
-For the purpose of this discussion, *outputs* are the direct result of health services (e.g. people vaccinated); *outcomes* are the final intended result (e.g. deaths avoided through morbidity or mortality risk reduction); and *impacts* are the knock-on effects outcomes have in the world at large (e.g. future children born).  Impact is thus an open-source commodity: it can be forked to whatever use the beneficiary can devise (Figure 2).  Although impacts are a *causal* effect of health services (e.g. a child who otherwise would have died did not, and then went on to be a parent), impacts are not the primary *intended* effect of health services.  The  primary intended effect of health services is reducing morbidity or mortality risk, which as we have seen is an insurance function.  Health services, which produce non-market-traded outcomes (e.g. lives saved *and* healthier lives, through the insurance function) and market-traded and non-market-traded impacts (e.g. more labour to sell *and* more time for visits with friends, through the open-source function), thus have an accounting problem: it is hard to measure the value of outcomes (e.g. the value of a life saved) but it is often still harder to measure the value of relevant impacts.  Thus, since the full social value of health projects is in practice never counted, let alone captured or rendered tradeable, many win-win health investments remain blocked.  
-
-<figure>
-<img src="https://raw.githubusercontent.com/lauerj/plurality/main/figs/06-02-Fig2.jpg" width="100%" alt="DifferentPathwaysImpact">
-
-**<figcaption>Figure 3. Different Pathways to Impact</figcaption>**
+**<figcaption>Figure 2. Different Pathways to Impact - Illustrating the knock-on effects that outcomes have in the world at large</figcaption>**
 </figure>
 <br></br>
 

@@ -24,3 +24,4 @@
 - Keywords with quotes such as `Diversity of "groups"`: remove quotes
 - `keyword_occurrence.tsv`: Output "by human" keywords and "by script" keywords on the different columns
 - Fix bug: I ignored `X` derived from `X (formerly Twitter)` but the comparison was done after lower().
+- `the ancient concept of 'dao.'` in section 4-5 and `Distributed Autonomous Organizations (DAOs)` are distinct concepts, so I've decided not to merge them. I'll leave a note of this in the final version of the index for attention.
