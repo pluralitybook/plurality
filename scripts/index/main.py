@@ -53,6 +53,10 @@ for row in csv.reader(lines):
 similar_keywords = defaultdict(set)
 for k in keywords:
     similar_keywords[k.lower()].add(k)
+    if "(" in k:
+        k2 = remove_palen(k)
+        if k2 != "":
+            similar_keywords[k2.lower()].add(k)
 
 with open(os.path.join(script_directory, "similar_words.tsv"), "w") as f:
     for k in similar_keywords:
