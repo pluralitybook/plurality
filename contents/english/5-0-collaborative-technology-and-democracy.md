@@ -39,6 +39,7 @@ For those with a more practical and quantitative orientation, however, perhaps o
 [^Galorpaper]: Quamrul Ashraf and Oded Galor, "The 'Out of Africa' Hypothesis, Human Genetic Diversity, and Comparative Economic Development", *American Economic Review* 103, no.1 (2013): 1-46.
 
 While using migratory distance from Africa (where diversity is maximum as noted above) as a proxy for "diversity", Galor and collaborators have [since argued](https://cepr.org/voxeu/columns/roots-cultural-diversity) that diversity takes a wide range of forms and leads to a broad range of divergent outcomes.[^MoreGalor]  Today the word "diversity" is in many contexts used to specify some dimensions along which oppression was historically organized in societies like the US that are particularly culturally dominant in the world today.  Yet such a definition is simplistic relative to the tremendous diversity of forms of diversity that define our world:
+
 * Religion and religiosity: A diverse range of religious practices, including secularism, agnosticism and forms of atheism, are central to the metaphysical, epistemological and ethical perspective of most people around the world.
 * Jurisdiction: People are citizens of a range of jurisdictions, including nation states, provinces, cities etc.
 * Geographic type: People live in different types of geographic regions: rural v. urban, cosmopolitan v. more traditional cities, differing weather patterns, proximity to geographic features etc.
