@@ -18,7 +18,7 @@ def remove_palen(s):
     return k.split("(")[0].strip()
 
 
-CSV_FILE = "Plurality Book Indexing Exercise - Main.csv"
+CSV_FILE = "Plurality Book Indexing Exercise - Candidates.csv"
 # This will get the absolute path of the current script file.
 script_directory = os.path.dirname(os.path.abspath(__file__))
 
@@ -41,7 +41,7 @@ sections.remove("Plurality Book Ownership List.md")
 section_contents = {}
 section_contents_lower = {}
 for filename in sections:
-    section = re.match("(\d-\d|\d)-", filename).groups()[0]
+    section = re.match(r"(\d-\d|\d)-", filename).groups()[0]
     content = open(os.path.join(target_directory, filename)).read()
     section_contents[section] = content
     section_contents_lower[section] = content.lower()
