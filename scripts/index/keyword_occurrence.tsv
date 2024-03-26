@@ -213,8 +213,7 @@ Cheques	4-3	4-3
 Chiang Ching-Kuo	2-1	2-1
 Chiang Kai-shek	2-1	2-1
 Child Mortality	6-2	
-Chinese Communist Party	2-1	2-0, 2-1, 7-0
-Chinese Communist Party (CCP)	7-0	2-1, 7-0
+Chinese Communist Party (CCP)	2-1, 7-0	2-1, 7-0
 Church-Turing	3-1	3-1
 Circular investment	5-7	5-7, 7-0
 Citizen co-journalism	6-3	6-3
@@ -445,7 +444,6 @@ Digital Agency	7-0	7-0
 Digital Archaeology	5-3	5-3
 Digital Asset Sharing	4-4	4-4
 Digital Asset Taxes	7-0	7-0
-Digital asset taxes	7-0	7-0
 Digital Assets	4-4, 7-0	4-0, 4-4, 7-0
 Digital Assistant	5-6	5-6
 Digital Certificate	6-2	6-2
@@ -466,7 +464,6 @@ Digital Infrastructure	4-5	3-3, 4-1, 4-5, 7-0
 digital innovation hubs	7-0	7-0
 Digital interaction	4-0	4-0
 Digital Land Tax	7-0	7-0
-Digital land tax	7-0	7-0
 Digital Legacies	5-3	5-2, 5-3
 Digital Legacy Realms	5-2	
 Digital Life	4-1	4-0, 4-1, 4-5, 7-0
@@ -477,8 +474,7 @@ Digital Ministries	7-0	7-0
 Digital Nomads	6-1	6-1
 Digital Platform	4-1	4-1, 5-2, 5-3, 5-7
 Digital Protocols	7-0	4-0, 7-0
-Digital Public Infrastructure	4-0, 4-1, 4-5	4-0, 4-1, 4-5, 7-0
-Digital Public Infrastructure (DPI)	7-0	4-0, 4-5, 7-0
+Digital Public Infrastructure (DPI)	4-0, 4-1, 4-5, 7-0	4-0, 4-5, 7-0
 Digital Public Services	2-0	2-0, 4-5
 Digital Realpolitik	2-0	
 Digital rights	4-2	4-2
@@ -607,8 +603,7 @@ Ethnographer	5-5	5-5
 EU	4-1	2-0, 4-1, 4-2, 4-4, 6-2, 7-0
 Euclidean Geometry	3-1	3-1, 3-2
 European Digital Identity	7-0	4-1, 7-0
-European Union	5-6	2-0, 4-4, 5-6, 7-0
-European Union (EU)	7-0	7-0
+European Union (EU)	5-6, 7-0	7-0
 Eusocial	3-1	3-1
 Evacuation Credentials	4-1	4-1
 Excessive Fragmentation	6-1	6-1
@@ -1019,8 +1014,7 @@ Liu Cixin	3-1	3-1
 Livestream-based communication	2-2	2-2
 LLM-based Representative	5-4	
 LLMs	6-1	2-2, 5-4, 5-5, 6-1
-Local Exchange Trading Systems	4-2	4-2, 4-3
-Local Exchange Trading Systems (LETS)	4-3	4-3
+Local Exchange Trading Systems (LETS)	4-2, 4-3	4-3
 Local Language	5-5	5-5
 Local ⿻ Communities	7-1	
 Location Aware Sensor System	6-4	6-4
@@ -1795,7 +1789,7 @@ Unstructured Communication	5-1
 Untapped	5-5	5-5
 Urgency of innovation leadership	2-0	
 Ursula Le Guin	2-0	2-0
-US	7-0	0-0, 0-1, 0-2, 1, 2-0, 2-1, 2-2, 3-0, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 6-0, 6-1, 6-2, 6-3, 6-4, 7-0, 7-1, 8
+US	7-0	0-0, 2-0, 2-1, 2-2, 3-1, 3-2, 3-3, 4-0, 4-1, 4-2, 4-3, 4-4, 5-0, 5-1, 5-2, 5-4, 5-5, 5-7, 6-1, 6-2, 6-4, 7-0
 USAID	6-2	
 User Engagement	5-4	2-0, 5-4
 User Experience	5-4	2-2, 4-1, 5-4, 7-0
