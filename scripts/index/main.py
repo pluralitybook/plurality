@@ -18,7 +18,7 @@ def remove_palen(s):
     return k.split("(")[0].strip()
 
 
-CSV_FILE = "Plurality Book Indexing Exercise - Main.csv"
+CSV_FILE = "Plurality Book Indexing Exercise - Candidates.csv"
 # This will get the absolute path of the current script file.
 script_directory = os.path.dirname(os.path.abspath(__file__))
 
@@ -41,7 +41,7 @@ sections.remove("Plurality Book Ownership List.md")
 section_contents = {}
 section_contents_lower = {}
 for filename in sections:
-    section = re.match("(\d-\d|\d)-", filename).groups()[0]
+    section = re.match(r"(\d-\d|\d)-", filename).groups()[0]
     content = open(os.path.join(target_directory, filename)).read()
     section_contents[section] = content
     section_contents_lower[section] = content.lower()
@@ -51,9 +51,12 @@ poc_count = defaultdict(int)
 keywords = set()
 keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
-    keywords.add(row[1])
-    keyword_recorded_by_human[row[1]].add(normalize_section_name(row[2]))
     poc_count[row[3]] += 1
+    k = row[1]
+    if k in ["Just", "Author", "Fair", "Writing"]:  # not a keyword
+        continue
+    keywords.add(k)
+    keyword_recorded_by_human[k].add(normalize_section_name(row[2]))
 
 
 # detect similar words
@@ -69,7 +72,7 @@ for k in keywords:
 with open(os.path.join(script_directory, "similar_words.tsv"), "w") as f:
     for k in similar_keywords:
         if len(similar_keywords[k]) > 1:  # has multiple presentatin
-            print(similar_keywords[k], file=f)
+            print(", ".join(sorted(similar_keywords[k])), file=f)
 
 
 # output contributors
@@ -109,14 +112,14 @@ with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_oc
     print("Keywords\tSections", file=warn_no_occurence)
     for k in sorted(keywords):
         if not keyword_occurence[k] and k not in IGNORE:
-            sections = ", ".join(keyword_recorded_by_human[k])
+            sections = ", ".join(sorted(keyword_recorded_by_human[k]))
             print(f"{k}\t{sections}", file=warn_no_occurence)
 
 
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
     print(f"Keywords\tSection(by Human)\tSection(by Script)", file=f)
 
-    for k in sorted(keyword_occurence, key=lambda x: x.lower()):
+    for k in sorted(keyword_occurence, key=lambda x: (x.lower(), x)):
         human = ", ".join(sorted(keyword_recorded_by_human[k]))
         occ = ", ".join(sorted(keyword_occurence[k]))
         k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
@@ -130,11 +133,16 @@ with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
         print(f"{sec}\t{section_occurence[sec]}\t{ratio}", file=f)
 
 
+too_many_occurrence = []
+for k in sorted(keyword_occurence, key=lambda x: x.lower()):
+    if len(keyword_occurence[k]) >= 5:
+        human = ", ".join(sorted(keyword_recorded_by_human[k]))
+        occ = ", ".join(sorted(keyword_occurence[k]))
+        k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
+        too_many_occurrence.append((len(keyword_occurence[k]), k, human, occ))
+
+too_many_occurrence.sort(reverse=True)
 with open(os.path.join(script_directory, "too_many_occurrence.tsv"), "w") as f:
     print(f"Keywords\tSection(by Human)\tSection(by Script)", file=f)
-    for k in sorted(keyword_occurence, key=lambda x: x.lower()):
-        if len(keyword_occurence[k]) >= 5:
-            human = ", ".join(sorted(keyword_recorded_by_human[k]))
-            occ = ", ".join(sorted(keyword_occurence[k]))
-            k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
-            print(f"{k}\t{human}\t{occ}", file=f)
+    for num, k, human, occ in too_many_occurrence:
+        print(f"{k}\t{human}\t{occ}", file=f)
