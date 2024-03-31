@@ -10,7 +10,7 @@ This chapter will depict how to empower communities to overcome rigid teaching m
 
 ### Resilient Learning Systems
 
-The 2022 global reports of PISA[^PISA] & ICCS[^ICCS] point out that Taiwan, Japan, South Korea, and Lithuania grew against the trend during the pandemic, and are considered to have resilient education systems[^EdResilience]. One of the outstanding factors for Taiwan is the diverse co-creation teaching model of Curriculum Guidelines 108, which successfully combines physical and digital learning tools, and regards "autonomy, interaction, and co-prosperity" as new core values, inspiring a sense of mission towards global sustainable development[^EdSDGs].
+The 2022 global reports of PISA[^PISA] & ICCS[^ICCS] point out that Taiwan, Japan, South Korea, and Lithuania grew against the trend during the pandemic, and are considered to have resilient education systems[^EdResilience]. One of the outstanding factors for Taiwan is the diverse co-creation teaching model of 2019 Basic Education Curriculum, which successfully combines physical and digital learning tools, and regards "spontaneity, interaction, and common good" as new core values, inspiring a sense of mission towards global sustainable development[^EdSDGs].
 
 [^ICCS]: https://www.iea.nl/studies/iea/iccs/2022
 [^PISA]: https://www.oecd.org/pisa/ & https://focustaiwan.tw/culture/202312060017
@@ -39,7 +39,7 @@ The mobile university education system Minerva[^Minerva] breaks the limitations 
 [^Minerva]: https://www.minerva.edu/
 [^WURI]: https://www.wuri.world/2023-global-top-100
 
-The civic tech collaboration mentioned in Taiwan's vibrant tech society (2-2, "Digital Democracy in Everyday Life") has also promoted the open-source "Moedict"[^Moedict] project, which involves teachers, students, and parents learning by doing. This service has uploaded 160,000 Mandarin entries, 20,000 Taiwanese entries, and 14,000 Hakka entries, with an open and diverse compilation mechanism, making it a multilingual interactive online civic dictionary, demonstrating a global yet localized "collaborative cataloging" paradigm. It not only supports a broad community writing space but also serves as a platform for exchanges between different languages and cultures.
+The civic tech collaboration mentioned in Taiwan's vibrant tech society (2-2 The Life of a Digital Democracy) has also promoted the open-source "Moedict"[^Moedict] project, which involves teachers, students, and parents learning by doing. This service has uploaded 160,000 Mandarin entries, 20,000 Taiwanese entries, and 14,000 Hakka entries, with an open and diverse compilation mechanism, making it a multilingual interactive online civic dictionary, demonstrating a global yet localized "collaborative cataloging" paradigm. It not only supports a broad community writing space but also serves as a platform for exchanges between different languages and cultures.
 
 Moedict has prompted the public sector to actively adopt the "Creative Commons" license[^MoeData], contributing value to the development of AI models like TAIDE in Taiwan[^TaideData]. Local languages and public knowledge can be interconnected into collaborative networks. The application of such an open-source paradigm as "Moedict" established close ties with official educational institutions and social innovation organizations a decade ago, demonstrating the interoperability between open-source co-editing culture and the formal education system.
 
@@ -47,7 +47,7 @@ Moedict has prompted the public sector to actively adopt the "Creative Commons" 
 [^MoeData]: https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
 [^TaideData]: https://taide.tw/index/training-data?type=2
 
-The Internet libraries, Wikipedia, and CC-licensed image and text sharing described in "3-3 The Way We Forget" are all valuable global assets comparable to commons, generated based on open-source collaboration. Like in a vast world park, works co-created by citizens from different countries and languages can be understood and actively maintained by more people, further promoting the democratization of knowledge and filling the gaps in civic education. These are practical examples of learning evolving towards the ⿻ path and mutually benefiting the public.
+Online libraries, Wikipedia, and CC-licensed image and text sharing described in (3-3 The Lost Dao) are all valuable global assets comparable to commons, generated based on open-source collaboration. Like in a vast world park, works co-created by citizens from different countries and languages can be understood and actively maintained by more people, further promoting the democratization of knowledge and filling the gaps in civic education. These are practical examples of learning evolving towards the ⿻ path and mutually benefiting the public.
 
 ### Globally Connected Lifelong Learning
 
@@ -57,7 +57,7 @@ However, crises also bring opportunities. To overcome difficulties together, peo
 
 The wisdom of different groups, through open collaboration, converges into a more powerful force. Encyclopedias compiled by global users and free software built by open-source communities are all ⿻ learning fields where humanity works together and transcends barriers.
 
-In the face of breakthroughs in AI technology, we can actively try to apply innovative thinking to areas such as deliberation, the workplace, and health. Through open-source concepts, neutral datasets, and bias detection tools, AI can help us build more flexible cross-cultural communication models and enhance organizations' ability to address complex problems. Taiwan has used augmented deliberation technologies such as "Talk to Taiwan"[^TttC], based on the concept of open source, to mitigate the impact of AI. Through public participation, it ensures the completeness of information, transcends cultural understanding, and ensures social resilience.
+In the face of breakthroughs in AI technology, we can actively try to apply innovative thinking to areas such as deliberation, the workplace, and health. Through open-source concepts, neutral datasets, and bias detection tools, AI can help us build more flexible cross-cultural communication models and enhance organizations' ability to address complex problems. Taiwan has used augmented deliberation technologies such as "Talk to the City"[^TttC], based on the concept of open source, to mitigate the impact of AI. Through public participation, it ensures the completeness of information, transcends cultural understanding, and ensures social resilience.
 
 [^TttC]: https://moda.gov.tw/major-policies/alignment-assemblies/2023-ideathon/1459
 
