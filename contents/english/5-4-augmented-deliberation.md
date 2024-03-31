@@ -147,7 +147,7 @@ Lastly, deliberation is sometimes idealized as helping overcome divisions and re
 
 [^CDC]: A Citizen Deliberative Council (CDC) article on the Co-Intelligence Site https://www.co-intelligence.org/P-CDCs.html
 
-[^NCDD]:  [Liberating Structures](https://www.liberatingstructures.com/) (2024) has 33 methods for people to work together in liberating ways.  [Participedia](https://participedia.net/ )  is public participation and democratic innovations platform documenting methods and case studies. To get at the heart of the underlying patterns in good and effective processes two communities developed pattern languages 1) The [Group Works](https://groupworksdeck.org/): A Pattern Language for Brining Meetings and other Gatherings[^Groupworks] (2022) and 2) The [Wise Democracy Pattern Language](https://www.wd-pl.com/). 
+[^NCDD]:  [Liberating Structures](https://www.liberatingstructures.com/) (2024) has 33 methods for people to work together in liberating ways.  [Participedia](https://participedia.net/ )  is public participation and democratic innovations platform documenting methods and case studies. To get at the heart of the underlying patterns in good and effective processes two communities developed pattern languages 1) The [Group Works](https://groupworksdeck.org/): A Pattern Language for Brining Meetings and other Gatherings (2022) and 2) The [Wise Democracy Pattern Language](https://www.wd-pl.com/). 
 
 
 
