@@ -1,136 +1,145 @@
-AI Conversation Model
-AI Deep Learning
-AI-driven Intervention
-Abundance technocracy (AT)
-Acemoglu, Daron
-Aging Simulation
-Ainulindalë
-Antiretroviral Therapie
-Application Ecosystem
-Artistic co-creation
-Athena's tapestry
-Attention auction
-Basic Antigen
-Biomedicine
-Bridging the Crowd
-British Colonial Development Corporation
-Catastrophic Risks
-Chaotic States
-Child Mortality
-Climate Change Simulations
-Climate hazard
-Co-construction of Health Agency
-Co-creation Relationship
-Co-decision Making Processe
-Co-writing
-Collective Response Model
-Competitive Effect
-Competitive authoritarian regimes
-Cross-Cultural Exchanges
-Darkening Clouds
-De Tocqueville, Alexis
-Defense Advanced Research Projects Agency
-Digital Democracy Initiative
-Digital Legacy Realms
-Digital Realpolitik
-Digital literacy
-Direct Thought Transmission
-Distributed Ledger Technology (DLT)
-Diversification of Seeing
-Emotion Tracking
-Empathetic Technology
-Entrepreneurial Sovereignty (ES)
-Ethereum Attestation Service
-Extreme underinvestment
-FIDES
-Fabric of Trust
-Formal Identity
-Ganga River
-Globarization
-Health Objectivism
-Hunter-gatherer Model
-HyperCerts
-Immersive Education
-Immersive Shared Reality Campuse
-Impact-investing
-Independent Stake
-Industry 1.0
-Industry 2.0
-Industry 3.0
-Industry 4.0
-Inter-species Communication
-Intersectional Identity
-J.R.R. Tolkien
-Jefferson, Thomas
-Jobs, Steve
-Kela-Kelpo project
-LLM-based Representative
-Left-right Divide
-Local ⿻ Communities
-Millennium Development Declaration
-Monolithic Threat
-National Socialist German Workers party
-North Atlantic Treaty Organization
-Objectivist Model
-Online collaboration platform
-Open Recognition Community
-Open Source Observer
-Open-source Technology
-Optimism Collective
-Orderly States
-Out-of-pocket Payment
-Page Rank
-Pigouvian Taxes
-Pixar's headquarters
-Plural Future
-Plural workplace
-Populist Movement 
-Proprioceptive Communication
-Public Data Repositories
-Public Welfare Shcemes
-Pythagoras
-Regenerative Economies
-Regenerative Plurality
-Replenishment Round
-Robinson, James
-Sensory Degradation
-Simon, Herbert
-Siraya language
-Snowden, Edward
-Social Dynamics
-Social Solidarity
-Sprightly
-Strava model
-Structured Communication
-Sub-Saharan Africa
-Surveillance Risks
-Target Population
-Technocratic Narrative
-Tensions between technology and democracy
-The Parliament of Things
-Transculturalism
-UN-Water
-USAID
-Unstructured Communication
-Urgency of innovation leadership
-VR Therapy
-Virtual Civic Spaces
-Vulcan philosophy
-WEIRD societies
-Wave of ⿻
-Whanganui River
-Wised Democracy Pattern Language
-World Food Programme
-World Trade Organization,
-Yamuna River
-charter town
-individuality loss
-m-health
-the Optimism Collective
-⿻ Health Agency
-⿻ Health Association
-⿻ Interaction
-⿻ Rule
-⿻-goods Financing
-⿻istic
-⿻istic Ignorance
+Keywords	Sections
+AI Conversation Model	6-4
+AI Deep Learning	6-4
+AI GOOGLE NGRAMS CHART	2-0
+AI-driven Intervention	5-4
+Abundance technocracy (AT)	4-0
+Acemoglu, Daron	2-0
+Aging Simulation	5-1
+Antiretroviral Therapie	6-2
+Application Ecosystem	6-2
+Artistic co-creation	5-3
+Attention auction	4-0
+Automated Clearing House(ACH)	4-3
+Basic Antigen	6-2
+Biomedicine	6-2
+Bridging the Crowd	5-4
+British Colonial Development Corporation	6-2
+Catastrophic Risks	2-0
+Chaotic States	3-1
+Child Mortality	6-2
+Climate Change Simulations	5-2
+Climate hazard	6-2
+Co-construction of Health Agency	6-2
+Co-creation Relationship	6-4
+Co-decision Making Processe	6-2
+Co-writing	5-3
+Collective Response Model	5-4
+Community Notes (CN)　	5-4
+Competitive Effect	6-0
+Competitive authoritarian regimes	4-0
+Context for the association	4-2
+Cross-Cultural Exchanges	5-2
+Darkening Clouds	6-2
+De Tocqueville, Alexis	4-2
+Decentralized Social Networking Protocol (DSNP)	4-2
+Defense Advanced Research Projects Agency	2-0
+Digital Legacy Realms	5-2
+Digital Realpolitik	2-0
+Digital literacy	7-0
+Direct Thought Transmission	5-1
+Distributed Ledger Technology (DLT)	4-2
+Diversification of Seeing	6-0
+Emotion Tracking	5-1
+Empathetic Technology	5-1
+Entrepreneurial Sovereignty (ES)	4-0
+Ethereum Attestation Service	6-2
+Extreme underinvestment	6-2
+FIDES	6-2
+Formal Identity	4-1
+Ganga River	6-4
+Globarization	1-1
+Good Old-fashioned AI (GOFAI)	5-5
+Health Objectivism	6-2
+Hunter-gatherer Model	6-0
+HyperCerts	6-2
+Immersive Education	5-2
+Immersive Shared Reality Campuse	6-1
+Impact-investing	6-2
+Independent Stake	6-2
+Industry 1.0	2-0
+Industry 2.0	2-0
+Industry 3.0	2-0
+Industry 4.0	2-0
+Inter-species Communication	5-2
+International Telecommunication Union (ITU)	4-5
+Internet Corporation for Assigned Names and Numbers (ICANN)	4-4
+Interplanetary File System (IPFS)	4-4
+Intersectional Identity	3-2
+Jefferson, Thomas	2-0
+Jobs, Steve	6-1
+Kela-Kelpo project	5-5
+LLM-based Representative	5-4
+Left-right Divide	5-4
+Local ⿻ Communities	7-1
+Millennium Development Declaration	6-2
+Monolithic Threat	2-0
+National Socialist German Workers party	4-0
+North Atlantic Treaty Organization	2-0
+Objectivist Model	6-2
+Online collaboration platform	5-3
+Open Recognition Community	3-3
+Open Source Observer	6-2
+Open-source Technology	5-3
+Orderly States	3-1
+Organizational Chart	6-1
+Out-of-pocket Payment	6-2
+Page Rank	5-6
+Pigouvian Taxes	5-7
+Pixar's headquarters	6-1
+Plural workplace	6-1
+Populist Movement 	5-7
+Proprioceptive Communication	5-1
+Protocol Labs (PL)	4-4
+Public Data Repositories	4-1
+Public Welfare Shcemes	5-7
+Regenerative Economies	5-0
+Regenerative Plurality	5-0
+Replenishment Round	6-2
+Robinson, James	2-0
+Secure Multi-Party Computation (SMPC)	4-2
+Sensory Degradation	5-1
+Simon, Herbert	4-2
+Siraya language	2-1
+Snowden, Edward	4-2
+Social Dynamics	3-2
+Social Solidarity	6-2
+Sprightly	4-2
+Strava model	6-2
+Structured Communication	5-1
+Sub-Saharan Africa	6-2
+Surveillance Risks	5-1
+Target Population	6-2
+Technocratic Narrative	2-0
+Tensions between technology and democracy	4-0
+The Parliament of Things	5-4
+Transnational ⿻ Society	7-0
+UN-Water	6-2
+USAID	6-2
+Unforgeable and undeniable signatures	4-2
+Uniform Resource Locator (URL)	4-4
+Unstructured Communication	5-1
+Urgency of innovation leadership	2-0
+VR Therapy	5-2
+Virtual Civic Spaces	5-2
+Vulcan philosophy	5-0
+WEIRD societies	3-3
+WWII	2-1
+Wave of ⿻	6-3
+Whanganui River	6-4
+Wikimedia Foundations	7-0
+Wised Democracy Pattern Language	5-4
+World Food Programme	6-2
+World Trade Organization,	5-7
+Yamuna River	6-4
+charter town	3-3
+individuality loss	5-1
+m-health	6-2
+the Optimism Collective	6-2
+⿻ Health Agency	6-2
+⿻ Health Association	6-2
+⿻ Interaction	6-4
+⿻ Rule	5-6
+⿻-goods Financing	6-2
+⿻istic	5-4, 5-6
+⿻istic Ignorance	6-3

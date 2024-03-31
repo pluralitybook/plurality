@@ -16,7 +16,7 @@ We recommend in particular that:
 
 - Those with a focus on public **policy**, government and social mobilization consider beginning with Part 7.
 
-Regardless of stating point, we expect most readers who find value wherever they begin will find it worthwhile to continue reading, looping back and filling in the theoretical frameworks of "later" parts of the book with the the material that comes earlier.
+Regardless of starting point, we expect most readers who find value wherever they begin will find it worthwhile to continue reading, looping back and filling in the theoretical frameworks of "later" parts of the book with the material that comes earlier.
 
 This book is a living document.  If you are reading a printed version, it is almost certainly out of date already and you can read or download for free the latest version at https://www.plurality.net/.
 
