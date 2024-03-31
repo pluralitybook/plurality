@@ -1,5 +1,7 @@
 # Learning
 
+[quantitative estimate of impact on some metric]
+
 Learning is a lifelong journey universally recognized around the globe. It begins with the influence of family, culture, and social circles, while the educational environment is a common collective experience along this journey. Different background stories shape the diverse communication languages, cooperation methods, and values in dealing with people and things between each other. For example, there are significant differences between the East and West, especially in the pursuit of knowledge and the integration of groups. The ⿻ technology of "collaboration across social differences" stimulates co-creation by bringing together different knowledge inheritance processes from around the world.
 
 To this end, learners can fully explore their own and society's potential, avoiding setting boundaries at the starting point. This requires building an open, non-dogmatic social cognition system, allowing everyone's unique talents to find appropriate space for expression without fear of communication. With the assistance of ⿻ technologies such as machine translation, shared reality, and cross-border communities like Wikipedia (3-3 The Lost Dao), the traditional rigid learning paths are supplemented and challenged, going beyond the scope of traditional classrooms and textbooks.
