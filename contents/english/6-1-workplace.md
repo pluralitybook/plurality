@@ -1,6 +1,6 @@
 # Workplace
 
-More than a billion people worldwide work outside their homes in formal organizations with at least a few other people.[^Formal]  These "workplaces" produce about 70% of global output and are the first thing most people think of when they hear "economy". Just as we consider the vast contribution of workplaces to the global economy, it is essential to address inefficiencies that hinder productivity. U.S. workers spend an average of 31 hours per month in meetings deemed unproductive, a significant drain on both time and resources.[^meeting-stats] If ⿻ is to help re-imagine the economy, it must restructure formal work, which we turn to in this chapter.
+More than a billion people worldwide work outside their homes in formal organizations with at least a few other people.[^ILO]  These "workplaces" produce about 70% of global output and are the first thing most people think of when they hear "economy". Just as we consider the vast contribution of workplaces to the global economy, it is essential to address inefficiencies that hinder productivity. U.S. workers spend an average of 31 hours per month in meetings deemed unproductive, a significant drain on both time and resources.[^meeting-stats] If ⿻ is to help re-imagine the economy, it must restructure formal work, which we turn to in this chapter.
 
 [^ILO]: International Labor Organization, " World Employment and Social Outlook: Trends" (2023) at https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_865387.pdf.
 
