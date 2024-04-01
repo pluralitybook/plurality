@@ -25,12 +25,14 @@
 `---`<br></br>
 — [Anne Applebaum](https://en.wikipedia.org/wiki/Anne_Applebaum), winner of the [Pulitzer Prize](https://www.pulitzer.org/winners/anne-applebaum) and author of [*The Twilight of Democracy*](https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/) and [*Red Famine*](https://www.penguinrandomhouse.com/books/236713/red-famine-by-anne-applebaum/)
 
-> (V)isionary in design, execution and substance.<br></br>
+> *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in terms of politics as conventionally understood, but also offer valuable insights on foundational issues in technology, economics, and beyond.<br></br>
 `---`<br></br>
-— [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), President of [University of Tulsa](https://utulsa.edu/) and [Americans for Responsible Innovation](https://responsibleinnovation.org/), Fmr. US Congressman and Undersecretary of the Army
+— [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
 
 > It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a  framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
 `---`<br></br>
 — [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
 
-​
+> (V)isionary in design, execution and substance.<br></br>
+`---`<br></br>
+— [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), President of [University of Tulsa](https://utulsa.edu/) and [Americans for Responsible Innovation](https://responsibleinnovation.org/), Fmr. US Congressman and Undersecretary of the Army​
