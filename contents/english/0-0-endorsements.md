@@ -12,6 +12,10 @@
 `---`<br></br>
 — [Rev. Johnnie Moore Jr.](https://en.wikipedia.org/wiki/Johnnie_Moore_Jr.), President of the [Congress of Christian Leaders](https://congressofchristianleaders.com/), former member of the [United States Commission on International Religious Freedom](https://en.wikipedia.org/wiki/United_States_Commission_on_International_Religious_Freedom) and informal advisor to Fmr. US President Donald Trump
 
+> Here in clear and non-technical prose is a sweeping vision for how to integrate technology and society to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
+`---`<br></br>
+— [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the [Massachusetts Institute of Technology Media Lab](https://en.wikipedia.org/wiki/MIT_Media_Lab) and founding figure of [Computational Social Science](https://en.wikipedia.org/wiki/Computational_social_science) and [Data Science](https://en.wikipedia.org/wiki/Data_science).
+
 > With wit, erudition and optimism, Audrey Tang and her collaborators argue that we can harness digital technology to confront authoritarianism, and that we can do so by leaning into, rather than shying away from, the principles of an open society.<br></br>
 `---`<br></br>
 — [Anne Applebaum](https://en.wikipedia.org/wiki/Anne_Applebaum), winner of the [Pulitzer Prize](https://www.pulitzer.org/winners/anne-applebaum) and author of [*The Twilight of Democracy*](https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/) and [*Red Famine*](https://www.penguinrandomhouse.com/books/236713/red-famine-by-anne-applebaum/)
