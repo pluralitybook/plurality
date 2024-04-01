@@ -15,7 +15,7 @@
 
 ---
 
-Without living in Taiwan and experiencing it regularly, it is hard to grasp what such an achievement means, and for those living their continuously many of these features are taken for granted. Thus we aim here to provide concrete illustrations and quantitative analyses of what distinguishes Taiwan's digital civic infrastructure from those of most of the rest of the world.  Because there are far too many examples to discuss in detail, we have selected six diverse illustrations that roughly cover a primary focal project for each two year period since 2012; after we briefly list a wide range of other programs.
+Without living in Taiwan and experiencing it regularly, it is hard to grasp what such an achievement means, and for those living there continuously many of these features are taken for granted. Thus we aim here to provide concrete illustrations and quantitative analyses of what distinguishes Taiwan's digital civic infrastructure from those of most of the rest of the world.  Because there are far too many examples to discuss in detail, we have selected six diverse illustrations that roughly cover a primary focal project for each two-year period since 2012; after we briefly list a wide range of other programs.
 
 ### Illustrations 
 
