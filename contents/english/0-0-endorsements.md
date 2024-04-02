@@ -3,6 +3,9 @@
 >
 
 >
+> In the vast, boundless expanse of Plurality, each life is a unique and precious existence...Regardless of how perilous external circumstances may be...(l)et us take positive action to allow the seeds of shared goodness to break through the earth and blossom into flower of empathy, joy and harmony.<br></br>
+`---`<br></br>
+— His Holiness the[Dalai Lama XIV](https://www.dalailama.com/) of Tibet
 
 > In a technologically advanced, politically challenging, and rapidly evolving 21st century, what does a free and open future look like? Glen, Audrey and their coauthors offer a compelling view of a way forward.<br></br>
 `---`<br></br>
@@ -25,7 +28,7 @@
 `---`<br></br>
 — [Anne Applebaum](https://en.wikipedia.org/wiki/Anne_Applebaum), winner of the [Pulitzer Prize](https://www.pulitzer.org/winners/anne-applebaum) and author of [*The Twilight of Democracy*](https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/) and [*Red Famine*](https://www.penguinrandomhouse.com/books/236713/red-famine-by-anne-applebaum/)
 
-> *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in terms of politics as conventionally understood, but also offer valuable insights on foundational issues in technology, economics, and beyond.<br></br>
+> *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
 `---`<br></br>
 — [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
 
