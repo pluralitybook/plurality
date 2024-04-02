@@ -15,9 +15,6 @@
 `---`<br></br>
 — [Oby Ezekwesili](https://en.wikipedia.org/wiki/Oby_Ezekwesili), Co-Founder of [Transparency International](https://www.transparency.org/en), [#BringBackOurGirls](https://bringbackourgirls.ng/), Founder of the [School of Politics, Policy and Governance](https://thesppg.org/our-program/) and [#FixPolitics](https://www.fixpolitics.org/), and Nigerian political leader   
 
-> For too long, diversity and technology have been used as swords by the forces of secularization.  Remarkably, in the skilled hands of these authors, they are here reforged into a shield for the faithful.<br></br>
-`---`<br></br>
-— [Rev. Johnnie Moore Jr.](https://en.wikipedia.org/wiki/Johnnie_Moore_Jr.), President of the [Congress of Christian Leaders](https://congressofchristianleaders.com/), former member of the [United States Commission on International Religious Freedom](https://en.wikipedia.org/wiki/United_States_Commission_on_International_Religious_Freedom) and informal advisor to Fmr. US President Donald Trump
 
 > Here in clear and non-technical prose is a sweeping vision for how to integrate technology and society to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
 `---`<br></br>
@@ -26,6 +23,10 @@
 > With wit, erudition and optimism, Audrey Tang and her collaborators argue that we can harness digital technology to confront authoritarianism, and that we can do so by leaning into, rather than shying away from, the principles of an open society.<br></br>
 `---`<br></br>
 — [Anne Applebaum](https://en.wikipedia.org/wiki/Anne_Applebaum), winner of the [Pulitzer Prize](https://www.pulitzer.org/winners/anne-applebaum) and author of [*The Twilight of Democracy*](https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/) and [*Red Famine*](https://www.penguinrandomhouse.com/books/236713/red-famine-by-anne-applebaum/)
+
+> For too long, diversity and technology have been used as swords by the forces of secularization.  Remarkably, in the skilled hands of these authors, they are here reforged into a shield for the faithful.<br></br>
+`---`<br></br>
+— [Rev. Johnnie Moore Jr.](https://en.wikipedia.org/wiki/Johnnie_Moore_Jr.), President of the [Congress of Christian Leaders](https://congressofchristianleaders.com/), former member of the [United States Commission on International Religious Freedom](https://en.wikipedia.org/wiki/United_States_Commission_on_International_Religious_Freedom) and informal advisor to Fmr. US President Donald Trump
 
 > *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
 `---`<br></br>
