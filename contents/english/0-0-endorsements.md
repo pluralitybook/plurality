@@ -4,6 +4,10 @@
 
 >
 
+> In the vast, boundless expanse of *Plurality*, each life is a unique and precious existence...Regardless of how perilous external circumstances may be...(l)et us take positive action to allow the seeds of shared goodness to break through the earth and blossom into flower of empathy, joy and harmony.<br></br>
+`---`<br></br>
+— His Holiness the [Dalai Lama XIV](https://www.dalailama.com/) of Tibet
+
 > In a technologically advanced, politically challenging, and rapidly evolving 21st century, what does a free and open future look like? Glen, Audrey and their coauthors offer a compelling view of a way forward.<br></br>
 `---`<br></br>
 — [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin), Founder of [Ethereum](https://ethereum.org/en/)
