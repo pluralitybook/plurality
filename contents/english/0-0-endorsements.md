@@ -3,6 +3,7 @@
 >
 
 >
+
 > In the vast, boundless expanse of *Plurality*, each life is a unique and precious existence...Regardless of how perilous external circumstances may be...(l)et us take positive action to allow the seeds of shared goodness to break through the earth and blossom into flower of empathy, joy and harmony.<br></br>
 `---`<br></br>
 — His Holiness the [Dalai Lama XIV](https://www.dalailama.com/) of Tibet
