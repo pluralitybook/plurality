@@ -33,6 +33,10 @@
 `---`<br></br>
 — [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
 
+> I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!.<br></br> 
+`---`<br></br>
+— [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), creator of [*Magic:The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
+
 > It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a  framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
 `---`<br></br>
 — [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
