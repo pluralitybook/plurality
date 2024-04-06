@@ -1,10 +1,15 @@
 # Learning
 
-[quantitative estimate of impact on some metric]
-
 Learning is a lifelong journey universally recognized around the globe. It begins with the influence of family, culture, and social circles, while the educational environment is a common collective experience along this journey. Different background stories shape the diverse communication languages, cooperation methods, and values in dealing with people and things between each other. For example, there are significant differences between the East and West, especially in the pursuit of knowledge and the integration of groups. The ⿻ technology of "collaboration across social differences" stimulates co-creation by bringing together different knowledge inheritance processes from around the world.
 
 To this end, learners can fully explore their own and society's potential, avoiding setting boundaries at the starting point. This requires building an open, non-dogmatic social cognition system, allowing everyone's unique talents to find appropriate space for expression without fear of communication. With the assistance of ⿻ technologies such as machine translation, shared reality, and cross-border communities like Wikipedia (3-3 The Lost Dao), the traditional rigid learning paths are supplemented and challenged, going beyond the scope of traditional classrooms and textbooks.
+
+With the popularization of the Internet, collaborative learning environments have become more prevalent. The compound annual growth rate of the online learning market is estimated to exceed 10%[^OnlineEdu2032]. The improvement of cognitive skills is expected to increase the long-term economic growth rate of developing countries by 2%. Reports indicate[^RofCSE] that a workforce with such skills can achieve stable GDP growth (annual increment of 0.6%). Interactive and personalized collaborative learning environments can help more people achieve learning goals, master key skills[^EEgrowth], and meet society's resource development needs[^OECD].
+
+[^OnlineEdu2032]: https://www.renub.com/online-education-market-p.php
+[^OECD]: https://www.oecd-ilibrary.org/education/oecd-skills-outlook-2023\_27452f29-en
+[^EEgrowth]: Economist Eric Hanushek's [research](https://www.educationnext.org/education-and-economic-growth/) shows that in developing countries, for each standard deviation increase in cognitive skills, the long-term economic growth rate can increase by 2 percentage points. This means that the impact of improving education quality on economic growth is even greater than years of schooling.
+[^RofCSE]: [Eric A. Hanushek and Ludger Woessmann's paper](https://www.aeaweb.org/articles?id=10.1257/jel.46.3.607), published in the 2008 Journal of Economic Literature, analyzed the relationship between cognitive skills and economic growth in 50 countries and found a significant positive correlation between the two.
 
 This chapter will depict how to empower communities to overcome rigid teaching models and adapt to the ⿻ environment of lifelong learning. Through these entertaining, collaborative problem-solving, and mission-oriented projects, we can bridge cultural divides.
 
