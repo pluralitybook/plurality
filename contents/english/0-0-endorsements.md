@@ -33,6 +33,11 @@
 
 `<br></br>
 
+> Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
+— [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
+
+`<br></br>
+
 
 > For too long, diversity and technology have been used as swords by the forces of secularization.  Remarkably, in the skilled hands of these authors, they are here reforged into a shield for the faithful.<br></br>
 — [Rev. Johnnie Moore Jr.](https://en.wikipedia.org/wiki/Johnnie_Moore_Jr.), President of the [Congress of Christian Leaders](https://congressofchristianleaders.com/), former member of the [United States Commission on International Religious Freedom](https://en.wikipedia.org/wiki/United_States_Commission_on_International_Religious_Freedom) and informal advisor to Fmr. US President Donald Trump
@@ -47,7 +52,6 @@
 
 
 > *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
-
 — [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
 
 <br></br>
