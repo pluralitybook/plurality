@@ -13,7 +13,7 @@
 — [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin), Founder of [Ethereum](https://ethereum.org/en/)
 
 
-`<br></br>
+<br></br>
 
 > *Plurality* is...truly fascinating...a potential global accelerator...of collaboration that is African in perspective...a must-read and a must-co-create for African thought leaders...who have embraced the challenge of making the 21st century the African century.<br></br>
 — [Oby Ezekwesili](https://en.wikipedia.org/wiki/Oby_Ezekwesili), Co-Founder of [Transparency International](https://www.transparency.org/en), [#BringBackOurGirls](https://bringbackourgirls.ng/), Founder of the [School of Politics, Policy and Governance](https://thesppg.org/our-program/) and [#FixPolitics](https://www.fixpolitics.org/), and Nigerian political leader   
@@ -24,19 +24,19 @@
 > Digital technologies that were supposed to support freedom and democracy have turned into weapons of misinformation, extremism and surveillance.  This wonderful book outlines a technical and philosophical strategy, grounded in  practical applications in Taiwan, for doing this all better.<br></br>
 — [Daron Acemoglu](https://en.wikipedia.org/wiki/Daron_Acemoglu), Elizabeth and James Killian Professor of Economics at the Massachusetts Institute of Technology, Winner of the John Bates Clark Medal and co-author of [*Power and Progress*](https://www.hachettebookgroup.com/titles/daron-acemoglu/power-and-progress/9781541702530/?lens=publicaffairs) and [*Why Nations Fail*](https://en.wikipedia.org/wiki/Why_Nations_Fail)
 
-`<br></br>
+<br></br>
 
 
 
 > With wit, erudition and optimism, Audrey Tang and her collaborators argue that we can harness digital technology to confront authoritarianism, and that we can do so by leaning into, rather than shying away from, the principles of an open society.<br></br>
 — [Anne Applebaum](https://en.wikipedia.org/wiki/Anne_Applebaum), winner of the [Pulitzer Prize](https://www.pulitzer.org/winners/anne-applebaum) and author of [*The Twilight of Democracy*](https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/) and [*Red Famine*](https://www.penguinrandomhouse.com/books/236713/red-famine-by-anne-applebaum/)
 
-`<br></br>
+<br></br>
 
 > Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
 — [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
 
-`<br></br>
+<br></br>
 
 
 > For too long, diversity and technology have been used as swords by the forces of secularization.  Remarkably, in the skilled hands of these authors, they are here reforged into a shield for the faithful.<br></br>
