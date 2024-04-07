@@ -42,7 +42,7 @@
 > An exciting, creative and provocative set of ideas on how to make progress on some of the most fundamental problems in the world. You will never think the same way again after reading this book.<br></br>
 — [Jason Furman](https://en.wikipedia.org/wiki/Jason_Furman), Former Chair of the Council of Economic Advisors and  Aetna Professor of the Practice of Economic Policy, Harvard University
 
-`<br></br>
+<br></br>
 
 > At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
 — [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
