@@ -36,7 +36,18 @@
 > Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
 — [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
 
+
 <br></br>
+
+> An exciting, creative and provocative set of ideas on how to make progress on some of the most fundamental problems in the world. You will never think the same way again after reading this book.<br></br>
+— [Jason Furman](https://en.wikipedia.org/wiki/Jason_Furman), Former Chair of the Council of Economic Advisors and  Aetna Professor of the Practice of Economic Policy, Harvard University
+
+`<br></br>
+
+> At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
+— [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
+
+`<br></br>
 
 
 > For too long, diversity and technology have been used as swords by the forces of secularization.  Remarkably, in the skilled hands of these authors, they are here reforged into a shield for the faithful.<br></br>
@@ -44,11 +55,6 @@
 
 <br></br>
 
-
-> An exciting, creative and provocative set of ideas on how to make progress on some of the most fundamental problems in the world. You will never think the same way again after reading this book.<br></br>
-— [Jason Furman](https://en.wikipedia.org/wiki/Jason_Furman), Former Chair of the Council of Economic Advisors and  Aetna Professor of the Practice of Economic Policy, Harvard University
-
-`<br></br>
 
 
 > *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
