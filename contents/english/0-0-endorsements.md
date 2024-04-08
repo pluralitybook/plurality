@@ -33,6 +33,11 @@
 
 <br></br>
 
+> Rejoice! Here is a burst of creativity that gives us a peek at the humanistic high tech future we suspected was possible.<br></br> 
+— [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier), inventor of Virtual Reality, author of [*Who Owns the Future?*](https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F) and [*The Dawn of the New Everything*](https://us.macmillan.com/books/9781250097408/dawnoftheneweverything) and Microsoft's Office of the Chief Technology Officer Prime Unifying Scientist (OCTOPUS)
+
+<br></br>
+
 > Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
 — [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
 
@@ -44,10 +49,7 @@
 
 <br></br>
 
-> At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
-— [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
 
-`<br></br>
 
 
 > For too long, diversity and technology have been used as swords by the forces of secularization.  Remarkably, in the skilled hands of these authors, they are here reforged into a shield for the faithful.<br></br>
@@ -57,16 +59,23 @@
 
 
 
-> *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
-— [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
 
-<br></br>
-
-
-> I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!.<br></br> 
+> I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!<br></br> 
 — [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), creator of [*Magic:The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
 
 <br></br>
+
+> *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
+— [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
+
+
+
+<br></br>
+
+> At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
+— [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
+
+`<br></br>
 
 > It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a  framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
 — [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
