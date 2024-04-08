@@ -46,8 +46,12 @@ my %Sections = (
     5 => "Section 5: Democracy",
     6 => "Section 6: Impact",
     7 => "Section 7: Forward",
+    0 => "Endorsements",
 );
-for (sort <contents/english/[1234567]*.md>) {
+for (
+    sort(<contents/english/[1234567]*.md>),
+    "contents/english/0-0-endorsements.md", 
+) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
     my $s = int($basename =~ s/-.*//r);
     if (my $section_name = delete $Sections{$s}) {
@@ -56,6 +60,7 @@ for (sort <contents/english/[1234567]*.md>) {
 
     my $c = read_file($_);
     Encode::_utf8_on($c);
+    if ($s == 0) { $c =~ s/^(.*\n){6}// }
     $c =~ s/# /## $basename /;
     $c =~ s/^( +|&nbsp;)+//mg;
     $c =~ s,(\[\^)(.*?\]),$1$basename-$2,g;

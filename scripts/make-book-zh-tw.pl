@@ -45,8 +45,12 @@ my %Sections = (
     5 => "五、民主",
     6 => "六、影響",
     7 => "七、前行",
+    0 => "名家推薦",
 );
-for (sort <contents/traditional-mandarin/[1234567]*.md>) {
+for (
+    sort(<contents/traditional-mandarin/[1234567]*.md>),
+    "contents/traditional-mandarin/0-0-名家推薦.md",
+) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
     my $s = int($basename =~ s/-.*//r);
     if (my $section_name = delete $Sections{$s}) {
@@ -55,6 +59,7 @@ for (sort <contents/traditional-mandarin/[1234567]*.md>) {
 
     my $c = read_file($_);
     Encode::_utf8_on($c);
+    if ($s == 0) { $c =~ s/^(.*\n){6}// }
     $c =~ s/# /## $basename /;
     $basename =~ s,-,_,g; $basename .= '_';
     $c =~ s/^( +|&nbsp;)+//mg;
