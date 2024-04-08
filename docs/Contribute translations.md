@@ -1,5 +1,5 @@
 ---
-title: Translation Contributor Onboarding
+title: Contributing translations
 ---
 
 # Plurality Translation Contributor Onboarding
