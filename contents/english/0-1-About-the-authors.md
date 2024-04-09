@@ -1,9 +1,8 @@
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-AudreyGlen.jpg" width="100%">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+![](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-AudreyGlen.jpg)
 
  [E. Glen Weyl](https://www.glenweyl.com) is Founder of [RadicalxChange](https://www.radicalxchange.org), [Microsoft Research](https://www.microsoft.com/en-us/research/)'s [Plural Technology Collaboratory](https://aka.ms/plural) & [Plurality Institute](https://plurality.institute) & co-author of [*Radical Markets*](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets).  [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang) is the inaugural [Minister of Digital Affairs](https://en.wikipedia.org/wiki/Ministry_of_Digital_Affairs_%28Taiwan%29) in [🇹🇼](https://en.wikipedia.org/wiki/Taiwan) & the inaugural [🏳️‍⚧️](https://en.wikipedia.org/wiki/List_of_transgender_political_office-holders) minister in the 🌐.                                                                                                
+<br></br>
 
-<br />
-
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Community.png" width="100%">
+![](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Community.png)
 
 This book is open-source and its contents may be freely copied, with or without attribution.  In addition to the primary named authors, dozens of members of the ⿻ community around the world contributed to the book, doing most of the total work.  These contributors are listed on the next page and represented in this machine-generated blending of their faces, tiled by their individual faces.  The free online version of this book at [https://www.plurality.net/](https://www.plurality.net/) will continue to evolve, governed according to the principles described in this book by this community.

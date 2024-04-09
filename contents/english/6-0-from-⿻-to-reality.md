@@ -6,11 +6,9 @@
 2. Health, where we believe it can extend human life by two decades;
 3. Media, where it can heal the divides opened by social media, provide sustainable funding, expand participation and dramatically increase press freedom; and
 4. Environment, where it is core to addressing most of the serious environmental problems we face, perhaps even more so than traditional "green" technologies.
+5. Learning, where it can upend the linear structure of current schooling to allow far more diverse and flexible, lifelong learning paths.
 
-While we do not detail them here, we also expect fundamental effects in a wide range of other areas including:
-
-- Energy, where it can help underpin a fundamental transition from the "hunter-gatherer" model of fossil fuels to the "agricultural" model of directly harnessing solar energy;
-- Learning, where it can upend the linear structure of current schooling to allow far more diverse and flexible, lifelong learning paths.
+While we do not detail them here, we also expect fundamental effects in a wide range of other areas, including energy, where it can help underpin a fundamental transition from the "hunter-gatherer" model of fossil fuels to the "agricultural" model of directly harnessing solar energy.
 
 ---
 

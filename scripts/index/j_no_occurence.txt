@@ -5,7 +5,6 @@ AI GOOGLE NGRAMS CHART	2-0
 AI-driven Intervention	5-4
 Abundance technocracy (AT)	4-0
 Acemoglu, Daron	2-0
-Advanced Research Projects Agency	2-0
 Aging Simulation	5-1
 Antiretroviral Therapie	6-2
 Apple's Torus Spaceship	6-1
@@ -27,20 +26,12 @@ Climate hazard	6-2
 Co-creation Relationship	6-4
 Co-decision Making Processe	6-2
 Co-writing	5-3
-Collective Decision	5-6
 Collective Response Model	5-4
-Commons-Based Property	3-3
 Community Notes (CN)　	5-4
-Community-Based Identity	3-3
 Competitive Effect	6-0
 Competitive authoritarian regimes	4-0
-Corporate Control	5-2
-Courtney Cogburn	6-3
 Cross-Cultural Exchanges	5-2
 Cross-pollination Service	6-1
-Cultural Homogenization	5-3
-DARPA	2-0
-Dao	4-5
 Darkening Clouds	6-2
 De Tocqueville, Alexis	4-2
 Decentralized Scientific Community	3-1
@@ -49,7 +40,6 @@ Defense Advanced Research Projects Agency	2-0
 Digital Legacy Realms	5-2
 Digital Realpolitik	2-0
 Digital literacy	7-0
-Digital-native currencies	4-0
 Direct Thought Transmission	5-1
 Directly ⿻ (D⿻)	7-0
 Distributed Ledger Technology (DLT)	4-2
@@ -59,50 +49,38 @@ Duverger's Law	5-6
 Einstein's Theories Of Relativity	3-1
 Emotion Tracking	5-1
 Empathetic Technology	5-1
-Enlightenment	3-3
 Entrepreneurial Sovereignty (ES)	4-0
 Ethereum Attestation Service	6-2
 Extreme underinvestment	6-2
 FIDES	6-2
 Formal Identity	4-1
 Ganga River	6-4
-Global Legitimacy	5-6
 Globarization	1-1
 Good Old-fashioned AI (GOFAI)	5-5
 Gov4Git	6-2
 Gödel's Theorem	3-1
-HackMD	6-2
 Health Objectivism	6-2
-Humanocracy	6-1
 Hunter-gatherer Model	6-0
 HyperCerts	6-2
 Immersive Education	5-2
 Immersive Shared Reality Campuse	6-1
 Impact-investing	6-2
 Independent Stake	6-2
-India stack	4-0
-Individual Identity	3-3
 Industry 1.0	2-0
 Industry 2.0	2-0
 Industry 3.0	2-0
 Industry 4.0	2-0
-Integrity of identity	4-2
 Inter-species Communication	5-2
-International Trade	7-1
 Intersectional Identity	3-2
 Jefferson, Thomas	2-0
 Jobs, Steve	6-1
-Joseph Gordon-Levitt	5-3
 LLM-based Representative	5-4
 Left-right Divide	5-4
 Legal Grounding	4-1
-Liberal Democracy	3-3
 Local ⿻ Communities	7-1
 Low-skilled Workers	2-0
-M. Mitchell Waldrop	2-0
 Millennium Development Declaration	6-2
 Monolithic Threat	2-0
-Monopolization	5-2
 Moore's Law	4-4
 National Socialist German Workers party	4-0
 New ⿻ Order	7-1
@@ -111,12 +89,10 @@ Non-profit ⿻ Infrastructure	7-0
 North Atlantic Treaty Organization	2-0
 Objectivist Model	6-2
 On the Internet, Nobody Knows You're A Dog	4-1
-One-Person-One-Vote	3-3
 Online collaboration platform	5-3
 Open Recognition Community	3-3
 Open Source Observer	6-2
 Open-source Technology	5-3
-Optimism Collective	6-2
 Orderly States	3-1
 Organizational Chart	6-1
 Out-of-pocket Payment	6-2
@@ -126,30 +102,22 @@ People's Republic of China (PRC)	2-0, 2-1, 7-0
 Pigouvian Taxes	5-7
 Pixar's headquarters	6-1
 Plural workplace	6-1
-Predictive Voting	6-2
 Private Community-based Sponsorship	5-7
 Private, For-profit Corporations	4-1
 Proprioceptive Communication	5-1
 Public Data Repositories	4-1
-Public Good	6-2
 Public Welfare Shcemes	5-7
-Raj	6-2
 Regenerative Economies	5-0
 Regenerative Plurality	5-0
-Renaissance	3-3
 Replenishment Round	6-2
-Richard Rorty	2-1
 Robert Atkinson	2-0
 Robinson, James	2-0
-SSN	3-3
 Sensory Degradation	5-1
 Simon, Herbert	4-2
 Siraya language	2-1
 Snowden, Edward	4-2
 Social Dynamics	3-2
-Social Security Numbers	3-3
 Social Solidarity	6-2
-Social sciences	3-2
 Sprightly	4-2
 Strava model	6-2
 Structured Communication	5-1
@@ -160,7 +128,6 @@ Taiwan's Digital Civic Infrastructure	2-2
 Target Population	6-2
 Technocratic Narrative	2-0
 Tensions between technology and democracy	4-0
-The Dream Machine	2-0
 The Emperor's New Clothes	4-2
 The Parliament of Things	5-4
 Transnational ⿻ Society	7-0
@@ -168,8 +135,6 @@ UN-Water	6-2
 UNDP	6-2
 USAID	6-2
 Uniform Resource Locator (URL)	4-4
-United States	5-5
-Universal Birth Registration	3-3
 Unstructured Communication	5-1
 Urgency of innovation leadership	2-0
 VR Therapy	5-2
@@ -186,11 +151,7 @@ charter town	3-3
 e-citizenship	6-1
 individuality loss	5-1
 m-health	6-2
-modernity	3-3
-private clubs	2-1
-rationality	3-3
 the Optimism Collective	6-2
-will.i.am	5-3
 ⿻ Approach	4-1
 ⿻ Artist	5-3
 ⿻ Book	5-7
@@ -200,7 +161,6 @@ will.i.am	5-3
 ⿻ Foundations	3-1
 ⿻ Funding Across Boundaries	5-7
 ⿻ Funding Formula	5-7
-⿻ Future	4-1, 4-5, 5-7
 ⿻ Governance	5-7
 ⿻ Group	5-7
 ⿻ Health Agency	6-2
@@ -222,14 +182,12 @@ will.i.am	5-3
 ⿻ Public	6-2, 6-4
 ⿻ Public Media	6-3
 ⿻ Rule	5-6
-⿻ Social Science	3-1
 ⿻ Society	4-1
 ⿻ Structure	6-3
 ⿻ Taxes	7-0
 ⿻ Technologies	7-0, 7-1
 ⿻ Technologist	5-4
 ⿻ Thinking	5-6
-⿻ Vision	6-2
 ⿻ funding:	5-7
 ⿻ good	6-2
 ⿻ mechanism	6-2
