@@ -15,7 +15,7 @@
 <br></br>
 
 > *Plurality* is...truly fascinating...a potential global accelerator...of collaboration that is African in perspective...a must-read and a must-co-create for African thought leaders...who have embraced the challenge of making the 21st century the African century.<br></br>
-— [Oby Ezekwesili](https://en.wikipedia.org/wiki/Oby_Ezekwesili), Co-Founder of [Transparency International](https://www.transparency.org/en), [#BringBackOurGirls](https://bringbackourgirls.ng/), Founder of the [School of Politics, Policy and Governance](https://thesppg.org/our-program/) and [#FixPolitics](https://www.fixpolitics.org/), and Nigerian political leader   
+— [Oby Ezekwesili](https://en.wikipedia.org/wiki/Oby_Ezekwesili), Co-Founder of [Transparency International](https://www.transparency.org/en), [#BringBackOurGirls](https://bringbackourgirls.ng/), Founder of the [School of Politics, Policy and Governance](https://thesppg.org/our-program/) and [#FixPolitics](https://www.fixpolitics.org/), and Nigerian political leader
 
 <br></br>
 
@@ -64,7 +64,7 @@
 
 <br></br>
 
-> It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a  framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
+> It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
 — [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
 
 <br></br>
