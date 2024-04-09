@@ -46,8 +46,12 @@ my %Sections = (
     5 => "Section 5: Democracy",
     6 => "Section 6: Impact",
     7 => "Section 7: Forward",
+    0 => "Endorsements",
 );
-for (sort <contents/english/[1234567]*.md>) {
+for (
+    "contents/english/0-0-endorsements.md", 
+    sort(<contents/english/[1234567]*.md>),
+) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
     my $s = int($basename =~ s/-.*//r);
     if (my $section_name = delete $Sections{$s}) {
@@ -56,6 +60,7 @@ for (sort <contents/english/[1234567]*.md>) {
 
     my $c = read_file($_);
     Encode::_utf8_on($c);
+    if ($s == 0) { $c =~ s/^(.*\n){6}//; $c =~ s/^> /---\n\n/mg; $c =~ s/^— /— /mg; $c =~ s!\s*<br></br>\s*!\n\n!g; $c .= "\n---\n"; $c =~ s/---\n\n// }
     $c =~ s/# /## $basename /;
     $c =~ s/^( +|&nbsp;)+//mg;
     $c =~ s,(\[\^)(.*?\]),$1$basename-$2,g;
@@ -66,8 +71,8 @@ for (sort <contents/english/[1234567]*.md>) {
 write_file('english.md', $all);
 
 write_file(
-    '0-1.tex', (
-	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg =~ s/\[(.*?)\]\((.*?)\)/\\href{$2}{$1}/rg =~ s/ \*(.*?)\*/ \\emph{$1}/rg }
+    'pre.tex', (
+	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg =~ s/\[(.*?)\]\((.*?)\)/\\href{$2}{$1}/rg =~ s/ \*(.*?)\*/ \\emph{$1}/rg =~ s/(\#\w)/\\$1/rg }
              glob 'contents/english/0-2-*.md'
     )
 );
@@ -81,7 +86,7 @@ docker run --rm --volume "$(pwd):/data" audreyt/pandoc-plurality-book english.md
 .
 
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o tmp.pdf --include-before-body=0-1.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book english.md -o tmp.pdf --include-before-body=pre.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=18pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
 .
 
 system << '.';
@@ -96,4 +101,4 @@ docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-
 
 unlink 'tmp.pdf';
 unlink 'tmp.tex';
-unlink '1-1.tex';
+unlink 'pre.tex';
