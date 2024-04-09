@@ -10,7 +10,7 @@
 
 ## first step (~3/26)
 - `Plurality Book Indexing Exercise - Main.csv`: raw file exported from [Spreadsheet](https://docs.google.com/spreadsheets/d/1gmyjFbErt_CW8-qLKChSpciLlCDGUhLriYFov0HO3qA/edit#gid=0)
-- `main.py`: output POC count, occurence of each keywords in each sections, and the count of occurences
+- `step1.py`: output POC count, occurence of each keywords in each sections, and the count of occurences
 - `ignore.txt`: keywords which should avoid mechine search
 - `case_sensitive.txt`: keywords which should case-sensitive search (e.g. `ROC`, `BERT`, `UN`)
 
