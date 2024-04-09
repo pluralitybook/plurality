@@ -1,16 +1,25 @@
 # Making Indexes
 
+- `in.pdf`: input PDF, currently I used `release/latest` on 4/9 14:42 JST
+- `from_pdf.py`: read PDF `in.pdf` and output JSON `book.json`
+- `main.py`
+
+
+
+
+
+## first step (~3/26)
 - `Plurality Book Indexing Exercise - Main.csv`: raw file exported from [Spreadsheet](https://docs.google.com/spreadsheets/d/1gmyjFbErt_CW8-qLKChSpciLlCDGUhLriYFov0HO3qA/edit#gid=0)
-- `main.py`: output POC count, occurence of each keywords in each sections, and the count of occurences
+- `step1.py`: output POC count, occurence of each keywords in each sections, and the count of occurences
 - `ignore.txt`: keywords which should avoid mechine search
 - `case_sensitive.txt`: keywords which should case-sensitive search (e.g. `ROC`, `BERT`, `UN`)
 
 ## output
 - `contributors.tsv`: number of contribution on the spreadsheet
-- `keyword_occurrence.tsv`: occurrence of each keywords in each sections
+- `1_keyword_occurrence.tsv`: occurrence of each keywords in each sections
 - `section_occurrence.tsv`: number of occurrences in each sections of any keywords. It is to find less-covered sections.
-- `no_occurence.txt`: Keywords which does not occur in the contents.
-- `too_many_occurrence.tsv`: Keywords which occur in more than 5 sections.
+- `1_no_occurence.txt`: Keywords which does not occur in the contents.
+- `1_too_many_occurrence.tsv`: Keywords which occur in more than 5 sections.
 - `similar_keywords.txt`: Output if there are keywords like `Neural network` and `Neural Network`.
 
 

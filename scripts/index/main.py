@@ -4,8 +4,52 @@ Convert CSV from Google Spreadsheet into more useful format
 
 import os
 import re
-import csv
 from collections import defaultdict
+import json
+import csv
+
+# Make section pages mapping
+
+SECTION_PAGES_MAPPINGS_str = """
+1-1 4
+2-0 6
+2-1 38
+2-2 50
+3-0 70
+3-1 74
+3-2 87
+3-3 103
+4-0 126
+4-1 140
+4-2 161
+4-3 177
+4-4 194
+4-5 213
+5-0 220
+5-1 235
+5-2 244
+5-3 255
+5-4 265
+5-5 279
+5-6 290
+5-7 299
+6-0 316
+6-1 328
+6-2 340
+6-3 354
+6-4 362
+7-0 367
+7-1 391
+"""
+lines = SECTION_PAGES_MAPPINGS_str.strip().splitlines()
+items = [line.split() for line in lines]
+SECTION_START = {}
+for section, page in items:
+    SECTION_START[section] = int(page)
+SECTION_END = {}
+for i in range(len(lines) - 1):
+    SECTION_END[items[i][0]] = int(items[i + 1][1])
+SECTION_END["7-1"] = 400
 
 
 def normalize_section_name(s):
@@ -22,10 +66,6 @@ CSV_FILE = "Plurality Book Indexing Exercise - Candidates.csv"
 # This will get the absolute path of the current script file.
 script_directory = os.path.dirname(os.path.abspath(__file__))
 
-# Construct the path to the target directory relative to the script file.
-# This moves up two levels from the script's directory and then into the "contents/english" directory.
-target_directory = os.path.join(script_directory, "..", "..", "contents", "english")
-
 # keywords which should avoid mechine search, such as `X`(Twitter) or `her`(Movie name)
 ignore_file = os.path.join(script_directory, "ignore.txt")
 IGNORE = open(ignore_file).read().strip().splitlines()
@@ -35,50 +75,24 @@ ignore_file = os.path.join(script_directory, "case_sensitive.txt")
 CASE_SENSITIVE = open(ignore_file).read().strip().splitlines()
 
 # List the contents of the target directory.
-sections = os.listdir(target_directory)
-sections.remove("Plurality Book Ownership List.md")
+_pages = json.load(open(os.path.join(script_directory, "book.json")))
+pages = {}
+pages_lower = {}
+for _p in _pages:
+    p = int(_p) - 1  # cover page offset
+    pages[p] = _pages[_p]
+    pages_lower[p] = _pages[_p].lower()
 
-section_contents = {}
-section_contents_lower = {}
-for filename in sections:
-    section = re.match(r"(\d-\d|\d)-", filename).groups()[0]
-    content = open(os.path.join(target_directory, filename)).read()
-    section_contents[section] = content
-    section_contents_lower[section] = content.lower()
 
 lines = open(os.path.join(script_directory, CSV_FILE)).readlines()[1:]
-poc_count = defaultdict(int)
 keywords = set()
 keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
-    poc_count[row[3]] += 1
     k = row[1]
     if k in ["Just", "Author", "Fair", "Writing"]:  # not a keyword
         continue
     keywords.add(k)
     keyword_recorded_by_human[k].add(normalize_section_name(row[2]))
-
-
-# detect similar words
-similar_keywords = defaultdict(set)
-for k in keywords:
-    similar_keywords[k.lower()].add(k)
-    if "(" in k:
-        k2 = remove_palen(k)
-        if k2 != "":
-            similar_keywords[k2.lower()].add(k)
-
-
-with open(os.path.join(script_directory, "similar_words.tsv"), "w") as f:
-    for k in similar_keywords:
-        if len(similar_keywords[k]) > 1:  # has multiple presentatin
-            print(", ".join(sorted(similar_keywords[k])), file=f)
-
-
-# output contributors
-with open(os.path.join(script_directory, "contributors.tsv"), "w") as f:
-    for name in sorted(poc_count):
-        print(f"{name}\t{poc_count[name]}", file=f)
 
 
 # find keyword occurence in other sections
@@ -89,23 +103,30 @@ for k in keywords:
     if k in IGNORE:
         continue
 
-    for section in section_contents:
+    mask = [0] * len(pages)
+    for section in keyword_recorded_by_human[k]:
+        for p in range(SECTION_START[section], SECTION_END[section]):
+            mask[p] = 1
+
+    for p in pages:
+        if not mask[p]:
+            continue
         if k in CASE_SENSITIVE:
-            if k in section_contents[section]:
-                keyword_occurence[k].append(section)
-                section_occurence[section] += 1
+            if k in pages[p]:
+                keyword_occurence[k].append(p)
+                section_occurence[p] += 1
         else:
-            if k.lower() in section_contents_lower[section]:
-                keyword_occurence[k].append(section)
-                section_occurence[section] += 1
+            if k.lower() in pages_lower[p]:
+                keyword_occurence[k].append(p)
+                section_occurence[p] += 1
             elif "(" in k:
                 # if keywords looks `AAA (BBB)` style, use occurrence of `AAA` instead
                 k2 = remove_palen(k)
                 if not k2 or k2 in IGNORE:
                     continue
-                if k2.lower() in section_contents[section]:
-                    keyword_occurence[k].append(section)
-                    section_occurence[section] += 1
+                if k2.lower() in pages[p]:
+                    keyword_occurence[k].append(p)
+                    section_occurence[p] += 1
 
 
 with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
@@ -116,30 +137,26 @@ with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_oc
             print(f"{k}\t{sections}", file=warn_no_occurence)
 
 
+too_many_occurrence = []
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
-    print(f"Keywords\tSection(by Human)\tSection(by Script)", file=f)
+    print(f"Keywords\tPages", file=f)
 
     for k in sorted(keyword_occurence, key=lambda x: (x.lower(), x)):
-        human = ", ".join(sorted(keyword_recorded_by_human[k]))
-        occ = ", ".join(sorted(keyword_occurence[k]))
+        occ = []
+        prev = -999
+        for p in sorted(keyword_occurence[k]):
+            if p != prev + 1:  # ignore continuous pages
+                occ.append(p)
+            prev = p
+        occ_str = ", ".join(str(p) for p in occ)
         k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
-        print(f"{k}\t{human}\t{occ}", file=f)
+        print(f"{k}\t{occ_str}", file=f)
 
+        if len(occ) >= 5:
+            human = ", ".join(sorted(keyword_recorded_by_human[k]))
+            k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
+            too_many_occurrence.append((len(keyword_occurence[k]), k, human, occ_str))
 
-with open(os.path.join(script_directory, "section_occurrence.tsv"), "w") as f:
-    print(f"section\tcount\tcount per 10k chars", file=f)
-    for sec in sorted(section_occurence):
-        ratio = int(10000 * section_occurence[sec] / len(section_contents[sec]))
-        print(f"{sec}\t{section_occurence[sec]}\t{ratio}", file=f)
-
-
-too_many_occurrence = []
-for k in sorted(keyword_occurence, key=lambda x: x.lower()):
-    if len(keyword_occurence[k]) >= 5:
-        human = ", ".join(sorted(keyword_recorded_by_human[k]))
-        occ = ", ".join(sorted(keyword_occurence[k]))
-        k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
-        too_many_occurrence.append((len(keyword_occurence[k]), k, human, occ))
 
 too_many_occurrence.sort(reverse=True)
 with open(os.path.join(script_directory, "too_many_occurrence.tsv"), "w") as f:
