@@ -16,10 +16,10 @@
 
 ## output
 - `contributors.tsv`: number of contribution on the spreadsheet
-- `keyword_occurrence.tsv`: occurrence of each keywords in each sections
+- `1_keyword_occurrence.tsv`: occurrence of each keywords in each sections
 - `section_occurrence.tsv`: number of occurrences in each sections of any keywords. It is to find less-covered sections.
-- `no_occurence.txt`: Keywords which does not occur in the contents.
-- `too_many_occurrence.tsv`: Keywords which occur in more than 5 sections.
+- `1_no_occurence.txt`: Keywords which does not occur in the contents.
+- `1_too_many_occurrence.tsv`: Keywords which occur in more than 5 sections.
 - `similar_keywords.txt`: Output if there are keywords like `Neural network` and `Neural Network`.
 
 
