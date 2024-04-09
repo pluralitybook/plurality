@@ -24,7 +24,7 @@ The 2022 global reports of PISA[^PISA] & ICCS[^ICCS] point out that Taiwan, Japa
 
 For example, the "Chenyuluoyan" font[^Font] on the cover of this book comes from the autonomous learning project of two high school students, leveraging social networks and related team co-learning. Such independent creation demonstrates the spirit of open source collaboration starting from one's own interests. The knowledge and creativity in the learning process shines in open sharing, inspiring more people to participate[^FontBlog].
 
-[^Font]: https://github.com/Chenyu-otf/chenyuluoyan_thin
+[^Font]: https://github.com/Chenyu-otf/chenyuluoyan\_thin
 [^FontBlog]: https://blog.luckertw.com/chenyuluoyan-interview/
 
 In the educational institutions of the last century, learning often relied on rote memorization and detailed recall; while the lack of open content made problem-solving and teamwork fragmented. With the rise of experimental education in various countries, self-directed learning models that encompass both critical thinking and interpersonal communication skills have emerged. These two abilities are not mutually exclusive but complementary, and with the assistance of ⿻ technology, they transcend the limitations of each other's ideologies and strengthen social resilience.
@@ -49,7 +49,7 @@ The civic tech collaboration mentioned in Taiwan's vibrant tech society (2-2 The
 Moedict has prompted the public sector to actively adopt the "Creative Commons" license[^MoeData], contributing value to the development of AI models like TAIDE in Taiwan[^TaideData]. Local languages and public knowledge can be interconnected into collaborative networks. The application of such an open-source paradigm as "Moedict" established close ties with official educational institutions and social innovation organizations a decade ago, demonstrating the interoperability between open-source co-editing culture and the formal education system.
 
 [^Moedict]: https://www.moedict.tw/
-[^MoeData]: https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
+[^MoeData]: https://language.moe.gov.tw/001/Upload/Files/site\_content/M0001/respub/index.html
 [^TaideData]: https://taide.tw/index/training-data?type=2
 
 Online libraries, Wikipedia, and CC-licensed image and text sharing described in (3-3 The Lost Dao) are all valuable global assets comparable to commons, generated based on open-source collaboration. Like in a vast world park, works co-created by citizens from different countries and languages can be understood and actively maintained by more people, further promoting the democratization of knowledge and filling the gaps in civic education. These are practical examples of learning evolving towards the ⿻ path and mutually benefiting the public.
