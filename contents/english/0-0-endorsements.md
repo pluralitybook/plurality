@@ -49,7 +49,7 @@
 
 <br></br>
 
-> I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!.<br></br> 
+> I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!<br></br> 
 — [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), creator of [*Magic:The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
 
 <br></br>
