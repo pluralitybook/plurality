@@ -48,8 +48,8 @@ my %Sections = (
     0 => "名家推薦",
 );
 for (
-    sort(<contents/traditional-mandarin/[1234567]*.md>),
     "contents/traditional-mandarin/0-0-名家推薦.md",
+    sort(<contents/traditional-mandarin/[1234567]*.md>),
 ) {
     my $basename = s,.*/([-\d]+)-.*,$1,r;
     my $s = int($basename =~ s/-.*//r);
@@ -59,7 +59,7 @@ for (
 
     my $c = read_file($_);
     Encode::_utf8_on($c);
-    if ($s == 0) { $c =~ s/^(.*\n){6}// }
+    if ($s == 0) { $c =~ s/^(.*\n){6}//; $c =~ s/^> /---\n\n/mg; $c =~ s/^— /— /mg; $c =~ s!\s*<br></br>\s*!\n\n!g; $c .= "\n---\n"; $c =~ s/---\n\n// }
     $c =~ s/# /## $basename /;
     $basename =~ s,-,_,g; $basename .= '_';
     $c =~ s/^( +|&nbsp;)+//mg;
@@ -73,7 +73,7 @@ for (
 write_file('traditional-mandarin.md', $all);
 
 write_file(
-    '0-1.tex', (
+    'pre.tex', (
 	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg }
              glob 'contents/traditional-mandarin/0-2-*.md'
     )
@@ -89,7 +89,7 @@ docker run --rm --volume "$(pwd):/data" audreyt/pandoc-plurality-book traditiona
 .
 
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book traditional-mandarin.md -o tmp.pdf --include-before-body=0-1.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=20pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book traditional-mandarin.md -o tmp.pdf --include-before-body=pre.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=20pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
 .
 
 system << '.';
@@ -104,4 +104,4 @@ docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-
 
 unlink 'tmp.pdf';
 unlink 'tmp.tex';
-unlink '1-1.tex';
+unlink 'pre.tex';
