@@ -2,7 +2,7 @@
 
 - `in.pdf`: input PDF, currently I used `release/latest` on 4/9 14:42 JST
 - `from_pdf.py`: read PDF `in.pdf` and output JSON `book.json`
-
+- `main.py`
 
 
 
