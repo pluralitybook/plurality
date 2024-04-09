@@ -49,16 +49,15 @@
 
 <br></br>
 
-> *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
-— [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
-
-<br></br>
-
 > I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!.<br></br> 
 — [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), creator of [*Magic:The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
 
 <br></br>
 
+> *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
+— [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
+
+<br></br>
 
 > At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
 — [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
