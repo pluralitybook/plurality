@@ -1,10 +1,4 @@
 Keywords	Pages
-Chaotic States	
-Competitive Effect	420
-Good Old-fashioned AI (GOFAI)	370
-Hunter-gatherer Model	413
-Orderly States	
-Public Data Repositories	
 (anti-)social media	71
 (In)dividual identity	126, 129
 12-Year Basic Education Curriculum	75
@@ -164,7 +158,7 @@ Brain-Computer Interfaces	312
 Braver Angels	358
 Brent Seales	334
 Bricolage	305
-Bridging the Crowd	
+Bridging the Crowd	347
 Broadcast	66, 275, 350
 Bruno Latour	362
 Brussels Effect	483
@@ -195,6 +189,7 @@ Chains Of Introductions	206
 Chaos	97, 99, 104
 Chaos and Top-down order	514
 Chaotic Effects	99
+Chaotic States	97
 Charity	231, 401
 Charter Cities	376
 Checks And Balances	242, 266
@@ -285,7 +280,8 @@ Community-based	117, 347, 417
 Community-Based Identity	117
 Compelling Narrative	467
 Competition Policies	489
-Competitive authoritarian regimes	
+Competitive authoritarian regimes	165
+Competitive Effect	420
 Complexity	203, 369
 Complexity Theory	104
 Comprehensiveness	200
@@ -498,7 +494,7 @@ Diverse Legal System	375
 Diverse Perspective	338, 343
 Diversification	376, 423
 Diversity	414, 416, 421, 423, 425, 427
-Diversity of groups	416
+Diversity of groups	174, 416
 DLTs	220, 238
 Domain Names	276
 Domains of Identity	190
@@ -710,6 +706,7 @@ Gogolook	74
 Gold Card	75, 431
 Gold Standard	201
 Golden Age	8, 38, 45
+Good Old-fashioned AI (GOFAI)	370
 Google	394, 443, 490, 494, 506
 Google DeepMind	340
 Gov4Git	
@@ -724,7 +721,7 @@ Grassroots Initiatives	488
 Great Firewall	171
 Great Powers	3, 102, 483
 Green movement	512
-Green Technologies	475
+Green Technologies	413, 475
 Gross Domestic Product	17, 77, 429
 Group Works	353
 Guard (hackathon)	209
@@ -786,6 +783,7 @@ Human Rights	181, 289, 483, 485, 495
 Human-Computer Symbiosis	489
 Humanocracy	405
 Humor over Rumor	74
+Hunter-gatherer Model	413
 Hutchins Commission on Freedom of the Press	469
 Hybrid Reality Environments	320, 324
 Hybrid Work Style	431
@@ -1222,6 +1220,7 @@ Operating System	289
 Operating systems	162, 165, 167, 169, 173, 175, 177, 179
 Optimism Collective	498
 orb	
+Orderly States	97
 Oscar Wilde	351
 Outcome	453, 462
 Output	453, 459
@@ -1262,7 +1261,7 @@ Phone	180, 188, 193, 197, 206
 Physical (paper or plastic) Government-issued IDs	
 Physical Work	431
 Physics	94, 100
-Pigouvian Taxes	
+Pigouvian Taxes	402, 505
 Pixar's headquarters	435
 Place of Convergence	48
 Plural	1, 4
@@ -1339,6 +1338,7 @@ Protocol Labs (PL)	262
 Pseudonymity	182
 Pseudonyms	185, 197
 Public Consent	23
+Public Data Repositories	197
 Public Digital Innovation Space	70
 Public Expenditure	17, 371
 Public Funding	156, 481
@@ -1532,7 +1532,7 @@ Social Sector	419, 427
 Social Security Number (SSN)	185
 Social Security Numbers	115, 186
 Social system	95
-social welfare function	301, 383, 449
+social welfare function	300, 383, 449
 Social Worker	371
 Socialism	54, 351, 395
 Socialism Takes Too Many Evenings	351
@@ -1762,7 +1762,7 @@ Web 2.0	19, 373
 web of group-affiliation	
 Web2 application	462
 Web3	19, 28, 35, 37, 178, 182, 191, 201, 392, 409, 425, 513
-Web3 Communities	201, 425, 495
+Web3 Communities	182, 201
 Wei Ting-chao	58
 Weighted-voting	
 Weimar Republic	165

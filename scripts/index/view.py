@@ -19,8 +19,8 @@ def read_view_mapping(file_path="View.csv"):
         # Iterate over each row in the CSV
         for row in csv_reader:
             # Convert each row into a dictionary, and append it to our data list
-
-            data[row[1]] = row[2]
+            in_text = row[1].replace('"', "")  # remove quotation
+            data[in_text] = row[2]
 
     return data
 

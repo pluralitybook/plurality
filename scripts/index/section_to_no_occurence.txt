@@ -17,8 +17,6 @@ Kao Chia-liang
 Taiwan's Digital Civic Infrastructure
 
 ### 3-1
-"chaotic" states
-"orderly" states
 Bidirectional Equilibrium
 Einstein's Theories Of Relativity
 Gödel's Theorem
@@ -33,12 +31,10 @@ WEIRD societies
 modernity
 
 ### 4-0
-Competitive authoritarian regimes
 Digital-native currencies
 National Socialist German Workers party
 
 ### 4-1
-"public" data repositories
 Blockchain-centric Identity Systems
 Digital-native Identity Infrastructure
 Licenses For Use
@@ -69,7 +65,6 @@ Co-edited Project
 Online collaboration platform
 
 ### 5-4
-Bridging the Crowd
 Collective Response Model
 Community Notes (CN)　
 LLM-based Representative
@@ -84,7 +79,6 @@ Page Rank
 Weighted-voting
 
 ### 5-7
-Pigouvian Taxes
 Private Community-based Sponsorship
 Public Welfare Shcemes
 Self-ownership

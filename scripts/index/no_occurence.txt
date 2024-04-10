@@ -1,17 +1,12 @@
 Keywords	Sections
-"chaotic" states	3-1
-"orderly" states	3-1
-"public" data repositories	4-1
 African Model	2-0
 Antiretroviral Therapie	6-2
 Bidirectional Equilibrium	3-1
 Blockchain-centric Identity Systems	4-1
-Bridging the Crowd	5-4
 Co-edited Project	5-3
 Collective Response Model	5-4
 Common Carriers of Public Discussion	6-3
 Community Notes (CN)　	5-4
-Competitive authoritarian regimes	4-0
 Computer-simulated Neuron	5-5
 Cross-Cultural Exchanges	5-2
 Cross-cutting Benefit	6-1
@@ -52,7 +47,6 @@ Open Source Models	7-0
 Open Source Technology	7-0
 Page Rank	4-4, 5-6
 Paul Jozef Crutzen	6-4
-Pigouvian Taxes	5-7
 Post-gender	2-0
 Private Community-based Sponsorship	5-7
 Public Good	6-2
