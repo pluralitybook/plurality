@@ -1,9 +1,9 @@
 # Making Indexes
 
-- `in.pdf`: input PDF, currently I used `release/latest` on 4/9 14:42 JST
+## second step (4/9~)
+- `in.pdf`: input PDF, currently I used the latest PDF from Sharepoint 4/10 11:30 JST (in previous version it was `release/latest` on 4/9 14:42 JST)
 - `from_pdf.py`: read PDF `in.pdf` and output JSON `book.json`
-- `main.py`
-
+- `main.py`: output keywords to page numbers into `keyword_occurrence.tsv`
 
 
 
@@ -14,16 +14,15 @@
 - `ignore.txt`: keywords which should avoid mechine search
 - `case_sensitive.txt`: keywords which should case-sensitive search (e.g. `ROC`, `BERT`, `UN`)
 
-## output
+### output
 - `contributors.tsv`: number of contribution on the spreadsheet
-- `1_keyword_occurrence.tsv`: occurrence of each keywords in each sections
-- `section_occurrence.tsv`: number of occurrences in each sections of any keywords. It is to find less-covered sections.
+- `1_keyword_occurrence.tsv`: occurrence of each keywords in each sections (renamed to `1_*` to avoid overwrite)
 - `1_no_occurence.txt`: Keywords which does not occur in the contents.
 - `1_too_many_occurrence.tsv`: Keywords which occur in more than 5 sections.
+- `section_occurrence.tsv`: number of occurrences in each sections of any keywords. It is to find less-covered sections.
 - `similar_keywords.txt`: Output if there are keywords like `Neural network` and `Neural Network`.
 
-
-## memo
+### memo
 
 - At least, we need special care for the movie name "her".
 - cFQ or cFQ2f7LRuLYP is GithubID: dedededalus. ref: https://github.com/dedededalus
