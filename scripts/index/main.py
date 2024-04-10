@@ -93,8 +93,6 @@ keywords = set()
 keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
     k = row[1]
-    if k in ["Just", "Author", "Fair", "Writing"]:  # not a keyword
-        continue
     keywords.add(k)
     keyword_recorded_by_human[k].add(normalize_section_name(row[2]))
 
