@@ -11,9 +11,7 @@ AlphaGo Zero	5-3
 Antiretroviral Therapie	6-2
 Arnold Harberger	5-7
 Artificial General Intelligence	2-0
-Artistic co-creation	5-3
 Authoritarian Repressive State	2-1
-Automated Clearing House(ACH)	4-3
 Bidirectional Equilibrium	3-1
 Blockchain-centric Identity Systems	4-1
 Bridging the Crowd	5-4
@@ -24,9 +22,7 @@ Chaos and Top-down order	7-1
 Chen Shui-bian	2-1
 Citizen Volunteers	2-2
 Clean Energy	6-4
-Co-creation Relationship	6-4
 Co-edited Project	5-3
-Co-writing	5-3
 Collective Future	7-1
 Collective Response Model	5-4
 Colonial Outsider	5-5
@@ -48,7 +44,6 @@ Decentralized Social Networking Protocol (DSNP)	4-2
 Declaration for the Future of the Internet	4-5
 Declaration of the Independence of Cyberspace	2-0
 Digital Identity Systems	4-1
-Digital Legacy Realms	5-2
 Digital-native Identity Infrastructure	4-1
 Digital-native currencies	4-0
 Direct Election of the President	2-1
@@ -83,7 +78,6 @@ Global Crossroad	2-1
 Global Declaration on Information Integrity Online	4-5
 Global Legitimacy	5-6
 Global Policies	5-6
-Globarization	1-1
 Gold Standard	4-1
 Gov4Git	6-2
 Graphics Processing Units (GPUs)	4-4
@@ -97,14 +91,12 @@ Human Resources Platform	5-5
 Hutchins Commission on Freedom of the Press	6-3
 Hypertext Transfer Protocol Secure (HTTPS)	4-4
 IVR Junction	5-5
-Immersive Education	5-2
 India Stack Program	4-1
 Indigenous Land and Sea Corporation	5-5
 Information Openness	4-5
 Information Processing Techniques Office (IPTO)	7-0
 Infringement On Privacy	4-1
 Integrity of identity	4-2
-Inter-species Communication	5-2
 Interactive Agent	5-4
 International Telecommunication Union (ITU)	4-5
 Internet Access Is A Human Right	4-5
@@ -162,6 +154,7 @@ Open-source Technology	5-3
 Over-shared information	4-2
 Packet Switching Architectures	4-1
 Page Rank	4-4, 5-6
+Parliament of Things	5-4
 Participative Production	2-1
 Paul Jozef Crutzen	6-4
 Payment In Digital Spaces	4-3
@@ -196,7 +189,6 @@ Self-ownership	5-7
 Shield Of Trust And Safety	4-1
 Single Sign-on (SSO)	4-1
 Single-sign-on Architectures	7-0
-Siraya language	2-1
 Social Currencies	4-3
 Social Dynamics	3-2
 Social Interaction	5-7
@@ -218,7 +210,6 @@ The Emperor's New Clothes	4-2
 The Greatest Good For The Greatest Number	5-6
 The Mix Of Diversity And Interconnectedness	3-1
 The Network State	2-0
-The Parliament of Things	5-4
 Towering Tech Giants	1-1
 Tradable Carbon Permits	5-7
 Tyranny Of The Majority	5-6
@@ -227,9 +218,8 @@ Uniform Resource Locator (URL)	4-4
 Union of Japanese Scientists and Engineers(JUSE)	2-1
 United States	5-5
 Universal Coded Character (unicode)	3-0
-VR Therapy	5-2
-Virtual Civic Spaces	5-2
 Virtual Gatherings	5-2
+Virtual Reality Therapy	5-2
 Voting Based On Measures Of Power	5-6
 WEIRD societies	3-3
 War of Independence	6-0
@@ -239,15 +229,14 @@ Welfare Capitalism	5-0
 Western Capitalist Countries	2-0
 Whanganui River	6-4
 White Collar	6-1
-Wised Democracy Pattern Language	5-4
 Yasmin Eyalat	6-3
 Yu Yong-Ding	2-0
 Zero-Knowledge Proofs(ZKPs)	4-2, 6-3
+co-creation relationship	6-4
 healthy minds in healthy bodies	6-2
 modernity	3-3
 non-fungible tokens (NFTs)	4-4
 on the ground	6-1
 web of group-affiliation	3-2
 ⿻ Group	5-7
-⿻istic	5-4, 5-6
 ⿻istic Ignorance	6-3

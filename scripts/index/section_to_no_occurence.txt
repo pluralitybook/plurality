@@ -1,5 +1,4 @@
 ### 1-1
-Globarization
 River Of Democracy
 Towering Tech Giants
 
@@ -39,7 +38,6 @@ Nixon's visit to PRC
 One Country, Two Systems
 Participative Production
 People's Republic of China (PRC)
-Siraya language
 Taiwan Self-Salvation Manifesto
 Union of Japanese Scientists and Engineers(JUSE)
 
@@ -121,7 +119,6 @@ The Emperor's New Clothes
 Zero-Knowledge Proofs(ZKPs)
 
 ### 4-3
-Automated Clearing House(ACH)
 Electronic Commerce
 Fractional Reserve Banking
 Local Exchange Trading Systems (LETS)
@@ -163,18 +160,12 @@ High-Bandwidth Communication
 
 ### 5-2
 Cross-Cultural Exchanges
-Digital Legacy Realms
-Immersive Education
-Inter-species Communication
-VR Therapy
-Virtual Civic Spaces
 Virtual Gatherings
+Virtual Reality Therapy
 
 ### 5-3
 AlphaGo Zero
-Artistic co-creation
 Co-edited Project
-Co-writing
 Encounter with the East
 Future Collaborator
 Non-human Perspective
@@ -192,9 +183,7 @@ Left-right Divide
 Mark Zuckerberg
 National Coalition for Dialogue and Deliberation
 New England town hall
-The Parliament of Things
-Wised Democracy Pattern Language
-⿻istic
+Parliament of Things
 
 ### 5-5
 AI researcher
@@ -221,7 +210,6 @@ The Greatest Good For The Greatest Number
 Tyranny Of The Majority
 Voting Based On Measures Of Power
 Weighted-voting
-⿻istic
 
 ### 5-7
 Arnold Harberger
@@ -275,7 +263,6 @@ Zero-Knowledge Proofs(ZKPs)
 
 ### 6-4
 Clean Energy
-Co-creation Relationship
 Environmental Sustainability
 Legal Agent
 Life-support System
@@ -285,6 +272,7 @@ Open-source Rainmaking
 Paul Jozef Crutzen
 Sustainable Development Goals (SDGs)
 Whanganui River
+co-creation relationship
 
 ### 7-0
 Active Public Investment
