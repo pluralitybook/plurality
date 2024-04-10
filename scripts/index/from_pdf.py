@@ -22,7 +22,10 @@ for page_num in range(len(doc)):
     #     text_file.write(text)  # Write the extracted text to the file
 
     text = text.replace("-\n", "")  # remove hyphenation
-    text = text.replace("\n", " ")  # replace newlines with spaces
+    # replace newlines with spaces (sometimes there are spaces
+    text = text.replace(" \n", " ")
+    text = text.replace("\n ", " ")
+    text = text.replace("\n", " ")
     data[page_num + 1] = text
 
 # Close the PDF document

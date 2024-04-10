@@ -2,241 +2,78 @@ Keywords	Sections
 "chaotic" states	3-1
 "orderly" states	3-1
 "public" data repositories	4-1
-AI researcher	5-5
-Active Public Investment	7-0
-Administrative Practice	5-5
 African Model	2-0
-Alan Hodgkin	3-1
-AlphaGo Zero	5-3
 Antiretroviral Therapie	6-2
-Arnold Harberger	5-7
-Artificial General Intelligence	2-0
-Authoritarian Repressive State	2-1
 Bidirectional Equilibrium	3-1
 Blockchain-centric Identity Systems	4-1
 Bridging the Crowd	5-4
-Cellphone Addiction	2-2
-Center for Constructive Communication	5-4
-Centralizing Structure	4-1
-Chaos and Top-down order	7-1
-Chen Shui-bian	2-1
-Citizen Volunteers	2-2
-Clean Energy	6-4
 Co-edited Project	5-3
-Collective Future	7-1
 Collective Response Model	5-4
-Colonial Outsider	5-5
 Common Carriers of Public Discussion	6-3
 Community Notes (CN)　	5-4
 Competitive authoritarian regimes	4-0
 Computer-simulated Neuron	5-5
-Connected Digital Community	7-0
-Corporate Bureaucracy	5-5
-Courtney Cogburn	6-3
 Cross-Cultural Exchanges	5-2
 Cross-cutting Benefit	6-1
 Cross-pollination Service	6-1
-Cryptographic Standards	4-2
 Dao	4-5
 De Tocqueville, Alexis	4-2
-Decentralized Scientific Community	3-1
 Decentralized Social Networking Protocol (DSNP)	4-2
-Declaration for the Future of the Internet	4-5
-Declaration of the Independence of Cyberspace	2-0
-Digital Identity Systems	4-1
 Digital-native Identity Infrastructure	4-1
 Digital-native currencies	4-0
-Direct Election of the President	2-1
-Direct Neural Interface	6-1
-Distributed Denial Of Service (DDoS)	4-5
 Distributed Ledger Technology (DLT)	4-2
-Distributed Network of Signals	5-5
-Diversity of "groups"	6-0
-Domain Names	4-4
 Edward Deming	2-1
 Edward Snowden	4-2
 Einstein's Theories Of Relativity	3-1
-Electronic Commerce	4-1, 4-3
-Elite Universities	5-5
-Encounter with the East	5-3
-Environmental Devastation	2-0
-Environmental Sustainability	6-4
-Establish and Protect Participant Identities	4-1
-Extremist Parties	2-0
-Fabric Of Relationships	7-1
-Federal Pension Insurance system	5-5
-Finnish government	5-5
 For-profit Industry	7-0
 For-profit Private Corporations	7-0
-Fractional Reserve Banking	4-3
-Free Markets Know Best	2-0
-Future Collaborator	5-3
-General Reticence	2-0
 Georgist land value tax	2-1
 Global Anti-colonial Movement	2-1
-Global Crossroad	2-1
-Global Declaration on Information Integrity Online	4-5
-Global Legitimacy	5-6
-Global Policies	5-6
-Gold Standard	4-1
 Gov4Git	6-2
-Graphics Processing Units (GPUs)	4-4
-Guiding Light And Symbol For ⿻	7-1
 Gödel's Theorem	3-1
-High-Bandwidth Communication	5-1
-Hit Rates	6-1
 Hu Shih	2-1
-Human Cooperation	5-7
-Human Resources Platform	5-5
-Hutchins Commission on Freedom of the Press	6-3
-Hypertext Transfer Protocol Secure (HTTPS)	4-4
-IVR Junction	5-5
-India Stack Program	4-1
-Indigenous Land and Sea Corporation	5-5
-Information Openness	4-5
-Information Processing Techniques Office (IPTO)	7-0
-Infringement On Privacy	4-1
-Integrity of identity	4-2
-Interactive Agent	5-4
-International Telecommunication Union (ITU)	4-5
-Internet Access Is A Human Right	4-5
-Internet Corporation for Assigned Names and Numbers (ICANN)	4-4
 Intersectional Identity	3-2
-J. D. Vance	2-0
-John Perry Barlow	2-0
-Juan Benet	4-4
 Kao Chia-liang	2-2
-Know Your Customer	4-1
 LLM-based Representative	5-4
 Left-right Divide	5-4
-Legal Agent	6-4
-Liberal Democratic Polities	4-1
 Licenses For Use	4-1
 Life-support System	6-4
-Local Exchange Trading Systems (LETS)	4-2, 4-3
-Local ⿻ Communities	7-1
-Long-distance Cooperation	2-1
-Low-skilled Workers	2-0
-Magpie River	6-4
-Mark Zuckerberg	5-4
-Meetings Deemed Unproductive	6-1
-Molecular Biology	3-1
 Moore's Law	4-4
-Multi-sectoral Alliance	7-0
-Name spaces on the Internet	4-4
-Narrow Educational and Career Path	5-5
-Narrow Signals Of Identity	4-1
-National Coalition for Dialogue and Deliberation	5-4
 National Socialist German Workers party	4-0
-Nationalist Backlash	2-0
-New England town hall	5-4
 Nixon's visit to PRC	2-1
-Noah Smith	2-0
-Non-human Perspective	5-3
 Non-profit ⿻ Infrastructure	7-0
-Non-renewable Energy Sources	6-4
-Office of Chief Technology Officer	6-1
 On the Internet, Nobody Knows You're A Dog	4-1
-One Country, Two Systems	2-1
 Online collaboration platform	5-3
-Open And Decentralized Marketplace	7-0
 Open Collective Foundation	7-0
-Open Government Movement	2-2
 Open Source Community	7-0
 Open Source Ecosystem	7-0
 Open Source Intelligence	6-3
 Open Source Models	7-0
-Open Source Projects	7-0
 Open Source Technology	7-0
-Open Standards-based Collaborations.	4-4
-Open-source Rainmaking	6-4
-Open-source Technology	5-3
-Over-shared information	4-2
-Packet Switching Architectures	4-1
 Page Rank	4-4, 5-6
-Parliament of Things	5-4
-Participative Production	2-1
 Paul Jozef Crutzen	6-4
-Payment In Digital Spaces	4-3
-People's Republic of China (PRC)	2-0, 2-1, 7-0
 Pigouvian Taxes	5-7
-Plural Management Protocol	5-7
 Post-gender	2-0
-Pre-digital associations	4-2
 Private Community-based Sponsorship	5-7
-Private Technology Development	7-0
-Private, For-profit Corporations	4-1
-Proof Of Work	4-3
-Propagational investment currency system (PICSY)	5-6
 Public Good	6-2
-Public Key Cryptography	4-2
 Public Welfare Shcemes	5-7
-Public/Supermodular Goods	5-7
-Quantitative Markers 	5-7
 Quick Fixes	4-4
-Regression Discontinuity Design	6-2
-Remote Collaboration Tool	6-1
-Remote Employee	6-1
-Rights of free speech	4-0
-River Of Democracy	1-1
 Robert Atkinson	2-0
-Robin Dunbar	4-1
 Robinson, James	2-0
 Saudia Arabia	2-0
-Secure multiparty computation (SMPC)	4-4
-Security protocols	4-0
 Self-ownership	5-7
-Shield Of Trust And Safety	4-1
-Single Sign-on (SSO)	4-1
-Single-sign-on Architectures	7-0
-Social Currencies	4-3
 Social Dynamics	3-2
-Social Interaction	5-7
-Social Science Experts	3-2
-Social Security Number (SSN)	4-1
-Society for Worldwide Interbank Financial Telecommunication (SWIFT)	4-3
-Solidarity and Dynamism	6-1
-State of Wyoming	7-0
-Subcultural translation	5-0
-Supermodular International Cooperation	7-1
-Supermodular Shared Goods	7-0
-Sustainable Development Goals (SDGs)	6-2, 6-4
-Taiwan Self-Salvation Manifesto	2-1
 Taiwan's Digital Civic Infrastructure	2-2
-Technology For Collaboration Across Social Difference	3-0
-Teri Whitcraft	7-1
-Territorial And Intellectual Property Treaties	5-7
 The Emperor's New Clothes	4-2
-The Greatest Good For The Greatest Number	5-6
-The Mix Of Diversity And Interconnectedness	3-1
-The Network State	2-0
-Towering Tech Giants	1-1
-Tradable Carbon Permits	5-7
-Tyranny Of The Majority	5-6
 UNDP	6-2
 Uniform Resource Locator (URL)	4-4
-Union of Japanese Scientists and Engineers(JUSE)	2-1
 United States	5-5
-Universal Coded Character (unicode)	3-0
-Virtual Gatherings	5-2
-Virtual Reality Therapy	5-2
-Voting Based On Measures Of Power	5-6
 WEIRD societies	3-3
-War of Independence	6-0
-Weather Systems	3-1
 Weighted-voting	5-6
-Welfare Capitalism	5-0
-Western Capitalist Countries	2-0
 Whanganui River	6-4
 White Collar	6-1
-Yasmin Eyalat	6-3
-Yu Yong-Ding	2-0
-Zero-Knowledge Proofs(ZKPs)	4-2, 6-3
 co-creation relationship	6-4
-healthy minds in healthy bodies	6-2
 modernity	3-3
 non-fungible tokens (NFTs)	4-4
-on the ground	6-1
 web of group-affiliation	3-2
-⿻ Group	5-7
 ⿻istic Ignorance	6-3

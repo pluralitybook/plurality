@@ -1,73 +1,31 @@
-### 1-1
-River Of Democracy
-Towering Tech Giants
-
 ### 2-0
 African Model
-Artificial General Intelligence
-Declaration of the Independence of Cyberspace
-Environmental Devastation
-Extremist Parties
-Free Markets Know Best
-General Reticence
-J. D. Vance
-John Perry Barlow
-Low-skilled Workers
-Nationalist Backlash
-Noah Smith
-People's Republic of China (PRC)
 Post-gender
 Robert Atkinson
 Robinson, James
 Saudia Arabia
-The Network State
-Western Capitalist Countries
-Yu Yong-Ding
 
 ### 2-1
-Authoritarian Repressive State
-Chen Shui-bian
-Direct Election of the President
 Edward Deming
 Georgist land value tax
 Global Anti-colonial Movement
-Global Crossroad
 Hu Shih
-Long-distance Cooperation
 Nixon's visit to PRC
-One Country, Two Systems
-Participative Production
-People's Republic of China (PRC)
-Taiwan Self-Salvation Manifesto
-Union of Japanese Scientists and Engineers(JUSE)
 
 ### 2-2
-Cellphone Addiction
-Citizen Volunteers
 Kao Chia-liang
-Open Government Movement
 Taiwan's Digital Civic Infrastructure
-
-### 3-0
-Technology For Collaboration Across Social Difference
-Universal Coded Character (unicode)
 
 ### 3-1
 "chaotic" states
 "orderly" states
-Alan Hodgkin
 Bidirectional Equilibrium
-Decentralized Scientific Community
 Einstein's Theories Of Relativity
 Gödel's Theorem
-Molecular Biology
-The Mix Of Diversity And Interconnectedness
-Weather Systems
 
 ### 3-2
 Intersectional Identity
 Social Dynamics
-Social Science Experts
 web of group-affiliation
 
 ### 3-3
@@ -78,229 +36,88 @@ modernity
 Competitive authoritarian regimes
 Digital-native currencies
 National Socialist German Workers party
-Rights of free speech
-Security protocols
 
 ### 4-1
 "public" data repositories
 Blockchain-centric Identity Systems
-Centralizing Structure
-Digital Identity Systems
 Digital-native Identity Infrastructure
-Electronic Commerce
-Establish and Protect Participant Identities
-Gold Standard
-India Stack Program
-Infringement On Privacy
-Know Your Customer
-Liberal Democratic Polities
 Licenses For Use
-Narrow Signals Of Identity
 On the Internet, Nobody Knows You're A Dog
-Packet Switching Architectures
-Private, For-profit Corporations
-Robin Dunbar
-Shield Of Trust And Safety
-Single Sign-on (SSO)
-Social Security Number (SSN)
 
 ### 4-2
-Cryptographic Standards
 De Tocqueville, Alexis
 Decentralized Social Networking Protocol (DSNP)
 Distributed Ledger Technology (DLT)
 Edward Snowden
-Integrity of identity
-Local Exchange Trading Systems (LETS)
-Over-shared information
-Pre-digital associations
-Public Key Cryptography
 The Emperor's New Clothes
-Zero-Knowledge Proofs(ZKPs)
-
-### 4-3
-Electronic Commerce
-Fractional Reserve Banking
-Local Exchange Trading Systems (LETS)
-Payment In Digital Spaces
-Proof Of Work
-Social Currencies
-Society for Worldwide Interbank Financial Telecommunication (SWIFT)
 
 ### 4-4
-Domain Names
-Graphics Processing Units (GPUs)
-Hypertext Transfer Protocol Secure (HTTPS)
-Internet Corporation for Assigned Names and Numbers (ICANN)
-Juan Benet
 Moore's Law
-Name spaces on the Internet
-Open Standards-based Collaborations.
 Page Rank
 Quick Fixes
-Secure multiparty computation (SMPC)
 Uniform Resource Locator (URL)
 non-fungible tokens (NFTs)
 
 ### 4-5
 Dao
-Declaration for the Future of the Internet
-Distributed Denial Of Service (DDoS)
-Global Declaration on Information Integrity Online
-Information Openness
-International Telecommunication Union (ITU)
-Internet Access Is A Human Right
-
-### 5-0
-Subcultural translation
-Welfare Capitalism
-
-### 5-1
-High-Bandwidth Communication
 
 ### 5-2
 Cross-Cultural Exchanges
-Virtual Gatherings
-Virtual Reality Therapy
 
 ### 5-3
-AlphaGo Zero
 Co-edited Project
-Encounter with the East
-Future Collaborator
-Non-human Perspective
 Online collaboration platform
-Open-source Technology
 
 ### 5-4
 Bridging the Crowd
-Center for Constructive Communication
 Collective Response Model
 Community Notes (CN)　
-Interactive Agent
 LLM-based Representative
 Left-right Divide
-Mark Zuckerberg
-National Coalition for Dialogue and Deliberation
-New England town hall
-Parliament of Things
 
 ### 5-5
-AI researcher
-Administrative Practice
-Colonial Outsider
 Computer-simulated Neuron
-Corporate Bureaucracy
-Distributed Network of Signals
-Elite Universities
-Federal Pension Insurance system
-Finnish government
-Human Resources Platform
-IVR Junction
-Indigenous Land and Sea Corporation
-Narrow Educational and Career Path
 United States
 
 ### 5-6
-Global Legitimacy
-Global Policies
 Page Rank
-Propagational investment currency system (PICSY)
-The Greatest Good For The Greatest Number
-Tyranny Of The Majority
-Voting Based On Measures Of Power
 Weighted-voting
 
 ### 5-7
-Arnold Harberger
-Human Cooperation
 Pigouvian Taxes
-Plural Management Protocol
 Private Community-based Sponsorship
 Public Welfare Shcemes
-Public/Supermodular Goods
-Quantitative Markers 
 Self-ownership
-Social Interaction
-Territorial And Intellectual Property Treaties
-Tradable Carbon Permits
-⿻ Group
-
-### 6-0
-Diversity of "groups"
-War of Independence
 
 ### 6-1
 Cross-cutting Benefit
 Cross-pollination Service
-Direct Neural Interface
-Hit Rates
-Meetings Deemed Unproductive
-Office of Chief Technology Officer
-Remote Collaboration Tool
-Remote Employee
-Solidarity and Dynamism
 White Collar
-on the ground
 
 ### 6-2
 Antiretroviral Therapie
 Gov4Git
 Public Good
-Regression Discontinuity Design
-Sustainable Development Goals (SDGs)
 UNDP
-healthy minds in healthy bodies
 
 ### 6-3
 Common Carriers of Public Discussion
-Courtney Cogburn
-Hutchins Commission on Freedom of the Press
 Open Source Intelligence
-Yasmin Eyalat
-Zero-Knowledge Proofs(ZKPs)
 ⿻istic Ignorance
 
 ### 6-4
-Clean Energy
-Environmental Sustainability
-Legal Agent
 Life-support System
-Magpie River
-Non-renewable Energy Sources
-Open-source Rainmaking
 Paul Jozef Crutzen
-Sustainable Development Goals (SDGs)
 Whanganui River
 co-creation relationship
 
 ### 7-0
-Active Public Investment
-Connected Digital Community
 For-profit Industry
 For-profit Private Corporations
-Information Processing Techniques Office (IPTO)
-Multi-sectoral Alliance
 Non-profit ⿻ Infrastructure
-Open And Decentralized Marketplace
 Open Collective Foundation
 Open Source Community
 Open Source Ecosystem
 Open Source Models
-Open Source Projects
 Open Source Technology
-People's Republic of China (PRC)
-Private Technology Development
-Single-sign-on Architectures
-State of Wyoming
-Supermodular Shared Goods
-
-### 7-1
-Chaos and Top-down order
-Collective Future
-Fabric Of Relationships
-Guiding Light And Symbol For ⿻
-Local ⿻ Communities
-Supermodular International Cooperation
-Teri Whitcraft
 
