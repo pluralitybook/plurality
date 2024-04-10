@@ -4,7 +4,8 @@
 - `in.pdf`: input PDF, currently I used the latest PDF from Sharepoint 4/10 11:30 JST (in previous version it was `release/latest` on 4/9 14:42 JST)
 - `from_pdf.py`: read PDF `in.pdf` and output JSON `book.json`
 - `main.py`: output keywords to page numbers into `keyword_occurrence.tsv`
-
+- `index_with_claude.tsv`: merge Claude 3 Opus output and `keyword_occurrence.tsv`
+- `index_for_manual_edit.tsv`: Copy of `index_with_claude.tsv` for manual edit
 
 ### memo
 - Removed keywords "not found" in "NotFound.csv". those are once added by human, not found by machine and then not found by additional human eyes.
