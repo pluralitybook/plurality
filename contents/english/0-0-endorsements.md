@@ -56,16 +56,16 @@
 > Audrey Tang sets a new standard for what it means to be a pioneering leader. I hope we will all have the courage to follow in her path, as she lays out so eloquently here.<br></br>
 — [Claudia López Hernández](https://en.wikipedia.org/wiki/Claudia_L%C3%B3pez), former Mayor and first woman mayor of Bogotá, Colombia and highest ever LGBT elected official in the Global South
 
- <br></br>
+<br></br>
  
- > In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
+> In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
 — [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Co-Founder of the [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) and star of [*The Social Dilemma*](https://www.thesocialdilemma.com/)
 
 
-`<br></br>
+<br></br>
 
 > I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!<br></br> 
-— [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), creator of [*Magic:The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
+— [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), creator of [*Magic: The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
 
 
 
