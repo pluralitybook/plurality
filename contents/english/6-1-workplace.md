@@ -2,7 +2,7 @@
 
 More than a billion people worldwide work outside their homes in formal organizations with at least a few other people.[^ILO]  These "workplaces" produce about 70% of global output and are the first thing most people think of when they hear "economy". Just as we consider the vast contribution of workplaces to the global economy, it is essential to address inefficiencies that hinder productivity. U.S. workers spend an average of 31 hours per month in meetings deemed unproductive, a significant drain on both time and resources.[^meeting-stats] If ⿻ is to help re-imagine the economy, it must restructure formal work, which we turn to in this chapter.
 
-[^ILO]: International Labor Organization, " World Employment and Social Outlook: Trends" (2023) at https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_865387.pdf.
+[^ILO]: International Labor Organization, " World Employment and Social Outlook: Trends" (2023) at https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_865387.pdf
 
 The advances we discuss, which are just a sampling of potential implications of ⿻ in the workplace, cover strengthening remote teams, designing effective corporate campuses, improving communication, accessing talent more inclusively and supporting more effective provision of common corporate infrastructure and more dynamic adaptation to changing industries.  We estimate that the first four of these components could increase global gross domestic product by approximately 10% in total and that the last might permanently increase the GDP growth rate by half a percentage point a year.[^Calc]
 
