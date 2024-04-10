@@ -1,5 +1,4 @@
 Keywords	Sections
-Antiretroviral Therapie	6-2
 Bidirectional Equilibrium	3-1
 Blockchain-centric Identity Systems	4-1
 Co-edited Project	5-3
@@ -23,7 +22,6 @@ For-profit Industry	7-0
 For-profit Private Corporations	7-0
 Georgist land value tax	2-1
 Global Anti-colonial Movement	2-1
-Gov4Git	6-2
 Gödel's Theorem	3-1
 Hu Shih	2-1
 Intersectional Identity	3-2
@@ -66,4 +64,3 @@ co-creation relationship	6-4
 modernity	3-3
 non-fungible tokens (NFTs)	4-4
 web of group-affiliation	3-2
-⿻istic Ignorance	6-3
