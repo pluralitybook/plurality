@@ -1,6 +1,8 @@
 Keywords	Sections
+"chaotic" states	3-1
+"orderly" states	3-1
+"public" data repositories	4-1
 AI researcher	5-5
-Acemoglu, Daron	2-0
 Active Public Investment	7-0
 Administrative Practice	5-5
 Advanced Research Projects Agency	2-0
@@ -21,7 +23,6 @@ Cellphone Addiction	2-2
 Center for Constructive Communication	5-4
 Centralizing Structure	4-1
 Chaos and Top-down order	7-1
-Chaotic States	3-1
 Chen Shui-bian	2-1
 Citizen Volunteers	2-2
 Clean Energy	6-4
@@ -38,7 +39,6 @@ Common Carriers of Public Discussion	6-3
 Commons-Based Property	3-3
 Community Notes (CN)　	5-4
 Community-Based Identity	3-3
-Competitive Effect	6-0
 Competitive authoritarian regimes	4-0
 Computer-simulated Neuron	5-5
 Connected Digital Community	7-0
@@ -70,6 +70,7 @@ Diversity of "groups"	6-0
 Domain Names	4-4
 Educational Psychology	5-5
 Edward Deming	2-1
+Edward Snowden	4-2
 Einstein's Theories Of Relativity	3-1
 Electronic Commerce	4-1, 4-3
 Elite Universities	5-5
@@ -88,7 +89,6 @@ Fractional Reserve Banking	4-3
 Free Markets Know Best	2-0
 Future Collaborator	5-3
 Gabriel Zucman	2-2
-Ganga River	6-4
 General Reticence	2-0
 Georgist land value tax	2-1
 Global Anti-colonial Movement	2-1
@@ -98,7 +98,6 @@ Global Legitimacy	5-6
 Global Policies	5-6
 Globarization	1-1
 Gold Standard	4-1
-Good Old-fashioned AI (GOFAI)	5-5
 Gov4Git	6-2
 Graphics Processing Units (GPUs)	4-4
 Guiding Light And Symbol For ⿻	7-1
@@ -110,7 +109,6 @@ Hu Shih	2-1
 Human Cooperation	5-7
 Human Resources Platform	5-5
 Humanocracy	6-1
-Hunter-gatherer Model	6-0
 Hutchins Commission on Freedom of the Press	6-3
 Hypertext Transfer Protocol Secure (HTTPS)	4-4
 IVR Junction	5-5
@@ -130,8 +128,6 @@ Internet Access Is A Human Right	4-5
 Internet Corporation for Assigned Names and Numbers (ICANN)	4-4
 Intersectional Identity	3-2
 J. D. Vance	2-0
-Jefferson, Thomas	2-0
-Jobs, Steve	6-1
 John Perry Barlow	2-0
 Juan Benet	4-4
 Kao Chia-liang	2-2
@@ -166,7 +162,6 @@ New Zealand	6-4
 Newtonian Mechanics	3-1
 Nixon's visit to PRC	2-1
 Noah Smith	2-0
-Non-fungible Tokens (NFTs)	4-4
 Non-human Perspective	5-3
 Non-profit ⿻ Infrastructure	7-0
 Non-renewable Energy Sources	6-4
@@ -188,10 +183,9 @@ Open Standards-based Collaborations.	4-4
 Open-source Rainmaking	6-4
 Open-source Technology	5-3
 Optimism Collective	6-2
-Orderly States	3-1
 Over-shared information	4-2
 Packet Switching Architectures	4-1
-Page Rank	5-6
+Page Rank	4-4, 5-6
 Participative Production	2-1
 Paul Jozef Crutzen	6-4
 Payment In Digital Spaces	4-3
@@ -206,7 +200,6 @@ Private Technology Development	7-0
 Private, For-profit Corporations	4-1
 Proof Of Work	4-3
 Propagational investment currency system (PICSY)	5-6
-Public Data Repositories	4-1
 Public Good	6-2
 Public Key Cryptography	4-2
 Public Welfare Shcemes	5-7
@@ -230,11 +223,9 @@ Secure multiparty computation (SMPC)	4-4
 Security protocols	4-0
 Self-ownership	5-7
 Shield Of Trust And Safety	4-1
-Simon, Herbert	4-2
 Single Sign-on (SSO)	4-1
 Single-sign-on Architectures	7-0
 Siraya language	2-1
-Snowden, Edward	4-2
 Social Currencies	4-3
 Social Divide	6-0
 Social Dynamics	3-2
@@ -290,6 +281,7 @@ Yu Yong-Ding	2-0
 Zero-Knowledge Proofs(ZKPs)	4-2, 6-3
 healthy minds in healthy bodies	6-2
 modernity	3-3
+non-fungible tokens (NFTs)	4-4
 on the ground	6-1
 private clubs	2-1
 rationality	3-3

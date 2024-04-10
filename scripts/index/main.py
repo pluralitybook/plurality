@@ -7,6 +7,7 @@ import re
 from collections import defaultdict
 import json
 import csv
+from view import view_mapping, view_reverse_mapping
 
 PLURALITY = "\u2ffb"
 
@@ -93,6 +94,8 @@ keywords = set()
 keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
     k = row[1]
+    if k in view_reverse_mapping:
+        k = view_reverse_mapping[k]
     keywords.add(k)
     keyword_recorded_by_human[k].add(normalize_section_name(row[2]))
 
@@ -152,7 +155,10 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
                 occ.append(p)
             prev = p
         occ_str = ", ".join(str(p) for p in occ)
+        if k in view_mapping:
+            k = view_mapping[k]
         k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
+
         print(f"{k}\t{occ_str}", file=f)
 
         if len(occ) >= 5:
