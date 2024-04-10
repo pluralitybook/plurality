@@ -108,14 +108,14 @@ for k in keywords:
     if k in IGNORE:
         continue
 
-    mask = [0] * len(pages)
-    for section in keyword_recorded_by_human[k]:
-        for p in range(SECTION_START[section], SECTION_END[section]):
-            mask[p] = 1
+    # mask = [0] * len(pages)
+    # for section in keyword_recorded_by_human[k]:
+    #     for p in range(SECTION_START[section], SECTION_END[section]):
+    #         mask[p] = 1
 
     for p in pages:
-        if not mask[p]:
-            continue
+        # if not mask[p]:
+        #     continue
         if k in CASE_SENSITIVE:
             if k in pages[p]:
                 keyword_occurence[k].append(p)
@@ -144,6 +144,7 @@ with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_oc
             print(f"{k}\t{sections}", file=warn_no_occurence)
             for s in keyword_recorded_by_human[k]:
                 section_to_no_occurence[s].append(k)
+
 
 with open(os.path.join(script_directory, "section_to_no_occurence.txt"), "w") as f:
     for s in sorted(section_to_no_occurence):

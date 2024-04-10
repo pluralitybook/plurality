@@ -4,13 +4,8 @@ River Of Democracy
 Towering Tech Giants
 
 ### 2-0
-Advanced Research Projects Agency
 African Model
-Alexis de Tocqueville
 Artificial General Intelligence
-Cold War
-DARPA
-Data Governance Act
 Declaration of the Independence of Cyberspace
 Environmental Devastation
 Extremist Parties
@@ -19,7 +14,6 @@ General Reticence
 J. D. Vance
 John Perry Barlow
 Low-skilled Workers
-M. Mitchell Waldrop
 Nationalist Backlash
 Noah Smith
 People's Republic of China (PRC)
@@ -27,7 +21,6 @@ Post-gender
 Robert Atkinson
 Robinson, James
 Saudia Arabia
-The Dream Machine
 The Network State
 Western Capitalist Countries
 Yu Yong-Ding
@@ -46,16 +39,13 @@ Nixon's visit to PRC
 One Country, Two Systems
 Participative Production
 People's Republic of China (PRC)
-Richard Rorty
 Siraya language
 Taiwan Self-Salvation Manifesto
 Union of Japanese Scientists and Engineers(JUSE)
-private clubs
 
 ### 2-2
 Cellphone Addiction
 Citizen Volunteers
-Gabriel Zucman
 Kao Chia-liang
 Open Government Movement
 Taiwan's Digital Civic Infrastructure
@@ -73,7 +63,6 @@ Decentralized Scientific Community
 Einstein's Theories Of Relativity
 Gödel's Theorem
 Molecular Biology
-Newtonian Mechanics
 The Mix Of Diversity And Interconnectedness
 Weather Systems
 
@@ -81,28 +70,14 @@ Weather Systems
 Intersectional Identity
 Social Dynamics
 Social Science Experts
-Social sciences
 web of group-affiliation
 
 ### 3-3
-Commons-Based Property
-Community-Based Identity
-Enlightenment
-Individual Identity
-Liberal Democracy
-One-Person-One-Vote
-Renaissance
-SSN
-Social Security Numbers
-Universal Birth Registration
 WEIRD societies
-modernity
-rationality
 
 ### 4-0
 Competitive authoritarian regimes
 Digital-native currencies
-Information commons
 National Socialist German Workers party
 Rights of free speech
 Security protocols
@@ -112,7 +87,6 @@ Security protocols
 Blockchain-centric Identity Systems
 Centralizing Structure
 Digital Identity Systems
-Digital Platform
 Digital-native Identity Infrastructure
 Electronic Commerce
 Establish and Protect Participant Identities
@@ -139,7 +113,6 @@ Distributed Ledger Technology (DLT)
 Edward Snowden
 Integrity of identity
 Local Exchange Trading Systems (LETS)
-New Associationist Movement
 Over-shared information
 Pre-digital associations
 Public Key Cryptography
@@ -172,7 +145,6 @@ Uniform Resource Locator (URL)
 non-fungible tokens (NFTs)
 
 ### 4-5
-Dao
 Declaration for the Future of the Internet
 Distributed Denial Of Service (DDoS)
 Global Declaration on Information Integrity Online
@@ -183,7 +155,6 @@ Internet Access Is A Human Right
 ### 5-0
 Subcultural translation
 Welfare Capitalism
-social welfare function
 
 ### 5-1
 High-Bandwidth Communication
@@ -202,7 +173,6 @@ AlphaGo Zero
 Artistic co-creation
 Co-edited Project
 Co-writing
-Collective Consciousness
 Encounter with the East
 Future Collaborator
 Non-human Perspective
@@ -221,7 +191,6 @@ Mark Zuckerberg
 National Coalition for Dialogue and Deliberation
 New England town hall
 The Parliament of Things
-User Experience
 Wised Democracy Pattern Language
 ⿻istic
 
@@ -232,7 +201,6 @@ Colonial Outsider
 Computer-simulated Neuron
 Corporate Bureaucracy
 Distributed Network of Signals
-Educational Psychology
 Elite Universities
 Federal Pension Insurance system
 Finnish government
@@ -240,13 +208,10 @@ Human Resources Platform
 IVR Junction
 Indigenous Land and Sea Corporation
 Narrow Educational and Career Path
-United States
-World Economic Forum
 
 ### 5-6
 Global Legitimacy
 Global Policies
-New Associationist Movement
 Page Rank
 Propagational investment currency system (PICSY)
 The Greatest Good For The Greatest Number
@@ -265,23 +230,19 @@ Public Welfare Shcemes
 Public/Supermodular Goods
 Quantitative Markers 
 Self-ownership
-Social Interaction
 Territorial And Intellectual Property Treaties
 Tradable Carbon Permits
 ⿻ Group
 
 ### 6-0
 Diversity of "groups"
-Social Divide
 War of Independence
 
 ### 6-1
-Collective Intelligence
 Cross-cutting Benefit
 Cross-pollination Service
 Direct Neural Interface
 Hit Rates
-Humanocracy
 Meetings Deemed Unproductive
 Office of Chief Technology Officer
 Remote Collaboration Tool
@@ -293,16 +254,10 @@ on the ground
 ### 6-2
 Antiretroviral Therapie
 Gov4Git
-HackMD
-Optimism Collective
-Predictive Voting
-Public Good
-Raj
 Regression Discontinuity Design
 Sustainable Development Goals (SDGs)
 UNDP
 healthy minds in healthy bodies
-⿻ Vision
 
 ### 6-3
 Common Carriers of Public Discussion
@@ -320,7 +275,6 @@ Environmental Sustainability
 Legal Agent
 Life-support System
 Magpie River
-New Zealand
 Non-renewable Energy Sources
 Open-source Rainmaking
 Paul Jozef Crutzen
