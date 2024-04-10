@@ -135,13 +135,22 @@ for k in keywords:
                     section_occurence[p] += 1
                     continue
 
+section_to_no_occurence = defaultdict(list)
 with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
     print("Keywords\tSections", file=warn_no_occurence)
     for k in sorted(keywords):
         if not keyword_occurence[k] and k not in IGNORE:
             sections = ", ".join(sorted(keyword_recorded_by_human[k]))
             print(f"{k}\t{sections}", file=warn_no_occurence)
+            for s in keyword_recorded_by_human[k]:
+                section_to_no_occurence[s].append(k)
 
+with open(os.path.join(script_directory, "section_to_no_occurence.txt"), "w") as f:
+    for s in sorted(section_to_no_occurence):
+        print(f"### {s}", file=f)
+        for k in sorted(section_to_no_occurence[s]):
+            print(f"{k}", file=f)
+        print(file=f)
 
 too_many_occurrence = []
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
