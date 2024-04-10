@@ -41,6 +41,7 @@ Cross-Cultural Exchanges	5-2
 Cross-cutting Benefit	6-1
 Cross-pollination Service	6-1
 Cryptographic Standards	4-2
+Dao	4-5
 De Tocqueville, Alexis	4-2
 Decentralized Scientific Community	3-1
 Decentralized Social Networking Protocol (DSNP)	4-2
@@ -174,6 +175,7 @@ Private Technology Development	7-0
 Private, For-profit Corporations	4-1
 Proof Of Work	4-3
 Propagational investment currency system (PICSY)	5-6
+Public Good	6-2
 Public Key Cryptography	4-2
 Public Welfare Shcemes	5-7
 Public/Supermodular Goods	5-7
@@ -197,6 +199,7 @@ Single-sign-on Architectures	7-0
 Siraya language	2-1
 Social Currencies	4-3
 Social Dynamics	3-2
+Social Interaction	5-7
 Social Science Experts	3-2
 Social Security Number (SSN)	4-1
 Society for Worldwide Interbank Financial Telecommunication (SWIFT)	4-3
@@ -222,6 +225,7 @@ Tyranny Of The Majority	5-6
 UNDP	6-2
 Uniform Resource Locator (URL)	4-4
 Union of Japanese Scientists and Engineers(JUSE)	2-1
+United States	5-5
 Universal Coded Character (unicode)	3-0
 VR Therapy	5-2
 Virtual Civic Spaces	5-2
@@ -240,6 +244,7 @@ Yasmin Eyalat	6-3
 Yu Yong-Ding	2-0
 Zero-Knowledge Proofs(ZKPs)	4-2, 6-3
 healthy minds in healthy bodies	6-2
+modernity	3-3
 non-fungible tokens (NFTs)	4-4
 on the ground	6-1
 web of group-affiliation	3-2

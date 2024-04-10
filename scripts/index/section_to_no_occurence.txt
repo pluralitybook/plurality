@@ -74,6 +74,7 @@ web of group-affiliation
 
 ### 3-3
 WEIRD societies
+modernity
 
 ### 4-0
 Competitive authoritarian regimes
@@ -145,6 +146,7 @@ Uniform Resource Locator (URL)
 non-fungible tokens (NFTs)
 
 ### 4-5
+Dao
 Declaration for the Future of the Internet
 Distributed Denial Of Service (DDoS)
 Global Declaration on Information Integrity Online
@@ -208,6 +210,7 @@ Human Resources Platform
 IVR Junction
 Indigenous Land and Sea Corporation
 Narrow Educational and Career Path
+United States
 
 ### 5-6
 Global Legitimacy
@@ -230,6 +233,7 @@ Public Welfare Shcemes
 Public/Supermodular Goods
 Quantitative Markers 
 Self-ownership
+Social Interaction
 Territorial And Intellectual Property Treaties
 Tradable Carbon Permits
 ⿻ Group
@@ -254,6 +258,7 @@ on the ground
 ### 6-2
 Antiretroviral Therapie
 Gov4Git
+Public Good
 Regression Discontinuity Design
 Sustainable Development Goals (SDGs)
 UNDP

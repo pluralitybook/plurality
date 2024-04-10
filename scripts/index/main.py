@@ -45,6 +45,8 @@ SECTION_PAGES_MAPPINGS_str = """
 7-0 481
 7-1 512
 """
+LAST_PAGE = 522
+
 lines = SECTION_PAGES_MAPPINGS_str.strip().splitlines()
 items = [line.split() for line in lines]
 SECTION_START = {}
@@ -53,7 +55,7 @@ for section, page in items:
 SECTION_END = {}
 for i in range(len(lines) - 1):
     SECTION_END[items[i][0]] = int(items[i + 1][1])
-SECTION_END["7-1"] = 522  # last page
+SECTION_END["7-1"] = LAST_PAGE  # last page
 
 
 def normalize_section_name(s):
@@ -100,6 +102,18 @@ for row in csv.reader(lines):
     keyword_recorded_by_human[k].add(normalize_section_name(row[2]))
 
 
+def filter_pages(pages):
+    """
+    Filter pages which are not in the section which human specified.
+    """
+    mask = [0] * (LAST_PAGE + 1)
+    for section in keyword_recorded_by_human[k]:
+        for p in range(SECTION_START[section], SECTION_END[section]):
+            mask[p] = 1
+
+    return list(filter(lambda x: mask[x], pages))
+
+
 # find keyword occurence in other sections
 keyword_occurence = defaultdict(list)
 section_occurence = defaultdict(int)
@@ -107,11 +121,6 @@ for k in keywords:
     # find occurence in other sections
     if k in IGNORE:
         continue
-
-    # mask = [0] * len(pages)
-    # for section in keyword_recorded_by_human[k]:
-    #     for p in range(SECTION_START[section], SECTION_END[section]):
-    #         mask[p] = 1
 
     for p in pages:
         # if not mask[p]:
@@ -134,6 +143,9 @@ for k in keywords:
                     keyword_occurence[k].append(p)
                     section_occurence[p] += 1
                     continue
+
+    if len(keyword_occurence[k]) > 5:
+        keyword_occurence[k] = filter_pages(keyword_occurence[k])
 
 section_to_no_occurence = defaultdict(list)
 with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
