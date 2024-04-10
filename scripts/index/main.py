@@ -195,3 +195,35 @@ with open(os.path.join(script_directory, "too_many_occurrence.tsv"), "w") as f:
     print(f"Keywords\tSection(by Human)\tSection(by Script)", file=f)
     for num, k, human, occ in too_many_occurrence:
         print(f"{k}\t{human}\t{occ}", file=f)
+
+# With Claude 3 Opus information
+claude_data = json.load(open("claude.json"))
+for k in claude_data:
+    if k in keyword_occurence and claude_data[k] == "NaN":
+        del keyword_occurence[k]
+    elif claude_data[k] == "NaN":
+        continue
+    else:
+        keyword_occurence[k].append(int(claude_data[k]))
+
+with open(os.path.join(script_directory, "index_with_claude.tsv"), "w") as f:
+    print(f"Keywords\tPages", file=f)
+
+    for k in sorted(keyword_occurence, key=lambda x: (x.lower(), x)):
+        occ = []
+        prev = -999
+        for p in sorted(keyword_occurence[k]):
+            if p != prev + 1:  # ignore continuous pages
+                occ.append(p)
+            prev = p
+        occ_str = ", ".join(str(p) for p in occ)
+        if k in view_mapping:
+            k = view_mapping[k]
+        k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
+
+        print(f"{k}\t{occ_str}", file=f)
+
+        if len(occ) >= 5:
+            human = ", ".join(sorted(keyword_recorded_by_human[k]))
+            k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
+            too_many_occurrence.append((len(keyword_occurence[k]), k, human, occ_str))
