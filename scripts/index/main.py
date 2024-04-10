@@ -72,6 +72,7 @@ script_directory = os.path.dirname(os.path.abspath(__file__))
 # keywords which should avoid mechine search, such as `X`(Twitter) or `her`(Movie name)
 ignore_file = os.path.join(script_directory, "ignore.txt")
 IGNORE = open(ignore_file).read().strip().splitlines()
+# TODO: need to pick page-number by hand because it is not searched automatically
 
 # keywords which should case sensitive and word boundary sensitive, such as `BERT`, `ROC`, `UN`
 ignore_file = os.path.join(script_directory, "case_sensitive.txt")
@@ -122,7 +123,8 @@ for k in keywords:
             if k.lower() in pages_lower[p]:
                 keyword_occurence[k].append(p)
                 section_occurence[p] += 1
-            elif "(" in k:
+                continue
+            if "(" in k:
                 # if keywords looks `AAA (BBB)` style, use occurrence of `AAA` instead
                 k2 = remove_palen(k)
                 if not k2 or k2 in IGNORE:
@@ -130,7 +132,7 @@ for k in keywords:
                 if k2.lower() in pages[p]:
                     keyword_occurence[k].append(p)
                     section_occurence[p] += 1
-
+                    continue
 
 with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
     print("Keywords\tSections", file=warn_no_occurence)
