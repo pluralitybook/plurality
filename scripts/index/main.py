@@ -8,38 +8,41 @@ from collections import defaultdict
 import json
 import csv
 
+PLURALITY = "\u2ffb"
+
 # Make section pages mapping
 
 SECTION_PAGES_MAPPINGS_str = """
-1-1 4
+1-1 1
 2-0 6
-2-1 38
-2-2 50
-3-0 70
-3-1 74
-3-2 87
-3-3 103
-4-0 126
-4-1 140
-4-2 161
-4-3 177
-4-4 194
-4-5 213
-5-0 220
-5-1 235
-5-2 244
-5-3 255
-5-4 265
-5-5 279
-5-6 290
-5-7 299
-6-0 316
-6-1 328
-6-2 340
-6-3 354
-6-4 362
-7-0 367
-7-1 391
+2-0 3
+2-1 47
+2-2 64
+3-0 88
+3-1 94
+3-2 112
+3-3 132
+4-0 162
+4-1 180
+4-2 209
+4-3 231
+4-4 253
+4-5 279
+5-0 287
+5-1 307
+5-2 319
+5-3 334
+5-4 347
+5-5 365
+5-6 379
+5-7 392
+6-0 413
+6-1 429
+6-2 446
+6-3 464
+6-4 475
+7-0 481
+7-1 512
 """
 lines = SECTION_PAGES_MAPPINGS_str.strip().splitlines()
 items = [line.split() for line in lines]
@@ -49,7 +52,7 @@ for section, page in items:
 SECTION_END = {}
 for i in range(len(lines) - 1):
     SECTION_END[items[i][0]] = int(items[i + 1][1])
-SECTION_END["7-1"] = 400
+SECTION_END["7-1"] = 522  # last page
 
 
 def normalize_section_name(s):
@@ -79,7 +82,7 @@ _pages = json.load(open(os.path.join(script_directory, "book.json")))
 pages = {}
 pages_lower = {}
 for _p in _pages:
-    p = int(_p) - 1  # cover page offset
+    p = int(_p) - 10  # page numbered 1 is page 11 on PDF
     pages[p] = _pages[_p]
     pages_lower[p] = _pages[_p].lower()
 
