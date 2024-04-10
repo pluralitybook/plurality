@@ -6,7 +6,8 @@
 - `main.py`: output keywords to page numbers into `keyword_occurrence.tsv`
 
 
-
+### memo
+- Removed keywords "not found" in "NotFound.csv". those are once added by human, not found by machine and then not found by additional human eyes.
 
 ## first step (~3/26)
 - `Plurality Book Indexing Exercise - Main.csv`: raw file exported from [Spreadsheet](https://docs.google.com/spreadsheets/d/1gmyjFbErt_CW8-qLKChSpciLlCDGUhLriYFov0HO3qA/edit#gid=0)
