@@ -96,8 +96,6 @@ keywords = set()
 keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
     k = row[1]
-    if '"' in k:
-        print(k)
     k = k.replace('"', "")  # remove quotation
     if k in view_reverse_mapping:
         k = view_reverse_mapping[k]
