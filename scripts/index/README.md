@@ -12,6 +12,12 @@
 - For example, "Advanced Research Projects Agency" is recorded as in 2-0, but in the latest PDF, it found in 3-3. Searching only within the specified section, as chosen by the user, should not be the default behavior; it should be limited to cases where there are too many hits.
 - For example, "Parliament of Things" is in text but not hit. It is because the new line with spaces causes extra space like: "Parliament of  Things". This fix resulted in a decrease in the number of "not found" keywords from 242 to 79.
 - In PDF, quotation `"..."` sometimes converted to `\u201...\u201d` (not all time). I removed quotation before matching. 
+- Considering future updates to the manuscript, human corrections should be kept to a minimum. I provided a subset of JSON converted from the PDF to Claude 3 Opus and identified "not found" keywords for each section. After confirming some cases by my eyes, it seems to be working well, so I decided to adopt it. Prompt:
+
+```
+You are great editor of books. Here are index candidates for a book, find where it is (page number) or output "NaN".
+expected JSON format: {"<keyword>": "<page number or NaN>", ...}
+```
 
 ## first step (~3/26)
 - `Plurality Book Indexing Exercise - Main.csv`: raw file exported from [Spreadsheet](https://docs.google.com/spreadsheets/d/1gmyjFbErt_CW8-qLKChSpciLlCDGUhLriYFov0HO3qA/edit#gid=0)

@@ -163,7 +163,7 @@ with open(os.path.join(script_directory, "section_to_no_occurence.txt"), "w") as
     for s in sorted(section_to_no_occurence):
         print(f"### {s}", file=f)
         for k in sorted(section_to_no_occurence[s]):
-            print(f"{k}", file=f)
+            print(f"- {k}", file=f)
         print(file=f)
 
 too_many_occurrence = []
