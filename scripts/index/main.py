@@ -7,40 +7,46 @@ import re
 from collections import defaultdict
 import json
 import csv
+from view import view_mapping, view_reverse_mapping
+
+PLURALITY = "\u2ffb"
 
 # Make section pages mapping
 
 SECTION_PAGES_MAPPINGS_str = """
-1-1 4
+1-1 1
 2-0 6
-2-1 38
-2-2 50
-3-0 70
-3-1 74
-3-2 87
-3-3 103
-4-0 126
-4-1 140
-4-2 161
-4-3 177
-4-4 194
-4-5 213
-5-0 220
-5-1 235
-5-2 244
-5-3 255
-5-4 265
-5-5 279
-5-6 290
-5-7 299
-6-0 316
-6-1 328
-6-2 340
-6-3 354
-6-4 362
-7-0 367
-7-1 391
+2-0 3
+2-1 47
+2-2 64
+3-0 88
+3-1 94
+3-2 112
+3-3 132
+4-0 162
+4-1 180
+4-2 209
+4-3 231
+4-4 253
+4-5 279
+5-0 287
+5-1 307
+5-2 319
+5-3 334
+5-4 347
+5-5 365
+5-6 379
+5-7 392
+6-0 413
+6-1 429
+6-2 446
+6-3 464
+6-4 475
+7-0 481
+7-1 512
 """
+LAST_PAGE = 522
+
 lines = SECTION_PAGES_MAPPINGS_str.strip().splitlines()
 items = [line.split() for line in lines]
 SECTION_START = {}
@@ -49,7 +55,7 @@ for section, page in items:
 SECTION_END = {}
 for i in range(len(lines) - 1):
     SECTION_END[items[i][0]] = int(items[i + 1][1])
-SECTION_END["7-1"] = 400
+SECTION_END["7-1"] = LAST_PAGE  # last page
 
 
 def normalize_section_name(s):
@@ -69,6 +75,7 @@ script_directory = os.path.dirname(os.path.abspath(__file__))
 # keywords which should avoid mechine search, such as `X`(Twitter) or `her`(Movie name)
 ignore_file = os.path.join(script_directory, "ignore.txt")
 IGNORE = open(ignore_file).read().strip().splitlines()
+# TODO: need to pick page-number by hand because it is not searched automatically
 
 # keywords which should case sensitive and word boundary sensitive, such as `BERT`, `ROC`, `UN`
 ignore_file = os.path.join(script_directory, "case_sensitive.txt")
@@ -79,7 +86,7 @@ _pages = json.load(open(os.path.join(script_directory, "book.json")))
 pages = {}
 pages_lower = {}
 for _p in _pages:
-    p = int(_p) - 1  # cover page offset
+    p = int(_p) - 10  # page numbered 1 is page 11 on PDF
     pages[p] = _pages[_p]
     pages_lower[p] = _pages[_p].lower()
 
@@ -89,10 +96,23 @@ keywords = set()
 keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
     k = row[1]
-    if k in ["Just", "Author", "Fair", "Writing"]:  # not a keyword
-        continue
+    k = k.replace('"', "")  # remove quotation
+    if k in view_reverse_mapping:
+        k = view_reverse_mapping[k]
     keywords.add(k)
     keyword_recorded_by_human[k].add(normalize_section_name(row[2]))
+
+
+def filter_pages(pages):
+    """
+    Filter pages which are not in the section which human specified.
+    """
+    mask = [0] * (LAST_PAGE + 1)
+    for section in keyword_recorded_by_human[k]:
+        for p in range(SECTION_START[section], SECTION_END[section]):
+            mask[p] = 1
+
+    return list(filter(lambda x: mask[x], pages))
 
 
 # find keyword occurence in other sections
@@ -103,14 +123,9 @@ for k in keywords:
     if k in IGNORE:
         continue
 
-    mask = [0] * len(pages)
-    for section in keyword_recorded_by_human[k]:
-        for p in range(SECTION_START[section], SECTION_END[section]):
-            mask[p] = 1
-
     for p in pages:
-        if not mask[p]:
-            continue
+        # if not mask[p]:
+        #     continue
         if k in CASE_SENSITIVE:
             if k in pages[p]:
                 keyword_occurence[k].append(p)
@@ -119,7 +134,8 @@ for k in keywords:
             if k.lower() in pages_lower[p]:
                 keyword_occurence[k].append(p)
                 section_occurence[p] += 1
-            elif "(" in k:
+                continue
+            if "(" in k:
                 # if keywords looks `AAA (BBB)` style, use occurrence of `AAA` instead
                 k2 = remove_palen(k)
                 if not k2 or k2 in IGNORE:
@@ -127,15 +143,28 @@ for k in keywords:
                 if k2.lower() in pages[p]:
                     keyword_occurence[k].append(p)
                     section_occurence[p] += 1
+                    continue
 
+    if len(keyword_occurence[k]) > 5:
+        keyword_occurence[k] = filter_pages(keyword_occurence[k])
 
+section_to_no_occurence = defaultdict(list)
 with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
     print("Keywords\tSections", file=warn_no_occurence)
     for k in sorted(keywords):
         if not keyword_occurence[k] and k not in IGNORE:
             sections = ", ".join(sorted(keyword_recorded_by_human[k]))
             print(f"{k}\t{sections}", file=warn_no_occurence)
+            for s in keyword_recorded_by_human[k]:
+                section_to_no_occurence[s].append(k)
 
+
+with open(os.path.join(script_directory, "section_to_no_occurence.txt"), "w") as f:
+    for s in sorted(section_to_no_occurence):
+        print(f"### {s}", file=f)
+        for k in sorted(section_to_no_occurence[s]):
+            print(f"- {k}", file=f)
+        print(file=f)
 
 too_many_occurrence = []
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
@@ -149,7 +178,10 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
                 occ.append(p)
             prev = p
         occ_str = ", ".join(str(p) for p in occ)
+        if k in view_mapping:
+            k = view_mapping[k]
         k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
+
         print(f"{k}\t{occ_str}", file=f)
 
         if len(occ) >= 5:
@@ -163,3 +195,35 @@ with open(os.path.join(script_directory, "too_many_occurrence.tsv"), "w") as f:
     print(f"Keywords\tSection(by Human)\tSection(by Script)", file=f)
     for num, k, human, occ in too_many_occurrence:
         print(f"{k}\t{human}\t{occ}", file=f)
+
+# With Claude 3 Opus information
+claude_data = json.load(open("claude.json"))
+for k in claude_data:
+    if k in keyword_occurence and claude_data[k] == "NaN":
+        del keyword_occurence[k]
+    elif claude_data[k] == "NaN":
+        continue
+    else:
+        keyword_occurence[k].append(int(claude_data[k]))
+
+with open(os.path.join(script_directory, "index_with_claude.tsv"), "w") as f:
+    print(f"Keywords\tPages", file=f)
+
+    for k in sorted(keyword_occurence, key=lambda x: (x.lower(), x)):
+        occ = []
+        prev = -999
+        for p in sorted(keyword_occurence[k]):
+            if p != prev + 1:  # ignore continuous pages
+                occ.append(p)
+            prev = p
+        occ_str = ", ".join(str(p) for p in occ)
+        if k in view_mapping:
+            k = view_mapping[k]
+        k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
+
+        print(f"{k}\t{occ_str}", file=f)
+
+        if len(occ) >= 5:
+            human = ", ".join(sorted(keyword_recorded_by_human[k]))
+            k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
+            too_many_occurrence.append((len(keyword_occurence[k]), k, human, occ_str))
