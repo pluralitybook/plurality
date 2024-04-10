@@ -1,5 +1,4 @@
 Keywords	Sections
-African Model	2-0
 Antiretroviral Therapie	6-2
 Bidirectional Equilibrium	3-1
 Blockchain-centric Identity Systems	4-1
@@ -45,12 +44,10 @@ Open Source Ecosystem	7-0
 Open Source Intelligence	6-3
 Open Source Models	7-0
 Open Source Technology	7-0
-Page Rank	4-4, 5-6
 Paul Jozef Crutzen	6-4
 Post-gender	2-0
 Private Community-based Sponsorship	5-7
 Public Good	6-2
-Public Welfare Shcemes	5-7
 Quick Fixes	4-4
 Robert Atkinson	2-0
 Robinson, James	2-0
@@ -64,7 +61,6 @@ Uniform Resource Locator (URL)	4-4
 United States	5-5
 WEIRD societies	3-3
 Weighted-voting	5-6
-Whanganui River	6-4
 White Collar	6-1
 co-creation relationship	6-4
 modernity	3-3
