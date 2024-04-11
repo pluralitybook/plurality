@@ -566,10 +566,11 @@ Dōka	52
 
 # E
 ```
-e-citizenship	431
+E-Citizenship	431
+E-Government Development Index (EGDI)	21
 E-Government	21, 161
-e-health	459
-e-sports	323, 434
+E-Health	459
+E-Sports	323, 434
 E-Sports Tournaments	323
 Early Adopted Community	420
 Early Adopters	417, 421
@@ -589,7 +590,6 @@ Edward Deming	57
 Snowden, Edward	223
 edX	338
 Egalitarianism	58, 449
-EGDI	21
 Eigenvalues	388
 Eigenvoting	388
 Einstein's Theories Of Relativity	101
@@ -626,10 +626,9 @@ Ethereum	158, 238, 249, 495, 498
 Ethereum community	495
 Ethnic Pluralism	53, 61
 Ethnographer	375
-EU	180, 195
 Euclidean Geometry	101, 118
 European Digital Identity	491
-European Union (EU)	485
+European Union (EU)	180, 195, 485
 Eusocial	103
 Evacuation Credentials	180
 Excessive Fragmentation	435
@@ -811,7 +810,7 @@ Heisenberg’s Uncertainty Principle	101
 Helen Nissenbaum	207
 Henry George	54, 75, 91, 112, 119, 403, 407
 Henry George Theorem	120, 407
-Her	
+Her (film)	26
 Simon, Herbert	218, 352
 Herculaneum	334, 339
 Herculaneum scrolls	339
