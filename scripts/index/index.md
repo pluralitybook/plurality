@@ -86,7 +86,6 @@ AIDS	447, 453, 459
 Air pollution	476, 488
 Alan Hodgkin	104
 Albert Hirschman	395
-Alexis de Tocqueville	6, 211
 Algorithmic Ranking System	354
 Alien Art	340
 Alien Intelligence	26, 340
@@ -429,7 +428,7 @@ Data-driven Actors	478
 Dave Egger	224, 344
 David Graeber	117, 244, 261, 415
 David Kidd	374
-De Tocqueville, Alexis	210
+De Tocqueville, Alexis	6, 210
 Decentralization Of Cryptocurrencies	248
 Decentralized Identifiers (DID)	197
 Decentralized Identity	159, 178, 194
