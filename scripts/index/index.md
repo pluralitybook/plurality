@@ -12,11 +12,11 @@
 ⿻ Conversational and Funding Tools	444
 ⿻ Cryptography	469
 ⿻ Foundations	110, 170
+⿻ Funding	393, 404, 408
 ⿻ Funding Across Boundaries	408
 ⿻ Funding Formula	393
-⿻ funding:	404
 ⿻ Future	184, 281, 412
-⿻ good	411, 451, 456, 480
+⿻ Good	411, 451, 456, 480
 ⿻ Governance	154, 333, 409
 ⿻ Group	404
 ⿻ Hiring	439
@@ -35,9 +35,8 @@
 ⿻ Practic	338, 438
 ⿻ Principles	109, 410
 ⿻ Property	269, 274, 407
-⿻ Public	451, 461, 480
+⿻ Public	209, 451, 461, 480
 ⿻ Public Media	472
-⿻ publics	209, 211, 213, 215, 217, 219, 221, 223, 225
 ⿻ Social Science	106, 110
 ⿻ Society	181
 ⿻ Structure	125, 202, 464
@@ -47,7 +46,7 @@
 ⿻ Technology	423, 482, 512
 ⿻ Thinking	386
 ⿻ Vision	172, 234
-⿻ voting	499, 503
+⿻ Voting	499, 503
 ```
 
 # A-Z

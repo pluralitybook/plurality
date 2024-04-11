@@ -25,6 +25,7 @@ expected JSON format: {"<keyword>": "<page number or NaN>", ...}
 - After merging the data, output it to `index_with_claude.tsv`, then copied it to `index_for_manual_edit.tsv` for manual updates.
 - `index.md` was created for sequencing and visual considerations.
 - The location of `⿻`'s appearance was set as p.88, which is `3-0 What is ⿻?`.`⿻ 數位 Plurality` is 89, `數位` are 2, 92. Those are important concepts and the extraction from the PDF fails because it is included in the chapter titles.
+- `⿻ Publics` in 4-2 section title. p.209. Also in pages 451, 461, 480, all of them are OK. Notice: `⿻ Public` is a part of `⿻ Public Media`.
 
 
 
