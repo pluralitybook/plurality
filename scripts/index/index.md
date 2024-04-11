@@ -723,7 +723,7 @@ General Reticence	16
 Generative AI	227, 281
 Generative Art	339
 Generative Artists	340
-Generative Foundation Models (GFMs)	187, 255, 259, 337, 367, 370, 455, 467, 484, 498
+Generative Foundation Models (GFMs)	187, 255, 259, 337, 367, 370, 455, 467, 484, 498, 513, 518
 Generative Pretrained Transformer	19
 Geographical Information System	373
 Geopolitics	3, 76, 252, 513
@@ -731,7 +731,6 @@ Georg Simmel	112, 123
 Georgist land value tax	56
 Germany	165, 371, 473
 GFM-driven Process	344
-GFMs	513, 518
 Ghost Workers	256
 Gig Workers	507
 Git	287
