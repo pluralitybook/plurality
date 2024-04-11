@@ -193,7 +193,6 @@ Blindness of Justice	367
 Blitzscaling	416
 Blockchain	4, 23, 197, 219, 228, 404
 Blockchain-centric Identity Systems	197
-Blockchains	4, 23
 Bluesky	159, 219
 Bolt Beranek and Newman	491
 Bottom-up	387
