@@ -532,7 +532,7 @@ Displacement	40
 Disruption	9, 139, 442
 Distributed Autonomous Organizations (DAOs)	369, 405, 501
 Distributed Denial Of Service (DDoS)	285
-Distributed Ledger Technologies (DLTs)	220
+Distributed Ledger Technologies (DLTs)	220, 238
 Distributed Ledgers	197, 373
 Distributed Network	270, 375
 Distributed Network of Signals	375
@@ -544,7 +544,6 @@ Diversification	376, 423
 Diversity	414, 421
 Diversity of groups	174, 416
 Dividual identity	126, 129
-DLTs	220, 238
 Domain Names	276
 Domains of Identity	190
 Dominant Narrative	345
