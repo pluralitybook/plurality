@@ -472,7 +472,7 @@ Digital Assets	255, 265, 268, 502, 506
 Digital Assistant	389
 Digital Certificate	455
 Digital Civic Engagement	71
-Digital competence education	75, 161
+Digital Competence Education	75, 161
 Digital Credentials	180, 197
 Digital Currencies	19, 22, 35, 506
 Digital Currency	29, 240
@@ -482,7 +482,7 @@ Digital Divide	282, 332, 345
 Digital Economy	20, 255, 482, 508
 Digital Ecosystem	426, 486, 496, 499
 Digital Empires	483, 486
-Digital freedom of association	229
+Digital Freedom of Association	229
 Digital Identity Systems	184, 192
 Digital Infrastructure	283
 digital innovation hubs	489
@@ -498,7 +498,7 @@ Digital Platform	189, 330, 345, 405
 Digital Protocols	177, 481
 Digital Public Infrastructure (DPI)	178, 282, 486, 491
 Digital Public Services	21, 285
-Digital rights	213
+Digital Rights	213
 Digital Sector	504
 Digital Services Act	16, 486
 Digital Social Engagement	476
@@ -529,7 +529,6 @@ Distributed Denial Of Service (DDoS)	285
 Distributed Ledger Technologies (DLTs)	220, 238
 Distributed Ledgers	197, 373
 Distributed Network	270, 375
-Distributed Network of Signals	375
 Distributed Participation	467
 Distribution	204, 399, 402
 Diverse Legal System	375
@@ -567,8 +566,7 @@ Early Adopted Community	420
 Early Adopters	417, 421
 Ease of Attacks Online	182
 Ebola	466
-Echo Chamber	467
-Echo Chambers	347, 354, 513
+Echo Chamber	347, 354, 467, 513
 Ecology	96, 104, 132
 Economies Esteem	406
 Economist Intelligence Unit	82
@@ -803,7 +801,6 @@ Henry George Theorem	120, 407
 Her (film)	26
 Simon, Herbert	218, 352
 Herculaneum	334, 339
-Herculaneum scrolls	339
 Herculean Task	202
 Heritage Foundation	78
 Heterogeneity	110, 191, 392
@@ -1123,7 +1120,6 @@ Miraikan	307, 493, 517
 Misinformation	349, 354
 Misleading	347
 Mixed Reality	158, 320, 432
-MMOLs	325
 Mobile Operating Systems	491
 Mobile Telephones	189
 modernity	118
@@ -1164,7 +1160,7 @@ Narrow Corridor	5, 97, 514
 Narrow Educational and Career Path	372
 Narrow Signals Of Identity	187
 NASA	134, 137, 479
-Nation state	147
+Nation State	147
 National Coalition for Dialogue and Deliberation	353
 National Insurance Model	451
 National Language	365
@@ -1198,13 +1194,12 @@ Networked and Probabilistic Structure	373
 Networked Value	119
 Networks of Human Minds	373
 Neural Interfaces	308, 315, 434
-Neural Network	339, 370, 374
-Neural Networks	96, 105
+Neural Network	96, 105, 339, 370, 374
 Neurofeedback	314
 Neuromodulation	314
 Neurons	104, 122, 373
 Neuroscience	96, 103, 314, 328
-New Associationist Movement	212, 248, 387
+New Associationist Movement (NAM)	212, 248, 387
 New Brandeis	484
 New England town hall	349
 New Money	235, 240
@@ -1253,14 +1248,13 @@ Office Politic	439
 Olfactory Technology	324
 Oliver Wendell Holmes	94
 On Revolution	415
-on the ground	443, 516
+On the ground	443, 516
 On the Internet, Nobody Knows You're A Dog	182
 One China	59
 One Country, Two Systems	62
 One-dimensional Spectrum	226, 348
 One-Person-One-Vote	117
-One-Share-One-Vot	114, 383, 396, 409, 503
-One-share-one-vote	114, 383, 396, 409, 503
+One-Share-One-Vote	114, 383, 396, 409, 503
 Online collaboration platform	337
 Online Deliberation	151, 160
 Online Democracy	182
@@ -1293,7 +1287,7 @@ OpenMined	270
 Operating System	289
 Operating systems	162
 Optimism Collective	498
-orb	
+Orb	194
 Orderly States	97
 Oscar Wilde	351
 Outcome	453, 462
@@ -1334,7 +1328,7 @@ Personal Identities	91
 Peter Thiel	36, 240, 514
 Phishing Attack	224, 462
 Phone	180, 188, 193, 197, 206
-Physical (paper or plastic) Government-issued IDs	
+Physical Government-issued IDs	187
 Physical Work	431
 Physics	94, 100
 Pigouvian Taxes	402, 505
@@ -1384,7 +1378,7 @@ Privacy	183, 186, 192, 195, 204, 207, 232, 238, 241, 344
 Privacy Budget	271
 Privacy Regulations	223, 267
 Privacy-enhancing technologies (PETs)	221
-private clubs	217
+Private Clubs	217
 Private Community-based Sponsorship	410
 Private Corporations	151, 178, 481, 491
 Private Health Insurance	449
@@ -1445,7 +1439,7 @@ Quadratic Funding	393, 405
 Quadratic Liquid Democracy	389
 Quadratic Voting	71, 380, 385, 488, 503
 Quantitative Markers 	406
-Quantum computers	223
+Quantum Computers	223
 Quantum Mechanics	101, 132
 Quantum Physics	101, 130
 ```
@@ -1876,8 +1870,7 @@ White Terror	56, 59
 Widening Gulf	3
 Wikimedia Foundations	497
 Wikipedia	22, 140, 152, 337, 467
-wikisurvey	68, 356
-Wikisurveys	356
+Wikisurvey	68, 356
 Will Of The Group	382
 will.i.am	346
 William Rees-Mogg	36
@@ -1895,7 +1888,7 @@ World Congress	379
 World Economic Forum	365, 494
 World Health Organization (WHO)	80
 World Press Freedom Index	464
-World Trade Organization,	396
+World Trade Organization (WTO),	396
 World War	19, 57, 133, 165, 465
 World Wide Web Consortium (W3C)	177, 191, 197, 219
 Worldcoin	194
