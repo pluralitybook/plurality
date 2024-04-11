@@ -998,8 +998,7 @@ Labor Markets	6, 396, 401, 410
 Labor Unions	60, 211, 400
 Lana Swartz	240
 Land to the Tiller	56
-Large Language Model (LLM)	341, 362, 365, 440
-Large Language Models (LLMs)	341, 362, 440
+Large Language Model (LLM)	70, 341, 362, 365, 440
 Laurie Anderson	340
 Laws of Identity	196
 Lean manufacturing	57
@@ -1038,7 +1037,6 @@ Little Platoons	477, 480
 Liu Cixin	101
 Livestream-based communication	66
 LLM-based Representative	362
-LLMs	70, 363, 440
 Local Exchange Trading Systems (LETS)	248
 Local Language	365
 Local ⿻ Communities	517
