@@ -85,8 +85,11 @@ CASE_SENSITIVE = open(ignore_file).read().strip().splitlines()
 _pages = json.load(open(os.path.join(script_directory, "book.json")))
 pages = {}
 pages_lower = {}
+SKIP = 10  # page numbered 1 is page 11 on PDF
 for _p in _pages:
-    p = int(_p) - 10  # page numbered 1 is page 11 on PDF
+    p = int(_p) - SKIP
+    if p < 1:
+        continue
     pages[p] = _pages[_p]
     pages_lower[p] = _pages[_p].lower()
 
