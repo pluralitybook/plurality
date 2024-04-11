@@ -1226,8 +1226,7 @@ Non-colonialist Model	458
 Non-communicable Disease	447
 Non-Euclidean Geometries	96
 Non-fungible Token	404, 506
-Non-fungible Token (NFT)	404, 506
-Non-fungible Tokens (NFTs)	256
+Non-fungible Token (NFT)	256, 404, 506
 Non-human Perspective	342
 Non-market	6, 411, 453
 Non-profit ⿻ Infrastructure	498
