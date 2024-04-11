@@ -74,7 +74,7 @@ write_file('traditional-mandarin.md', $all);
 
 write_file(
     'pre.tex', (
-	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg }
+	 map { read_file($_) =~ s/\*\*(.*?)\*\*/\\textbf{$1}/rg =~ s/^#+\s+(.+)/\\textbf{$1}/rg =~ s/&/\\&/rg =~ s/\[(.*?)\]\((.*?)\)/\\href{$2}{$1}/rg =~ s/ \*(.*?)\*/ \\emph{$1}/rg =~ s/(\#\w)/\\$1/rg }
              glob 'contents/traditional-mandarin/0-2-*.md'
     )
 );
