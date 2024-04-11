@@ -1293,16 +1293,13 @@ Open Source Community	496
 Open Source Ecosystem	486
 Open Source Intelligence	466
 Open Source Models	498
-Open Source Projects	497
-Open Source Software (OSS)	15, 22, 68
-Open Source Technology	495
+Open Source Projects	337, 494, 497
+Open Source Rainmaking	477
+Open Source Software (OSS)	15, 22, 68, 247
+Open Source Technology	492, 495
 Open Space Technology	350
 Open Standard	139
 Open Standards-based Collaborations.	265
-Open-source project	337, 494
-Open-source Rainmaking	477
-Open-source software (OSS)	247
-Open-source Technology	492
 OpenAI	19, 33, 70, 194, 356, 405, 419, 443, 498
 OpenID Connect	188
 OpenMined	270
