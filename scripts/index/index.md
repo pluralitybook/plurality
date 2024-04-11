@@ -1795,15 +1795,14 @@ Tyranny Of The Majority	382
 UAE	20
 UIDAI	193
 Ukraine	285, 493
-UN	476
 UN global goals	494
 Undecidable	98
 Unforgeable and undeniable signatures	222
 Uniform Resource Locator (URL)	256
-Union of Japanese Scientists and Engineers(JUSE)	57
+Union of Japanese Scientists and Engineers (JUSE)	57
 United Kingdom (UK)	485
-United Nations	270, 383
-United States	383
+United Nations (UN)	270, 383, 476
+United States (US)	383, 482, 503, 508
 Universal Basic Income	34, 195
 Universal Birth Registration	115
 Universal Coded Character (unicode)	91
@@ -1811,7 +1810,6 @@ Universal Declaration of Human Rights	164, 167, 281
 Unorthodox Thinking	439
 Untapped	372
 Ursula Le Guin	26
-US	482, 503, 508
 User Engagement	13, 347
 User Experience	64, 192, 355, 497
 User Perspective	355
@@ -1854,7 +1852,6 @@ Vulcans	89
 
 # W
 ```
-W3C	177, 191, 197, 219
 Wage System	396
 War of Independence	415
 Water Management	479
@@ -1903,7 +1900,7 @@ World Health Organization (WHO)	80
 World Press Freedom Index	464
 World Trade Organization,	396
 World War	19, 57, 133, 165, 465
-World Wide Web Consortium (W3C)	219
+World Wide Web Consortium (W3C)	177, 191, 197, 219
 Worldcoin	194
 ```
 
