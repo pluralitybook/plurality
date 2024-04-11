@@ -26,7 +26,7 @@ expected JSON format: {"<keyword>": "<page number or NaN>", ...}
 - `index.md` was created for sequencing and visual considerations.
 - The location of `⿻`'s appearance was set as p.88, which is `3-0 What is ⿻?`.`⿻ 數位 Plurality` is 89, `數位` are 2, 92. Those are important concepts and the extraction from the PDF fails because it is included in the chapter titles.
 - `⿻ Publics` in 4-2 section title. p.209. Also in pages 451, 461, 480, all of them are OK. Notice: `⿻ Public` is a part of `⿻ Public Media`.
-
+- FIX of `ignore continuous pages`: During keyword extraction from the PDF, the inclusion of section titles every two pages causes an abundance of hits for keywords contained in the section titles. To address this, we decided not to pick up keywords that appeared two pages ago. This fix decreses keywords of >5 occurrences from 91 to 54.
 
 
 ## first step (~3/26)

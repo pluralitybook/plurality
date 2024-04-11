@@ -177,7 +177,7 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
         occ = []
         prev = -999
         for p in sorted(keyword_occurence[k]):
-            if p != prev + 1:  # ignore continuous pages
+            if p != prev + 1 and p != prev + 2:  # ignore continuous pages (see README)
                 occ.append(p)
             prev = p
         occ_str = ", ".join(str(p) for p in occ)
@@ -216,7 +216,7 @@ with open(os.path.join(script_directory, "index_with_claude.tsv"), "w") as f:
         occ = []
         prev = -999
         for p in sorted(keyword_occurence[k]):
-            if p != prev + 1:  # ignore continuous pages
+            if p != prev + 1 and p != prev + 2:  # ignore continuous pages (see README)
                 occ.append(p)
             prev = p
         occ_str = ", ".join(str(p) for p in occ)
