@@ -85,8 +85,11 @@ CASE_SENSITIVE = open(ignore_file).read().strip().splitlines()
 _pages = json.load(open(os.path.join(script_directory, "book.json")))
 pages = {}
 pages_lower = {}
+SKIP = 10  # page numbered 1 is page 11 on PDF
 for _p in _pages:
-    p = int(_p) - 10  # page numbered 1 is page 11 on PDF
+    p = int(_p) - SKIP
+    if p < 1:
+        continue
     pages[p] = _pages[_p]
     pages_lower[p] = _pages[_p].lower()
 
@@ -174,7 +177,7 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
         occ = []
         prev = -999
         for p in sorted(keyword_occurence[k]):
-            if p != prev + 1:  # ignore continuous pages
+            if p != prev + 1 and p != prev + 2:  # ignore continuous pages (see README)
                 occ.append(p)
             prev = p
         occ_str = ", ".join(str(p) for p in occ)
@@ -213,7 +216,7 @@ with open(os.path.join(script_directory, "index_with_claude.tsv"), "w") as f:
         occ = []
         prev = -999
         for p in sorted(keyword_occurence[k]):
-            if p != prev + 1:  # ignore continuous pages
+            if p != prev + 1 and p != prev + 2:  # ignore continuous pages (see README)
                 occ.append(p)
             prev = p
         occ_str = ", ".join(str(p) for p in occ)

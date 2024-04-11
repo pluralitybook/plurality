@@ -6,6 +6,8 @@
 - `main.py`: output keywords to page numbers into `keyword_occurrence.tsv`
 - `index_with_claude.tsv`: merge Claude 3 Opus output and `keyword_occurrence.tsv`
 - `index_for_manual_edit.tsv`: Copy of `index_with_claude.tsv` for manual edit
+- `index.md`: Sample index from `index_for_manual_edit.tsv` for visual verification
+
 
 ### memo
 - Removed keywords "not found" in "NotFound.csv". those are once added by human, not found by machine and then not found by additional human eyes.
@@ -19,6 +21,13 @@
 You are great editor of books. Here are index candidates for a book, find where it is (page number) or output "NaN".
 expected JSON format: {"<keyword>": "<page number or NaN>", ...}
 ```
+
+- After merging the data, output it to `index_with_claude.tsv`, then copied it to `index_for_manual_edit.tsv` for manual updates.
+- `index.md` was created for sequencing and visual considerations.
+- The location of `⿻`'s appearance was set as p.88, which is `3-0 What is ⿻?`.`⿻ 數位 Plurality` is 89, `數位` are 2, 92. Those are important concepts and the extraction from the PDF fails because it is included in the chapter titles.
+- `⿻ Publics` in 4-2 section title. p.209. Also in pages 451, 461, 480, all of them are OK. Notice: `⿻ Public` is a part of `⿻ Public Media`.
+- FIX of `ignore continuous pages`: During keyword extraction from the PDF, the inclusion of section titles every two pages causes an abundance of hits for keywords contained in the section titles. To address this, we decided not to pick up keywords that appeared two pages ago. This fix decreses keywords of >5 occurrences from 91 to 54.
+- `(anti-)social media	71` is split to "Anti-social Media" and "Social Media". `(In)dividual identity	126, 129` is same.
 
 ## first step (~3/26)
 - `Plurality Book Indexing Exercise - Main.csv`: raw file exported from [Spreadsheet](https://docs.google.com/spreadsheets/d/1gmyjFbErt_CW8-qLKChSpciLlCDGUhLriYFov0HO3qA/edit#gid=0)
