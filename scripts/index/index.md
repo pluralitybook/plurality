@@ -452,7 +452,7 @@ Democratic freedom	62
 Democratic Input to AI project	70
 Democratic Inputs	357
 Democratic Participation	4, 53, 161
-Democratic Progressive Party	49
+Democratic Progressive Party (DPP)	49, 61
 Democratic Republican Government	415
 Demonization	471
 Descriptive	90
@@ -545,7 +545,6 @@ Donald Trump	36
 DoNotPay	371
 Dossiers	189
 Douglas Engelbart	136, 259
-DPP	49, 61
 Dr. Seuss	362
 Driverless Cars	22
 Dunbar number	204, 244
