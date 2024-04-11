@@ -29,18 +29,10 @@
 
 <br></br>
 
-> Rejoice! Here is a burst of creativity that gives us a peek at the humanistic high tech future we suspected was possible.<br></br> 
-— [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier), inventor of Virtual Reality, author of [*Who Owns the Future?*](https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F) and [*The Dawn of the New Everything*](https://us.macmillan.com/books/9781250097408/dawnoftheneweverything) and Microsoft's Office of the Chief Technology Officer Prime Unifying Scientist (OCTOPUS)
+> In financial technology and digital infrastructure, Kenya and other African countries are...ahead of outdated models in the North.  With *Plurality* we (can)...take this...deeper...to accelerate our growth and be part of global models of a more inclusive, participatory and productive future. <br></br>
+— [Ory Okolloh-Mwangi](https://en.wikipedia.org/wiki/Ory_Okolloh), Co-Founder of [Ushahidi](https://en.wikipedia.org/wiki/Ushahidi) and Partner at [Verod-Kepple Africa Ventures](https://vkav.vc/)
 
 <br></br>
-
-> Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
-— [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
-
-<br></br>
-
-
-
 
 > An exciting, creative and provocative set of ideas on how to make progress on some of the most fundamental problems in the world. You will never think the same way again after reading this book.<br></br>
 — [Jason Furman](https://en.wikipedia.org/wiki/Jason_Furman), Former Chair of the Council of Economic Advisors and  Aetna Professor of the Practice of Economic Policy, Harvard University
@@ -53,20 +45,30 @@
 <br></br>
 
 
+> Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
+— [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
+
+<br></br>
+
+
 > Audrey Tang sets a new standard for what it means to be a pioneering leader. I hope we will all have the courage to follow in her path, as she lays out so eloquently here.<br></br>
 — [Claudia López Hernández](https://en.wikipedia.org/wiki/Claudia_L%C3%B3pez), former Mayor and first woman mayor of Bogotá, Colombia and highest ever LGBT elected official in the Global South
 
 <br></br>
- 
-> In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
-— [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Co-Founder of the [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) and star of [*The Social Dilemma*](https://www.thesocialdilemma.com/)
 
+> Rejoice! Here is a burst of creativity that gives us a peek at the humanistic high tech future we suspected was possible.<br></br> 
+— [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier), inventor of Virtual Reality, author of [*Who Owns the Future?*](https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F) and [*The Dawn of the New Everything*](https://us.macmillan.com/books/9781250097408/dawnoftheneweverything) and Microsoft's Office of the Chief Technology Officer Prime Unifying Scientist (OCTOPUS)
 
 <br></br>
+ 
 
 > I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!<br></br> 
 — [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), creator of [*Magic: The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
 
+<br></br>
+
+> In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
+— [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Co-Founder of the [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) and star of [*The Social Dilemma*](https://www.thesocialdilemma.com/)
 
 
 <br></br>
@@ -79,13 +81,14 @@
 > *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
 — [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
 
-<br></br>
-
-
-> At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
-— [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
 
 <br></br>
 
 > (V)isionary in design, execution and substance.<br></br>
 — [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), President of [University of Tulsa](https://utulsa.edu/) and [Americans for Responsible Innovation](https://responsibleinnovation.org/), Fmr. US Congressman and Undersecretary of the Army
+
+<br></br>
+
+
+> At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
+— [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 

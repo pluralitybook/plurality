@@ -111,7 +111,7 @@ Furthermore, this sector is in many ways better-suited to the development of inf
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/oss_funding/oss_funding.png" width="100%" alt='Figure compares cumulative historical funding of OSS projects v. venture capital, illustrating that the latter is roughly 3 orders of magnitude larger.'>
 
-**<figcaption> Figure 2-0-B. Comparing known funding of open source software and venture capital investment. Source: Chart by authors, sources various see footnote.[^Sources]   </figcaption>**
+**<figcaptionby> Figure 2-0-B. Comparing known funding of open source software and venture capital investment. Source: Chart by authors, sources various see footnote.[^Sources]   </figcaption>**
 </figure>
 <br></br>
 
@@ -128,8 +128,6 @@ Some organizations developing generative foundation models, such as [OpenAI](htt
 
 [^OAI]: OpenAI, "OpenAI Charter", *OpenAI Blog* April 9, 2018 at https://openai.com/charter. Anthropic, "The Long-Term Benefit Trust", *Anthropic Blog* September 19, 2023 at https://www.anthropic.com/news/the-long-term-benefit-trust.
 
-
-Furthermore, whatever the ideal structures, it is unlikely that such public interest institutions will simply substitute for the large, private digital ecosystem built up over the last decades.  Many social networks, cloud infrastructures, single-sign-on architectures, and so forth would be wasteful to simply scrap.  Instead it likely makes sense to harness these investments towards the public interest by pairing public investment with agreements to shift governance to respect public input in much the way we discussed in our chapters on [⿻ Voting](https://www.plurality.net/v/chapters/5-6/eng/?mode=dark), [Workplace](https://www.plurality.net/v/chapters/6-1/eng/?mode=dark) and [Media](https://www.plurality.net/v/chapters/6-3/eng/?mode=dark).  This closely resembles the way that a previous wave of economic democracy reform with which John Dewey was closely associated did not simple out-compete privately created power generation, but instead sought to bring them under a network of partially local democratic control through utility boards.  Many leaders in the tech world refer to their platforms as "utilities", "infrastructure" or "public squares"; it stands to reason that part of a program of ⿻ digital infrastructure will be reforming them so they truly act as such. 
 
 Furthermore, whatever the ideal structures, it is unlikely that such public interest institutions will simply substitute for the large, private digital infrastructure built up over the last decades.  Many social networks, cloud infrastructures, single-sign-on architectures, and so forth would be wasteful to simply scrap.  Instead it likely makes sense to harness these investments towards the public interest by pairing public investment with agreements to shift governance to respect public input in much the way we discussed in our chapters on Voting, Media and Workplace.  This closely resembles the way that a previous wave of economic democracy reform with which Dewey was closely associated did not simple out-compete privately created power generation, but instead sought to bring them under a network of partially local democratic control through utility boards.  Many leaders in the tech world refer to their platforms as "utilities", "infrastructure" or "public squares"; it stands to reason that part of a program of ⿻ digital infrastructure will be reforming them so they truly act as such.
 
