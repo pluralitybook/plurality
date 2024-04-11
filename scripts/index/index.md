@@ -26,7 +26,7 @@
 ⿻ Infrastructure	487, 492, 497, 499, 504, 508
 ⿻ Management	288, 409
 ⿻ Marketing	422
-⿻ mechanism	451
+⿻ Mechanism	451
 ⿻ Media	474
 ⿻ Memberships	205
 ⿻ Money	248, 411
@@ -65,8 +65,8 @@ Zoning Restrictions	402
 # Number
 ```
 12-Year Basic Education Curriculum	75
-20% time model	444
-2050 net zero	86
+20% Time Model	444
+2050 Net Zero	86
 3D Audio	313
 4chan	35, 191
 51% Attack	383
