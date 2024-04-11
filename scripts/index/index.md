@@ -2,7 +2,7 @@
 
 # ⿻ (Plurality / Plural) and 數位 (Digital / Plural)
 ```
-⿻ 88	
+⿻	88
 數位	2, 92
 ⿻ 數位 Plurality	89
 ⿻ Approach	96, 161, 198, 248
@@ -78,7 +78,6 @@ Advertising	189
 Affective Polarization	7, 83, 464
 Affinity	348, 461
 Agglomeration	430, 434
-AI	
 AI Act	486
 AI researcher	377
 AI4Bharat	365
@@ -320,7 +319,6 @@ Communism	32
 Community Currency	249, 287
 Community Donation	392
 Community Notes (CN)	347
-Community Notes (CN)　	
 Community Recovery	202
 Community-based	117, 347, 417
 Community-Based Identity	117
@@ -366,8 +364,7 @@ Cortico	357
 Countervail	400
 Coursera	338
 Courtney Cogburn	319
-COVID-19	446, 456
-COVID-19 pandemic	69, 72, 85, 430, 471
+COVID-19 pandemic	69, 72, 85, 430, 446, 456, 471
 Cowriting	336
 Crackle	334
 Creative Collaborations	334
@@ -383,13 +380,11 @@ Cross-pollination Service	436
 Cross-Straits Services Trade Agreement	67
 Crowdsourcing	336, 373
 Crypto	5, 8, 13, 23, 29, 35, 482, 511
-Cryptocurrencies	8, 13, 23, 35, 233, 238, 248
-Cryptocurrency	195
-Cryptographic	464, 468
+Cryptocurrency	8, 13, 23, 35, 195, 233, 238, 248
 Cryptographic Hypercapitalism	32
 Cryptographic Principle	462
 Cryptographic Standards	223
-Cryptography	5, 31, 35, 194, 266
+Cryptography	5, 31, 35, 194, 266, 464, 468
 Cryptonomicon	35
 Cultural Diversity	283, 292, 345, 365
 Cultural Homogenization	346
@@ -529,7 +524,7 @@ Discrimination Law	10
 Disinformation	354
 Displacement	40
 Disruption	9, 139, 442
-Distributed Autonomous Organizations (DAOs)	369, 405, 501
+Distributed Autonomous Organization (DAO)	369, 405, 501
 Distributed Denial Of Service (DDoS)	285
 Distributed Ledger Technologies (DLTs)	220, 238
 Distributed Ledgers	197, 373
@@ -1540,7 +1535,7 @@ San Francisco	120, 237
 Santiago Ramón y Cajal	104
 Sardinia	431
 Satya Nadella	365, 442
-Saudia Arabia	20
+Saudi Arabia	20
 Scaling Collaboration	399
 Scandinavian Countries	20, 87, 166, 450
 Science And Technology Studies	27
