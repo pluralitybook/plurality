@@ -330,7 +330,6 @@ Computer as Communication Device	210
 Computer-simulated Neuron	
 Computers And Government	132, 146, 487
 Concentrated Computational Asset Tax	504
-Conduit Of Hope	2
 Confidential Computers	268
 Confidential Computing	221
 Conformity	375, 519
@@ -340,17 +339,16 @@ Connected Society	112
 Consociational	117, 381, 386
 Consociationalism	117, 386
 Constitutional Court	84
-Context for the association	211
+Context	211, 216, 226
 Contextual confidence	226, 283
 Contextual Integrity	203, 206, 241, 281
 Contribution	427, 439
 Control	195, 204
-Cooperative Enterprise	54, 57, 486
-Cooperatives	57, 128, 271, 398
+Cooperative Enterprise	54, 57, 128, 271, 398, 486
 Coordination	498, 507
 Copyright	23, 75
 Corporate Bureaucracy	364
-Corporate Campuse	427, 432
+Corporate Campus	427, 432
 Corporate Control	146, 195, 330, 407
 Corporate Libertarianism	33
 Corporations	390, 394, 397, 403
