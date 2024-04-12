@@ -7,15 +7,15 @@ import re
 from collections import defaultdict
 import json
 import csv
-from view import view_mapping, view_reverse_mapping
 
 PLURALITY = "\u2ffb"
 
 # Make section pages mapping
 
+SKIP = 0  # page numbered 1 is page 1 on PDF
+
 SECTION_PAGES_MAPPINGS_str = """
 1-1 1
-2-0 6
 2-0 3
 2-1 47
 2-2 64
@@ -23,29 +23,29 @@ SECTION_PAGES_MAPPINGS_str = """
 3-1 94
 3-2 112
 3-3 132
-4-0 162
-4-1 180
-4-2 209
-4-3 231
-4-4 253
-4-5 279
-5-0 287
-5-1 307
-5-2 319
-5-3 334
-5-4 347
-5-5 365
-5-6 379
-5-7 392
-6-0 413
-6-1 429
-6-2 446
-6-3 464
-6-4 475
-7-0 481
-7-1 512
+4-0 161
+4-1 179
+4-2 208
+4-3 230
+4-4 251
+4-5 277
+5-0 285
+5-1 305
+5-2 317
+5-3 332
+5-4 345
+5-5 363
+5-6 377
+5-7 390
+6-0 411
+6-1 427
+6-2 444
+6-3 462
+6-4 473
+7-0 479
+7-1 510
 """
-LAST_PAGE = 522
+LAST_PAGE = 520
 
 lines = SECTION_PAGES_MAPPINGS_str.strip().splitlines()
 items = [line.split() for line in lines]
@@ -68,6 +68,13 @@ def remove_palen(s):
     return k.split("(")[0].strip()
 
 
+def remove_quotation(s):
+    s = s.replace('"', "")  # remove quotation
+    s = s.replace("\u201c", "")  # remove quotation
+    s = s.replace("\u201d", "")  # remove quotation
+    return s
+
+
 CSV_FILE = "Plurality Book Indexing Exercise - Candidates.csv"
 # This will get the absolute path of the current script file.
 script_directory = os.path.dirname(os.path.abspath(__file__))
@@ -86,21 +93,33 @@ _pages = json.load(open(os.path.join(script_directory, "book.json")))
 pages = {}
 pages_lower = {}
 for _p in _pages:
-    p = int(_p) - 10  # page numbered 1 is page 11 on PDF
+    p = int(_p) - SKIP
+    if p < 1:
+        continue
     pages[p] = _pages[_p]
     pages_lower[p] = _pages[_p].lower()
 
-
+# load human-picked keywords and its position
 lines = open(os.path.join(script_directory, CSV_FILE)).readlines()[1:]
 keywords = set()
 keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
     k = row[1]
-    k = k.replace('"', "")  # remove quotation
-    if k in view_reverse_mapping:
-        k = view_reverse_mapping[k]
+    k = remove_quotation(k)
     keywords.add(k)
     keyword_recorded_by_human[k].add(normalize_section_name(row[2]))
+
+
+# load in-index(one) to in-text(many) mapping
+index_text_mapping = json.load(
+    open(os.path.join(script_directory, "inindex_intext_mapping.json"))
+)
+reverse_index_text_mapping = {}
+for k, vs in index_text_mapping.items():
+    for v in vs:
+        reverse_index_text_mapping[v] = k
+
+keywords.union(reverse_index_text_mapping)
 
 
 def filter_pages(pages):
@@ -166,6 +185,7 @@ with open(os.path.join(script_directory, "section_to_no_occurence.txt"), "w") as
             print(f"- {k}", file=f)
         print(file=f)
 
+# keyword_occurrence.tsv is now a debug output
 too_many_occurrence = []
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
     print(f"Keywords\tPages", file=f)
@@ -174,20 +194,43 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
         occ = []
         prev = -999
         for p in sorted(keyword_occurence[k]):
-            if p != prev + 1:  # ignore continuous pages
+            if p != prev + 1 and p != prev + 2:  # ignore continuous pages (see README)
                 occ.append(p)
             prev = p
         occ_str = ", ".join(str(p) for p in occ)
-        if k in view_mapping:
-            k = view_mapping[k]
-        k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
 
         print(f"{k}\t{occ_str}", file=f)
 
         if len(occ) >= 5:
             human = ", ".join(sorted(keyword_recorded_by_human[k]))
-            k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
             too_many_occurrence.append((len(keyword_occurence[k]), k, human, occ_str))
+
+# in-index representation
+index_items = defaultdict(set)
+for k in keyword_occurence:
+    occ = keyword_occurence[k]
+    if k in reverse_index_text_mapping:
+        k = reverse_index_text_mapping[k]
+    # merge multiple in-text expression into one in-index expression
+    if (
+        k[0] == PLURALITY
+    ):  # hacky sort-order control. This spaces will be trimmed when output
+        k = " " + k
+    elif k == "數位":
+        k = "  " + k
+    index_items[k].update(occ)
+
+with open(os.path.join(script_directory, "index.txt"), "w") as f:
+    for k in sorted(index_items, key=lambda x: (x.lower(), x)):
+        occ = []
+        prev = -999
+        for p in sorted(index_items[k]):
+            if p != prev + 1 and p != prev + 2:  # ignore continuous pages (see README)
+                occ.append(p)
+            prev = p
+        occ_str = ", ".join(str(p) for p in occ)
+        k = k.strip()
+        print(f"{k}\t{occ_str}", file=f)
 
 
 too_many_occurrence.sort(reverse=True)
@@ -196,34 +239,40 @@ with open(os.path.join(script_directory, "too_many_occurrence.tsv"), "w") as f:
     for num, k, human, occ in too_many_occurrence:
         print(f"{k}\t{human}\t{occ}", file=f)
 
-# With Claude 3 Opus information
-claude_data = json.load(open("claude.json"))
-for k in claude_data:
-    if k in keyword_occurence and claude_data[k] == "NaN":
-        del keyword_occurence[k]
-    elif claude_data[k] == "NaN":
-        continue
-    else:
-        keyword_occurence[k].append(int(claude_data[k]))
+if 0:  # Merge with Claude 3 Opus information
+    claude_data = json.load(open("claude.json"))
+    for k in claude_data:
+        if k in keyword_occurence and claude_data[k] == "NaN":
+            del keyword_occurence[k]
+        elif claude_data[k] == "NaN":
+            continue
+        else:
+            keyword_occurence[k].append(int(claude_data[k]))
 
-with open(os.path.join(script_directory, "index_with_claude.tsv"), "w") as f:
-    print(f"Keywords\tPages", file=f)
+    with open(os.path.join(script_directory, "index_with_claude.tsv"), "w") as f:
+        print(f"Keywords\tPages", file=f)
 
-    for k in sorted(keyword_occurence, key=lambda x: (x.lower(), x)):
-        occ = []
-        prev = -999
-        for p in sorted(keyword_occurence[k]):
-            if p != prev + 1:  # ignore continuous pages
-                occ.append(p)
-            prev = p
-        occ_str = ", ".join(str(p) for p in occ)
-        if k in view_mapping:
-            k = view_mapping[k]
-        k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
-
-        print(f"{k}\t{occ_str}", file=f)
-
-        if len(occ) >= 5:
-            human = ", ".join(sorted(keyword_recorded_by_human[k]))
+        for k in sorted(keyword_occurence, key=lambda x: (x.lower(), x)):
+            occ = []
+            prev = -999
+            for p in sorted(keyword_occurence[k]):
+                if (
+                    p != prev + 1 and p != prev + 2
+                ):  # ignore continuous pages (see README)
+                    occ.append(p)
+                prev = p
+            occ_str = ", ".join(str(p) for p in occ)
+            if k in view_mapping:
+                k = view_mapping[k]
             k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
-            too_many_occurrence.append((len(keyword_occurence[k]), k, human, occ_str))
+
+            print(f"{k}\t{occ_str}", file=f)
+
+            if len(occ) >= 5:
+                human = ", ".join(sorted(keyword_recorded_by_human[k]))
+                k = k.replace(
+                    '"', ""
+                )  # care mulformed TSV such as `Diversity of "groups"`
+                too_many_occurrence.append(
+                    (len(keyword_occurence[k]), k, human, occ_str)
+                )

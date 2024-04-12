@@ -1,0 +1,66 @@
+Keywords	Sections
+Bidirectional Equilibrium	3-1
+Blockchain-centric Identity Systems	4-1
+Co-edited Project	5-3
+Collective Response Model	5-4
+Common Carriers of Public Discussion	6-3
+Community Notes (CN)　	5-4
+Computer-simulated Neuron	5-5
+Cross-Cultural Exchanges	5-2
+Cross-cutting Benefit	6-1
+Cross-pollination Service	6-1
+Dao	4-5
+De Tocqueville, Alexis	4-2
+Decentralized Social Networking Protocol (DSNP)	4-2
+Digital-native Identity Infrastructure	4-1
+Digital-native currencies	4-0
+Distributed Ledger Technology (DLT)	4-2
+Edward Deming	2-1
+Edward Snowden	4-2
+Einstein's Theories Of Relativity	3-1
+For-profit Industry	7-0
+For-profit Private Corporations	7-0
+Georgist land value tax	2-1
+Global Anti-colonial Movement	2-1
+Gödel's Theorem	3-1
+Hu Shih	2-1
+Intersectional Identity	3-2
+Kao Chia-liang	2-2
+LLM-based Representative	5-4
+Left-right Divide	5-4
+Licenses For Use	4-1
+Life-support System	6-4
+Moore's Law	4-4
+National Socialist German Workers party	4-0
+Nixon's visit to PRC	2-1
+Non-profit ⿻ Infrastructure	7-0
+On the Internet, Nobody Knows You're A Dog	4-1
+Online collaboration platform	5-3
+Open Collective Foundation	7-0
+Open Source Community	7-0
+Open Source Ecosystem	7-0
+Open Source Intelligence	6-3
+Open Source Models	7-0
+Open Source Technology	7-0
+Paul Jozef Crutzen	6-4
+Post-gender	2-0
+Private Community-based Sponsorship	5-7
+Public Good	6-2
+Quick Fixes	4-4
+Robert Atkinson	2-0
+Robinson, James	2-0
+Saudia Arabia	2-0
+Self-ownership	5-7
+Social Dynamics	3-2
+Taiwan's Digital Civic Infrastructure	2-2
+The Emperor's New Clothes	4-2
+UNDP	6-2
+Uniform Resource Locator (URL)	4-4
+United States	5-5
+WEIRD societies	3-3
+Weighted-voting	5-6
+White Collar	6-1
+co-creation relationship	6-4
+modernity	3-3
+non-fungible tokens (NFTs)	4-4
+web of group-affiliation	3-2

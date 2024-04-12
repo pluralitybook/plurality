@@ -3,6 +3,7 @@ Read View.csv and make mappings
 """
 
 import csv
+import json
 
 
 def read_view_mapping(file_path="View.csv"):
@@ -20,12 +21,18 @@ def read_view_mapping(file_path="View.csv"):
         for row in csv_reader:
             # Convert each row into a dictionary, and append it to our data list
             in_text = row[1].replace('"', "")  # remove quotation
+            in_text = in_text.replace("\u201c", "")  # remove quotation
+            in_text = in_text.replace("\u201d", "")  # remove quotation
             data[in_text] = row[2]
 
     return data
 
 
-view_mapping = read_view_mapping()
-view_reverse_mapping = {}
-for k, v in view_mapping.items():
-    view_reverse_mapping[v] = k
+if 0:  # convert from CSV (from Google Spreadsheet) to JSON
+    view_mapping = read_view_mapping()
+    view_reverse_mapping = {}
+    for k, v in view_mapping.items():
+        view_reverse_mapping[v] = [k]
+
+    # json.dump(view_mapping, open("view_mapping.json", "w"), indent=2)
+    json.dump(view_reverse_mapping, open("inindex_intext_mapping.json", "w"), indent=2)

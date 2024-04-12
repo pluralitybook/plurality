@@ -1,5 +1,5 @@
 Keywords	Sections
-Bidirectional Equilibrium	3-1
+AlphaGo Zero	5-3
 Blockchain-centric Identity Systems	4-1
 Co-edited Project	5-3
 Collective Response Model	5-4
@@ -12,27 +12,30 @@ Cross-pollination Service	6-1
 Dao	4-5
 De Tocqueville, Alexis	4-2
 Decentralized Social Networking Protocol (DSNP)	4-2
-Digital-native Identity Infrastructure	4-1
 Digital-native currencies	4-0
 Distributed Ledger Technology (DLT)	4-2
+Economies Esteem	5-7
 Edward Deming	2-1
 Edward Snowden	4-2
 Einstein's Theories Of Relativity	3-1
 For-profit Industry	7-0
-For-profit Private Corporations	7-0
 Georgist land value tax	2-1
 Global Anti-colonial Movement	2-1
 Gödel's Theorem	3-1
 Hu Shih	2-1
+Indigeneous Community	6-2
 Intersectional Identity	3-2
 Kao Chia-liang	2-2
+Know Your Customer	4-1
 LLM-based Representative	5-4
 Left-right Divide	5-4
 Licenses For Use	4-1
 Life-support System	6-4
 Moore's Law	4-4
+Nation state	3-3
 National Socialist German Workers party	4-0
 Nixon's visit to PRC	2-1
+Non-colonialist Model	6-2
 Non-profit ⿻ Infrastructure	7-0
 On the Internet, Nobody Knows You're A Dog	4-1
 Online collaboration platform	5-3
@@ -42,11 +45,13 @@ Open Source Ecosystem	7-0
 Open Source Intelligence	6-3
 Open Source Models	7-0
 Open Source Technology	7-0
+Over-shared information	4-2
 Paul Jozef Crutzen	6-4
 Post-gender	2-0
 Private Community-based Sponsorship	5-7
 Public Good	6-2
-Quick Fixes	4-4
+Real-time Auction	4-4
+Remote Shared Reality Technologie	6-1
 Robert Atkinson	2-0
 Robinson, James	2-0
 Saudia Arabia	2-0
