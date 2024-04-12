@@ -16,6 +16,9 @@ As insights from Phase 2 design, initially, I thought that there might be differ
 - T4: The CSV, created to accommodate cases where occurrences in the text differ from their representation in the index, was converted into JSON `inindex_intext_mapping.json` to transform multiple text representations into a single representation within the index.
 - T5: Updated `main.py` to use `inindex_intext_mapping.json` and output `index.txt`
 - T6: Merge of LLMs confirmed well.
+- T7: Finished re-inplement commits after this commit https://github.com/nishio/plurality-japanese/commit/35c90bb1ea7ee514f65bfdc87b9be6fc14173b25
+
+
 
 ## second phase (4/9~)
 - `in.pdf`: input PDF, currently I used the latest PDF from Sharepoint 4/10 11:30 JST (in previous version it was `release/latest` on 4/9 14:42 JST)
