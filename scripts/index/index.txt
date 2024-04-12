@@ -941,7 +941,6 @@ Legislative Yuan	66
 Legitimacy	215, 413
 Legitimation	23
 Lego	403
-Lesser of Two Evils	379
 Levels of Assurance	182
 Levitsky, Steven	7, 164, 412
 Lex Fridman	356
@@ -993,8 +992,7 @@ Marginal Revolution	395
 Market	390
 Market Design	273, 404
 Market Power	11, 39, 396, 403
-Marxism	51
-Marxist Vision of Socialism	55
+Marxism	51, 55
 Mask App	72
 Mass Extinction	473
 Mass Surveillance	12
@@ -1020,7 +1018,6 @@ Mediators of Individual Data (MIDs)	202, 271
 Meetings Deemed Unproductive	427
 Mencius Moldbug	36
 Mental Health	312, 325, 330, 444
-Messiness	110
 Meta	186, 356, 392, 488
 Metascience	107
 Metaverse	25, 35, 512
@@ -1084,7 +1081,7 @@ Nation State
 National Coalition for Dialogue and Deliberation	351
 National Insurance Model	449
 National Language	363
-National Politic	60, 437, 493
+National Politics	437, 493
 National Security Agencies	188
 National Socialist German Workers (Nazi) party	
 Nationalism	36, 53, 398
@@ -1162,7 +1159,7 @@ Octavia Butler	26
 Oded Galor	290
 OECD	17, 78, 479
 Office of Chief Technology Officer	440
-Office Politic	437
+Office Politics	437
 Olfactory Technology	322
 Oliver Wendell Holmes	94
 On Revolution	413
