@@ -79,6 +79,7 @@ Adverse Selection	447
 Advertising	188
 Affective Polarization	7, 83, 462
 Affinity	346, 459
+Age of Surveillance Capitalism, The	3, 10, 16, 188
 Agglomeration	428, 432
 AI Act	484
 AI researcher	375
@@ -215,6 +216,7 @@ Cancel Culture	16
 Capitalism	3, 8, 16, 20, 32, 35, 41, 392, 406
 Carbon Credit	454
 Cash	232, 240
+Castle, The	367
 Cathy O’Neil	10, 16
 Cellphone Addiction	80
 Center for Constructive Communication	355
@@ -241,6 +243,7 @@ Chiang Kai-shek	55
 Chinese Communist Party (CCP)	55, 483
 Church Turing Thesis	96
 Church, Alonzo	98
+Circle, The	223, 342
 Circular investment	405, 503
 Citizen co-journalism	464
 Citizen Journalism	464
@@ -523,13 +526,16 @@ Diverse Legal System	372
 Diverse Perspective	336, 341
 Diversification	374, 421
 Diversity	412, 419
+Diversity Of Cross-species Interactions, The	103
 Diversity of groups	173, 414
 Domain Names	274
 Domains of Identity	189
 Dominant Narrative	343
 DoNotPay	369
 Dossiers	188
+Double Coincidence Of Wants, The	244
 Douglas Engelbart	136, 257
+Dream Machine, The	133, 256
 Driverless Cars	22
 Dryhurst, Mat	338, 514
 Dunbar number	203, 243
@@ -571,6 +577,7 @@ Emergent Publics	126, 129, 407
 Eminent Domain	399
 Emotional Connectivity	318, 323
 Empathy Amplifiers	327
+Emperor's New Clothes, The	
 Employment	181, 189, 195
 Encounter with the East	339
 Endowments	397
@@ -741,6 +748,7 @@ Graphics Processing Units (GPUs)	258
 Grassroots Initiatives	486
 Great Firewall	170
 Great Powers	3, 102, 481
+Greatest Good For The Greatest Number, The	378
 Green Technologies	411, 473
 Gross Domestic Product	17, 77, 427
 Group Works	351
@@ -762,6 +770,7 @@ Health Insurance	447, 454
 Health Savings Account	448
 Health Savings Plan	448
 Healthy minds in healthy bodies	450
+Hebbian Model Of Connections, The	105
 Heisenberg’s Uncertainty Principle	101
 Henry George Theorem	120, 405
 Her	
@@ -794,6 +803,7 @@ Horizontal Dialogue	437
 Hsieh Tsung-min	58
 Hu Shih	
 Hugging Face	335
+Human Condition, The	88, 91, 95
 Human Cooperation	392
 Human Diversity	511
 Human Interactions	190, 319
@@ -816,6 +826,7 @@ Ideathons	72, 491, 515
 Identity and Access	424
 Identity Foundation	177, 181
 Identity Information	188
+Identity Provider, The	187
 Identity Systems	181, 186, 189, 197, 203, 206, 249
 Ideologies of the Twenty-First Century	32
 Ideology	42, 50, 56, 291, 493
@@ -981,7 +992,9 @@ Long-distance Cooperation	48
 Long-term Work Permits	408
 Lorax	360
 Lord Kelvin	100
+Lord of the Flies, The	519
 Los Alamos	334
+Lost Dao, The	176, 335
 Low-skilled Workers	40
 Ma, Jack	34
 Machine Learning	5, 368
@@ -1041,6 +1054,7 @@ Minzú	53
 Miraikan	305, 491, 515
 Misinformation	347, 352
 Misleading	345
+Mix Of Diversity And Interconnectedness, The	100
 Mixed Reality	157, 318, 430
 Mobile Operating Systems	489
 Mobile Telephones	188
@@ -1108,6 +1122,7 @@ Netizen	469
 Network Architectures	197
 Network Of Processes	94
 Network Sociology	105
+Network State, The	36
 Network States	374
 Networked and Probabilistic Structure	371
 Networked Value	119
@@ -1123,6 +1138,7 @@ New Brandeis	482
 New England town hall	347
 New Money	234, 239
 New Public	112, 127
+New Republic, The	55
 New Yorker	181
 New Zealand	160, 476
 New ⿻ Order	490, 518
@@ -1320,6 +1336,7 @@ Proportional Representation	116, 382, 385
 Protocol Labs (PL)	260
 Pseudonymity	181
 Pseudonyms	184, 196
+Public and its Problems, The	112, 126, 397
 Public Consent	23
 Public Data Repositories	196
 Public Digital Innovation Space	70
@@ -1465,7 +1482,6 @@ Simulated Military Exercise	431
 Single Point Of Failure	195, 200
 Single Tax	119
 Single-sign-on Architectures (SSO)	187, 497
-Singular Technical Vision	511
 Sino-Japanese war	52
 Siraya	50
 Slack	335, 436, 470
@@ -1486,6 +1502,7 @@ Social Control	12, 24
 Social Credit Score	24
 Social Currencies	249
 Social Difference	288, 292, 297
+Social Dilemma, The	16
 Social Distance	391, 410
 Social Distancing Measure	455
 Social Diversity	110, 392, 519
@@ -1505,8 +1522,7 @@ Social leakage	270
 Social Media	5, 13, 21, 43, 345, 352, 359, 462, 465
 Social Media Accounts	181
 Social Media Platform	13, 170, 339, 345, 425
-Social Network	337
-Social Networks	489, 497
+Social Network	337, 482, 489, 497
 Social Order	374, 511
 Social Organization	113, 129
 Social Recovery	200
@@ -1529,13 +1545,12 @@ Sortition	297, 350, 359
 Soulbound Tokens (SBTs)	197
 Source Confidentiality	462, 466
 South China Sea	51
+Sovereign Individual, The	36
 Soviet Union	134, 392, 490
 SpaceX	333
 Spatial Computing	311
-speak for itself	465
 Speciation	374
 Spectrum Sharing	275
-Spirit of Simmel	199
 Square Root	384, 402, 421
 Square-root Voting	384
 Srinavasan, Balaji	36, 512
@@ -1604,9 +1619,7 @@ Technocracy	89
 Technocratic vision	110
 Technocrats	174, 510
 Technological Agenda	92
-Technology	88, 92
 Technology Addiction	80
-Technology For Collaboration Across Social Difference	89
 Technology Investment	29, 37
 Technology Policy	481
 Telecommuting	6
@@ -1618,27 +1631,6 @@ Telepathy	313
 Temporal Collaboration	341
 Terminator	26
 Territorial And Intellectual Property Treaties	394
-The Age of Surveillance Capitalism	3, 10, 16, 188
-The Castle	367
-The Circle	223, 342
-The Diversity Of Cross-species Interactions	103
-The Double Coincidence Of Wants	244
-The Dream Machine	133, 256
-The Emperor's New Clothes	
-The Greatest Good For The Greatest Number	378
-The Hebbian Model Of Connections	105
-The Human Condition	88, 91, 95
-The Identity Provider	187
-The Lord of the Flies	519
-The Lost Dao	176, 335
-The Mix Of Diversity And Interconnectedness	100
-The Network State	36
-The New Republic	55
-The Public and its Problems	112, 126, 397
-The Social Dilemma	16
-The Sovereign Individual	36
-The Uncertainty Principle	96, 99
-The World Cafe	348
 Theocracy	32
 Theory of Change	412
 Thiel, Peter	36, 239, 512
@@ -1685,6 +1677,7 @@ UAE	20
 UIDAI	192
 Ukraine	283, 491
 UN global goals	492
+Uncertainty Principle, The	96, 99
 Undecidable	98
 UNDP	
 Unforgeable and undeniable signatures	221
@@ -1780,6 +1773,7 @@ Words Cannot Capture	361
 Work-life Balance	429
 Workplace	411, 425
 Workspace	335
+World Cafe, The	348
 World Congress	377
 World Economic Forum	363, 492
 World Health Organization (WHO)	80
