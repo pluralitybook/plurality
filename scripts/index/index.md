@@ -91,6 +91,7 @@ Allen, Danielle	88, 165, 374, 410
 Alphabet	187, 443
 AlphaGo	340
 AlphaGo Zero	340
+Altman, Sam	19, 33, 194, 514
 Amartya Sen	384
 Amazon	187, 490
 American Democracy	113, 127
@@ -115,9 +116,9 @@ Apple	187, 202, 490
 Apple's Torus Spaceship	435
 Approval Voting	303, 382, 516
 Arab Spring	13
-Ariana Zetlin	374
 Arms Race	168, 420, 468
 Arnold Harberger	403
+Arnott, Richard	407
 ARPA	483, 488, 491, 499, 509
 ARPANET	138, 156, 259, 484, 491, 510
 Arrow's Theorem	384
@@ -139,7 +140,7 @@ Asynchronous Communication	438
 Athenian Marketplace	349
 Atomist	132
 Atomistic Agents	514
-attention exchange tax	506
+Attention Exchange Tax	506
 Audrey Tang	64, 88, 356
 Augmented Reality	168, 320, 324, 513
 Australia	44, 373, 458
@@ -152,8 +153,6 @@ Authority	415
 Autodesk	337
 Automated Clearing Houses (ACHs)	236
 Autonomy	344
-Aviv Ovadya	355
-Ayn Rand	35
 ```
 
 # B
@@ -173,7 +172,6 @@ BERT	105
 Bertelsmann Foundation	82
 Bhagavad Gita	336
 Bible	119, 336
-Bill Gates	61
 Biodiversity	9, 104, 475, 479
 Biodiversity Loss	9, 475, 479
 Biomedical Engineering	460
@@ -716,6 +714,7 @@ Geopolitics	3, 76, 252, 513
 George, Henry	54, 75, 91, 112, 119, 403, 407
 Georgist land value tax	56
 Germany	165, 371, 473
+Gates, Bill	61
 GFM-driven Process	344
 Ghost Workers	256
 Gig Workers	507
@@ -775,7 +774,7 @@ Hakka	50, 56, 62
 Handmer, Casey	334
 Hannah Arendt	88, 199, 415
 Hans Christian Andersen	214
-Hanson	389, 452
+Hanson, Robin	389, 452
 Haptic Feedback	312, 324
 Hard Journalism	472
 Hawley, Josh	16
@@ -1165,6 +1164,7 @@ Natural Selection	102
 Neal Stephenson	25, 35, 301, 331
 Negative freedom of speech	166
 Neil Armstrong	466
+Nelson, Ted	140, 146, 151, 336
 Neoliberal	41
 Neoliberal Reaction	403
 Neoliberalism	149, 395, 488
@@ -1278,6 +1278,7 @@ Orderly States	97
 Oscar Wilde	351
 Outcome	453, 462
 Output	453, 459
+Ovadya, Aviv	355
 Over-shared information	226
 Ownership	197, 201
 ```
@@ -1436,6 +1437,7 @@ RadicalxChange	249, 384, 389, 495
 Rainbow Flags	50
 Rainforest Foundation US	372
 Raj	28, 32, 303
+Rand, Ayn	35
 Randomized Controlled Trials	416
 Ranked Choice	382
 Rationality	95, 117, 300, 372
@@ -1451,6 +1453,7 @@ Redistribution	399, 402, 449, 456
 Reductionism	98
 Redundancy	139, 200, 263
 Rees-Mogg, Jacob	36
+Rees-Mogg, William	36
 Regenerating Diversity	290, 296, 304, 520
 Region	212
 Regression Discontinuity Design	462
@@ -1481,7 +1484,6 @@ Revive China Society	53
 Revolutionary Democratic Direction	53
 Rhizomatic association	212
 Rich Get Richer	372
-Richard Arnott	407
 Richard Nixon	59
 Richard Rorty	217
 Rights Of Association	184
@@ -1491,7 +1493,6 @@ River Of Democracy	2
 Robert Putnam	229
 Robert Taylor	138, 211, 465
 Robin Dunbar	204
-Robin Hanson	389, 452
 Robinson, James	5
 Roblox	406
 ROC	50
@@ -1506,7 +1507,6 @@ Russian revolution	55
 
 # S
 ```
-Sam Altman	19, 33, 194, 514
 Same-sex Marriage	84
 San Francisco	120, 237
 Santiago Ramón y Cajal	104
@@ -1699,7 +1699,6 @@ Technology Addiction	80
 Technology For Collaboration Across Social Difference	89
 Technology Investment	29, 37
 Technology Policy	483
-Ted Nelson	140, 146, 151, 336
 Telecommuting	6
 Telehealth	459
 Telemedicine	459
@@ -1707,7 +1706,6 @@ Telepathic Creative Exchange	342
 Telepathic Exchange	342
 Telepathy	315
 Temporal Collaboration	343
-Teri Whitcraft	516
 Terminator	26
 Territorial And Intellectual Property Treaties	396
 The Age of Surveillance Capitalism	3, 10, 16, 189
@@ -1813,6 +1811,7 @@ Venture Capitalist	36, 418
 Ventures	396, 408
 Verifiable Credentials (VCs)	177, 194, 198, 374
 Vesuvius Challenge	334, 339
+Vickrey, William	403, 407
 Violent Revolution	414
 Virtual Gatherings	321
 Virtual Meeting	354, 436
@@ -1859,6 +1858,7 @@ Western Capitalist Countries	28
 Western Liberal Democracies	28, 515
 Whanganui	478
 What's App	365
+Whitcraft, Teri	516
 White Collar	435
 White Terror	56, 59
 Widening Gulf	3
@@ -1867,8 +1867,6 @@ Wikipedia	22, 140, 152, 337, 467
 Wikisurvey	68, 356
 Will Of The Group	382
 will.i.am	346
-William Rees-Mogg	36
-William Vickrey	403, 407
 Windows	143, 167, 197
 Winslow Porter	466
 Wisdom of the Crowd	457
@@ -1911,6 +1909,7 @@ Yushan	47, 486
 ```
 Zero Trust	75
 Zero-Knowledge Proofs(ZKPs)	468
+Zetlin, Ariana	374
 Zheng Chenggong	51
 Zoning Restrictions	402
 Zucman, Gabriel	39, 79
