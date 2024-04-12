@@ -235,8 +235,8 @@ Cheques	234
 Chiang Ching-Kuo	60
 Chiang Kai-shek	55
 Chinese Communist Party (CCP)	55, 483
+Church Turing Thesis	96
 Church, Alonzo	98
-Church-Turing	96
 Circular investment	405, 503
 Citizen co-journalism	464
 Citizen Journalism	464
@@ -299,7 +299,7 @@ Colorado State Legislature	384
 Commanding Heights	12, 482
 Common Asylum System	179
 Common Belief	214, 226
-Common Carriers of Public Discussion	
+Common Carriers	467
 Common Content	468
 Common Corporate Infrastructure	427
 Common European Asylum System	179
