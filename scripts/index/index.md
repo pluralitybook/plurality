@@ -1,5 +1,3 @@
-(This is a page for examining the appearance of the index for the English version of the book. The data is temporarily poured in for visual verification purposes, and the latest data can be found at `index_for_manual_edit.tsv`. If you notice anything, please contact us on [Discord](https://discord.com/channels/1133444567031627846/1223368310020771860/1227540767031955476). )
-
 # ⿻ (Plurality / Plural) and 數位 (Digital / Plural)
 ```
 ⿻	88
