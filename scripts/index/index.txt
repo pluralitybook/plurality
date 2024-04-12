@@ -74,7 +74,7 @@ Administrative Application	374
 Administrative Practice	372
 Administrative State	364
 Adobe Creative Cloud	335
-Advanced Research Projects Agency	134, 486
+Advanced Research Projects Agency (ARPA)	134, 481, 486, 489, 497, 507
 Adverse Selection	447
 Advertising	188
 Affective Polarization	7, 83, 462
@@ -123,7 +123,6 @@ Arab Spring	13
 Arendt, Hannah	88, 198, 413
 Arms Race	167, 418, 466
 Arnott, Richard	405
-ARPA	481, 486, 489, 497, 507
 ARPANET	138, 154, 257, 482, 489, 508
 Arrow's Theorem	382
 Arrow, Kenneth	380, 447
