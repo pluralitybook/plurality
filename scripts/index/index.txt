@@ -1641,7 +1641,6 @@ Thin Shell	409
 Thin Signals	186, 297
 Third Sector	58, 399, 517
 Thorburn, Luke	353
-Three Principles of the People	53
 time sharing	136
 Time Travel	341
 Time-sharing	256, 262, 415
@@ -1650,7 +1649,6 @@ Top-down	190, 368
 Tornado Cash	241
 Total Factor Productivity	38
 Towards a Connected Society	88
-Towering Tech Giants	1
 Toyota Production System (TPS)	57
 Tradable Carbon Permits	404
 Trading Cycles	244
@@ -1675,8 +1673,6 @@ Turing	370
 Twitter	471
 Tyranny of Structurelessness	351
 Tyranny Of The Majority	380
-UAE	20
-UIDAI	192
 Ukraine	283, 491
 UN global goals	492
 Uncertainty Principle, The	96, 99
@@ -1685,6 +1681,8 @@ UNDP
 Unforgeable and undeniable signatures	221
 Uniform Resource Locator (URL)	
 Union of Japanese Scientists and Engineers (JUSE)	
+Unique Identification Authority of India (UIDAI)	192
+United Arab Emirates (UAE)	20
 United Kingdom (UK)	483
 United Nations (UN)	268, 381, 474
 United States (US)	480, 501, 506
@@ -1714,7 +1712,7 @@ Violent Revolution	412
 Virtual Gatherings	319
 Virtual Meeting	352, 434
 Virtual Music Festivals	318, 321
-Virtual Reality	147, 156, 317, 324
+Virtual Reality (VR)	147, 156, 317, 324
 Virtual Reality Therapy	325
 Virtual Replica	339
 Virtual Tourism	321
