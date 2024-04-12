@@ -1389,7 +1389,6 @@ Remote Collaboration Tool	429
 Remote Employee	431
 Remote Fitness Classes	321
 Remote Shared Reality	432, 438
-Remote Shared Reality Technologie	
 Remote Teams	427, 431, 442
 Renaissance	117, 340
 Reporters without Borders	462
