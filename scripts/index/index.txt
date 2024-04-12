@@ -80,13 +80,11 @@ Advertising	188
 Affective Polarization	7, 83, 462
 Affinity	346, 459
 Agglomeration	428, 432
-AI	
 AI Act	484
 AI researcher	375
 AI4Bharat	363
 AIDS	445, 451, 457
 Air pollution	474, 486
-Alexis de Tocqueville	6, 210
 Algorithmic Ranking System	352
 Alien Art	338
 Alien Intelligence	26, 338
@@ -98,12 +96,12 @@ Alphabet	186, 441
 AlphaGo	338
 AlphaGo Zero	
 Altman, Sam	19, 33, 193, 512
-Amartya Sen	382
 Amazon	186, 488
 American Democracy	113, 127
 American Legislative Capitol	49
 American Revolution	413
 Analysis Paralysis	349
+Andersen, Hans Christian	213
 Andreesen, Marc	512
 Android	154, 167
 Anonymity	181, 208, 331
@@ -118,13 +116,12 @@ Antiretroviral Therapy	444
 Antisocial	6, 26, 97
 Antitrust	398, 403, 482, 487, 492, 500
 Antitrust Actions	482
-Anu Bradford	481
 Apple	186, 201, 488
 Apple's Torus Spaceship	433
 Approval Voting	301, 380, 514
 Arab Spring	13
+Arendt, Hannah	88, 198, 413
 Arms Race	167, 418, 466
-Arnold Harberger	401
 Arnott, Richard	405
 ARPA	481, 486, 489, 497, 507
 ARPANET	138, 154, 257, 482, 489, 508
@@ -138,6 +135,7 @@ Artistic cocreation	334
 Artistic Expression	333
 Asana	251, 335
 Asia Development Bank	78
+Asimov, Isaac	26
 Aspirations to equality	166
 Asset sharing	253, 258, 266
 Assimilation	52
@@ -184,18 +182,17 @@ Biometrics	191, 194, 478
 Bioweapons	9, 23
 Birth certificates	115, 184
 Bitcoin	13, 24, 35, 237, 248
-Blake Masters	36
 Blended-finance Agreement	454
 Blindness of Justice	365
 Blitzscaling	414
 Blockchain	4, 23, 196, 218, 227, 402
 Blockchain-centric Identity Systems	
-Blockchains	4, 23
 Bluesky	158, 218
 Bolt Beranek and Newman	489
 Bottom-up	385
 Bowling Alone	228
 Boyd, Danah	198, 218, 223
+Bradford, Anu	481
 Brain interface	301, 464
 Brain-Computer Interfaces	310
 Braver Angels	356
@@ -206,6 +203,7 @@ Brussels Effect	481
 Buddhism	81
 Bureaucracies	365, 399
 Bureaucratic Rules	366
+Burke, Edmund	475
 By An Invisible Hand	395
 Cameron, Kim	195
 Campus Athletics	432
@@ -268,6 +266,7 @@ Co-edited Project
 Cocreation Relationship	477
 Codetermination	398
 Cofacts	73
+Cogburn, Courtney	317
 Cold War	19, 134, 164
 Collaboration Across Difference	304, 473
 Collaboration Across Diversity	409
@@ -360,8 +359,7 @@ Correlation discounting	386
 Cortico	355
 Countervail	398
 Coursera	336
-Courtney Cogburn	317
-COVID-19	454
+COVID-19 Pandemic	454
 COVID-19 pandemic	69, 72, 85, 428, 469
 Cowriting	334
 Crackle	332
@@ -379,13 +377,11 @@ Cross-pollination Service
 Cross-Straits Services Trade Agreement	67
 Crowdsourcing	334, 371
 Crypto	5, 8, 13, 23, 29, 35, 480, 509
-Cryptocurrencies	8, 13, 23, 35, 232, 237, 247
-Cryptocurrency	194
-Cryptographic	462, 466
+Cryptocurrency	8, 13, 23, 35, 194, 232, 237, 247
 Cryptographic Hypercapitalism	32
 Cryptographic Principle	460
 Cryptographic Standards	222
-Cryptography	5, 31, 35, 193, 264
+Cryptography	5, 31, 35, 193, 264, 462, 466
 Cryptonomicon	35
 Cultural Diversity	281, 290, 343, 363
 Cultural Homogenization	344
@@ -396,8 +392,6 @@ Curriculum Vitae (CV)	365
 Customers	96, 102, 111
 Cybernetic Society	129
 Cybernetics	113, 129, 133
-Cynthia Wade	514
-DAO	190, 367, 385, 403, 499
 Dao	
 Daoism	50
 dApps	423
@@ -414,7 +408,8 @@ Data Sharing	257, 262
 Data Transparency	65, 75
 Data-driven Actors	476
 Davidson, James Dale	36
-De Tocqueville, Alexis	
+Davis, Decontee	464
+De Tocqueville, Alexis	6, 210
 Decentralization Of Cryptocurrencies	247
 Decentralized Identifiers (DID)	196
 Decentralized Identity	157, 177, 193
@@ -427,10 +422,8 @@ Decentralized Web	158, 177
 Decision Trees	368
 Declaration for the Future of the Internet	279
 Declaration of the Independence of Cyberspace	37
-Decontee Davis	464
 Decreasing Marginal Returns	396
 Decreasing Returns	395
-Dee Hock	235
 Deepfakes	281
 DeepMind	34, 338
 Deforestation	325, 473
@@ -444,7 +437,7 @@ Democratic freedom	62
 Democratic Input to AI project	70
 Democratic Inputs	355
 Democratic Participation	4, 53, 160
-Democratic Progressive Party	49
+Democratic Progressive Party (DPP)	49, 61
 Democratic Republican Government	413
 Demonization	469
 Descriptive	90
@@ -519,6 +512,7 @@ Discrimination Law	10
 Disinformation	352
 Displacement	40
 Disruption	9, 139, 440
+Distributed Autonomous Organization (DAO)	190, 367, 385, 403, 499
 Distributed Autonomous Organizations (DAOs)	367, 403, 499
 Distributed Denial Of Service (DDoS)	283
 Distributed Ledger Technologies (DLTs)	
@@ -535,15 +529,12 @@ DLTs	219, 237
 Domain Names	274
 Domains of Identity	189
 Dominant Narrative	343
-Donald Trump	36
 DoNotPay	369
 Dossiers	188
 Douglas Engelbart	136, 257
-DPP	49, 61
-Dr. Seuss	360
 Driverless Cars	22
 Dunbar number	203, 243
-Durkheim	124, 449
+Durkheim, Émile	124, 449
 Duverger's Law	379
 Dynamic	390, 393, 399, 403, 407
 Dystopian Outcome	341
@@ -564,7 +555,6 @@ Economies Esteem
 Economist Intelligence Unit	82
 Ecosystems	97, 102
 Edge of Chaos	97, 172, 512
-Edmund Burke	475
 Educational Psychology	372, 415
 edX	336
 Egalitarianism	58, 447
@@ -581,7 +571,6 @@ Elite Universities	369
 Emergence	96, 103, 107, 110
 Emergent Publics	126, 129, 407
 Eminent Domain	399
-Emmanuel Saez	39, 79
 Emotional Connectivity	318, 323
 Empathy Amplifiers	327
 Employment	181, 189, 195
@@ -626,7 +615,6 @@ Externalities	392, 397, 400, 404, 407
 Extreme Preservation of Privacy	195
 Extreme Sports	432
 Extremist Parties	7
-Ezra Klein	19, 35
 Fabric Of Relationships	510
 Faceted Identity	198
 Facial Recognition	24
@@ -667,8 +655,6 @@ Foxconn	78
 Fractals	99
 Fractional Reserve Banking	234
 Fragile Democracies	13
-Frank Rosenblatt	105
-Franz Kafka	367
 Freddy Lim	67
 free China	56
 Free Markets Know Best	40
@@ -769,10 +755,9 @@ Hackathons	65, 71, 208, 515
 HackMD	153
 Hakka	50, 56, 62
 Handmer, Casey	332
-Hannah Arendt	88, 198, 413
-Hans Christian Andersen	213
 Hanson, Robin	387, 450
 Haptic Feedback	310, 322
+Harberger, Arnold	401
 Hard Journalism	470
 Hawley, Josh	16
 Health	411, 415, 425
@@ -787,6 +772,7 @@ Her
 Herculaneum	332, 337
 Herculean Task	201
 Heritage Foundation	78
+Herndon, Holly	338, 344, 514
 Heterogeneity	110, 190, 390
 High Modernism	95, 117
 High-Bandwidth Communication	315
@@ -796,11 +782,11 @@ Hiring Manager	366, 370, 438
 Hirschman, Albert	393
 Hit Rates	438
 HIV	444, 450
+Hock, Dee	235
 Hodgkin, Alan	104
 Hokkien	50
 Holdout Issues	275
 Hollowing-out	7
-Holly Herndon	338, 344, 514
 Holochain	177, 249
 Homerian epics	334
 Homogenization	306, 315, 373
@@ -911,7 +897,6 @@ Intrapreneurship	428, 440, 515
 Invasions Of Privacy	186
 iOS	167
 Irises	193
-Isaac Asimov	26
 IVR Junction	363
 J. D. Vance	36
 Japanese Occupation	52
@@ -933,6 +918,7 @@ Juan Benet	260
 Julian Schilliger	333
 Jurisdictional Alignment (JA)	503
 Jurisdictional Boundaries	257, 394
+Kafka, Franz	367
 Kaizen	57
 Kao Chia-liang	
 Kaohsiung Incident	60
@@ -944,6 +930,7 @@ Khan Academy	336
 Kickstarter	336
 Kidd, David	371
 Kim Stanley Robinson	360
+Klein, Ezra	19, 35
 Knappschaften	449
 Know Your Customer	
 knowledge is power	278
@@ -1032,6 +1019,7 @@ Mass Surveillance	12
 Massachusetts Institute of Technology	355
 Massive Multi-user Online Laboratories (MMOLs)	323
 Masters of Scale	416
+Masters, Blake	36
 Mastodon	21, 158, 218
 Mat Dryhurst	338, 514
 Matching Fund	390, 402, 406, 442
@@ -1225,14 +1213,13 @@ Open Source Intelligence
 Open Source Models	
 Open Source Projects	495
 Open Source Software (OSS)	22, 68
-Open Source Technology	
+Open Source Technology	490
 Open Space Technology	348
 Open Standard	139
 Open Standards-based Collaborations.	263
 Open-source project	335, 492
 Open-source Rainmaking	475
 Open-source software (OSS)	245
-Open-source Technology	490
 OpenAI	19, 33, 70, 193, 354, 403, 417, 441, 496
 OpenID Connect	187
 OpenMined	268
@@ -1247,9 +1234,8 @@ Output	451, 457
 Ovadya, Aviv	353
 Over-shared information	
 Ownership	196, 200
-Packet Switching	139, 197, 201, 205
+Packet Switching	139, 145, 197, 201, 205, 371
 Packet Switching Architectures	201
-Packet-switching	145, 371
 PageRank	274, 386
 Paradigm Shift	314, 352
 Paradox.ai	370
@@ -1456,18 +1442,20 @@ Robinson, James
 Roblox	403
 ROC	50
 Ropes Course	431
+Rosenblatt, Frank	105
 Rough Consensus	354, 358, 362, 468
 Rovelli, Carlo	95, 102
 Rule Of Law	392
 Run-off	380
 Rural Land Reform	56
 Russian revolution	55
+Saez, Emmanuel	39, 79
 Same-sex Marriage	84
 San Francisco	120, 236
 Santiago Ramón y Cajal	104
 Sardinia	429
 Satya Nadella	363, 440
-Saudia Arabia	
+Saudi Arabia	20
 Scaling Collaboration	396
 Scandinavian Countries	20, 87, 165, 448
 Science And Technology Studies	27
@@ -1489,10 +1477,12 @@ Seeds	419
 Self-determination	53, 456
 Self-organizing Criticality	98
 Self-ownership	
+Sen, Amartya	382
 Sensitivity	99, 221
 Sensory Integration	318, 326
 SERVIR Amazonia	370
 Seth Parker	332
+Seuss, Dr.	360
 Shared Goods	392, 396, 503
 Shared Knowledge Base	332
 Shield Of Trust And Safety	180
@@ -1715,6 +1705,7 @@ Trello	436
 Trichotomy	481
 Tridemism	51, 56, 62
 True democracy	128
+Trump, Donald	36
 Trust Falls	431
 Trust Over IP Foundation	201, 249
 Trusted Network	283
@@ -1727,16 +1718,15 @@ Tyranny Of The Majority	380
 UAE	20
 UIDAI	192
 Ukraine	283, 491
-UN	474
 UN global goals	492
 Undecidable	98
 UNDP	
 Unforgeable and undeniable signatures	221
 Uniform Resource Locator (URL)	
-Union of Japanese Scientists and Engineers(JUSE)	57
+Union of Japanese Scientists and Engineers (JUSE)	
 United Kingdom (UK)	483
-United Nations	268, 381
-United States	
+United Nations (UN)	268, 381, 474
+United States (US)	480, 501, 506
 Universal Basic Income	34, 194
 Universal Birth Registration	115
 Universal Coded Character (unicode)	91
@@ -1744,7 +1734,6 @@ Universal Declaration of Human Rights	163, 166, 279
 Unorthodox Thinking	437
 Untapped	370
 Ursula Le Guin	26
-US	480, 501, 506
 User Engagement	13, 345
 User Experience	64, 191, 353, 495
 User Perspective	353
@@ -1780,7 +1769,7 @@ Voting Based On Population Size	381
 Vouch	199, 247
 vTaiwan	67, 353
 Vulcans	89
-W3C	176, 190, 196, 218
+Wade, Cynthia	514
 Wage System	394
 Waldrop, M. Mitchell	97, 133
 War of Independence	413
@@ -1828,7 +1817,7 @@ World Health Organization (WHO)	80
 World Press Freedom Index	462
 World Trade Organization,	394
 World War	19, 57, 133, 164, 463
-World Wide Web Consortium (W3C)	218
+World Wide Web Consortium (W3C)	176, 190, 196, 218
 Worldcoin	193
 X (formerly Twitter)	345, 471
 Xerox PARC	138, 143, 489

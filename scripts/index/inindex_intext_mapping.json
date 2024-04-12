@@ -331,8 +331,142 @@
     "Non-fungible Token",
     "Non fungible Token",
     "NFT"
+  ],
+  "United Nations (UN)": [
+    "United Nations",
+    "UN"
+  ],
+  "United States (US)": [
+    "United States",
+    "US"
+  ],
+  "World Wide Web Consortium (W3C)": [
+    "World Wide Web Consortium",
+    "W3C"
+  ],
+  "Generative Foundation Model (GFM)": [
+    "Generative Foundation Model",
+    "GFM"
+  ],
+  "Democratic Progressive Party (DPP)": [
+    "Democratic Progressive Party",
+    "DPP"
+  ],
+  "Community Notes (CN)": [
+    "Community Notes"
+  ],
+  "COVID-19 Pandemic": [
+    "COVID-19"
+  ],
+  "Cryptocurrency": [
+    "Cryptocurrencies",
+    "Cryptocurrency"
+  ],
+  "Cryptography": [
+    "Cryptography",
+    "Cryptographic"
+  ],
+  "Distributed Autonomous Organization (DAO)": [
+    "Distributed Autonomous Organization",
+    "DAO"
+  ],
+  "De Tocqueville, Alexis": [
+    "Alexis de Tocqueville",
+    "De Tocqueville, Alexis"
+  ],
+  "Distributed Ledger Technology (DLT)": [
+    "Distributed Ledger Technology",
+    "Distributed Ledger Technologies",
+    "DLT"
+  ],
+  "Open Source Projects": [
+    "Open Source Projects",
+    "Open-source Projects"
+  ],
+  "Open Source Software (OSS)": [
+    "Open Source Software",
+    "Open-source Software",
+    "OSS"
+  ],
+  "Open Source Technology": [
+    "Open Source Technology",
+    "Open-source Technology",
+    "Open Source Technologies",
+    "Open-source Technologies"
+  ],
+  "Packet Switching": [
+    "Packet Switching",
+    "Packet-switching"
+  ],
+  "Sen, Amartya": [
+    "Amartya Sen"
+  ],
+  "Bradford, Anu": [
+    "Anu Bradford"
+  ],
+  "Harberger, Arnold": [
+    "Arnold Harberger"
+  ],
+  "Masters, Blake": [
+    "Blake Masters"
+  ],
+  "O'Neil, Cathy": [
+    "Cathy O'Neil"
+  ],
+  "Cogburn, Courtney": [
+    "Courtney Cogburn"
+  ],
+  "Wade, Cynthia": [
+    "Cynthia Wade"
+  ],
+  "Davis, Decontee": [
+    "Decontee Davis"
+  ],
+  "Hock, Dee": [
+    "Dee Hock"
+  ],
+  "Trump, Donald": [
+    "Donald Trump"
+  ],
+  "Seuss, Dr.": [
+    "Dr. Seuss"
+  ],
+  "Durkheim, \u00c9mile": [
+    "Durkheim"
+  ],
+  "Burke, Edmund": [
+    "Edmund Burke"
+  ],
+  "Saez, Emmanuel": [
+    "Emmanuel Saez"
+  ],
+  "Klein, Ezra": [
+    "Ezra Klein"
+  ],
+  "Rosenblatt, Frank": [
+    "Frank Rosenblatt"
+  ],
+  "Kafka, Franz": [
+    "Franz Kafka"
+  ],
+  "Arendt, Hannah": [
+    "Hannah Arendt"
+  ],
+  "Andersen, Hans Christian ": [
+    "Hans Christian Andersen"
+  ],
+  "Herndon, Holly": [
+    "Holly Herndon"
+  ],
+  "Asimov, Isaac": [
+    "Isaac Asimov"
+  ],
+  "Vance, JD": [
+    "J D Vance"
+  ],
+  "Prah Ruger, Jennifer": [
+    "Jennifer Prah"
   ]
-
 
 }
 
