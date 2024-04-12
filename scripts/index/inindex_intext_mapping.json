@@ -159,7 +159,8 @@
     "Mark Zuckerberg"
   ],
   "Joseph Carl Robnett Licklider": [
-    "J.C.R. Licklider"
+    "J.C.R. Licklider",
+    "Joseph Licklider"
   ],
   "Secure Multi-Party Computation (SMPC)": [
     "Secure Multi-Party Computation",
@@ -481,8 +482,15 @@
   "Generative pre-trained transformer (GPT)": [
     "Generative pre-trained transformer",
     "GPT"
+  ],
+  "Environmental Movement": [
+    "Environmental Movement",
+    "Green Movement"
+  ],
+  "Know Your Customer (KYC)": [
+    "Know Your Customer",
+    "KYC"
   ]
-
 }
 
 

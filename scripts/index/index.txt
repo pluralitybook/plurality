@@ -729,12 +729,10 @@ Graphics Processing Units (GPUs)	258
 Grassroots Initiatives	486
 Great Firewall	170
 Great Powers	3, 102, 481
-Green movement	510
 Green Technologies	411, 473
 Gross Domestic Product	17, 77, 427
 Group Works	351
 Guard (hackathon)	208
-Guiding Light And Symbol For ⿻	510
 Gödel's Theorem	
 Hackathon	65, 71, 475
 Hackathons	65, 71, 208, 515
@@ -832,7 +830,6 @@ Indiegogo	336
 Indigeneous Community	
 Indigenous Land and Sea Corporation	370
 Individual Identity	113, 215
-Industrial	399
 Industrial Policy	486
 Industrial Revolution	96
 Inequality	343
@@ -844,7 +841,7 @@ Information commons	171, 279
 Information Integrity	229, 279
 Information Openness	283
 Information Processing Techniques Office (IPTO)	136, 486
-Information Technology	3, 171
+Information Technology	171
 InformationCard	196
 Infrastructure	399, 479, 502, 505
 Infringement On Privacy	206
@@ -894,9 +891,8 @@ Jobs, Steve	138, 143, 433
 John Kenneth Galbraith	215, 398
 Johnson, Simon	27, 381
 Joint Learning	431
-Joseph Carl Robnett Licklider	132, 137, 383, 482
+Joseph Carl Robnett Licklider	132, 137, 210, 383, 482
 Joseph Gordon-Levitt	344
-Joseph Licklider	210
 Jothons	65
 Journalism	462, 470
 Journey of Humanity	290
@@ -918,7 +914,7 @@ Kidd, David	371
 Kim Stanley Robinson	360
 Klein, Ezra	19, 35
 Knappschaften	449
-Know Your Customer	
+Know Your Customer (KYC)	
 knowledge is power	278
 Kuomintang	50
 Labor Augmentation	40
