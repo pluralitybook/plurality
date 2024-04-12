@@ -768,7 +768,6 @@ Hit Rates	438
 HIV	444, 450
 Hock, Dee	235
 Hodgkin, Alan	104
-Hokkien	50
 Holdout Issues	275
 Hollowing-out	7
 Holochain	177, 249
@@ -1251,7 +1250,6 @@ Pigouvian Taxes	400, 503
 Piketty, Thomas	79
 Pixar's headquarters	433
 Place of Convergence	48
-Plural	1
 Plural Funding	386, 390
 Plural Management Protocol	407
 Plural Spirit	48
@@ -1376,7 +1374,7 @@ Redistribution	397, 400, 447, 454
 Reductionism	98
 Redundancy	139, 199, 260
 Rees-Mogg, Jacob	36
-Rees-Mogg, William	36
+Rees-Mogg, Lord William	36
 Regenerating Diversity	288, 294, 302, 519
 region	211
 Regression Discontinuity Design	460
@@ -1398,6 +1396,7 @@ Reporters without Borders	462
 Representation	349, 359
 Representative Statement	353
 Representing Consensus Position	358
+Republic of China (ROC)	50
 Research and Development	17, 29
 Research Policy	399
 Resolution 2758	59
@@ -1419,7 +1418,6 @@ Robert Taylor	138, 210, 463
 Robin Dunbar	203
 Robinson, James	
 Roblox	403
-ROC	50
 Ropes Course	431
 Rosenblatt, Frank	105
 Rough Consensus	354, 358, 362, 468
