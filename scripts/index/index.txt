@@ -426,7 +426,7 @@ DeepMind	34, 338
 Deforestation	325, 473
 Degressive Proportionality	117, 384
 Deliberation	286, 297, 300, 345, 468
-Deming, Edward	
+Deming, W. Edwards	57, 133, 436
 Democracy	1, 88, 278, 378, 484, 497, 504
 Democracy in America	6, 209
 Democratic Advocates	59
