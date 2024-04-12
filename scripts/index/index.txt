@@ -459,8 +459,7 @@ Digital Competence Education	75, 160
 Digital Credentials	179, 196
 Digital Currencies	19, 22, 35, 504
 Digital Currency	29, 239
-Digital Democracies	28
-Digital Democracy	33, 45, 280, 284, 370, 512
+Digital Democracy	28, 33, 45, 280, 284, 370, 512
 Digital Divide	280, 330, 343
 Digital Economy	20, 253, 480, 506
 Digital Ecosystem	424, 484, 494, 497
@@ -503,7 +502,6 @@ Diplomatic Nuance	62
 Direct Collective Representative	360
 Direct Election of the President	61
 Direct Neural Interface	432
-Directions More Than Velocity	511
 Directly ⿻ (D⿻)	503
 Discrimination Law	10
 Disinformation	352
@@ -512,8 +510,7 @@ Disruption	9, 139, 440
 Distributed Autonomous Organization (DAO)	190, 367, 385, 403, 499
 Distributed Autonomous Organizations (DAOs)	367, 403, 499
 Distributed Denial Of Service (DDoS)	283
-Distributed Ledger Technologies (DLTs)	
-Distributed Ledgers	196, 371
+Distributed Ledger Technology (DLT)	196, 219, 237, 371
 Distributed Network	268, 372
 Distributed Participation	465
 Distribution	203, 397, 400
@@ -522,7 +519,6 @@ Diverse Perspective	336, 341
 Diversification	374, 421
 Diversity	412, 419
 Diversity of groups	173, 414
-DLTs	219, 237
 Domain Names	274
 Domains of Identity	189
 Dominant Narrative	343
@@ -534,13 +530,11 @@ Dunbar number	203, 243
 Durkheim, Émile	124, 449
 Duverger's Law	379
 Dynamic	390, 393, 399, 403, 407
-Dystopian Outcome	341
 Dōka	52
 e-citizenship	429
 E-Government	21, 160
 e-health	457
 e-sports	321, 432
-E-Sports Tournaments	321
 Early Adopted Community	418
 Early Adopters	415, 419
 Ease of Attacks Online	181
@@ -548,7 +542,7 @@ Ebola	464
 Echo Chamber	465
 Echo Chambers	345, 352
 Ecology	96, 104, 132
-Economies Esteem	
+Economies of Esteem	404
 Economist Intelligence Unit	82
 Ecosystems	97, 102
 Edge of Chaos	97, 172, 512
@@ -556,7 +550,7 @@ Educational Psychology	372, 415
 edX	336
 Egalitarianism	58, 447
 EGDI	21
-Egger, Dave	223, 342
+Eggers, Dave	223, 342
 Eigenvalues	386
 Eigenvoting	386
 Einstein's Theories Of Relativity	

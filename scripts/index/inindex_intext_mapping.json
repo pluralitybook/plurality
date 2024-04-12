@@ -89,9 +89,6 @@
   "Decentralized Social Networking Protocol": [
     "Decentralized Social Networking Protocol (DSNP)"
   ],
-  "Distributed Ledger Technologies (DLTs)": [
-    "Distributed Ledger Technology (DLT)"
-  ],
   "Simon, Herbert": [
     "Herbert Simon"
   ],
@@ -240,7 +237,7 @@
   "Allen, Danielle": [
     "Danielle Allen"
   ],
-  "Egger, Dave": [
+  "Eggers, Dave": [
     "Dave Egger"
   ],
   "Graeber, David": [
@@ -269,9 +266,6 @@
   ],
   "George, Henry": [
     "Henry George"
-  ],
-  "Simon, Herbert": [
-    "Herbert Simon"
   ],
   "Banks, Ian": [
     "Ian Banks"
@@ -371,11 +365,6 @@
     "Alexis de Tocqueville",
     "De Tocqueville, Alexis"
   ],
-  "Distributed Ledger Technology (DLT)": [
-    "Distributed Ledger Technology",
-    "Distributed Ledger Technologies",
-    "DLT"
-  ],
   "Open Source Projects": [
     "Open Source Projects",
     "Open-source Projects"
@@ -473,7 +462,19 @@
   ],
   "Cooperative Enterprise": [
     "Cooperatives"
+  ],
+  "Digital Democracy": [
+    "Digital Democracy",
+    "Digital Democracies"
+  ],
+  "Distributed Ledger Technology (DLT)": [
+    "Distributed Ledger Technology",
+    "Distributed Ledger Technologies",
+    "Distributed Ledgers",
+    "DLT",
+    "DLTs"
   ]
+
 }
 
 
