@@ -60,16 +60,9 @@
 — [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier), inventor of Virtual Reality, author of [*Who Owns the Future?*](https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F) and [*The Dawn of the New Everything*](https://us.macmillan.com/books/9781250097408/dawnoftheneweverything) and Microsoft's Office of the Chief Technology Officer Prime Unifying Scientist (OCTOPUS)
 
 <br></br>
- 
 
-> I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!<br></br> 
-— [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), creator of [*Magic: The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
-
-<br></br>
-
-> In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
-— [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Co-Founder of the [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) and star of [*The Social Dilemma*](https://www.thesocialdilemma.com/)
-
+> It is clear...technologies will impact the future of culture and democracy. We lack a pluralistic...vision of living with them! Fortunately this book embodies the principles it advocates. Like AI, it is a monumental collective accomplishment, greater than the sum of its parts.<br></br> 
+— [Holly Herndon](https://en.wikipedia.org/wiki/Holly_Herndon), musician, artist, Co-Host of [*Interdependence*](https://interdependence.fm/) and Co-Founder of [Spawning](https://spawning.ai/)
 
 <br></br>
 
@@ -78,8 +71,24 @@
 
 <br></br>
 
+> In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
+— [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Co-Founder of the [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) and star of [*The Social Dilemma*](https://www.thesocialdilemma.com/)
+
+<br></br>
+
+> I find it exhilarating to read the rules to new games and imagine the world that they build; I get that excitement here, but the game is global affairs and the way communities work together. Fantastic!<br></br> 
+— [Richard Garfield](https://en.wikipedia.org/wiki/Richard_Garfield), creator of [*Magic: The Gathering*](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
+
+<br></br>
+
 > *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
 — [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
+
+<br></br>
+
+
+> At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
+— [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
 
 
 <br></br>
@@ -87,8 +96,4 @@
 > (V)isionary in design, execution and substance.<br></br>
 — [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), President of [University of Tulsa](https://utulsa.edu/) and [Americans for Responsible Innovation](https://responsibleinnovation.org/), Fmr. US Congressman and Undersecretary of the Army
 
-<br></br>
 
-
-> At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
-— [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
