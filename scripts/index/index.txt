@@ -576,7 +576,7 @@ Environmental Movement	104
 Environmental Problem	411, 473, 476
 Environmental Science	96
 Environmental Sustainability	476
-Environmental, Social and Governance	403, 470
+Environmental, Social and Governance (ESG)	403, 470
 Epigenetics	104
 Establish and Protect Participant Identities	180
 Estonia	28, 280, 283, 429
@@ -603,7 +603,6 @@ Extended Evolutionary Synthesis	96, 102
 Extended Reality	458
 External surveillance	211, 216, 222, 242
 Externalities	392, 397, 400, 404, 407
-Extreme Preservation of Privacy	195
 Extreme Sports	432
 Extremist Parties	7
 Fabric Of Relationships	510
@@ -612,7 +611,6 @@ Facial Recognition	24
 Fact Checkers	73
 Fact-checking	74, 345
 Fairness	127, 364, 468
-Faith in Democratic Institutions	43
 False Consensus	469
 Farritor, Luke	333
 Fascism	32
@@ -630,7 +628,6 @@ Financial Technology	5, 13, 68, 483
 Financial Transactions	190, 241
 Finnish government	369
 Fintech	13, 250
-First Additional Vote	378
 Five Star Rating System	357
 Five-Year plans	483
 Flexible/gig Work Taxes	505
@@ -668,7 +665,6 @@ Funder	32, 390, 453, 461, 488
 Funding Pool	453
 Fusion	303
 Futarchy	387
-Future Collaborator	341
 g0v	64, 71, 455, 493
 Gaia-X	177, 263, 489
 Gamification	458
@@ -679,11 +675,11 @@ Gavi	444
 GDP	428
 General Computation	96
 General Data Protection Regulation	16, 222, 484
-General Reticence	16
 Generative AI	226, 279
 Generative Art	337
 Generative Artists	338
 Generative Foundation Models (GFMs)	186, 253, 335, 365, 453, 465, 482, 496
+Generative pre-trained transformer (GPT)	19, 49, 105, 416
 Generative Pretrained Transformer	19
 Geographical Information System	370
 Geopolitics	3, 76, 250, 511
@@ -726,7 +722,6 @@ Government Issued ID	188
 Government-issued Identities	186
 Governments	479, 491, 498, 506
 GovTech	158
-GPT	19, 49, 105, 416
 Graeber, David	117, 243, 259, 413
 Granovetter, Mark	105
 Graphical user interface	137, 167
