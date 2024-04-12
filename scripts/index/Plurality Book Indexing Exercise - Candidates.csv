@@ -8,7 +8,6 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Authoritarian Regimes,01-01,cFQ
 ,Authoritarian Rule,01-01,cFQ
 ,Collaborative Technology,01-01,cFQ
-,Conduit Of Hope,01-01,cFQ
 ,Democracy,01-01,cFQ
 ,Digital,01-01,cFQ
 ,Global GDP,01-01,cFQ
@@ -42,7 +41,6 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Bitcoin,02-00,cFQ
 ,Blake Masters,02-00,cFQ
 ,Blockchain,02-00,cFQ
-,Blockchains,02-00,cFQ
 ,Cancel Culture,02-00,cFQ
 ,Capitalism,02-00,cFQ
 ,Cathy O’Neil,02-00,cFQ
@@ -195,7 +193,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Robert Atkinson,02-00,cFQ
 ,"Robinson, James",02-00,cFQ
 ,Sam Altman,02-00,cFQ
-,Saudia Arabia,02-00,cFQ
+,Saudi Arabia,02-00,cFQ
 ,Scandinavian Countries,02-00,cFQ
 ,Science And Technology Studies,02-00,cFQ
 ,Science Fiction,02-00,cFQ
@@ -274,8 +272,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Direct Election of the President,02-01,cFQ
 ,Dōka,02-01,cFQ
 ,DPP,02-01,cFQ
-,Edward Deming,02-01,cFQ
-,Edward Deming,02-01,nishio
+,Edwards Deming,02-01,cFQ
 ,Egalitarianism,02-01,cFQ
 ,Ethnic Pluralism,02-01,cFQ
 ,Experimentalism,02-01,cFQ
@@ -323,8 +320,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Plural Spirit,02-01,cFQ
 ,Pluralism,02-01,cFQ
 ,Pragmatic,02-01,cFQ
-,private clubs,02-01,nishio
-,private clubs,02-01,nishio
+,Private Club,02-01,nishio
 ,Qing,02-01,cFQ
 ,Rainbow Flags,02-01,cFQ
 ,Resolution 2758,02-01,cFQ
@@ -355,7 +351,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Three Principles of the People,02-01,cFQ
 ,Toyota Production System (TPS),02-01,nishio
 ,Tridemism,02-01,cFQ
-,Union of Japanese Scientists and Engineers(JUSE),02-01,nishio
+,Union of Japanese Scientists and Engineers (JUSE),02-01,nishio
 ,Wei Ting-chao,02-01,cFQ
 ,White Terror,02-01,cFQ
 ,Withdrew,02-01,cFQ
@@ -383,7 +379,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Data Transparency,02-02,cFQ
 ,Democratic Input to AI project,02-02,cFQ
 ,Digital Civic Engagement,02-02,cFQ
-,Digital competence education,02-02,cFQ
+,Digital Competence Education,02-02,cFQ
 ,Economist Intelligence Unit,02-02,cFQ
 ,Emmanuel Saez,02-02,cFQ
 ,Fact Checkers,02-02,cFQ
@@ -433,7 +429,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Thomas Piketty,02-02,cFQ
 ,V-Dem,02-02,cFQ
 ,vTaiwan,02-02,cFQ
-,wikisurvey,02-02,cFQ
+,Wikisurvey,02-02,cFQ
 ,World Health Organization (WHO),02-02,cFQ
 ,Zero Trust,02-02,cFQ
 ,⿻,03-00,cFQ
@@ -476,7 +472,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Alonzo Church,03-01,cFQ
 ,Andrew Huxley,03-01,cFQ
 ,Artificial Intelligence (AI),03-01,cFQ
-,Artificial Neural Networks,03-01,cFQ
+,Artificial Neural Network,03-01,cFQ
 ,BERT,03-01,cFQ
 ,Bidirectional Equilibrium,03-01,cFQ
 ,Camillo Golgi,03-01,cFQ
@@ -536,7 +532,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Natural Selection,03-01,cFQ
 ,Network Of Processes,03-01,cFQ
 ,Network Sociology,03-01,cFQ
-,Neural Networks,03-01,cFQ
+,Neural Network,03-01,cFQ
 ,Neurons,03-01,cFQ
 ,Neuroscience,03-01,cFQ
 ,Neuroscience,03-01,cFQ
@@ -621,7 +617,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Man-Computer Symbiosis,03-03,nishio
 ,modernity,03-03,nishio
 ,Monist,03-03,nishio
-,Nation state,03-03,nishio
+,Nation State,03-03,nishio
 ,One-Person-One-Vote,03-03,nishio
 ,Online Deliberation,03-03,nishio
 ,Open Source Software (OSS),03-03,nishio
@@ -662,9 +658,9 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Linux,04-00,tsuzumik
 ,Metaverses,04-00,tsuzumik
 ,National Socialist German Workers party,04-00,tsuzumik
-,Negative freedom of speech,04-00,tsuzumik
-,Operating systems,04-00,tsuzumik
-,Positive freedom of speech,04-00,tsuzumik
+,Negative Freedom of Speech,04-00,tsuzumik
+,Operating Systems,04-00,tsuzumik
+,Positive Freedom of Speech,04-00,tsuzumik
 ,Rights of free speech,04-00,tsuzumik
 ,Security protocols,04-00,tsuzumik
 ,Systems of rights,04-00,tsuzumik
@@ -849,7 +845,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Common Knowledge,04-02,gnomevan
 ,Computer as Communication Device,04-02,tsuzumik
 ,Confidential Computing,04-02,gnomevan
-,Context for the association,04-02,tsuzumik
+,Context,04-02,tsuzumik
 ,Contextual confidence,04-02,tsuzumik
 ,Cryptographic Standards,04-02,gnomevan
 ,"De Tocqueville, Alexis",04-02,gnomevan
@@ -857,8 +853,8 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Democracy in America,04-02,tsuzumik
 ,Designated Verifier Proofs (DVP),04-02,gnomevan
 ,Differential Privacy,04-02,gnomevan
-,Digital freedom of association,04-02,tsuzumik
-,Digital rights,04-02,tsuzumik
+,Digital Freedom of Association,04-02,tsuzumik
+,Digital Rights,04-02,tsuzumik
 ,Distributed Ledger Technology (DLT),04-02,gnomevan
 ,External surveillance,04-02,tsuzumik
 ,Federated Learning,04-02,tsuzumik
@@ -881,7 +877,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Privacy-enhancing technologies (PETs),04-02,tsuzumik
 ,Project Liberty,04-02,gnomevan
 ,Public Key Cryptography,04-02,gnomevan
-,Quantum computers,04-02,tsuzumik
+,Quantum Computer,04-02,tsuzumik
 ,region,04-02,nishio
 ,rhizomatic association,04-02,nishio
 ,Robert Putnam,04-02,tsuzumik
@@ -1020,7 +1016,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Diia,04-05,cFQ
 ,Distributed Denial Of Service (DDoS),04-05,cFQ
 ,Estonia,04-05,cFQ
-,Freedom Of Expression,04-05,cFQ
+,Freedom of Expression,04-05,cFQ
 ,Generative AI,04-05,cFQ
 ,Global Declaration on Information Integrity Online,04-05,gnomevan
 ,Inequality In Access,04-05,cFQ
@@ -1102,7 +1098,6 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Massive Multi-user Online Laboratories (MMOLs),05-02,gnomevan
 ,Mediated Reality,05-02,nishio
 ,Mixed Reality,05-02,nishio
-,MMOLs,05-02,nishio
 ,Monopolization,05-02,nishio
 ,Olfactory Technology,05-02,nishio
 ,Online Gaming,05-02,nishio
@@ -1171,7 +1166,6 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,GitLab,05-03,cFQ
 ,Google DeepMind,05-03,cFQ
 ,Herculaneum,05-03,cFQ
-,Herculaneum scrolls,05-03,cFQ
 ,Holly Herndon,05-03,cFQ
 ,Holly Herndon,05-03,cFQ
 ,Homerian epics,05-03,cFQ
@@ -1317,7 +1311,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,User Experience,05-04,cFQ
 ,User Perspective,05-04,cFQ
 ,vTaiwan,05-04,cFQ
-,Wikisurveys,05-04,cFQ
+,Wikisurvey,05-04,cFQ
 ,Women Talking,05-04,cFQ
 ,Women Talking,05-04,cFQ
 ,Words Cannot Capture,05-04,cFQ
@@ -1355,7 +1349,6 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Digital Technology,05-05,cFQ
 ,Distributed Autonomous Organizations (DAOs),05-05,cFQ
 ,Distributed Ledgers,05-05,cFQ
-,Distributed Network of Signals,05-05,cFQ
 ,Diverse Legal System,05-05,cFQ
 ,Diversification,05-05,cFQ
 ,DoNotPay,05-05,cFQ
@@ -1477,7 +1470,6 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Lesser of Two Evils,05-06,cFQ
 ,Lionel Penrose,05-06,cFQ
 ,Liquid Democracy,05-06,cFQ
-,One-Share-One-Vot,05-06,cFQ
 ,PageRank,05-06,cFQ
 ,Power Concentration,05-06,cFQ
 ,Prediction Markets,05-06,cFQ
@@ -1716,7 +1708,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Collective Intelligence,06-01,cFQ
 ,Common Corporate Infrastructure,06-01,cFQ
 ,Contribution,06-01,cFQ
-,Corporate Campuse,06-01,cFQ
+,Corporate Campus,06-01,cFQ
 ,Cross-cutting Benefit,06-01,cFQ
 ,Cross-pollination Service,06-01,cFQ
 ,Digital Nomads,06-01,cFQ
@@ -1751,7 +1743,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Natural Leadership,06-01,cFQ
 ,Office of Chief Technology Officer,06-01,cFQ
 ,Office Politic,06-01,cFQ
-,on the ground,06-01,cFQ
+,On the ground,06-01,cFQ
 ,Open Conversation,06-01,cFQ
 ,OpenAI,06-01,cFQ
 ,Physical Work,06-01,cFQ
@@ -1792,7 +1784,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,AIDS,06-02,cFQ
 ,Antiretroviral Therapy,06-02,cFQ
 ,Australia,06-02,cFQ
-,Biomedical engineering,06-02,cFQ
+,Biomedical Engineering,06-02,cFQ
 ,Blended-finance Agreement,06-02,cFQ
 ,Canada,06-02,cFQ
 ,Carbon Credit,06-02,cFQ
@@ -1815,12 +1807,11 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Global Fund,06-02,cFQ
 ,GitRules,06-02,cFQ
 ,HackMD,06-02,cFQ
-,Hanson,06-02,cFQ
 ,Health Financing,06-02,cFQ
 ,Health Insurance,06-02,cFQ
 ,Health Savings Account,06-02,cFQ
 ,Health Savings Plan,06-02,cFQ
-,healthy minds in healthy bodies,06-02,cFQ
+,Healthy minds in healthy bodies,06-02,cFQ
 ,HIV,06-02,cFQ
 ,Impact,06-02,cFQ
 ,Implementer,06-02,cFQ
@@ -1878,7 +1869,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Citizen co-journalism,06-03,cFQ
 ,Citizen Journalism,06-03,cFQ
 ,Collaborative Journalism,06-03,cFQ
-,Common Carriers of Public Discussion,06-03,cFQ
+,Common Carriers,06-03,cFQ
 ,Common Content,06-03,cFQ
 ,Compelling Narrative,06-03,cFQ
 ,Courtney Cogburn,06-03,cFQ
@@ -1997,7 +1988,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Apple,07-00,cFQ
 ,ARPA,07-00,cFQ
 ,ARPANET,07-00,cFQ
-,attention exchange tax,07-00,gnomevan
+,Attention Exchange Tax,07-00,gnomevan
 ,Back-propagated,07-00,cFQ
 ,Basic Research,07-00,cFQ
 ,Bolt Beranek and Newman,07-00,cFQ
@@ -2072,7 +2063,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,International Rules-based Order,07-00,cFQ
 ,J.C.R. Licklider,07-00,cFQ
 ,John Dewey,07-00,cFQ
-,Jurisdictional alignment (JA),07-00,cFQ
+,Jurisdictional Alignment (JA),07-00,cFQ
 ,Meta,07-00,cFQ
 ,Microsoft,07-00,cFQ
 ,Miraikan,07-00,gnomevan
@@ -2084,7 +2075,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Non-fungible Token,07-00,cFQ
 ,Non-profit ⿻ Infrastructure,07-00,cFQ
 ,OECD,07-00,cFQ
-,One-share-one-vote,07-00,cFQ
+,One-Share-One-Vote,07-00,cFQ
 ,Open And Decentralized Marketplace,07-00,cFQ
 ,Open Collective Foundation,07-00,cFQ
 ,Open Protocols,07-00,cFQ
@@ -2139,7 +2130,6 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Yushan,07-00,cFQ
 ,⿻ Movement’s Insight,07-01,cFQ
 ,⿻ Technologies,07-01,cFQ
-,AI,07-01,cFQ
 ,Atomistic Agents,07-01,cFQ
 ,Augmented Reality,07-01,cFQ
 ,Balaji Srinavasan,07-01,cFQ
@@ -2148,7 +2138,6 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Cynthia Wade,07-01,cFQ
 ,Digital Democracy,07-01,cFQ
 ,Directions More Than Velocity,07-01,cFQ
-,Echo Chambers,07-01,cFQ
 ,Edge of Chaos,07-01,cFQ
 ,Fabric Of Relationships,07-01,cFQ
 ,GFMs,07-01,cFQ
