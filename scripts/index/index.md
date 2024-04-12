@@ -98,6 +98,7 @@ American Democracy	113, 127
 American Legislative Capitol	49
 American Revolution	415
 Analysis Paralysis	351
+Andreesen, Marc	514
 Android	155, 168
 Anonymity	182, 209, 333
 Anthropic	177, 356, 405, 498
@@ -205,7 +206,7 @@ By An Invisible Hand	397
 
 # C
 ```
-Camillo Golgi	104
+Cameron, Kim	196
 Campus Athletics	434
 Canada	21, 410, 458, 478
 Cancel Culture	16
@@ -635,6 +636,7 @@ Fact-checking	74, 347
 Fairness	127, 366, 470
 Faith in Democratic Institutions	43
 False Consensus	471
+Farritor, Luke 	335
 Fascism	32
 Fast, Fun and Fair	74
 Feature Phone	365
@@ -692,6 +694,7 @@ Futarchy	389
 Future Collaborator	343
 ```
 
+
 # G
 ```
 g0v	64, 71, 457, 495
@@ -742,6 +745,7 @@ Gogolook	74
 Gold Card	75, 431
 Gold Standard	201
 Golden Age	8, 38, 45
+Golgi, Camillo	104
 Good Old-fashioned AI (GOFAI)	370
 Google	394, 443, 490, 494, 506
 Google DeepMind	340
@@ -751,6 +755,7 @@ Governments	481, 493, 500, 508
 GovTech	159
 GPT	19, 49, 105, 418
 Graeber, David	117, 244, 261, 415
+Granovetter, Mark	105
 Graphical user interface	137, 168
 Graphics Processing Units (GPUs)	260
 Grassroots Initiatives	488
@@ -926,9 +931,9 @@ IVR Junction	365
 ```
 J. D. Vance	36
 Japanese Occupation	52
-Jaron Lanier	203
 Jennifer Prah Ruger	447
 Jeremy Corbyn	16
+Jefferson, Thomas	4
 Jetsons	26
 John Kenneth Galbraith	216, 400
 Joint Learning	433
@@ -958,12 +963,11 @@ Kevin Scott	442
 Khan Academy	338
 Kickstarter	338
 Kidd, David	374
-Kim Cameron	196
 Kim Stanley Robinson	362
 Knappschaften	451
 Know Your Customer	189
 knowledge is power	280
-Kojin Karatani	212, 248, 298, 387
+Karatani Kojin	212, 248, 298, 387
 Kuomintang	50
 ```
 
@@ -974,8 +978,8 @@ Labor Automation	40
 Labor Law	23, 501, 507
 Labor Markets	6, 396, 401, 410
 Labor Unions	60, 211, 400
-Lana Swartz	240
 Land to the Tiller	56
+Lanier, Jaron 	203
 Large Language Model (LLM)	70, 341, 362, 365, 440
 Latour, Bruno	362
 Laurie Anderson	340
@@ -1012,7 +1016,6 @@ Limited Cultural Groups	411
 Linkage	183
 LinkedIn	187, 206, 418
 Linux	155, 167, 498
-Lionel Penrose	385
 Liquid Democracy	361, 387
 Little Platoons	477, 480
 Liu Cixin	101
@@ -1029,8 +1032,6 @@ Lord Kelvin	100
 Los Alamos	336
 Low-skilled Workers	40
 Lucan Way	414
-Luke Farritor	335
-Luke Thorburn	355
 ```
 
 # M
@@ -1048,10 +1049,7 @@ Mandarin	2, 50, 65, 92
 Mandelbrot set	99
 Manipulation	316
 Mao Zedong	55
-Marc Andreesen	514
 Marginal Revolution	398
-Mark Granovetter	105
-Mark Zuckerberg	358
 Market	392
 Market Design	275, 406
 Market Power	11, 39, 398, 405
@@ -1308,17 +1306,18 @@ PayPal	151, 240
 PDCA (Plan-Do-Check-Act) cycle	57
 Peer Production	153
 Peng Ming-min	58
+Penrose, Lionel	385
 People's Republic of China (PRC)	483
 Peripheral	27, 35
 Personal Computing	258, 484, 491
 Personal Identities	91
-Peter Thiel	36, 240, 514
 Phishing Attack	224, 462
 Phone	180, 188, 193, 197, 206
 Physical Government-issued IDs	187
 Physical Work	431
 Physics	94, 100
 Pigouvian Taxes	402, 505
+Piketty, Thomas	79
 Pixar's headquarters	435
 Place of Convergence	48
 Plural	1
@@ -1668,6 +1667,7 @@ Synchronous Meeting	438
 Synthetic instrument	339
 Synthetic Technocracy	33
 Systems of rights	170
+Swartz, Lana	240
 ```
 
 # T
@@ -1731,11 +1731,11 @@ The Uncertainty Principle	96, 99
 The World Cafe	350
 Theocracy	32
 Theory of Change	414
+Thiel, Peter	36, 240, 514
 Thin Shell	411
 Thin Signals	187, 299
 Third Sector	58, 401, 519
-Jefferson, Thomas	4
-Thomas Piketty	79
+Thorburn, Luke	355
 Three Principles of the People	53
 Tim Berners-Lee	141, 146, 237
 time sharing	136
@@ -1912,6 +1912,7 @@ Zero-Knowledge Proofs(ZKPs)	468
 Zetlin, Ariana	374
 Zheng Chenggong	51
 Zoning Restrictions	402
+Zuckerberg, Mark	358
 Zucman, Gabriel	39, 79
 ```
 
