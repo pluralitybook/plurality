@@ -81,15 +81,13 @@ AI researcher	377
 AI4Bharat	365
 AIDS	447, 453, 459
 Air pollution	476, 488
-Alan Hodgkin	104
-Albert Hirschman	395
 Algorithmic Ranking System	354
 Alien Art	340
 Alien Intelligence	26, 340
 Alignment assemblies	74, 493
 All Our Ideas	356, 438
 All-seeing	189
-Alonzo Church	98
+Allen, Danielle	88, 165, 374, 410
 Alphabet	187, 443
 AlphaGo	340
 AlphaGo Zero	340
@@ -99,9 +97,7 @@ American Democracy	113, 127
 American Legislative Capitol	49
 American Revolution	415
 Analysis Paralysis	351
-Andrew Huxley	104
 Android	155, 168
-Anne-Marie Slaughter	173, 496
 Anonymity	182, 209, 333
 Anthropic	177, 356, 405, 498
 Anthropocene	476
@@ -165,9 +161,11 @@ Ayn Rand	35
 Back-propagated	502
 Background Signals	386
 Badges	374, 406
-Balaji Srinavasan	36, 514
+Bellamy, Edward	235
 Bank Accounts	189, 235
 Banks	234, 240, 245
+Banks, Ian	26
+Barlow, John Perry	37
 Basic Research	481
 BBN	135, 138, 143, 146
 Benefits Data Trust	371
@@ -178,7 +176,7 @@ Bible	119, 336
 Bill Gates	61
 Biodiversity	9, 104, 475, 479
 Biodiversity Loss	9, 475, 479
-Biomedical engineering	460
+Biomedical Engineering	460
 Biometrics	192, 195, 480
 Bioweapons	9, 23
 Birth certificates	115, 185
@@ -192,15 +190,14 @@ Blockchain-centric Identity Systems	197
 Bluesky	159, 219
 Bolt Beranek and Newman	491
 Bottom-up	387
+Boyd, Danah	199, 219, 224
 Bowling Alone	229
 Brain interface	302, 466
 Brain-Computer Interfaces	312
 Braver Angels	358
-Brent Seales	334
 Bricolage	305
 Bridging the Crowd	347
 Broadcast	66, 275, 350
-Bruno Latour	362
 Brussels Effect	483
 Buddhism	81
 Bureaucracies	368, 401
@@ -216,8 +213,6 @@ Canada	21, 410, 458, 478
 Cancel Culture	16
 Capitalism	3, 8, 16, 20, 32, 35, 41, 394, 408
 Carbon Credit	456
-Carlo Rovelli	95, 102
-Casey Handmer	334
 Cash	233, 241
 Cathy O’Neil	10, 16
 Cellphone Addiction	80
@@ -230,6 +225,7 @@ Centralizing	6, 9, 97, 192
 Centralizing Structure	192
 Certificates Of Enrollment	185
 Chains Of Introductions	206
+Chang, Simon	65
 Chaos	97, 104
 Chaos and Top-down order	514
 Chaotic Effects	99
@@ -242,6 +238,7 @@ Cheques	235
 Chiang Ching-Kuo	60
 Chiang Kai-shek	55
 Chinese Communist Party (CCP)	55, 485
+Church, Alonzo	98
 Church-Turing	96
 Circular investment	407, 505
 Citizen co-journalism	466
@@ -390,7 +387,6 @@ Cultural Norm	375
 Cultural Practice	262, 317, 375, 518
 Currency	234, 240, 244, 248
 Curriculum Vitae (CV)	367
-Curtis Yarvin	36
 Customers	96, 102, 111
 Cybernetic Society	129
 Cybernetics	113, 129, 133
@@ -399,8 +395,6 @@ Cynthia Wade	516
 
 # D
 ```
-Danah Boyd	199, 219, 224
-Danielle Allen	88, 165, 374, 410
 DAO	191, 369, 387, 405, 501
 Dao	281
 Daoism	50
@@ -418,9 +412,7 @@ Data Governance Act	16, 265
 Data Sharing	259, 264
 Data Transparency	65, 75
 Data-driven Actors	478
-Dave Egger	224, 344
-David Graeber	117, 244, 261, 415
-David Kidd	374
+Davidson, James Dale	36
 De Tocqueville, Alexis	6, 210
 Decentralization Of Cryptocurrencies	248
 Decentralized Identifiers (DID)	197
@@ -443,6 +435,7 @@ DeepMind	34, 340
 Deforestation	327, 475
 Degressive Proportionality	117, 386
 Deliberation	288, 298, 302, 347, 470
+Deming, Edward	57
 Democracy	1, 88, 280, 380, 486, 499, 506
 Democracy in America	6, 210
 Democratic Advocates	59
@@ -455,6 +448,7 @@ Democratic Republican Government	415
 Demonization	471
 Descriptive	90
 Designated Verifier Proofs (DVP)	226
+Dewey, John	54, 58, 91, 112, 126, 399, 499
 Deweyian pragmatism	58
 Difference	88
 Differential Privacy	222, 271
@@ -572,11 +566,9 @@ Ecosystems	97, 102
 Edge of Chaos	97, 173, 514
 Edmund Burke	477
 Educational Psychology	374, 417
-Edward Bellamy	235
-Edward Deming	57
-Snowden, Edward	223
 edX	338
 Egalitarianism	58, 449
+Egger, Dave	224, 344
 Eigenvalues	388
 Eigenvoting	388
 Einstein's Theories Of Relativity	101
@@ -585,7 +577,6 @@ Electromagnetic Frequency	275
 Electromagnetic Spectrum	75, 256, 275
 Electronic Commerce	182, 245
 Elite Universities	372
-Elon Musk	19, 34, 219, 241
 Emergence	96, 103, 107, 110
 Emergent Publics	126, 129, 409
 Eminent Domain	401
@@ -706,7 +697,6 @@ Future Collaborator	343
 # G
 ```
 g0v	64, 71, 457, 495
-Gabriel Zucman	39, 79
 Gaia-X	178, 265, 491
 Gamification	460
 Ganga River	478
@@ -723,7 +713,7 @@ Generative Foundation Models (GFMs)	187, 255, 259, 337, 367, 370, 455, 467, 484,
 Generative Pretrained Transformer	19
 Geographical Information System	373
 Geopolitics	3, 76, 252, 513
-Georg Simmel	112, 123
+George, Henry	54, 75, 91, 112, 119, 403, 407
 Georgist land value tax	56
 Germany	165, 371, 473
 GFM-driven Process	344
@@ -761,6 +751,7 @@ Government-issued Identities	187
 Governments	481, 493, 500, 508
 GovTech	159
 GPT	19, 49, 105, 418
+Graeber, David	117, 244, 261, 415
 Graphical user interface	137, 168
 Graphics Processing Units (GPUs)	260
 Grassroots Initiatives	488
@@ -781,23 +772,22 @@ Hackathon	65, 71, 477
 Hackathons	65, 71, 209, 517
 HackMD	154
 Hakka	50, 56, 62
+Handmer, Casey	334
 Hannah Arendt	88, 199, 415
 Hans Christian Andersen	214
 Hanson	389, 452
 Haptic Feedback	312, 324
 Hard Journalism	472
+Hawley, Josh	16
 Health	413, 417, 427
 Health Financing	455
 Health Insurance	449, 456
 Health Savings Account	450
 Health Savings Plan	450
-healthy minds in healthy bodies	452
+Healthy minds in healthy bodies	452
 Heisenberg’s Uncertainty Principle	101
-Helen Nissenbaum	207
-Henry George	54, 75, 91, 112, 119, 403, 407
 Henry George Theorem	120, 407
 Her (film)	26
-Simon, Herbert	218, 352
 Herculaneum	334, 339
 Herculean Task	202
 Heritage Foundation	78
@@ -806,9 +796,11 @@ High Modernism	95, 117
 High-Bandwidth Communication	317
 Higher-fidelity Signals	381
 HiredScore	372
+Hirschman, Albert	395
 Hiring Manager	368, 372, 440
 Hit Rates	440
 HIV	446, 452
+Hodgkin, Alan	104
 Hokkien	50
 Holdout Issues	277
 Hollowing-out	7
@@ -833,6 +825,7 @@ Humanocracy	405
 Humor over Rumor	74
 Hunter-gatherer Model	413
 Hutchins Commission on Freedom of the Press	469
+Huxley, Andrew	104
 Hybrid Reality Environments	320, 324
 Hybrid Work Style	431
 Hypertext	137, 146, 154
@@ -841,7 +834,6 @@ Hypertext Transfer Protocol Secure (HTTPS)	269
 
 # I
 ```
-Ian Banks	26
 IBM	150, 258, 479, 490
 Iceland	161, 387
 ID2020	373
@@ -934,30 +926,21 @@ IVR Junction	365
 # J
 ```
 J. D. Vance	36
-J.C.R. Licklider	132, 137, 385, 484
-Jack Ma	34
-Jaclyn Tsai	49, 67
-Jacob Rees-Mogg	36
-James Dale Davidson	36
 Japanese Occupation	52
 Jaron Lanier	203
 Jennifer Prah Ruger	447
 Jeremy Corbyn	16
 Jetsons	26
-John Dewey	54, 58, 91, 112, 126, 399, 499
 John Kenneth Galbraith	216, 400
-John Perry Barlow	37
 Joint Learning	433
 Joseph Gordon-Levitt	346
 Joseph Licklider	211
-Joseph Stiglitz	407
-Josh Hawley	16
 Jothons	65
 Journalism	464, 472
 Journey of Humanity	292
 Juan Benet	262
 Julian Schilliger	335
-Jurisdictional alignment (JA)	505
+Jurisdictional Alignment (JA)	505
 Jurisdictional Boundaries	260, 396
 ```
 
@@ -975,6 +958,7 @@ Kenneth Arrow	382, 449
 Kevin Scott	442
 Khan Academy	338
 Kickstarter	338
+Kidd, David	374
 Kim Cameron	196
 Kim Stanley Robinson	362
 Knappschaften	451
@@ -994,6 +978,7 @@ Labor Unions	60, 211, 400
 Lana Swartz	240
 Land to the Tiller	56
 Large Language Model (LLM)	70, 341, 362, 365, 440
+Latour, Bruno	362
 Laurie Anderson	340
 Laws of Identity	196
 Lean manufacturing	57
@@ -1011,6 +996,7 @@ Legitimation	23
 Lego	406
 Lesser of Two Evils	381
 Levels of Assurance	183
+Levitsky, Steven	7, 165, 414
 Lex Fridman	358
 Liberal Democracy	87
 Liberal Democratic Polities	207
@@ -1020,6 +1006,7 @@ Libertarian Ideology	42
 Libertarian Vision	110
 Libertarianism	33, 40, 89
 Libertarians	175, 241, 369, 512
+Licklider, J. C. R.	132, 137, 385, 484
 Life Expectancy	446, 463
 Life-support System	475
 Limited Cultural Groups	411
@@ -1049,7 +1036,7 @@ Luke Thorburn	355
 
 # M
 ```
-M. Mitchell Waldrop	97, 133
+Ma, Jack	34
 Machine Learning	5, 370
 Machine Translation Tool	359
 Macro Badges	374
@@ -1144,6 +1131,7 @@ Multiple Accounts	184, 197
 Multiple Perspective	339
 Multipolarity	299
 Multiscale Organization	103
+Musk, Elon	19, 34, 219, 241
 Mutualism	103
 Mycorrhizal Fungi	284
 MyGoPen	74
@@ -1208,7 +1196,7 @@ New ⿻ Order	492, 519
 News feed algorithm	341, 347
 Newtonian Mechanics	96, 118, 129
 Nicholas Bostrom	26, 34
-Nissenbaum	207, 212
+Nissenbaum, Helen	207
 Nixon's visit to PRC	59
 Noah Smith	35
 Nobody Movement	65
@@ -1462,6 +1450,7 @@ Reddit	191, 273
 Redistribution	399, 402, 449, 456
 Reductionism	98
 Redundancy	139, 200, 263
+Rees-Mogg, Jacob	36
 Regenerating Diversity	290, 296, 304, 520
 Region	212
 Regression Discontinuity Design	462
@@ -1508,6 +1497,7 @@ Roblox	406
 ROC	50
 Ropes Course	433
 Rough Consensus	356, 360, 364, 470
+Rovelli, Carlo	95, 102
 Rule Of Law	394
 Run-off	382
 Rural Land Reform	56
@@ -1529,12 +1519,12 @@ Science And Technology Studies	27
 Science Fiction	25, 34, 89, 518
 Science of Science	107
 Scientific Management	95
+Seales, Brent	334
 Search Engines	10, 21, 276, 377
 Seasteads	35, 376
 Sebastian Kurz	36
 Secret Information	184
-Secure Multi-Party Computation (SMPC)	221
-Secure multiparty computation (SMPC)	270
+Secure Multi-Party Computation (SMPC)	221, 270
 Securities Laws	23
 Security	183, 194, 201, 205
 Security protocols	168
@@ -1555,8 +1545,9 @@ Signal	221
 Signatures	222, 271, 469
 Silent Majority	471
 Silicon Valley	489
-Simon Chang	65
-Simon Johnson	27, 383
+Simmel, Georg	112, 123
+Simon, Herbert	218, 352
+Johnson, Simon	27, 383
 Simulated Military Exercise	433
 Single Point Of Failure	196, 201
 Single Sign-on (SSO)	188
@@ -1566,6 +1557,7 @@ Singular Technical Vision	513
 Sino-Japanese war	52
 Siraya	50
 Slack	337, 438, 472
+Slaughter, Anne-Marie	173, 496
 Smaller World	465
 Smallpox	446
 Smart City	22
@@ -1573,6 +1565,7 @@ Smart Contract	158, 238, 267, 369
 Smart Contracts	267, 369
 SnapChat	225
 Snow Crash	25, 35, 331
+Snowden, Edward	223
 Social And Behavioral Psychology	106
 Social Collapse	5
 Social Connectedness	88
@@ -1632,6 +1625,7 @@ Spectrum Sharing	277
 Spirit of Simmel	200
 Square Root	386, 404, 423
 Square-root Voting	386
+Srinavasan, Balaji	36, 514
 SSN	185, 319, 353
 Stagnant Democratic Stories	92
 Stakeholder Corporation	405
@@ -1646,7 +1640,7 @@ State of Wyoming	501
 Statistical Process Control (SPC)	57
 Steam	191
 Jobs, Steve	138, 143, 435
-Steven Levitsky	7, 165, 414
+Stiglitz, Joseph	407
 StoryCorps	358
 String Theory	101
 Su Tseng-chang	74
@@ -1772,6 +1766,7 @@ True democracy	128
 Trust Falls	433
 Trust Over IP Foundation	202, 250
 Trusted Network	285
+Tsai, Jaclyn	49, 67
 Tuberculosis	453
 Turing	372
 Twitter	473
@@ -1842,6 +1837,7 @@ Vulcans	89
 # W
 ```
 Wage System	396
+Waldrop, M. Mitchell	97, 133
 War of Independence	415
 Water Management	479
 Watermarking	271
@@ -1901,6 +1897,7 @@ Xerox PARC	138, 143, 491
 # Y
 ```
 Yamuna River	478
+Yarvin, Curtis	36
 Yasmin Eyalat	466
 Year of AI	49, 365
 Year of Elections	49
@@ -1916,6 +1913,7 @@ Zero Trust	75
 Zero-Knowledge Proofs(ZKPs)	468
 Zheng Chenggong	51
 Zoning Restrictions	402
+Zucman, Gabriel	39, 79
 ```
 
 # Number
