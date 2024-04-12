@@ -174,6 +174,7 @@ BBN	135, 138, 145
 Bellamy, Edward	234
 Benefits Data Trust	369
 Benet, Juan	260
+Berners-Lee, Tim	141, 145, 236
 BERT	105
 Bertelsmann Foundation	82
 Bhagavad Gita	334
@@ -454,7 +455,6 @@ Difference	88
 Differential Privacy	221, 269
 Differing Degrees	32, 122, 356, 380
 Diffusion of Information	352
-Digital	1
 Digital Access	280
 Digital Agency	491
 Digital Archaeology	333
@@ -948,6 +948,7 @@ Lanier, Jaron	202
 Large Language Model (LLM)	70, 339, 360, 438
 Latour, Bruno	360
 Laws of Identity	195
+Le Guin, Ursula	26
 Lean manufacturing	57
 Lean Startup	58
 Lee Teng-hui	60
@@ -1089,6 +1090,7 @@ Mycorrhizal Fungi	282
 MyGoPen	74
 Mínshēng	54
 Nadella, Satya	363, 440
+Nader, Youssef	332
 Name spaces on the Internet	273
 Narrow Corridor	5, 97, 512
 Narrow Educational and Career Path	370
@@ -1280,6 +1282,7 @@ Polypolitan Migration Policy	408
 Pompeii	332
 Populist Movement	398
 Portals Policing Project	324, 356
+Porter, Winslow	464
 Positive Freedom of Speech	165
 Post-capitalist World	26
 Post-colonial Futurism	26
@@ -1639,7 +1642,6 @@ Thin Signals	186, 297
 Third Sector	58, 399, 517
 Thorburn, Luke	353
 Three Principles of the People	53
-Tim Berners-Lee	141, 145, 236
 time sharing	136
 Time Travel	341
 Time-sharing	256, 262, 415
@@ -1692,7 +1694,6 @@ Universal Coded Character (unicode)	91
 Universal Declaration of Human Rights	163, 166, 279
 Unorthodox Thinking	437
 Untapped	370
-Ursula Le Guin	26
 User Engagement	13, 345
 User Experience	64, 191, 353, 495
 User Perspective	353
@@ -1765,7 +1766,6 @@ Wikisurvey	68, 354
 Will Of The Group	380
 will.i.am	344
 Windows	143, 166, 196
-Winslow Porter	464
 Wisdom of the Crowd	455
 Withdrew	59
 Women Talking	347
@@ -1792,7 +1792,6 @@ Year of AI	49, 363
 Year of Elections	49
 Yglesias, Matthew	35
 Young, Kaliya	189, 249
-Youssef Nader	332
 Yu Yong-Ding	34
 Yuans	54
 Yushan	47, 484
