@@ -7,13 +7,13 @@ Due to unfortunate [miscommunication](https://discord.com/channels/1133444567031
 
 However, this is an opportunity. I have designed the system with the assumption that the manuscript will be updated in future editions, potentially changing the pagination. Let's see if it works as intended. (T1, T2)
 
-As insights from Phase 2 design, initially, I thought that there might be differences between the strings appearing in the text and those that should be included in the index, so I was creating one-to-one data. However, this turned out to be a one-to-many correspondence, requiring manual merging.
+As insights from Phase 2 design, initially, I thought that there might be differences between the strings appearing in the text and those that should be included in the index, so I was creating one-to-one data. However, this turned out to be a one-to-many correspondence, requiring manual merging. (T3, T4)
 
 ### memo
 - T1: First, I cleaned up the files for old phases.
 - T2: Comment out "claude information" code
 - T3: Update start page, end page, section start pages in `main.py`. Run. Check the output in `keyword_occurrence.tsv` is correct (for example search "Abolitionist" in PDF and see the page numbers are correct). This is the base-line minimum quality list, and the rest is improvement work.
-
+- T4: The CSV, created to accommodate cases where occurrences in the text differ from their representation in the index, was converted into JSON `inindex_intext_mapping.json` to transform multiple text representations into a single representation within the index.
 
 
 
