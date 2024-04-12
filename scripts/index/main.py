@@ -7,7 +7,6 @@ import re
 from collections import defaultdict
 import json
 import csv
-from view import view_mapping, view_reverse_mapping
 
 PLURALITY = "\u2ffb"
 
@@ -69,6 +68,13 @@ def remove_palen(s):
     return k.split("(")[0].strip()
 
 
+def remove_quotation(s):
+    s = s.replace('"', "")  # remove quotation
+    s = s.replace("\u201c", "")  # remove quotation
+    s = s.replace("\u201d", "")  # remove quotation
+    return s
+
+
 CSV_FILE = "Plurality Book Indexing Exercise - Candidates.csv"
 # This will get the absolute path of the current script file.
 script_directory = os.path.dirname(os.path.abspath(__file__))
@@ -93,17 +99,27 @@ for _p in _pages:
     pages[p] = _pages[_p]
     pages_lower[p] = _pages[_p].lower()
 
-
+# load human-picked keywords and its position
 lines = open(os.path.join(script_directory, CSV_FILE)).readlines()[1:]
 keywords = set()
 keyword_recorded_by_human = defaultdict(set)
 for row in csv.reader(lines):
     k = row[1]
-    k = k.replace('"', "")  # remove quotation
-    if k in view_reverse_mapping:
-        k = view_reverse_mapping[k]
+    k = remove_quotation(k)
     keywords.add(k)
     keyword_recorded_by_human[k].add(normalize_section_name(row[2]))
+
+
+# load in-index(one) to in-text(many) mapping
+index_text_mapping = json.load(
+    open(os.path.join(script_directory, "inindex_intext_mapping.json"))
+)
+reverse_index_text_mapping = {}
+for k, vs in index_text_mapping.items():
+    for v in vs:
+        reverse_index_text_mapping[v] = k
+
+keywords.union(reverse_index_text_mapping)
 
 
 def filter_pages(pages):
@@ -169,6 +185,7 @@ with open(os.path.join(script_directory, "section_to_no_occurence.txt"), "w") as
             print(f"- {k}", file=f)
         print(file=f)
 
+# keyword_occurrence.tsv is now a debug output
 too_many_occurrence = []
 with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
     print(f"Keywords\tPages", file=f)
@@ -181,16 +198,39 @@ with open(os.path.join(script_directory, "keyword_occurrence.tsv"), "w") as f:
                 occ.append(p)
             prev = p
         occ_str = ", ".join(str(p) for p in occ)
-        if k in view_mapping:
-            k = view_mapping[k]
-        k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
 
         print(f"{k}\t{occ_str}", file=f)
 
         if len(occ) >= 5:
             human = ", ".join(sorted(keyword_recorded_by_human[k]))
-            k = k.replace('"', "")  # care mulformed TSV such as `Diversity of "groups"`
             too_many_occurrence.append((len(keyword_occurence[k]), k, human, occ_str))
+
+# in-index representation
+index_items = defaultdict(set)
+for k in keyword_occurence:
+    occ = keyword_occurence[k]
+    if k in reverse_index_text_mapping:
+        k = reverse_index_text_mapping[k]
+    # merge multiple in-text expression into one in-index expression
+    if (
+        k[0] == PLURALITY
+    ):  # hacky sort-order control. This spaces will be trimmed when output
+        k = " " + k
+    elif k == "數位":
+        k = "  " + k
+    index_items[k].update(occ)
+
+with open(os.path.join(script_directory, "index.txt"), "w") as f:
+    for k in sorted(index_items, key=lambda x: (x.lower(), x)):
+        occ = []
+        prev = -999
+        for p in sorted(index_items[k]):
+            if p != prev + 1 and p != prev + 2:  # ignore continuous pages (see README)
+                occ.append(p)
+            prev = p
+        occ_str = ", ".join(str(p) for p in occ)
+        k = k.strip()
+        print(f"{k}\t{occ_str}", file=f)
 
 
 too_many_occurrence.sort(reverse=True)
