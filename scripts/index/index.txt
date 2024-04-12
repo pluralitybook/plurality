@@ -1463,9 +1463,8 @@ Simmel, Georg	112, 123
 Simon, Herbert	217, 350
 Simulated Military Exercise	431
 Single Point Of Failure	195, 200
-Single Sign-on (SSO)	187
 Single Tax	119
-Single-sign-on Architectures	497
+Single-sign-on Architectures (SSO)	187, 497
 Singular Technical Vision	511
 Sino-Japanese war	52
 Siraya	50
@@ -1515,10 +1514,9 @@ Social Responsibility	467, 470
 Social Science Experts	128
 Social sciences	27, 96, 131, 415
 Social Sector	417, 425
-Social Security Number (SSN)	184, 317, 351
-Social Security Numbers	115, 185
-Social system	95
-social welfare function	298, 381, 447
+Social Security Number (SSN)	115, 184, 317, 351
+Social System	95
+Social Welfare Function	298, 381, 447
 Social Worker	369
 Socialism	54, 349, 393
 Socialism Takes Too Many Evenings	349

@@ -622,7 +622,15 @@
   "Social Security Number (SSN)": [
     "Social Security Number",
     "SSN"
+  ],
+  "Single-sign-on Architectures (SSO)":[
+    "Single Sign on",
+    "Single Sign-on",
+    "Single-sign-on",
+    "SSO",
+    "Single-sign-on Architectures"
   ]
+
 }
 
 
