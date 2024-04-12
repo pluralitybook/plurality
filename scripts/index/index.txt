@@ -1061,7 +1061,6 @@ Mobile Operating Systems	489
 Mobile Telephones	188
 modernity	
 Modular Open-Source Identity Platform (MOSIP)	193
-Moldbug, Mencius	36
 Molecular Biology	104
 Monarchy	55
 Monist	132
@@ -1784,7 +1783,7 @@ Wu, Michelle	355
 X (formerly Twitter)	345, 471
 Xerox PARC	138, 143, 489
 Yamuna River	476
-Yarvin, Curtis	36
+Yarvin, Curtis (aka Mencius Moldbug)	36
 Yasmin Eyalat	464
 Year of AI	49, 363
 Year of Elections	49
