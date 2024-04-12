@@ -514,7 +514,6 @@ Disinformation	352
 Displacement	40
 Disruption	9, 139, 440
 Distributed Autonomous Organization (DAO)	190, 367, 385, 403, 499
-Distributed Autonomous Organizations (DAOs)	367, 403, 499
 Distributed Denial Of Service (DDoS)	283
 Distributed Ledger Technology (DLT)	196, 219, 237, 371
 Distributed Network	268, 372
@@ -1516,7 +1515,7 @@ Social Responsibility	467, 470
 Social Science Experts	128
 Social sciences	27, 96, 131, 415
 Social Sector	417, 425
-Social Security Number (SSN)	184
+Social Security Number (SSN)	184, 317, 351
 Social Security Numbers	115, 185
 Social system	95
 social welfare function	298, 381, 447
@@ -1542,7 +1541,6 @@ Spirit of Simmel	199
 Square Root	384, 402, 421
 Square-root Voting	384
 Srinavasan, Balaji	36, 512
-SSN	184, 317, 351
 Stagnant Democratic Stories	92
 Stakeholder Corporation	402
 Stakeholder Remedies	403
