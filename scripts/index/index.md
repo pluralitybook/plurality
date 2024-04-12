@@ -122,6 +122,7 @@ Arnold Harberger	403
 Arnott, Richard	407
 ARPA	483, 488, 491, 499, 509
 ARPANET	138, 156, 259, 484, 491, 510
+Arrow, Kenneth	382, 449
 Arrow's Theorem	384
 Articles 145 of the ROC	57
 Artificial General Intelligence	34
@@ -951,15 +952,12 @@ Jurisdictional Boundaries	260, 396
 # K
 ```
 Kaizen	57
-Kaliya Young	190, 250
 Kao Chia-liang	64
 Kaohsiung Incident	60
 Karya	365
 Kazakhstan	21
 Kela-Kelpo project	371
-Ken Suzuki	387
-Kenneth Arrow	382, 449
-Kevin Scott	442
+Suzuki Ken	387
 Khan Academy	338
 Kickstarter	338
 Kidd, David	374
@@ -1518,6 +1516,7 @@ Science And Technology Studies	27
 Science Fiction	25, 34, 89, 518
 Science of Science	107
 Scientific Management	95
+Scott, Kevin	442
 Seales, Brent	334
 Search Engines	10, 21, 276, 377
 Seasteads	35, 376
@@ -1899,6 +1898,7 @@ Yarvin, Curtis	36
 Yasmin Eyalat	466
 Year of AI	49, 365
 Year of Elections	49
+Young, Kaliya	190, 250
 Youssef Nader	334
 Yu Yong-Ding	34
 Yuans	54
