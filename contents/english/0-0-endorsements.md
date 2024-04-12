@@ -44,9 +44,8 @@
 
 <br></br>
 
-
-> Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
-— [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
+>(A) remarkable book which provides accessible, deep and novel insights into the way in which technology has, is, will and should shape our lives.  It draws on a wealth of evidence to provide a powerful case in favour of promoting plurality...It holds important lessons for all of us. <br></br>
+— [Colin Mayer](https://en.wikipedia.org/wiki/Colin_Mayer), Peter Moores Professor of Management Studies at the Oxford [Saïd School of Management](https://en.wikipedia.org/wiki/Sa%C3%AFd_Business_School) and author of [*Prosperity: Better Business Makes the Greater Good*](https://global.oup.com/academic/product/prosperity-9780198866824?lang=en&cc=sk)  
 
 <br></br>
 
@@ -66,10 +65,12 @@
 
 <br></br>
 
-> It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
-— [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
+> Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
+— [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
 
 <br></br>
+
+
 
 > In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
 — [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Co-Founder of the [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) and star of [*The Social Dilemma*](https://www.thesocialdilemma.com/)
@@ -86,10 +87,13 @@
 
 <br></br>
 
+> It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
+— [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
+
+<br></br>
 
 > At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
 — [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
-
 
 <br></br>
 
