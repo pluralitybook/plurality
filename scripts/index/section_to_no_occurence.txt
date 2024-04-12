@@ -16,7 +16,6 @@
 - Taiwan's Digital Civic Infrastructure
 
 ### 3-1
-- Bidirectional Equilibrium
 - Einstein's Theories Of Relativity
 - Gödel's Theorem
 
@@ -26,6 +25,7 @@
 - web of group-affiliation
 
 ### 3-3
+- Nation state
 - WEIRD societies
 - modernity
 
@@ -35,7 +35,7 @@
 
 ### 4-1
 - Blockchain-centric Identity Systems
-- Digital-native Identity Infrastructure
+- Know Your Customer
 - Licenses For Use
 - On the Internet, Nobody Knows You're A Dog
 
@@ -44,11 +44,12 @@
 - Decentralized Social Networking Protocol (DSNP)
 - Distributed Ledger Technology (DLT)
 - Edward Snowden
+- Over-shared information
 - The Emperor's New Clothes
 
 ### 4-4
 - Moore's Law
-- Quick Fixes
+- Real-time Auction
 - Uniform Resource Locator (URL)
 - non-fungible tokens (NFTs)
 
@@ -59,6 +60,7 @@
 - Cross-Cultural Exchanges
 
 ### 5-3
+- AlphaGo Zero
 - Co-edited Project
 - Online collaboration platform
 
@@ -76,15 +78,19 @@
 - Weighted-voting
 
 ### 5-7
+- Economies Esteem
 - Private Community-based Sponsorship
 - Self-ownership
 
 ### 6-1
 - Cross-cutting Benefit
 - Cross-pollination Service
+- Remote Shared Reality Technologie
 - White Collar
 
 ### 6-2
+- Indigeneous Community
+- Non-colonialist Model
 - Public Good
 - UNDP
 
@@ -99,7 +105,6 @@
 
 ### 7-0
 - For-profit Industry
-- For-profit Private Corporations
 - Non-profit ⿻ Infrastructure
 - Open Collective Foundation
 - Open Source Community
