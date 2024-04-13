@@ -315,7 +315,7 @@ Commons-derived Data Tax	505
 Communism	32
 Community Currency	247, 285
 Community Donation	390
-Community Notes (CN)	
+Community Notes	
 Community Recovery	201
 Community-based	117, 345, 415
 Community-Based Identity	117
