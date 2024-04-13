@@ -105,11 +105,6 @@
 
 <br></br>
 
-> (V)isionary in design, execution and substance.<br></br>
-— [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), President of [University of Tulsa](https://utulsa.edu/) and [Americans for Responsible Innovation](https://responsibleinnovation.org/), Fmr. US Congressman and Undersecretary of the Army
-
-<br></br>
-
 > Can the public sector move as fast to harness emerging technologies as the rest of society?  Audrey Tang has shown on the ground that it can, and here she teaches you how to do the same.<br></br>
 — [Shlomit Wagman](https://cyber.harvard.edu/people/shlomit-wagman), former Director General of the [Israel Money Laundering and Terror Financing Prohibition Authority](https://www.gov.il/en/departments/impa/govil-landing-page) and [Privacy Protection Authority](https://www.gov.il/en/departments/the_privacy_protection_authority/govil-landing-page)
 
