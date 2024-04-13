@@ -163,7 +163,8 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,OpenAI,02-00,cFQ
 ,Participation,02-00,cFQ
 ,Pascual Restrepo,02-00,cFQ
-,People's Republic of China (PRC),02-00,cFQ
+,People's Republic of China,02-00,cFQ
+,PRC,02-00,
 ,Peripheral,02-00,cFQ
 ,Peter Thiel,02-00,cFQ
 ,Polarization,02-00,cFQ
@@ -247,7 +248,8 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Chen Shui-bian,02-01,cFQ
 ,Chiang Ching-Kuo,02-01,cFQ
 ,Chiang Kai-shek,02-01,cFQ
-,Chinese Communist Party (CCP),02-01,cFQ
+,Chinese Communist Party,02-01,cFQ
+,CCP,02-01,cFQ
 ,Citizens of the Free Area,02-01,cFQ
 ,Civil Clan,02-01,cFQ
 ,Civil Livelihood,02-01,cFQ
@@ -309,6 +311,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,PDCA (Plan-Do-Check-Act) cycle,02-01,nishio
 ,Peng Ming-min,02-01,cFQ
 ,People's Republic of China (PRC),02-01,cFQ
+,PRC,02-01,
 ,Place of Convergence,02-01,cFQ
 ,Plural Spirit,02-01,cFQ
 ,Pluralism,02-01,cFQ
@@ -427,7 +430,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Zero Trust,02-02,cFQ
 ,⿻,03-00,cFQ
 ,⿻ Image,03-00,cFQ
-,A Connected Society,03-00,cFQ
+,Connected Society,03-00,cFQ
 ,Audrey Tang,03-00,cFQ
 ,Collective Organization,03-00,cFQ
 ,Danielle Allen,03-00,cFQ
@@ -649,7 +652,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Metaverses,04-00,tsuzumik
 ,National Socialist German Workers party,04-00,tsuzumik
 ,Negative Freedom of Speech,04-00,tsuzumik
-,Operating Systems,04-00,tsuzumik
+,Operating System,04-00,tsuzumik
 ,Positive Freedom of Speech,04-00,tsuzumik
 ,Rights of free speech,04-00,tsuzumik
 ,Security protocols,04-00,tsuzumik
@@ -768,9 +771,8 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Online Democracy,04-01,cFQ
 ,OpenAI,04-01,cFQ
 ,OpenID Connect,04-01,cFQ
-,orb,04-01,cFQ
 ,Ownership,04-01,cFQ
-,Packet Switching Architectures,04-01,cFQ
+,Packet Switching,04-01,cFQ
 ,Passports,04-01,cFQ
 ,Password,04-01,cFQ
 ,Paul Baran,04-01,cFQ
@@ -980,7 +982,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Real-time Auction,04-04,cFQ
 ,Secure multiparty computation (SMPC),04-04,cFQ
 ,Signatures,04-04,cFQ
-,Smart Contracts,04-04,cFQ
+,Smart Contract,04-04,cFQ
 ,Social leakage,04-04,cFQ
 ,Spectrum Sharing,04-04,cFQ
 ,Time-sharing,04-04,cFQ
@@ -1225,7 +1227,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Collective Response Model,05-04,cFQ
 ,Collective Response Systems,05-04,cFQ
 ,Common Will,05-04,cFQ
-,Community Notes (CN)　,05-04,cFQ
+,Community Notes　,05-04,cFQ
 ,Cortico,05-04,cFQ
 ,Deliberation,05-04,cFQ
 ,Democratic Inputs,05-04,cFQ
@@ -1233,7 +1235,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Direct Collective Representative,05-04,cFQ
 ,Disinformation,05-04,cFQ
 ,Dr. Seuss,05-04,cFQ
-,Echo Chambers,05-04,cFQ
+,Echo Chamber,05-04,cFQ
 ,Election,05-04,cFQ
 ,Fact-checking,05-04,cFQ
 ,Five Star Rating System,05-04,cFQ
@@ -1455,7 +1457,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Liquid Democracy,05-06,cFQ
 ,PageRank,05-06,cFQ
 ,Power Concentration,05-06,cFQ
-,Prediction Markets,05-06,cFQ
+,Prediction Market,05-06,cFQ
 ,Proportional Representation,05-06,cFQ
 ,Public Will,05-06,cFQ
 ,Quadratic Liquid Democracy,05-06,cFQ
@@ -1572,7 +1574,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Plural Management Protocol,05-07,cFQ
 ,Polypolitan Migration Policy,05-07,cFQ
 ,Populist Movement ,05-07,cFQ
-,Prediction Markets,05-07,cFQ
+,Prediction Market,05-07,cFQ
 ,Private Community-based Sponsorship,05-07,cFQ
 ,Private Organizations,05-07,cFQ
 ,Private Property,05-07,cFQ
@@ -1688,6 +1690,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Asynchronous Communication,06-01,cFQ
 ,Campus Athletics,06-01,cFQ
 ,Collective Intelligence,06-01,cFQ
+,Collective Intelligence,05-04,nishio
 ,Common Corporate Infrastructure,06-01,cFQ
 ,Contribution,06-01,cFQ
 ,Corporate Campus,06-01,cFQ
@@ -1973,7 +1976,8 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Basic Research,07-00,cFQ
 ,Bolt Beranek and Newman,07-00,cFQ
 ,Brussels Effect,07-00,cFQ
-,Chinese Communist Party (CCP),07-00,cFQ
+,Chinese Communist Party,07-00,cFQ
+,CCP,07-00,cFQ
 ,Civil Society,07-00,cFQ
 ,Civil Society,07-00,cFQ
 ,Cloud Infrastructures,07-00,cFQ
@@ -2047,7 +2051,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Meta,07-00,cFQ
 ,Microsoft,07-00,cFQ
 ,Miraikan,07-00,gnomevan
-,Mobile Operating Systems,07-00,cFQ
+,Mobile Operating System,07-00,cFQ
 ,Mozilla,07-00,cFQ
 ,Multi-sectoral Alliance,07-00,cFQ
 ,Mykhailo Fedorov,07-00,cFQ
@@ -2067,7 +2071,8 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Open Source Projects,07-00,cFQ
 ,Open Source Technology,07-00,cFQ
 ,OpenAI,07-00,cFQ
-,People's Republic of China (PRC),07-00,cFQ
+,People's Republic of China,07-00,cFQ
+,PRC,07-00
 ,Personal Computing,07-00,cFQ
 ,Policy,07-00,cFQ
 ,Presidential Hackathon,07-00,cFQ
@@ -2079,7 +2084,7 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Public Investment,07-00,cFQ
 ,Public Investment,07-00,cFQ
 ,Public Mission,07-00,cFQ
-,Public Squares,07-00,cFQ
+,Public Square,07-00,cFQ
 ,Quadratic Voting,07-00,cFQ
 ,Quadratic Voting,07-00,cFQ
 ,RadicalxChange,07-00,cFQ
@@ -2147,3 +2152,8 @@ Plurality Book Indexing Exercise,Keyword,Chapter,POC
 ,Virtuous Circle,07-01,cFQ
 ,Web3,07-01,cFQ
 ,Western Liberal Democracies,07-01,cFQ
+,Twitter,02-00
+,Twitter,04-02
+,Twitter,04-03
+,Twitter,05-04
+,Twitter,06-03
