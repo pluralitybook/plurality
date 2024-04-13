@@ -70,8 +70,6 @@
 
 <br></br>
 
-
-
 > In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
 — [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Co-Founder of the [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) and star of [*The Social Dilemma*](https://www.thesocialdilemma.com/)
 
@@ -100,4 +98,8 @@
 > (V)isionary in design, execution and substance.<br></br>
 — [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), President of [University of Tulsa](https://utulsa.edu/) and [Americans for Responsible Innovation](https://responsibleinnovation.org/), Fmr. US Congressman and Undersecretary of the Army
 
+<br></br>
+
+> Audrey Tang and Glen Weyl's project will be effective and meaningful in helping Taiwan (and other countries) move in the direction of a new social democracy.
+— [Kōjin Karatani](https://en.wikipedia.org/wiki/Kojin_Karatani), Author of *[The Structure of World History](https://www.dukeupress.edu/the-structure-of-world-history)* and Winner of the Berggruen Prize for Culture and Philosophy
 
