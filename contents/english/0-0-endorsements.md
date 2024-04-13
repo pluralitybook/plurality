@@ -29,7 +29,7 @@
 
 <br></br>
 
-> Audrey Tang and Glen Weyl's project will be effective and meaningful in helping Taiwan (and other countries) move in the direction of a new social democracy.
+> Audrey Tang and Glen Weyl's project will be effective and meaningful in helping Taiwan (and other countries) move in the direction of a new social democracy. <br></br>
 — [Karatani Kōjin](https://en.wikipedia.org/wiki/Kojin_Karatani), Author of [*The Structure of World History*](https://www.dukeupress.edu/the-structure-of-world-history) and winner of the Berggruen Prize for Culture and Philosophy
 
 <br></br>
