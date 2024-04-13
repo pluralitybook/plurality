@@ -37,9 +37,8 @@
 ⿻ Society	180
 ⿻ Structure	125, 201, 462
 ⿻ Taxes	501
-⿻ Technologies	491, 497, 513
 ⿻ Technologist	353
-⿻ Technology	421, 480, 510
+⿻ Technology	421, 480, 491, 497, 510, 513
 ⿻ Thinking	384
 ⿻ Vision	171, 233
 ⿻ Voting	497, 501
@@ -149,8 +148,7 @@ Athenian Marketplace	347
 Atomist	132
 Atomistic Agents	512
 Attention Exchange Tax	504
-Audrey Tang	64, 88, 354
-Augmented Reality	167, 318, 511
+Augmented Reality (AR)	167, 318, 511
 Australia	44, 370, 456
 Australian Government	370
 Authoritarian Regimes	1, 12, 19
@@ -296,7 +294,7 @@ Collective Creativity	328, 341
 Collective Decision	163, 248, 389, 514
 Collective Deliberation	375
 Collective Future	510
-Collective Intelligence	437
+Collective Intelligence	354, 437
 Collective Organization	35, 91, 470
 Collective Problem-solving	476
 Collective Response Model	
@@ -305,7 +303,6 @@ Collegia	142, 448
 Colonial Outsider	370
 Colorado State Legislature	384
 Commanding Heights	12, 482
-Common Asylum System	179
 Common Belief	214, 226
 Common Carriers	467
 Common Content	468
@@ -534,7 +531,6 @@ Dominant Narrative	343
 DoNotPay	369
 Dossiers	188
 Double Coincidence Of Wants, The	244
-Douglas Engelbart	136, 257
 Dream Machine, The	133, 256
 Driverless Cars	22
 Dryhurst, Mat	338, 514
@@ -581,6 +577,7 @@ Emperor's New Clothes, The
 Employment	181, 189, 195
 Encounter with the East	339
 Endowments	397
+Engelbart, Douglas	136, 257
 Enlightenment	117, 163
 Entrepreneurship	58, 156, 393, 398
 Environment Sensing Network	475
@@ -1222,7 +1219,6 @@ Operating Systems	161
 Optimism Collective	496
 orb	
 Orderly States	97
-Oscar Wilde	349
 Outcome	451, 460
 Output	451, 457
 Ovadya, Aviv	353
@@ -1607,6 +1603,7 @@ Taiwan's Digital Civic Infrastructure
 Take The Path Of Least Action	95
 Talk to the City	357, 360
 Tang Jingsong	52
+Tang, Audrey	64, 88, 354
 Tangible Potential	411
 Taoism	81
 Taoist	55
@@ -1760,6 +1757,7 @@ Wiener, Norbert	113, 129
 Wikimedia Foundations	495
 Wikipedia	22, 140, 151, 335, 465
 Wikisurvey	68, 354
+Wilde, Oscar	349
 Will Of The Group	380
 will.i.am	344
 Windows	143, 166, 196
