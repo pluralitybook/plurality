@@ -29,6 +29,11 @@
 
 <br></br>
 
+> Audrey Tang and Glen Weyl's project will be effective and meaningful in helping Taiwan (and other countries) move in the direction of a new social democracy.
+— [Karatani Kōjin](https://en.wikipedia.org/wiki/Kojin_Karatani), Author of *[The Structure of World History](https://www.dukeupress.edu/the-structure-of-world-history)* and winner of the Berggruen Prize for Culture and Philosophy
+
+<br></br>
+
 > In financial technology and digital infrastructure, Kenya and other African countries are...ahead of outdated models in the North.  With *Plurality* we (can)...take this...deeper...to accelerate our growth and be part of global models of a more inclusive, participatory and productive future. <br></br>
 — [Ory Okolloh-Mwangi](https://en.wikipedia.org/wiki/Ory_Okolloh), Co-Founder of [Ushahidi](https://en.wikipedia.org/wiki/Ushahidi) and Partner at [Verod-Kepple Africa Ventures](https://vkav.vc/)
 
@@ -100,6 +105,18 @@
 
 <br></br>
 
-> Audrey Tang and Glen Weyl's project will be effective and meaningful in helping Taiwan (and other countries) move in the direction of a new social democracy.
-— [Kōjin Karatani](https://en.wikipedia.org/wiki/Kojin_Karatani), Author of *[The Structure of World History](https://www.dukeupress.edu/the-structure-of-world-history)* and Winner of the Berggruen Prize for Culture and Philosophy
+> (V)isionary in design, execution and substance.<br></br>
+— [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), President of [University of Tulsa](https://utulsa.edu/) and [Americans for Responsible Innovation](https://responsibleinnovation.org/), Fmr. US Congressman and Undersecretary of the Army
+
+<br></br>
+
+> Can the public sector move as fast to harness emerging technologies as the rest of society?  Audrey Tang has shown on the ground that it can, and here she teaches you how to do the same.<br></br>
+— [Shlomit Wagman](https://cyber.harvard.edu/people/shlomit-wagman), former Director General of the [Israel Money Laundering and Terror Financing Prohibition Authority](https://www.gov.il/en/departments/impa/govil-landing-page) and [Privacy Protection Authority](https://www.gov.il/en/departments/the_privacy_protection_authority/govil-landing-page)
+
+<br></br>
+
+> *Plurality* unveils the powerful blueprint of Taiwan's resilient digital transformation...provides valuable insight for concerned citizens everywhere and...can help preserve democracy amidst...a precarious moment in history for liberty and open societies around the world.<br></br>
+— [Frank McCourt](https://en.wikipedia.org/wiki/Frank_McCourt_(executive)), Founder of [McCourt Global](https://www.mccourt.com/) and [Project Liberty](https://www.projectliberty.io/) and co-author of [*Our Biggest Fight*](https://ourbiggestfight.com/)
+
+<br></br>
 
