@@ -49,7 +49,7 @@
 
 <br></br>
 
->(A) remarkable book which provides accessible, deep and novel insights into the way in which technology has, is, will and should shape our lives.  It draws on a wealth of evidence to provide a powerful case in favour of promoting plurality...It holds important lessons for all of us. <br></br>
+> (A) remarkable book which provides accessible, deep and novel insights into the way in which technology has, is, will and should shape our lives.  It draws on a wealth of evidence to provide a powerful case in favour of promoting plurality...It holds important lessons for all of us. <br></br>
 — [Colin Mayer](https://en.wikipedia.org/wiki/Colin_Mayer), Peter Moores Professor of Management Studies at the Oxford [Saïd School of Management](https://en.wikipedia.org/wiki/Sa%C3%AFd_Business_School) and author of [*Prosperity: Better Business Makes the Greater Good*](https://global.oup.com/academic/product/prosperity-9780198866824?lang=en&cc=sk)  
 
 <br></br>
