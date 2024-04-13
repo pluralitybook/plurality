@@ -154,6 +154,10 @@ Authority	413
 Autodesk	335
 Automated Clearing Houses (ACHs)	235
 Autonomy	342
+```
+
+# B
+```
 Back-propagated	500
 Background Signals	384
 Badges	371, 404
@@ -390,6 +394,10 @@ Curriculum Vitae (CV)	365
 Customers	96, 102, 111
 Cybernetic Society	129
 Cybernetics	113, 129, 133
+```
+
+# D
+```
 Dao	50, 279
 Daoism	50
 dApps	423
@@ -944,7 +952,7 @@ Kidd, David	371
 Klein, Ezra	19, 35
 Knappschaften	449
 Know Your Customer (KYC)	188
-knowledge is power	278
+Knowledge is power	278
 Kuomintang	50
 Kurz, Sebastian	36
 Kurzweil, Ray	26
