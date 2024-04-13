@@ -1,0 +1,1782 @@
+數位	2
+⿻	
+⿻ Approach	96, 160, 197, 247
+⿻ Artist	344
+⿻ Book	391
+⿻ Competence Education	491
+⿻ Conversational and Funding Tools	442
+⿻ Cryptography	467
+⿻ Foundations	110, 169
+⿻ Funding	391, 402, 406
+⿻ Funding Across Boundaries	406
+⿻ Funding Formula	391
+⿻ Future	183, 279, 410
+⿻ Good	409, 449, 454, 478
+⿻ Governance	153, 330, 407
+⿻ Group	402
+⿻ Hiring	437
+⿻ Identity	203, 387, 407
+⿻ Identity Systems	203, 389, 407
+⿻ Image	91
+⿻ Infrastructure	485, 490, 495, 502, 506
+⿻ Management	286, 407
+⿻ Marketing	420
+⿻ Mechanism	449
+⿻ Media	472
+⿻ Memberships	204
+⿻ Money	247, 409
+⿻ Movement’s Insight	516
+⿻ Perspective	106, 110, 206
+⿻ Practic	336, 436
+⿻ Principles	109, 408
+⿻ Property	266, 272, 405
+⿻ Public	449, 459, 478
+⿻ Public Media	470
+⿻ Publics	208
+⿻ Social Science	106, 110
+⿻ Society	180
+⿻ Structure	125, 201, 462
+⿻ Taxes	501
+⿻ Technologist	353
+⿻ Technology	421, 480, 491, 497, 510, 513
+⿻ Thinking	384
+⿻ Vision	171, 233
+⿻ Voting	497, 501
+12-Year Basic Education Curriculum	75
+20% time model	442
+2050 net zero	86
+3D Audio	311
+4chan	35, 190
+51% Attack	381
+5G	20, 45, 273
+A New World Order	173, 493
+a priori	417
+Aadhaar Identity System	192
+Abolitionist	11, 375, 463
+Abuses Of Monopoly	398
+Abusus	122, 264, 406
+Academia Sinica	58
+Academic Peer Review	349
+Accelerationist	37
+Access	277
+Access with Integrity	278
+Acemoglu, Daron	5, 11, 27, 40
+Active Listening	351
+Active Public Investment	487
+ActivityPub	218, 227
+Adaptive Representation	386
+Administration	351, 359
+Administrative Application	374
+Administrative Practice	372
+Administrative State	364
+Adobe Creative Cloud	335
+Advanced Research Projects Agency (ARPA)	134, 481, 486, 489, 497, 507
+Adverse Selection	447
+Advertising	188
+Affective Polarization	7, 83, 462
+Affinity	346, 459
+Age of Surveillance Capitalism, The	3, 10, 16, 188
+Agglomeration	428, 432
+AI Act	484
+AI researcher	375
+AI4Bharat	363
+AIDS	445, 451, 457
+Air pollution	474, 486
+Algorithmic Ranking System	352
+Alien Art	338
+Alien Intelligence	26, 338
+Alignment assemblies	74, 491
+All Our Ideas	354, 436
+All-seeing	188
+Allen, Danielle	88, 164, 371, 408
+Alphabet	186, 441
+AlphaGo	338
+AlphaGo Zero	
+Altman, Sam	19, 33, 193, 512
+Amazon	186, 488
+American Democracy	113, 127
+American Legislative Capitol	49
+American Revolution	413
+Analysis Paralysis	349
+Andersen, Hans Christian	213
+Anderson, Laurie	338
+Andreesen, Marc	512
+Android	154, 167
+Anonymity	181, 208, 331
+Anthropic	176, 354, 403, 496
+Anthropocene	474
+Anthropologist	124, 133, 163, 203, 373
+Anti-authoritarianism	62
+Anti-social	5, 8, 465
+Anti-social Media	71, 465
+Antipathy	36
+Antiretroviral Therapy	444
+Antisocial	6, 26, 97
+Antitrust	398, 403, 482, 487, 492, 500
+Antitrust Actions	482
+Apple	186, 201, 488
+Apple's Torus Spaceship	433
+Approval Voting	301, 380, 514
+Arab Spring	13
+Arendt, Hannah	88, 198, 413
+Arms Race	167, 418, 466
+Armstrong, Neil	464
+Arnott, Richard	405
+ARPANET	138, 154, 257, 482, 489, 508
+Arrow's Theorem	380
+Arrow, Kenneth	380, 447
+Articles 145 of the ROC	57
+Artificial General Intelligence	34
+Artificial Intelligence (AI)	4, 9, 23, 29, 105, 110, 367
+Artificial Neural Network	105
+Artistic cocreation	334
+Artistic Expression	333
+Asana	251, 335
+Asia Development Bank	78
+Asimov, Isaac	26
+Aspirations to equality	166
+Asset sharing	253, 258, 266
+Assimilation	52
+Assisted Real-time Voting	387
+Associated Identification Number	184
+Association	208
+Asynchronous Communication	436
+Athenian Marketplace	347
+Atomist	132
+Atomistic Agents	512
+Attention Exchange Tax	504
+Augmented Reality (AR)	167, 318, 511
+Australia	44, 370, 456
+Australian Government	370
+Authoritarian Regimes	1, 12, 19
+Authoritarian Repressive State	60
+Authoritarian Rule	2
+Authoritarianism	5, 62, 164, 170
+Authority	413
+Autodesk	335
+Automated Clearing Houses (ACHs)	235
+Autonomy	342
+Back-propagated	500
+Background Signals	384
+Badges	371, 404
+Bank Accounts	188, 234
+Banks	233, 239, 243
+Banks, Ian	26
+Baran, Paul	139, 203
+Barlow, John Perry	37
+Basic Research	479
+BBN	135, 138, 145
+Bellamy, Edward	234
+Benefits Data Trust	369
+Benet, Juan	260
+Berners-Lee, Tim	141, 145, 236
+BERT	105
+Bertelsmann Foundation	82
+Bhagavad Gita	334
+Bible	119, 334
+Bidirectional Equilibrium	106
+Biodiversity	9, 104, 473, 477
+Biodiversity Loss	9, 473, 477
+Biomedical Engineering	458
+Biometrics	191, 194, 478
+Bioweapons	9, 23
+Birth certificates	115, 184
+Bitcoin	13, 24, 35, 237, 248
+Blended-finance Agreement	454
+Blindness of Justice	365
+Blitzscaling	414
+Blockchain	4, 23, 196, 218, 227, 402
+Blockchain-centric Identity Systems	
+Bluesky	158, 218
+Bolt Beranek and Newman	489
+Bottom-up	385
+Bowling Alone	228
+Boyd, Danah	198, 218, 223
+Bradford, Anu	481
+Brain interface	301, 464
+Brain-Computer Interfaces	310
+Braver Angels	356
+Bricolage	303
+Bridging the Crowd	345
+Broadcast	66, 273, 348
+Brussels Effect	481
+Buddhism	81
+Bureaucracies	365, 399
+Bureaucratic Rules	366
+Burke, Edmund	475
+By An Invisible Hand	395
+Cameron, Kim	195
+Campus Athletics	432
+Canada	21, 408, 456, 476
+Cancel Culture	16
+Capitalism	3, 8, 16, 20, 32, 35, 41, 392, 406
+Carbon Credit	454
+Cash	232, 240
+Castle, The	367
+Cathy O’Neil	10, 16
+Cellphone Addiction	80
+Center for Constructive Communication	355
+Central Bank Digital Currencies	22, 232, 239
+Central Planning	34
+Centralized Surveillance	5, 197
+Centralized Top-down	4
+Centralizing	6, 9, 97, 191
+Centralizing Structure	191
+Certificates Of Enrollment	184
+Chains Of Introductions	205
+Chang, Simon	65
+Chaos	97, 104
+Chaos and Top-down order	512
+Chaotic Effects	99
+Chaotic States	97
+Charity	230, 399
+Charter Cities	374
+Checks And Balances	241, 264
+Chen Shui-bian	61
+Cheques	234
+Chiang Ching-Kuo	60
+Chiang Kai-shek	55
+Chinese Communist Party (CCP)	12, 55, 59, 483
+Church Turing Thesis	96
+Church, Alonzo	98
+Circle, The	223, 342
+Circular investment	405, 503
+Citizen co-journalism	464
+Citizen Journalism	464
+Citizen Volunteers	69
+Citizen-led Online Initiative	455
+Citizens of the Free Area	61
+Civic hackers	64, 72
+Civic Hacking Culture	477
+Civic Spaces	323
+Civic Tech	158
+Civic Technology Movement	474
+Civil Clan	53
+Civil IoT	475, 486
+Civil Livelihood	54
+Civil Rights movement	58
+Civil Society	479, 485, 492, 495
+Civilization VI	33, 377
+Civilizing	393
+Claude	303, 354
+Clean Energy	473
+Climate Change	179, 473, 477
+Cloud Era	261
+Cloud Infrastructures	154, 489, 497
+Co-construction of Health Agency	445
+Co-edited Project	
+Cocreation Relationship	477
+Codetermination	398
+Cofacts	73
+Cogburn, Courtney	317
+Cold War	19, 134, 164
+Collaboration Across Difference	304, 473
+Collaboration Across Diversity	409
+Collaborative Diversity	48, 92
+Collaborative Exchange	392
+Collaborative Filtering	345
+Collaborative Innovation	336
+Collaborative Journalism	462
+Collaborative Network	475
+Collaborative Platform	336, 341
+Collaborative Problem Solving	55
+Collaborative Technologies	378
+Collaborative Technology	2, 285
+Collaboratives	271
+Collective action	212, 217
+Collective Alignment	355
+Collective bargaining	172, 270, 499
+Collective Consciousness	315, 340
+Collective Creativity	328, 341
+Collective Decision	163, 248, 389, 514
+Collective Deliberation	375
+Collective Future	510
+Collective Intelligence	354, 437
+Collective Organization	35, 91, 470
+Collective Problem-solving	476
+Collective Response Model	
+Collective Response Systems	354, 358
+Collegia	142, 448
+Colonial Outsider	370
+Colorado State Legislature	384
+Commanding Heights	12, 482
+Common Belief	214, 226
+Common Carriers	467
+Common Content	468
+Common Corporate Infrastructure	427
+Common European Asylum System	179
+Common Good	299, 395
+Common interest	210
+Common Knowledge	212, 223, 227
+Common Ownership Tax	405, 504
+Common Will	362, 379
+Commons-Based Property	117
+Commons-derived Data Tax	505
+Communism	32
+Community Currency	247, 285
+Community Donation	390
+Community Notes (CN)	
+Community Recovery	201
+Community-based	117, 345, 415
+Community-Based Identity	117
+Compelling Narrative	465
+Competition Policies	487
+Competitive authoritarian regimes	164
+Competitive Effect	418
+Complexity	202, 367
+Complexity Theory	104
+Comprehensiveness	199
+Compulsory Purchase	399
+Computational complexity	98, 103
+Computer as Communication Device	210
+Computer-simulated Neuron	
+Computers And Government	132, 146, 487
+Concentrated Computational Asset Tax	504
+Confidential Computers	268
+Confidential Computing	221
+Conformity	375, 519
+Confucian Tradition	53, 58
+Connected Digital Community	492
+Connected Society	88, 91, 112
+Consociational	117, 381, 386
+Consociationalism	117, 386
+Constitutional Court	84
+Context	211, 216, 226
+Contextual confidence	226, 283
+Contextual Integrity	203, 206, 241, 281
+Contribution	427, 439
+Control	195, 204
+Cooperative Enterprise	54, 57, 128, 271, 398, 486
+Coordination	498, 507
+Copyright	23, 75
+Corbyn, Jeremy	16
+Corporate Bureaucracy	364
+Corporate Campus	427, 432
+Corporate Control	146, 195, 330, 407
+Corporate Libertarianism	33
+Corporations	390, 394, 397, 403
+Correlation discounting	386
+Cortico	355
+Countervail	398
+Coursera	336
+COVID-19 Pandemic	454
+COVID-19 pandemic	69, 72, 85, 428, 469
+Cowriting	334
+Crackle	332
+Creative Collaborations	332
+Creative Commons	285
+Creative Process	334, 340
+Credit Accounts	234
+Credit Card	234
+Credit-scoring	188
+Critical Value	97
+Cross-cultural collaboration	338
+Cross-Cultural Exchanges	
+Cross-cutting Benefit	
+Cross-pollination Service	
+Cross-Straits Services Trade Agreement	67
+Crowdsourcing	334, 371
+Crutzen, Paul Jozef	
+Crypto	5, 8, 13, 23, 29, 35, 480, 509
+Cryptocurrency	8, 13, 23, 35, 194, 232, 237, 247
+Cryptographic Hypercapitalism	32
+Cryptographic Principle	460
+Cryptographic Standards	222
+Cryptography	5, 31, 35, 193, 264, 462, 466
+Cryptonomicon	35
+Cultural Diversity	281, 290, 343, 363
+Cultural Homogenization	344
+Cultural Norm	373
+Cultural Practice	260, 315, 373, 516
+Currency	233, 239, 243, 247
+Curriculum Vitae (CV)	365
+Customers	96, 102, 111
+Cybernetic Society	129
+Cybernetics	113, 129, 133
+Dao	
+Daoism	50
+dApps	423
+Dark Web	190
+DARPA	145, 148
+Darwinism	96
+Data Act	9, 255, 484
+Data Brokers	188
+Data Coalitions	71, 424, 474, 499
+Data Collaboration	499
+Data Federation	263, 268
+Data Governance Act	16, 263
+Data Sharing	257, 262
+Data Transparency	65, 75
+Data-driven Actors	476
+Davidson, James Dale	36
+Davis, Decontee	464
+De Tocqueville, Alexis	6, 210
+Decentralization Of Cryptocurrencies	247
+Decentralized Identifiers (DID)	196
+Decentralized Identity	157, 177, 193
+Decentralized Innovation	489
+Decentralized Science	495
+Decentralized Scientific Community	108
+Decentralized Social Networking Protocol	
+Decentralized Social Technologies	19
+Decentralized Web	158, 177
+Decision Trees	368
+Declaration for the Future of the Internet	279
+Declaration of the Independence of Cyberspace	37
+Decreasing Marginal Returns	395
+Deepfakes	281
+DeepMind	34, 338
+Deforestation	325, 473
+Degressive Proportionality	117, 384
+Deliberation	286, 297, 300, 345, 468
+Deming, W. Edwards	57, 133, 436
+Democracy	1, 88, 278, 378, 484, 497, 504
+Democracy in America	6, 209
+Democratic Advocates	59
+Democratic freedom	62
+Democratic Inputs to AI	70, 355
+Democratic Participation	4, 53, 160
+Democratic Progressive Party (DPP)	49, 61
+Democratic Republican Government	413
+Demonization	469
+Descriptive	90
+Designated Verifier Proofs (DVP)	225
+Dewey, John	54, 58, 91, 112, 126, 397, 497
+Deweyian pragmatism	58
+Difference	88
+Differential Privacy	221, 269
+Differing Degrees	32, 122, 356, 380
+Diffusion of Information	352
+Digital Access	280
+Digital Agency	491
+Digital Archaeology	333
+Digital Asset Sharing	253, 258, 266
+Digital Asset Taxes	504
+Digital Assets	253, 263, 500, 504
+Digital Assistant	387
+Digital Certificate	453
+Digital Civic Engagement	71
+Digital Competence Education	75, 160
+Digital Credentials	179, 196
+Digital Currencies	19, 22, 35, 504
+Digital Currency	29, 239
+Digital Democracy	28, 33, 45, 280, 284, 370, 512
+Digital Divide	280, 330, 343
+Digital Economy	20, 253, 480, 506
+Digital Ecosystem	424, 484, 494, 497
+Digital Empires	481, 484
+Digital Freedom of Association	228
+Digital Identity Systems	183, 191
+Digital Infrastructure	281
+digital innovation hubs	487
+Digital interaction	162, 166
+Digital Land Tax	504
+Digital Legacies	328, 341
+Digital Life	166, 181, 278, 488
+Digital Mapping Tool	370
+Digital Markets Act	16, 484
+Digital Ministries	490
+Digital Nomads	429
+Digital Platform	188, 328, 343, 403
+Digital Protocols	176, 479
+Digital Public Infrastructure (DPI)	177, 280, 484, 489
+Digital Public Services	21, 283
+Digital Rights	212
+Digital Sector	502
+Digital Services Act	16, 484
+Digital Social Engagement	474
+Digital Stack	485
+Digital Stagnation	38
+Digital Technology	92, 365
+Digital Threats	283
+Digital Twins	339
+Digital User Experience	191
+Digital Workspace	335
+Digital Yuan	24, 29
+Digital-native currencies	
+Digital-native Identity Infrastructure	192
+Digitally-related Assets	272
+Diia	283
+Diplomatic Decisions	377
+Diplomatic Favor	377
+Diplomatic Nuance	62
+Direct Collective Representative	360
+Direct Election of the President	61
+Direct Neural Interface	432
+Directly ⿻ (D⿻)	503
+Discrimination Law	10
+Disinformation	352
+Displacement	40
+Disruption	9, 139, 440
+Distributed Autonomous Organization (DAO)	190, 367, 385, 403, 499
+Distributed Denial Of Service (DDoS)	283
+Distributed Ledger Technology (DLT)	196, 219, 237, 371
+Distributed Network	268, 372
+Distributed Participation	465
+Distribution	203, 397, 400
+Diverse Legal System	372
+Diverse Perspective	336, 341
+Diversification	374, 421
+Diversity	412, 419
+Diversity Of Cross-species Interactions, The	103
+Diversity of groups	173, 414
+Dividual identity	126, 129
+Domain Names	274
+Domains of Identity	189
+Dominant Narrative	343
+DoNotPay	369
+Dossiers	188
+Double Coincidence Of Wants, The	244
+Dream Machine, The	133, 256
+Driverless Cars	22
+Dryhurst, Mat	338, 514
+Dunbar number	203, 243
+Dunbar, Robin	203
+Durkheim, Émile	124, 449
+Duverger's Law	379
+Dynamic	390, 393, 399, 403, 407
+Dōka	52
+e-citizenship	429
+E-Government	21, 160
+e-health	457
+e-sports	321, 432
+Early Adopted Community	418
+Early Adopters	415, 419
+Ease of Attacks Online	181
+Ebola	464
+Echo Chamber	345, 352, 465
+Ecology	96, 104, 132
+Economies of Esteem	404
+Economist Intelligence Unit	82
+Ecosystems	97, 102
+Edge of Chaos	97, 172, 512
+Educational Psychology	372, 415
+edX	336
+Egalitarianism	58, 447
+EGDI	21
+Eggers, Dave	223, 342
+Eigenvalues	386
+Eigenvoting	386
+Einstein's Theories Of Relativity	
+Election	164, 170, 350, 355, 359, 379
+Electromagnetic Frequency	273
+Electromagnetic Spectrum	75, 254, 273
+Electronic Commerce	181, 244
+Elite Universities	369
+Emergence	96, 103, 107, 110
+Emergent Publics	126, 129, 407
+Eminent Domain	399
+Emotional Connectivity	318, 323
+Empathy Amplifiers	327
+Emperor's New Clothes, The	
+Employment	181, 189, 195
+Encounter with the East	339
+Endowments	397
+Engelbart, Douglas	136, 257
+Enlightenment	117, 163
+Entrepreneurship	58, 156, 393, 398
+Environment Sensing Network	475
+Environmental Devastation	9
+Environmental Justice	475, 478
+Environmental Movement	104
+Environmental Problem	411, 473, 476
+Environmental Science	96
+Environmental Sustainability	476
+Environmental, Social and Governance (ESG)	403, 470
+Epigenetics	104
+Establish and Protect Participant Identities	180
+Estonia	28, 280, 283, 429
+ETH Zurich	333
+Ethereum	157, 237, 248, 493, 496
+Ethereum community	493
+Ethnic Pluralism	53, 61
+Ethnographer	373
+EU	179, 194
+Euclidean Geometry	101, 118
+European Digital Identity	489
+European Union (EU)	483
+Eusocial	103
+Evacuation Credentials	179
+Excessive Fragmentation	433
+Excessive Segregation	433
+Existential Risks	23
+Experimentalism	55
+Experimentation on	415
+Experimentation with	416, 423
+Expert	368
+Export-orientation	62
+Extended Evolutionary Synthesis	96, 102
+Extended Reality (XR)	458
+External surveillance	211, 216, 222, 242
+Externalities	392, 397, 400, 404, 407
+Extreme Sports	432
+Extremist Parties	7
+Fabric Of Relationships	510
+Faceted Identity	198
+Facial Recognition	24
+Fact-checking	73, 345
+Fairness	127, 364, 468
+False Consensus	469
+Farritor, Luke	333
+Fascism	32
+Fast, Fun and Fair	74
+Feature Phone	363
+Federal	381, 386
+Federal Pension Insurance system	369
+Federated Learning	222, 268, 459
+Fedorov, Mykhailo	491
+Filecoin	177, 261
+Financial adequacy (FA)	503
+Financial Capitalism	4
+Financial Innovation	7
+Financial Markets	5, 394
+Financial Technology	5, 13, 68, 483
+Financial Transactions	190, 241
+Finnish government	369
+Fintech	13, 250
+Five Star Rating System	357
+Five-Year plans	483
+Flexible/gig Work Taxes	505
+Fluidity	477
+Folk Religion	81
+For-profit Industry	
+For-profit Private Corporations	479
+Fora	355
+Formalism	98
+Forms of Diversity	290, 302, 513
+Foundation Models	5, 19, 105
+Foxconn	78
+Fractals	99
+Fractional Reserve Banking	234
+Fragile Democracies	13
+Freddy Lim	67
+free China	56
+Free Markets Know Best	40
+Free speech	161, 165, 171
+Free Trade	288, 394
+Free Trade Agreements	394
+Freedom House	82
+Freedom of Association	172, 207
+Freedom of Expression	279
+Freedom of the Press	462, 467
+French Revolution	413
+Frictions	393
+Fridman, Lex	356
+Fructus	122, 264, 406
+Full Multisensory Shared Experience	333
+Full-time Employment	398
+Fundamental Human Rights	180, 481
+Fundamental Welfare Theorems	395
+Fundamentally Interactions	102
+Funder	32, 390, 453, 461, 488
+Funding Pool	453
+Fusion	303
+Futarchy	387
+g0v	64, 71, 455, 493
+Gaia-X	177, 263, 489
+Galbraith, John Kenneth	215, 398
+Galor, Oded	290
+Gamification	458
+Ganga River	476
+Gates, Bill	61
+Gathering Storm	33, 377
+Gavi	444
+General Computation	96
+General Data Protection Regulation	16, 222, 484
+Generative AI	226, 279
+Generative Art	337
+Generative Artists	338
+Generative Foundation Models (GFMs)	186, 253, 335, 365, 453, 465, 482, 496
+Generative pre-trained transformer (GPT)	19, 49, 105, 416
+Generative Pretrained Transformer	19
+Geographical Information System	370
+Geopolitics	3, 76, 250, 511
+George, Henry	54, 75, 91, 112, 119, 401, 405
+Georgist land value tax	
+Germany	164, 369, 471
+GFM-driven Process	342
+GFMs	511, 516
+Ghost Workers	254
+Gig Workers	505
+Git	285
+GitCoin	157, 390, 423, 496
+GitCoin Grants	390
+GitHub	110, 186, 335
+GitHub Sponsors	390, 496
+GitLab	156, 335
+GitRules	286
+Global Anti-colonial Movement	
+Global Capitalism	392, 396
+Global Consciousness Networks	328
+Global Crossroad	47
+Global Declaration on Information Integrity Online	279
+Global Fund	451
+Global GDP	1, 428
+Global Government	121, 410, 507
+Global Legitimacy	389
+Global Policies	377
+Global Positioning	14, 370
+Global Warming	473
+Globalization	1, 41, 294
+Gogolook	74
+Gold Card	75, 429
+Gold Standard	200
+Golden Age	8, 38, 45
+Golgi, Camillo	104
+Good Old-fashioned AI (GOFAI)	368
+Google	392, 441, 488, 492, 504
+Google DeepMind	338
+Gordon-Levitt, Joseph	344
+Government-issued Identities	186
+Governments	479, 491, 498, 506
+GovTech	158
+Graeber, David	117, 243, 259, 413
+Granovetter, Mark	105
+Graphical user interface	137, 167
+Graphics Processing Units (GPUs)	258
+Grassroots Initiatives	486
+Great Firewall	170
+Great Powers	3, 102, 481
+Greatest Good For The Greatest Number, The	378
+Green Technologies	411, 473
+Gross Domestic Product (GDP)	17, 77, 427
+Group Works	351
+Guard (hackathon)	208
+Gödel's Theorem	
+Hackathon	65, 71, 475
+Hackathons	65, 71, 208, 515
+HackMD	153
+Hakka	50, 56, 62
+Handmer, Casey	332
+Hanson, Robin	387, 450
+Haptic Feedback	310, 322
+Harberger, Arnold	401
+Hard Journalism	470
+Hawley, Josh	16
+Health	411, 415, 425
+Health Financing	453
+Health Insurance	447, 454
+Health Savings Account	448
+Health Savings Plan	448
+Healthy minds in healthy bodies	450
+Hebbian Model Of Connections, The	105
+Heisenberg’s Uncertainty Principle	101
+Henry George Theorem	120, 405
+Her	
+Herculaneum	332, 337
+Herculean Task	201
+Heritage Foundation	78
+Herndon, Holly	338, 344, 514
+Heterogeneity	110, 190, 390
+High Modernism	95, 117
+High-Bandwidth Communication	315
+Higher-fidelity Signals	379
+HiredScore	370
+Hiring Manager	366, 370, 438
+Hirschman, Albert	393
+Hit Rates	438
+HIV	444, 450
+Hock, Dee	235
+Hodgkin, Alan	104
+Hoffman, Reid	34, 416, 512
+Holdout Issues	275
+Hollowing-out	7
+Holmes, Oliver Wendell	94
+Holochain	177, 249
+Homerian epics	334
+Homogenization	306, 315, 373
+Homogenization of Ideas	342
+Homogenize	132, 302, 409
+Homomorphic Encryption	220, 267
+Horizontal Dialogue	437
+Hsieh Tsung-min	58
+Hu Shih	
+Hugging Face	335
+Human Condition, The	88, 91, 95
+Human Cooperation	392
+Human Diversity	511
+Human Interactions	190, 319
+Human Resources Platform	370
+Human Rights	180, 287, 481, 493
+Human-Computer Symbiosis	487
+Humanocracy	403
+Humor over Rumor	74
+Hunter-gatherer Model	411
+Hutchins Commission on Freedom of the Press	467
+Huxley, Andrew	104
+Hybrid Reality Environments	318, 322
+Hybrid Work Style	429
+Hypertext	137, 145, 153
+Hypertext Transfer Protocol Secure (HTTPS)	267
+IBM	149, 256, 477, 488
+Iceland	160, 385
+ID2020	371
+Ideathons	72, 491, 515
+Identity and Access	424
+Identity Foundation	177, 181
+Identity Information	188
+Identity Provider, The	187
+Identity Systems	181, 186, 189, 197, 203, 206, 249
+Ideologies of the Twenty-First Century	32
+Ideology	42, 50, 56, 291, 493
+Idiosyncratic Project	441
+Immersive Learning	323
+Immersive Shared Reality	317, 359, 421, 507
+Immersive Soundscapes	311
+Impact	444
+Impartial	365
+Imperfections	393
+Implementer	453, 461
+Implicit Data/Attention Exchange Tax	504
+In-person Meeting	347
+In-person Team	431, 442
+In-silico	339
+Incompetent Manager	439
+India	28, 476, 481, 489, 498, 507
+India stack	177, 192, 489, 498
+India Stack Program	192
+Indian Government	192
+Indiastack	489
+Indiegogo	336
+Indigeneous Community	
+Indigenous Land and Sea Corporation	370
+Individual Identity	113, 215
+Industrial Policy	486
+Industrial Revolution	96
+Inequality	343
+Inequality In Access	281
+Influence Function	269
+Infodemic	44, 74
+Information Age	36, 146, 278
+Information commons	171, 279
+Information Integrity	229, 279
+Information Openness	283
+Information Processing Techniques Office (IPTO)	136, 486
+Information Technology	171
+InformationCard	196
+Infrastructure	399, 479, 502, 505
+Infringement On Privacy	206
+Inji	193
+Insurer	447, 451
+Integrity of identity	229
+Intelligence Augmentation	42
+Inter-operation	142, 201, 222, 240
+Inter-specific communication platform	328
+Interactive Agent	357
+Intergalactic Computer Network	136, 150, 253
+Intermediate Horizon	515, 519
+International Business Machines (IBM)	149, 256
+International Federation	184
+International Monetary Fund	77
+International Rules-based Order	479
+International Telecommunication Union (ITU)	280
+International Trade	392, 406, 515
+International Trade Treaties	406
+Internet	1, 92, 352, 357
+Internet Access Is A Human Right	282
+Internet Corporation for Assigned Names and Numbers (ICANN)	274
+Internet of Beings	64, 279
+Internet of Things	5, 64
+Internet Tidal Wave	61
+Internet-compatible Payments Processor	239
+Internet-mediated Writing	352
+Interoperability	28
+Interoperability Across Legal Regime	375
+Interoperable Model	281
+Interplanetary File System (IPFS)	260
+Intersect	96, 106, 110
+Intersectional	91
+Intersectional Identity	
+Intrapreneurship	428, 440, 515
+Invasions Of Privacy	186
+iOS	167
+Irises	193
+IVR Junction	363
+J. D. Vance	36
+Japanese Occupation	52
+Jefferson, Thomas	
+Jennifer Prah Ruger	445
+Jetsons	26
+Jobs, Steve	138, 143, 433
+Johnson, Simon	27, 381
+Joint Learning	431
+Joseph Carl Robnett Licklider	132, 137, 210, 383, 482
+Jothons	65
+Journalism	462, 470
+Journey of Humanity	290
+Julian Schilliger	333
+Jurisdictional Alignment (JA)	503
+Jurisdictional Boundaries	257, 394
+Kafka, Franz	367
+Kaizen	57
+Kao Chia-liang	
+Kaohsiung Incident	60
+Karatani, Kojin	211, 247, 296, 385
+Karya	363
+Kazakhstan	21
+Kela-Kelpo project	369
+Khan Academy	336
+Kickstarter	336
+Kidd, David	371
+Klein, Ezra	19, 35
+Knappschaften	449
+Know Your Customer (KYC)	
+knowledge is power	278
+Kuomintang	50
+Kurz, Sebastian	36
+Kurzweil, Ray	26
+Labor Augmentation	40
+Labor Automation	40
+Labor Law	23, 499, 505
+Labor Markets	6, 394, 398, 408
+Labor Unions	60, 210, 398
+Land to the Tiller	56
+Lanier, Jaron	202
+Large Language Model (LLM)	70, 339, 360, 438
+Latour, Bruno	360
+Laws of Identity	195
+Le Guin, Ursula	26
+Lean manufacturing	57
+Lean Startup	58
+Lee Teng-hui	60
+Left-right Divide	
+Legal Agent	478
+Legal Grounding	189
+Legal Jurisdiction	374
+Legal Robot	369
+Legal Tender	233
+Legislative Yuan	66
+Legitimacy	215, 413
+Legitimation	23
+Lego	403
+Levels of Assurance	182
+Levitsky, Steven	7, 164, 412
+Liberal Democracy	87
+Liberal Democratic Polities	206
+Liberalization of Taiwan	60
+Liberating Structures	351
+Libertarian Ideology	42
+Libertarian Vision	110
+Libertarianism	33, 40, 89
+Libertarians	174, 240, 367, 510
+Licenses For Use	
+Life Expectancy	444, 461
+Life-support System	
+Limited Cultural Groups	409
+Linkage	182
+LinkedIn	186, 205, 416
+Linton, Michael	247
+Linux	154, 166, 496
+Liquid Democracy	359, 385
+Little Platoons	475, 478
+Liu Cixin	101
+Livestream-based communication	66
+LLM-based Representative	
+Local Exchange Trading Systems (LETS)	247
+Local Language	363
+Local ⿻ Communities	515
+Location Aware Sensor System	475
+Long-distance Cooperation	48
+Long-term Work Permits	408
+Lorax	360
+Lord Kelvin	100
+Lord of the Flies, The	519
+Los Alamos	334
+Lost Dao, The	176, 335
+Low-skilled Workers	40
+Ma, Jack	34
+Machine Learning	5, 368
+Machine Translation Tool	357
+Macro Badges	372
+Macrobiology	102
+Magpie River	476
+Malaria	450
+Man-Computer Symbiosis	135, 487
+Management challenges	270
+Mandarin	2, 50, 65, 92
+Mandelbrot set	99
+Manipulation	314
+Mao Zedong	55
+Marginal Revolution	395
+Market	390
+Market Design	273, 404
+Market Power	11, 39, 396, 403
+Marxism	51, 55
+Mask App	72
+Mass Extinction	473
+Mass Surveillance	12
+Massachusetts Institute of Technology	355
+Massive Multi-user Online Laboratories (MMOLs)	323
+Masters of Scale	416
+Masters, Blake	36
+Mastodon	21, 158, 218
+Matching Fund	390, 402, 406, 442
+Material Redistribution	34
+Maternal Mortality	444
+Mathematics	96, 135, 375
+Maximize Utility	95
+Maximum Flow (maxflow)	205, 248
+Mechanism Design	275, 401
+Media	411, 417, 420, 423, 462
+Media Ecosystem	468
+Mediated Reality	306, 319
+Mediators of Individual Data (MIDs)	202, 271
+Meetings Deemed Unproductive	427
+Mental Health	312, 325, 330, 444
+Meta	186, 356, 392, 488
+Metascience	107
+Metaverse	25, 35, 512
+Metaverses	174
+Mezzo Badges	372
+Microsoft	186, 195, 363, 440, 470, 482, 488
+Military Scenario	432
+Mimetic Models	281
+Minister of Digital Affairs	49
+Minister without portfolio	67, 76
+Ministry for the Future	360, 406
+Ministry of Digital Affairs	76, 260, 491
+Minitel	18, 143
+Minority	81, 106, 194, 343
+Minquán	54
+Minzú	53
+Miraikan	305, 491, 515
+Misinformation	347, 352
+Misleading	345
+Mix Of Diversity And Interconnectedness, The	100
+Mixed Reality	157, 318, 430
+Mobile Operating System	489
+Mobile Telephones	188
+modernity	
+Modular Open-Source Identity Platform (MOSIP)	193
+Molecular Biology	104
+Monarchy	55
+Monist	132
+Monist Atomism	89, 95
+Monopolization	146, 330, 488
+Monopoly	119
+Moore's Law	
+Moore’s Law for Everything	33
+Moral Bio-enhancement	312
+Mount Vesuvius	332
+Move fast and Break Things	417
+Mozilla	495
+mRiik	283
+MSFT	196
+Multi-factor Authentication	182, 189
+Multi-sectoral Alliance	489
+Multidisciplinary Renaissance	340
+Multiemployer	6
+Multiple Accounts	183, 196
+Multiple Perspective	337
+Multipolarity	298
+Multiscale Organization	103
+Musk, Elon	19, 34, 218, 239
+Mutualism	103
+Mycorrhizal Fungi	282
+MyGoPen	74
+Mínshēng	54
+Nadella, Satya	363, 440
+Nader, Youssef	332
+Name spaces on the Internet	273
+Narrow Corridor	5, 97, 512
+Narrow Educational and Career Path	370
+Narrow Signals Of Identity	186
+NASA	134, 137, 477
+Nation State	
+National Coalition for Dialogue and Deliberation	351
+National Insurance Model	449
+National Language	363
+National Politics	437, 493
+National Security Agencies	188
+National Socialist German Workers (Nazi) party	
+Nationalism	36, 53, 398
+Nationalist	36, 52
+Nationalist Backlash	37
+Natural Ecosystem	478
+Natural Language Processing	355
+Natural Leadership	440
+Natural Legal Personhood	476
+Natural Sciences	97, 112, 131
+Natural Selection	102
+Negative Freedom of Speech	165
+Nelson, Ted	140, 145, 150, 334
+Neoliberal	41
+Neoliberal Reaction	400
+Neoliberalism	148, 393, 486
+Neom	22
+Netflix Prize	337
+Netherlands	462
+Netizen	469
+Network Architectures	197
+Network Of Processes	94
+Network Sociology	105
+Network State, The	36
+Network States	374
+Networked and Probabilistic Structure	371
+Networked Value	119
+Networks of Human Minds	371
+Neural Interfaces	306, 313, 432
+Neural Network	96, 105, 337, 368, 372
+Neurofeedback	312
+Neuromodulation	312
+Neurons	104, 122, 371
+Neuroscience	96, 103, 312, 326
+New Associationist Movement (NAM)	211, 247, 385
+New Brandeis	482
+New England town hall	347
+New Money	234, 239
+New Public	112, 127
+New Republic, The	55
+New Yorker	181
+New Zealand	160, 476
+New ⿻ Order	490, 518
+News feed algorithm	339, 345
+Newtonian Mechanics	96, 118, 129
+Nicholas Bostrom	26, 34
+Nissenbaum, Helen	206, 211
+Nixon's visit to PRC	
+Nixon, Richard	59
+Nobody Movement	65
+Nodes	105, 368
+Non-aligned incentives	446
+non-believers	81
+Non-colonialist Model	
+Non-communicable Disease	445
+Non-Euclidean Geometries	96
+Non-fungible Token (NFT)	402, 504
+Non-fungible Tokens (NFTs)	
+Non-human Perspective	340
+Non-market	6, 409, 451
+Non-profit ⿻ Infrastructure	
+Non-renewable Energy Sources	473
+Non-verbal Communication	307, 347
+Normative	90, 275, 459
+North Star	420
+Notion	335
+OAuth	183, 187
+Objective Quality	346
+Objectivity	465
+Occupy	48, 440
+Ocean Acidification	9, 473
+Octavia Butler	26
+OECD	17, 78, 479
+Office of Chief Technology Officer	440
+Office Politics	437
+Olfactory Technology	322
+On Revolution	413
+On the ground	441, 514
+On the Internet, Nobody Knows You're A Dog	
+One China	59
+One Country, Two Systems	62
+One-dimensional Spectrum	225, 346
+One-Person-One-Vote	117
+One-Share-One-Vote	114, 381, 394, 407, 501
+One-share-one-vote	114, 381, 394, 407, 501
+Online collaboration platform	
+Online Deliberation	150, 158
+Online Democracy	181
+Online Gaming	318
+Online Platform	300, 320, 334
+Opacity of Bureaucracy	374
+Open And Decentralized Marketplace	487
+Open Collective Foundation	
+Open Conversation	436
+Open Government Data	283
+Open Government Movement	67
+Open Impact Pool	453
+Open Protocols	479
+Open Source	18, 22, 285, 399, 479, 494
+Open Source Code	18, 285, 495
+Open Source Community	
+Open Source Ecosystem	
+Open Source Intelligence	
+Open Source Models	
+Open Source Projects	495
+Open Source Software (OSS)	22, 68
+Open Source Technology	490
+Open Space Technology	348
+Open Standard	139
+Open Standards-based Collaborations.	263
+Open-source project	335, 492
+Open-source Rainmaking	475
+Open-source software (OSS)	245
+OpenAI	19, 33, 70, 193, 354, 403, 417, 441, 496
+OpenID Connect	187
+OpenMined	268
+Operating System	161, 287
+Optimism Collective	496
+Orderly States	97
+Outcome	451, 460
+Output	451, 457
+Ovadya, Aviv	353
+Over-shared information	
+Ownership	196, 200
+Packet Switching	139, 145, 197, 201, 205, 371
+PageRank	274, 386
+Paradigm Shift	314, 352
+Paradox.ai	370
+PARC	137, 143, 489
+Park of Aging	305, 310
+Parker, Seth	332
+Parliament of Things	360
+Partial Common Ownership	401
+Participation	4, 14, 23
+Participative Production	57
+Participatory Design	403
+Participedia	351
+Passports	115, 184
+Password	182, 225, 457
+Paucity of attention	217
+Payment In Digital Spaces	232
+PayPal	150, 239
+PDCA (Plan-Do-Check-Act) cycle	57
+Peer Production	152
+Peng Ming-min	58
+Penrose, Lionel	383
+People's Republic of China (PRC)	17, 28, 34, 50, 59, 62, 481
+Peripheral	27, 35
+Personal Computing	256, 482, 489
+Personal Identities	91
+Phishing Attack	223, 460
+Phone	179, 187, 192, 196, 205
+Physical Government-issued IDs	
+Physical Work	429
+Physics	94, 100
+Pigouvian Taxes	400, 503
+Piketty, Thomas	79
+Pixar's headquarters	433
+Place of Convergence	48
+Plural Funding	386, 390
+Plural Management Protocol	407
+Plural Spirit	48
+Pluralism	53, 61
+Pluralistic Ignorance	469
+Pluralists	518
+Plurality	2
+Plutocracy	181
+Polarization	4, 43
+Policy	479
+Polis	68, 353, 357, 436, 455
+Political Polarization	7, 43, 83, 345
+Polycentrism	203, 206
+Polypolitan Migration Policy	408
+Pompeii	332
+Populist Movement	398
+Portals Policing Project	324, 356
+Porter, Winslow	464
+Positive Freedom of Speech	165
+Post-capitalist World	26
+Post-colonial Futurism	26
+Post-gender	
+Post-state	26
+Post-symbolic Communication	305, 340, 375, 421
+Power Concentration	387
+Pragmatic	54, 133, 300
+PRC Surveillance Regime	28
+Pre-digital associations	211
+Precious Metals	233
+Prediction Market	285, 387, 403
+Predictive Futurism	26
+Predictive Voting	387
+Premature Optimization	288, 298
+Prepayment	447, 454
+Prescriptive	90, 383
+Presidential Hackathon	71, 485
+Press Freedom	411, 462
+Press Responsibility	467
+Principles of ⿻	162, 344
+Privacy	182, 185, 191, 194, 203, 206, 231, 237, 240, 342
+Privacy Budget	269
+Privacy Regulations	222, 264
+Privacy-enhancing technologies (PETs)	220
+Private Club	216
+Private Community-based Sponsorship	
+Private Corporations	150, 177, 479, 489
+Private Health Insurance	447
+Private Information	182, 460
+Private Key	220, 467
+Private Monopolies	482
+Private Organizations	409
+Private Property	112, 122, 273, 392, 399
+Private Providers	189
+Private Sector	18, 29, 185, 192, 481, 488, 498, 502
+Private Technology Development	479
+Private, For-profit Corporations	187
+Pro-social Media	468, 471
+Production Possibilities Frontier	296
+Productivity Software	470
+Programmer	368, 477
+Progress and Poverty	119
+Progress Prizes	332
+Progressive authentication	200
+Project Liberty	176, 218
+Projection Mapping	311
+Proof Of Work	238
+Propagational investment currency system (PICSY)	385
+Property	251
+Property Rights	272, 392, 397
+Proportional Representation	116, 382, 385
+Protocol Labs (PL)	260
+Pseudonymity	181
+Pseudonyms	184, 196
+Public and its Problems, The	112, 126, 397
+Public Consent	23
+Public Data Repositories	196
+Public Digital Innovation Space	70
+Public Expenditure	17, 369
+Public Funding	154, 479
+Public Good	
+Public Goods	374, 392, 395, 399, 402, 405, 409
+Public Health Policy	454
+Public Investment	480, 484, 487, 497
+Public Key Cryptography	220
+Public Mission	489
+Public Participation	14, 283, 351, 486
+Public Perception	475
+Public Sector	14, 17, 23, 32
+Public Service	363, 369
+Public Signals	186
+Public Square	21, 172, 217, 497
+Public Welfare Schemes	400
+Public Will	376, 379
+Public/Supermodular Goods	402
+Purchasing Power Parity	77
+Putnam, Robert	228
+Qing	51
+Quadratic Funding	391, 402
+Quadratic Liquid Democracy	387
+Quadratic Voting	71, 378, 486, 501
+Quantitative Markers	404
+Quantum Computer	222
+Quantum Mechanics	101, 132
+Quantum Physics	101, 130
+Quick Fixes	264
+RadicalxChange	247, 382, 387, 493
+Rainbow Flags	50
+Rainforest Foundation US	370
+Raj	28, 32, 301
+Ramón y Cajal, Santiago	104
+Rand, Ayn	35
+Randomized Controlled Trials	414
+Ranked Choice	380
+rationality	95, 117, 298, 370
+Ready Player One	329
+Real-time Auction	
+Realistic Avatar	431
+Receipts	233, 467
+Reckless Monopolies	393
+Recovery	183, 189, 196, 200
+Reddit	190, 271
+Redistribution	397, 400, 447, 454
+Reductionism	98
+Redundancy	139, 199, 260
+Rees-Mogg, Jacob	36
+Rees-Mogg, Lord William	36
+Regenerating Diversity	288, 294, 302, 519
+region	211
+Regression Discontinuity Design	460
+Regulatory Powerhouse	483
+Reinstatement	40
+Relationality	100, 103
+Relevant public	128, 400
+Remesh	354, 436
+Remix and Replace	10
+Remote Collaboration Tool	429
+Remote Employee	431
+Remote Fitness Classes	321
+Remote Shared Reality	432, 438
+Remote Teams	427, 431, 442
+Renaissance	117, 340
+Reporters without Borders	462
+Representation	349, 359
+Representative Statement	353
+Representing Consensus Position	358
+Republic of China (ROC)	50
+Research and Development	17, 29
+Research Policy	399
+Resolution 2758	59
+Restrepo, Pascual	11, 40
+Revenue alignment (RA)	503
+Reverse Mentors	49
+Revive China Society	53
+Revolutionary Democratic Direction	53
+rhizomatic association	211
+Rich Get Richer	369
+Rights Of Association	183
+Rights of free speech	165
+Risk Pooling	447
+River Of Democracy	2
+Robert Atkinson	
+Robinson, James	
+Robinson, Kim Stanley	360
+Roblox	403
+Ropes Course	431
+Rorty, Richard	216
+Rosenblatt, Frank	105
+Rough Consensus	354, 358, 362, 468
+Rovelli, Carlo	95, 102
+Rule Of Law	392
+Run-off	380
+Rural Land Reform	56
+Russian revolution	55
+Saez, Emmanuel	39, 79
+Same-sex Marriage	84
+San Francisco	120, 236
+Sardinia	429
+Saudi Arabia	20
+Scaling Collaboration	396
+Scandinavian Countries	20, 87, 165, 448
+Science And Technology Studies	27
+Science Fiction	25, 34, 89, 516
+Science of Science	107
+Scientific Management	95
+Scott, Kevin	440
+Seales, Brent	332
+Search Engines	10, 21, 274, 375
+Seasteads	35, 374
+Secret Information	183
+Secure Multi-Party Computation (SMPC)	220
+Secure multiparty computation (SMPC)	267
+Securities Laws	23
+Security	182, 193, 200, 204
+Security protocols	167
+Seeds	419
+Self-determination	53, 456
+Self-organizing Criticality	98
+Self-ownership	
+Sen, Amartya	382
+Sensitivity	99, 221
+Sensory Integration	318, 326
+SERVIR Amazonia	370
+Seuss, Dr.	360
+Shared Goods	392, 396, 503
+Shared Knowledge Base	332
+Shield Of Trust And Safety	180
+Sidewalk Labs	23
+Signal	220
+Signatures	221, 269, 467
+Silent Majority	469
+Silicon Valley	487
+Simard, Suzanne	282
+Simmel, Georg	112, 123
+Simon, Herbert	217, 350
+Simulated Military Exercise	431
+Single Point Of Failure	195, 200
+Single Tax	119
+Single-sign-on Architectures (SSO)	187, 497
+Sino-Japanese war	52
+Siraya	50
+Slack	335, 436, 470
+Slaughter, Anne-Marie	172, 494
+Smaller World	463
+Smallpox	444
+Smart City	22
+Smart Contract	157, 237, 265, 367
+Smith, Noah	35
+SnapChat	224
+Snow Crash	25, 35, 329
+Snowden, Edward	
+Social And Behavioral Psychology	106
+Social Collapse	5
+Social Connectedness	88
+Social Control	12, 24
+Social Credit Score	24
+Social Currencies	249
+Social Difference	288, 292, 297
+Social Dilemma, The	16
+Social Distance	391, 410
+Social Distancing Measure	455
+Social Diversity	110, 392, 519
+Social Divide	386, 418, 464
+Social Division	345, 388, 420
+Social Dynamism	127
+Social Equity	399
+Social Esteem	245, 404
+Social Fabric	5, 174, 210
+Social Graph	183, 439
+Social Identity System	438
+Social Inclusivity	284
+Social Insurance	400
+Social Interaction	393
+Social Interactions	173, 198, 228, 251, 282
+Social leakage	270
+Social Media	5, 13, 21, 43, 345, 352, 359, 462, 465
+Social Media Accounts	181
+Social Media Platform	13, 170, 339, 345, 425
+Social Network	337, 482, 489, 497
+Social Order	374, 511
+Social Organization	113, 129
+Social Recovery	200
+Social Responsibility	467, 470
+Social Science Experts	128
+Social sciences	27, 96, 131, 415
+Social Sector	417, 425
+Social Security Number (SSN)	115, 184, 317, 351
+Social System	95
+Social Welfare Function	298, 381, 447
+Social Worker	369
+Socialism	54, 349, 393
+Socialism Takes Too Many Evenings	349
+Socially Isolated	6
+Society for Worldwide Interbank Financial Telecommunication (SWIFT)	236
+Society Library	356
+Sociometrics	198, 478
+Solidarity and Dynamism	440, 471
+Sortition	297, 350, 359
+Soulbound Tokens (SBTs)	197
+Source Confidentiality	462, 466
+South China Sea	51
+Sovereign Individual, The	36
+Soviet Union	134, 392, 490
+SpaceX	333
+Spatial Computing	311
+Speciation	374
+Spectrum Sharing	275
+Square Root	384, 402, 421
+Square-root Voting	384
+Srinavasan, Balaji	36, 512
+Stagnant Democratic Stories	92
+Stakeholder Corporation	402
+Stakeholder Remedies	403
+Stakeholders	403, 407
+Stakeholding	407
+Standard Career Paths	437
+Standardization	417, 498
+Star Trek	26, 89, 302
+Start-ups	145, 394, 407
+State of Wyoming	499
+Statistical Process Control (SPC)	57
+Steam	190
+Stephenson, Neal	25, 35, 299, 329
+Stiglitz, Joseph	405
+StoryCorps	356
+String Theory	101
+Su Tseng-chang	74
+Subcultural translation	286
+Submodular	245, 503
+Submodular Returns	503
+Subscriptions	181, 470
+Sun Yat-Sen	53, 401
+Sunflower Movement	50, 61, 66, 83
+Superintelligence	26, 32
+Supermodular Collaboration	399
+Supermodular International Cooperation	515
+Supermodular Investments	405
+Supermodular Production	406
+Supermodular Shared Goods	503
+Supermodularity	287, 294, 392, 396
+Superposition	101
+Superpower	10, 73
+Surveillance	3, 10, 16, 24, 28, 318, 330
+Sustainable Development Goals (SDGs)	444
+Suzuki, Ken	385
+Swartz, Lana	239
+Symbiotic Relationship	2, 106
+Symphony of Minds	340
+Synchronous Meeting	436
+Synthetic instrument	337
+Synthetic Technocracy	33
+Systems of rights	169
+Taigi	50, 56, 62
+Taishō Democratic	53
+Taivoan	48
+Taiwan	28, 38, 88, 280, 283, 390, 402, 408, 429, 462, 475, 481, 484, 489, 507, 510
+Taiwan Self-Salvation Manifesto	58
+Taiwan's Digital Civic Infrastructure	
+Take The Path Of Least Action	95
+Talk to the City	357, 360
+Tang Jingsong	52
+Tang, Audrey	64, 88, 354
+Tangible Potential	411
+Taoism	55, 81
+Taste Retargeting	322
+Taxes	501
+Taylor, Robert	138, 210, 463
+Taylorism	95
+Teams	427, 435, 442
+Tech Left	34
+Techlash	14, 147
+Technocracy	89
+Technocratic vision	110
+Technocrats	174, 510
+Technological Agenda	92
+Technology Addiction	80
+Technology Investment	29, 37
+Technology Policy	481
+Telecommuting	6
+Telehealth	457
+Telemedicine	457
+Telepathic Creative Exchange	340
+Telepathic Exchange	340
+Telepathy	313
+Temporal Collaboration	341
+Terminator	26
+Territorial And Intellectual Property Treaties	394
+Theocracy	32
+Theory of Change	412
+Thiel, Peter	36, 239, 512
+Thin Shell	409
+Thin Signals	186, 297
+Third Sector	58, 399, 517
+Thorburn, Luke	353
+time sharing	136
+Time Travel	341
+Time-sharing	256, 262, 415
+Top Employer	369
+Top-down	190, 368
+Tornado Cash	241
+Total Factor Productivity	38
+Towards a Connected Society	88
+Toyota Production System (TPS)	57
+Tradable Carbon Permits	404
+Trading Cycles	244
+Traditional Practice	372
+Transformativeness	500
+Transhuman	457, 461
+Transitive Trust	202, 206
+Translation	373
+Transnational Corporations	394
+Transparent Database	371
+Trello	436
+Trichotomy	481
+Tridemism	51, 56, 62
+True democracy	128
+Trump, Donald	36
+Trust Falls	431
+Trust Over IP Foundation	201, 249
+Trusted Network	283
+Tsai, Jaclyn	49, 67
+Tuberculosis	451
+Turing	370
+Twitter	14, 21, 44, 217, 239, 345, 471
+Tyranny of Structurelessness	351
+Tyranny Of The Majority	380
+Ukraine	283, 491
+UN global goals	492
+Uncertainty Principle, The	96, 99
+Undecidable	98
+UNDP	
+Unforgeable and undeniable signatures	221
+Uniform Resource Locator (URL)	
+Union of Japanese Scientists and Engineers (JUSE)	
+Unique Identification Authority of India (UIDAI)	192
+United Arab Emirates (UAE)	20
+United Kingdom (UK)	483
+United Nations (UN)	268, 381, 474
+United States (US)	480, 501, 506
+Universal Basic Income	34, 194
+Universal Birth Registration	115
+Universal Coded Character (unicode)	91
+Universal Declaration of Human Rights	163, 166, 279
+Unorthodox Thinking	437
+Untapped	370
+User Engagement	13, 345
+User Experience	64, 191, 353, 495
+User Perspective	353
+Ushahidi	159, 370
+Usus	122, 263, 406
+Utilities	218, 497
+Utility Regulation	398
+Utility Tokens	504
+V-Dem	2, 49, 82
+Vaccine Alliance	444
+Venture Capital	29, 36, 394, 416
+Venture Capitalist	36, 416
+Ventures	394, 406
+Verifiable Credentials (VCs)	176, 193, 197, 372
+Vesuvius Challenge	332, 337
+Vickrey, William	401, 405
+Violent Revolution	412
+Virtual Gatherings	319
+Virtual Meeting	352, 434
+Virtual Music Festivals	318, 321
+Virtual Reality (VR)	147, 156, 317, 324
+Virtual Reality Therapy	325
+Virtual Replica	339
+Virtual Tourism	321
+Virtuous Circle	518
+Visa	235
+Voice-based Internet	363
+Volume Cartographer	332
+Vote	378
+Voting	23, 246
+Voting Based On Measures Of Power	381
+Voting Based On Population Size	381
+Vouch	199, 247
+vTaiwan	67, 353
+Vulcans	89
+Wade, Cynthia	514
+Wage System	394
+Waldrop, M. Mitchell	97, 133
+War of Independence	413
+Water Management	477
+Watermarking	269
+Way, Lucan	412
+Wealth Taxes	399
+Weapons of Math Destruction	10, 16, 375
+Weather Systems	99
+Web 2.0	19, 371
+web of group-affiliation	
+Web2 application	460
+Web3	19, 28, 35, 177, 181, 190, 200, 390, 407, 423, 511
+Web3 Communities	181, 200
+Weber, Max	117, 124, 365
+Wei Ting-chao	58
+Weighted-voting	
+Weimar Republic	164
+WEIRD societies	
+Welfare	482
+Welfare Capitalism	287
+Western Capitalist Countries	28
+Western Liberal Democracies	28, 513
+Whanganui	476
+What's App	364
+Whitcraft, Teri	514
+White Collar	
+White Terror	56, 59
+Widening Gulf	3
+Wiener, Norbert	113, 129
+Wikimedia Foundations	495
+Wikipedia	22, 140, 151, 335, 465
+Wikisurvey	68, 354
+Wilde, Oscar	349
+Will Of The Group	380
+will.i.am	344
+Windows	143, 166, 196
+Wisdom of the Crowd	455
+Withdrew	59
+Women Talking	347
+Words Cannot Capture	361
+Work-life Balance	429
+Workplace	411, 425
+Workspace	335
+World Cafe, The	348
+World Congress	377
+World Economic Forum	363, 492
+World Health Organization (WHO)	80
+World Press Freedom Index	462
+World Trade Organization,	394
+World War	19, 57, 133, 164, 463
+World Wide Web Consortium (W3C)	176, 190, 196, 218
+Worldcoin	193
+Wu, Michelle	355
+X (formerly Twitter)	345, 471
+Xerox PARC	138, 143, 489
+Yamuna River	476
+Yarvin, Curtis (aka Mencius Moldbug)	36
+Yasmin Eyalat	464
+Year of AI	49, 363
+Year of Elections	49
+Yglesias, Matthew	35
+Young, Kaliya	189, 249
+Yu Yong-Ding	34
+Yuans	54
+Yushan	47, 484
+Zero Trust	75
+Zero-Knowledge Proofs(ZKPs)	466
+Zetlin, Ariana	371
+Zheng Chenggong	51
+Zoning Restrictions	400
+Zuboff, Shoshanna	3, 16
+Zuckerberg, Mark	356
+Zucman, Gabriel	39, 79
