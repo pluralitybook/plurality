@@ -51,7 +51,6 @@
 4chan	35, 190
 51% Attack	381
 5G	20, 45, 273
-A Connected Society	88, 91, 113
 A New World Order	173, 493
 a priori	417
 Aadhaar Identity System	192
@@ -340,7 +339,7 @@ Confidential Computing	221
 Conformity	375, 519
 Confucian Tradition	53, 58
 Connected Digital Community	492
-Connected Society	112
+Connected Society	88, 91, 112
 Consociational	117, 381, 386
 Consociationalism	117, 386
 Constitutional Court	84
@@ -426,8 +425,7 @@ Decentralized Web	158, 177
 Decision Trees	368
 Declaration for the Future of the Internet	279
 Declaration of the Independence of Cyberspace	37
-Decreasing Marginal Returns	396
-Decreasing Returns	395
+Decreasing Marginal Returns	395
 Deepfakes	281
 DeepMind	34, 338
 Deforestation	325, 473
@@ -438,8 +436,7 @@ Democracy	1, 88, 278, 378, 484, 497, 504
 Democracy in America	6, 209
 Democratic Advocates	59
 Democratic freedom	62
-Democratic Input to AI project	70
-Democratic Inputs	355
+Democratic Inputs to AI	70, 355
 Democratic Participation	4, 53, 160
 Democratic Progressive Party (DPP)	49, 61
 Democratic Republican Government	413
@@ -548,8 +545,7 @@ Early Adopted Community	418
 Early Adopters	415, 419
 Ease of Attacks Online	181
 Ebola	464
-Echo Chamber	465
-Echo Chambers	345, 352
+Echo Chamber	345, 352, 465
 Ecology	96, 104, 132
 Economies of Esteem	404
 Economist Intelligence Unit	82
@@ -611,7 +607,7 @@ Experimentation with	416, 423
 Expert	368
 Export-orientation	62
 Extended Evolutionary Synthesis	96, 102
-Extended Reality	458
+Extended Reality (XR)	458
 External surveillance	211, 216, 222, 242
 Externalities	392, 397, 400, 404, 407
 Extreme Sports	432
@@ -619,8 +615,7 @@ Extremist Parties	7
 Fabric Of Relationships	510
 Faceted Identity	198
 Facial Recognition	24
-Fact Checkers	73
-Fact-checking	74, 345
+Fact-checking	73, 345
 Fairness	127, 364, 468
 False Consensus	469
 Farritor, Luke	333
@@ -687,7 +682,6 @@ Ganga River	476
 Gates, Bill	61
 Gathering Storm	33, 377
 Gavi	444
-GDP	428
 General Computation	96
 General Data Protection Regulation	16, 222, 484
 Generative AI	226, 279
@@ -747,7 +741,7 @@ Great Firewall	170
 Great Powers	3, 102, 481
 Greatest Good For The Greatest Number, The	378
 Green Technologies	411, 473
-Gross Domestic Product	17, 77, 427
+Gross Domestic Product (GDP)	17, 77, 427
 Group Works	351
 Guard (hackathon)	208
 Gödel's Theorem	
