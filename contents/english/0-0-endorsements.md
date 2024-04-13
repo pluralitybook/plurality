@@ -49,7 +49,7 @@
 
 <br></br>
 
->(A) remarkable book which provides accessible, deep and novel insights into the way in which technology has, is, will and should shape our lives.  It draws on a wealth of evidence to provide a powerful case in favour of promoting plurality...It holds important lessons for all of us. <br></br>
+> \(A\) remarkable book which provides accessible, deep and novel insights into the way in which technology has, is, will and should shape our lives.  It draws on a wealth of evidence to provide a powerful case in favour of promoting plurality...It holds important lessons for all of us. <br></br>
 — [Colin Mayer](https://en.wikipedia.org/wiki/Colin_Mayer), Peter Moores Professor of Management Studies at the Oxford [Saïd School of Management](https://en.wikipedia.org/wiki/Sa%C3%AFd_Business_School) and author of [*Prosperity: Better Business Makes the Greater Good*](https://global.oup.com/academic/product/prosperity-9780198866824?lang=en&cc=sk)  
 
 <br></br>
@@ -105,11 +105,6 @@
 
 <br></br>
 
-> (V)isionary in design, execution and substance.<br></br>
-— [Brad Carson](https://en.wikipedia.org/wiki/Brad_Carson), President of [University of Tulsa](https://utulsa.edu/) and [Americans for Responsible Innovation](https://responsibleinnovation.org/), Fmr. US Congressman and Undersecretary of the Army
-
-<br></br>
-
 > Can the public sector move as fast to harness emerging technologies as the rest of society?  Audrey Tang has shown on the ground that it can, and here she teaches you how to do the same.<br></br>
 — [Shlomit Wagman](https://cyber.harvard.edu/people/shlomit-wagman), former Director General of the [Israel Money Laundering and Terror Financing Prohibition Authority](https://www.gov.il/en/departments/impa/govil-landing-page) and [Privacy Protection Authority](https://www.gov.il/en/departments/the_privacy_protection_authority/govil-landing-page)
 
@@ -119,4 +114,3 @@
 — [Frank McCourt](https://en.wikipedia.org/wiki/Frank_McCourt_(executive)), Founder of [McCourt Global](https://www.mccourt.com/) and [Project Liberty](https://www.projectliberty.io/) and co-author of [*Our Biggest Fight*](https://ourbiggestfight.com/)
 
 <br></br>
-
