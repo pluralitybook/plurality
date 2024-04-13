@@ -125,7 +125,7 @@ Arms Race	167, 418, 466
 Armstrong, Neil	464
 Arnott, Richard	405
 ARPANET	138, 154, 257, 482, 489, 508
-Arrow's Theorem	382
+Arrow's Theorem	380
 Arrow, Kenneth	380, 447
 Articles 145 of the ROC	57
 Artificial General Intelligence	34
@@ -728,7 +728,6 @@ Good Old-fashioned AI (GOFAI)	368
 Google	392, 441, 488, 492, 504
 Google DeepMind	338
 Gordon-Levitt, Joseph	344
-Government Issued ID	188
 Government-issued Identities	186
 Governments	479, 491, 498, 506
 GovTech	158
@@ -823,15 +822,13 @@ Ideologies of the Twenty-First Century	32
 Ideology	42, 50, 56, 291, 493
 Idiosyncratic Project	441
 Immersive Learning	323
-Immersive Shared Realities	359
-Immersive Shared Reality	317, 421, 507
+Immersive Shared Reality	317, 359, 421, 507
 Immersive Soundscapes	311
 Impact	444
 Impartial	365
 Imperfections	393
 Implementer	453, 461
 Implicit Data/Attention Exchange Tax	504
-Impossibility Theorem	380
 In-person Meeting	347
 In-person Team	431, 442
 In-silico	339
@@ -1048,7 +1045,7 @@ Misinformation	347, 352
 Misleading	345
 Mix Of Diversity And Interconnectedness, The	100
 Mixed Reality	157, 318, 430
-Mobile Operating Systems	489
+Mobile Operating System	489
 Mobile Telephones	188
 modernity	
 Modular Open-Source Identity Platform (MOSIP)	193
@@ -1137,8 +1134,7 @@ New ⿻ Order	490, 518
 News feed algorithm	339, 345
 Newtonian Mechanics	96, 118, 129
 Nicholas Bostrom	26, 34
-Nissenbaum	206, 211
-Nissenbaum, Helen	206
+Nissenbaum, Helen	206, 211
 Nixon's visit to PRC	
 Nixon, Richard	59
 Nobody Movement	65
@@ -1208,10 +1204,8 @@ Open-source software (OSS)	245
 OpenAI	19, 33, 70, 193, 354, 403, 417, 441, 496
 OpenID Connect	187
 OpenMined	268
-Operating System	287
-Operating Systems	161
+Operating System	161, 287
 Optimism Collective	496
-orb	
 Orderly States	97
 Outcome	451, 460
 Output	451, 457
@@ -1219,7 +1213,6 @@ Ovadya, Aviv	353
 Over-shared information	
 Ownership	196, 200
 Packet Switching	139, 145, 197, 201, 205, 371
-Packet Switching Architectures	201
 PageRank	274, 386
 Paradigm Shift	314, 352
 Paradox.ai	370
@@ -1284,7 +1277,6 @@ PRC Surveillance Regime	28
 Pre-digital associations	211
 Precious Metals	233
 Prediction Market	285, 387, 403
-Prediction Markets	285, 387, 403
 Predictive Futurism	26
 Predictive Voting	387
 Premature Optimization	288, 298
@@ -1346,7 +1338,6 @@ Public Sector	14, 17, 23, 32
 Public Service	363, 369
 Public Signals	186
 Public Square	21, 172, 217, 497
-Public Squares	21, 497
 Public Welfare Schemes	400
 Public Will	376, 379
 Public/Supermodular Goods	402
@@ -1482,7 +1473,6 @@ Smaller World	463
 Smallpox	444
 Smart City	22
 Smart Contract	157, 237, 265, 367
-Smart Contracts	265, 367
 Smith, Noah	35
 SnapChat	224
 Snow Crash	25, 35, 329
