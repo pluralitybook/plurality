@@ -42,8 +42,6 @@
 ⿻ Thinking	384
 ⿻ Vision	171, 233
 ⿻ Voting	497, 501
-(anti-)social media	71
-(In)dividual identity	126, 129
 12-Year Basic Education Curriculum	75
 20% time model	442
 2050 net zero	86
@@ -110,7 +108,7 @@ Anthropocene	474
 Anthropologist	124, 133, 163, 203, 373
 Anti-authoritarianism	62
 Anti-social	5, 8, 465
-Anti-social Media	465
+Anti-social Media	71, 465
 Antipathy	36
 Antiretroviral Therapy	444
 Antisocial	6, 26, 97
@@ -522,6 +520,7 @@ Diversification	374, 421
 Diversity	412, 419
 Diversity Of Cross-species Interactions, The	103
 Diversity of groups	173, 414
+Dividual identity	126, 129
 Domain Names	274
 Domains of Identity	189
 Dominant Narrative	343
