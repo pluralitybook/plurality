@@ -238,7 +238,7 @@ Chen Shui-bian	61
 Cheques	234
 Chiang Ching-Kuo	60
 Chiang Kai-shek	55
-Chinese Communist Party (CCP)	55, 483
+Chinese Communist Party (CCP)	12, 55, 59, 483
 Church Turing Thesis	96
 Church, Alonzo	98
 Circle, The	223, 342
@@ -1234,7 +1234,7 @@ PDCA (Plan-Do-Check-Act) cycle	57
 Peer Production	152
 Peng Ming-min	58
 Penrose, Lionel	383
-People's Republic of China (PRC)	481
+People's Republic of China (PRC)	17, 28, 34, 50, 59, 62, 481
 Peripheral	27, 35
 Personal Computing	256, 482, 489
 Personal Identities	91
@@ -1589,8 +1589,7 @@ Talk to the City	357, 360
 Tang Jingsong	52
 Tang, Audrey	64, 88, 354
 Tangible Potential	411
-Taoism	81
-Taoist	55
+Taoism	55, 81
 Taste Retargeting	322
 Taxes	501
 Taylor, Robert	138, 210, 463
