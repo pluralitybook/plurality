@@ -1,5 +1,7 @@
+# ⿻ (Plurality / Plural) and 數位 (Digital / Plural)
+```
 數位	2
-⿻	
+⿻	88
 ⿻ Approach	96, 160, 197, 247
 ⿻ Artist	344
 ⿻ Book	391
@@ -42,13 +44,10 @@
 ⿻ Thinking	384
 ⿻ Vision	171, 233
 ⿻ Voting	497, 501
-12-Year Basic Education Curriculum	75
-20% time model	442
-2050 net zero	86
-3D Audio	311
-4chan	35, 190
-51% Attack	381
-5G	20, 45, 273
+```
+
+# A
+```
 A New World Order	173, 493
 a priori	417
 Aadhaar Identity System	192
@@ -205,6 +204,10 @@ Bureaucracies	365, 399
 Bureaucratic Rules	366
 Burke, Edmund	475
 By An Invisible Hand	395
+```
+
+# C
+```
 Cameron, Kim	195
 Campus Athletics	432
 Canada	21, 408, 456, 476
@@ -264,7 +267,6 @@ Climate Change	179, 473, 477
 Cloud Era	261
 Cloud Infrastructures	154, 489, 497
 Co-construction of Health Agency	445
-Co-edited Project	
 Cocreation Relationship	477
 Codetermination	398
 Cofacts	73
@@ -294,7 +296,6 @@ Collective Future	510
 Collective Intelligence	354, 437
 Collective Organization	35, 91, 470
 Collective Problem-solving	476
-Collective Response Model	
 Collective Response Systems	354, 358
 Collegia	142, 448
 Colonial Outsider	370
@@ -359,8 +360,7 @@ Correlation discounting	386
 Cortico	355
 Countervail	398
 Coursera	336
-COVID-19 Pandemic	454
-COVID-19 pandemic	69, 72, 85, 428, 469
+COVID-19 Pandemic	69, 72, 85, 428, 454, 469
 Cowriting	334
 Crackle	332
 Creative Collaborations	332
@@ -371,12 +371,11 @@ Credit Card	234
 Credit-scoring	188
 Critical Value	97
 Cross-cultural collaboration	338
-Cross-Cultural Exchanges	
-Cross-cutting Benefit	
-Cross-pollination Service	
+Cross-Cultural Exchange	324
+Cross-pollination   433, 442
 Cross-Straits Services Trade Agreement	67
 Crowdsourcing	334, 371
-Crutzen, Paul Jozef	
+Crutzen, Paul Jozef	473
 Crypto	5, 8, 13, 23, 29, 35, 480, 509
 Cryptocurrency	8, 13, 23, 35, 194, 232, 237, 247
 Cryptographic Hypercapitalism	32
@@ -393,7 +392,7 @@ Curriculum Vitae (CV)	365
 Customers	96, 102, 111
 Cybernetic Society	129
 Cybernetics	113, 129, 133
-Dao	
+Dao	50, 279
 Daoism	50
 dApps	423
 Dark Web	190
@@ -536,6 +535,10 @@ Durkheim, Émile	124, 449
 Duverger's Law	379
 Dynamic	390, 393, 399, 403, 407
 Dōka	52
+```
+
+# E
+```
 e-citizenship	429
 E-Government	21, 160
 e-health	457
@@ -611,6 +614,10 @@ External surveillance	211, 216, 222, 242
 Externalities	392, 397, 400, 404, 407
 Extreme Sports	432
 Extremist Parties	7
+```
+
+# F
+```
 Fabric Of Relationships	510
 Faceted Identity	198
 Facial Recognition	24
@@ -672,6 +679,10 @@ Funder	32, 390, 453, 461, 488
 Funding Pool	453
 Fusion	303
 Futarchy	387
+```
+
+# G
+```
 g0v	64, 71, 455, 493
 Gaia-X	177, 263, 489
 Galbraith, John Kenneth	215, 398
@@ -743,6 +754,10 @@ Gross Domestic Product (GDP)	17, 77, 427
 Group Works	351
 Guard (hackathon)	208
 Gödel's Theorem	
+```
+
+# H
+```
 Hackathon	65, 71, 475
 Hackathons	65, 71, 208, 515
 HackMD	153
@@ -762,7 +777,7 @@ Healthy minds in healthy bodies	450
 Hebbian Model Of Connections, The	105
 Heisenberg’s Uncertainty Principle	101
 Henry George Theorem	120, 405
-Her	
+*Her* (film)	26
 Herculaneum	332, 337
 Herculean Task	201
 Heritage Foundation	78
@@ -808,6 +823,10 @@ Hybrid Reality Environments	318, 322
 Hybrid Work Style	429
 Hypertext	137, 145, 153
 Hypertext Transfer Protocol Secure (HTTPS)	267
+```
+
+# I
+```
 IBM	149, 256, 477, 488
 Iceland	160, 385
 ID2020	371
@@ -892,6 +911,10 @@ Invasions Of Privacy	186
 iOS	167
 Irises	193
 IVR Junction	363
+```
+
+# J
+```
 J. D. Vance	36
 Japanese Occupation	52
 Jefferson, Thomas	
@@ -907,6 +930,10 @@ Journey of Humanity	290
 Julian Schilliger	333
 Jurisdictional Alignment (JA)	503
 Jurisdictional Boundaries	257, 394
+```
+
+# K
+```
 Kafka, Franz	367
 Kaizen	57
 Kao Chia-liang	
@@ -925,6 +952,10 @@ knowledge is power	278
 Kuomintang	50
 Kurz, Sebastian	36
 Kurzweil, Ray	26
+```
+
+# L
+```
 Labor Augmentation	40
 Labor Automation	40
 Labor Law	23, 499, 505
@@ -984,6 +1015,10 @@ Lord of the Flies, The	519
 Los Alamos	334
 Lost Dao, The	176, 335
 Low-skilled Workers	40
+```
+
+# M
+```
 Ma, Jack	34
 Machine Learning	5, 368
 Machine Translation Tool	357
@@ -1075,6 +1110,10 @@ Mutualism	103
 Mycorrhizal Fungi	282
 MyGoPen	74
 Mínshēng	54
+```
+
+# N
+```
 Nadella, Satya	363, 440
 Nader, Youssef	332
 Name spaces on the Internet	273
@@ -1153,6 +1192,10 @@ Non-verbal Communication	307, 347
 Normative	90, 275, 459
 North Star	420
 Notion	335
+```
+
+# O
+```
 OAuth	183, 187
 Objective Quality	346
 Objectivity	465
@@ -1211,6 +1254,10 @@ Output	451, 457
 Ovadya, Aviv	353
 Over-shared information	
 Ownership	196, 200
+```
+
+# P
+```
 Packet Switching	139, 145, 197, 201, 205, 371
 PageRank	274, 386
 Paradigm Shift	314, 352
@@ -1342,6 +1389,10 @@ Public Will	376, 379
 Public/Supermodular Goods	402
 Purchasing Power Parity	77
 Putnam, Robert	228
+```
+
+# Q
+```
 Qing	51
 Quadratic Funding	391, 402
 Quadratic Liquid Democracy	387
@@ -1351,6 +1402,10 @@ Quantum Computer	222
 Quantum Mechanics	101, 132
 Quantum Physics	101, 130
 Quick Fixes	264
+```
+
+# R
+```
 RadicalxChange	247, 382, 387, 493
 Rainbow Flags	50
 Rainforest Foundation US	370
@@ -1359,7 +1414,7 @@ Ramón y Cajal, Santiago	104
 Rand, Ayn	35
 Randomized Controlled Trials	414
 Ranked Choice	380
-rationality	95, 117, 298, 370
+Rationality	95, 117, 298, 370
 Ready Player One	329
 Real-time Auction	
 Realistic Avatar	431
@@ -1373,7 +1428,7 @@ Redundancy	139, 199, 260
 Rees-Mogg, Jacob	36
 Rees-Mogg, Lord William	36
 Regenerating Diversity	288, 294, 302, 519
-region	211
+Region	211
 Regression Discontinuity Design	460
 Regulatory Powerhouse	483
 Reinstatement	40
@@ -1419,6 +1474,10 @@ Rule Of Law	392
 Run-off	380
 Rural Land Reform	56
 Russian revolution	55
+```
+
+# S
+```
 Saez, Emmanuel	39, 79
 Same-sex Marriage	84
 San Francisco	120, 236
@@ -1577,6 +1636,10 @@ Synchronous Meeting	436
 Synthetic instrument	337
 Synthetic Technocracy	33
 Systems of rights	169
+```
+
+# T
+```
 Taigi	50, 56, 62
 Taishō Democratic	53
 Taivoan	48
@@ -1651,6 +1714,10 @@ Turing	370
 Twitter	14, 21, 44, 217, 239, 345, 471
 Tyranny of Structurelessness	351
 Tyranny Of The Majority	380
+```
+
+# U
+```
 Ukraine	283, 491
 UN global goals	492
 Uncertainty Principle, The	96, 99
@@ -1678,6 +1745,10 @@ Usus	122, 263, 406
 Utilities	218, 497
 Utility Regulation	398
 Utility Tokens	504
+```
+
+# V
+```
 V-Dem	2, 49, 82
 Vaccine Alliance	444
 Venture Capital	29, 36, 394, 416
@@ -1705,6 +1776,10 @@ Voting Based On Population Size	381
 Vouch	199, 247
 vTaiwan	67, 353
 Vulcans	89
+```
+
+# W
+```
 Wade, Cynthia	514
 Wage System	394
 Waldrop, M. Mitchell	97, 133
@@ -1760,8 +1835,16 @@ World War	19, 57, 133, 164, 463
 World Wide Web Consortium (W3C)	176, 190, 196, 218
 Worldcoin	193
 Wu, Michelle	355
+```
+
+# X
+```
 X (formerly Twitter)	345, 471
 Xerox PARC	138, 143, 489
+```
+
+# Y
+```
 Yamuna River	476
 Yarvin, Curtis (aka Mencius Moldbug)	36
 Yasmin Eyalat	464
@@ -1772,6 +1855,10 @@ Young, Kaliya	189, 249
 Yu Yong-Ding	34
 Yuans	54
 Yushan	47, 484
+```
+
+# Z
+```
 Zero Trust	75
 Zero-Knowledge Proofs(ZKPs)	466
 Zetlin, Ariana	371
@@ -1780,3 +1867,16 @@ Zoning Restrictions	400
 Zuboff, Shoshanna	3, 16
 Zuckerberg, Mark	356
 Zucman, Gabriel	39, 79
+```
+
+# Number
+```
+12-Year Basic Education Curriculum	75
+20% time model	442
+2050 net zero	86
+3D Audio	311
+4chan	35, 190
+51% Attack	381
+5G	20, 45, 273
+```
+
