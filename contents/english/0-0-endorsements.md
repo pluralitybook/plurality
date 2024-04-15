@@ -114,3 +114,6 @@
 — [Frank McCourt](https://en.wikipedia.org/wiki/Frank_McCourt_(executive)), Founder of [McCourt Global](https://www.mccourt.com/) and [Project Liberty](https://www.projectliberty.io/) and co-author of [*Our Biggest Fight*](https://ourbiggestfight.com/)
 
 <br></br>
+
+> "Regulation” remains elusive as a path to taming our technofeudal masters. It will never succeed in dispersing power. *Plurality* charts a different path for us to take - open and democratic - to bypass and dis-intermediate these powers.<br></br>
+— [Cristina Caffarra](https://cristinacaffarra.com/), Honorary Professor at [University College London](https://profiles.ucl.ac.uk/77797-cristina-caffarra) and Co-Founder of the [CEPR Competition Research Policy Network](https://cepr.org/about/people/cristina-caffarra)
