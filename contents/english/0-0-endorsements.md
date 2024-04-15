@@ -115,5 +115,30 @@
 
 <br></br>
 
-> "Regulation” remains elusive as a path to taming our technofeudal masters. It will never succeed in dispersing power. *Plurality* charts a different path for us to take - open and democratic - to bypass and dis-intermediate these powers.<br></br>
+> "Regulation” remains elusive as a path to taming our technofeudal masters. It will not succeed in dispersing power. *Plurality* charts a different path for us to take - open and democratic - to bypass and dis-intermediate these powers.<br></br>
 — [Cristina Caffarra](https://cristinacaffarra.com/), Honorary Professor at [University College London](https://profiles.ucl.ac.uk/77797-cristina-caffarra) and Co-Founder of the [CEPR Competition Research Policy Network](https://cepr.org/about/people/cristina-caffarra)
+
+<br></br>
+
+> They offer us a portal into a future where technology supports democracy, pluralism, and broad human flourishing. We know this future is possible because Tang has been building it in Taiwan. The conceptual foundations laid here usher in a much needed paradigm change for modern life.<br></br>
+— [Danielle S. Allen](https://en.wikipedia.org/wiki/Danielle_Allen#), political philosopher, James Bryan Conant University Professor at Harvard,  MacArthur Fellow, and author of [*Our Declaration*](https://wwnorton.com/books/Our-Declaration/) and [*Cuz*](https://wwnorton.com/books/9781631494949)
+
+<br></br>
+
+> What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.
+<br></br>
+— [Stav Shaffir](https://en.wikipedia.org/wiki/Stav_Shaffir), leader of the [Israeli Social Justice protests](https://en.wikipedia.org/wiki/2011_Israeli_social_justice_protests) that inspired "Occupy" and youngest woman Member of the Knesset
+
+<br></br>
+
+> Drawing inspiration from Taiwan, the world’s most under-appreciated democracy, *Plurality* makes a powerful case that digital technologies can be harnessed to facilitate...a more democratic future...Reading this brilliant book left...a new sense of urgency, but it also provided real reasons for hope.  
+<br></br>
+— [Steven Levitsky](https://en.wikipedia.org/wiki/Steven_Levitsky), David Rockerfeller Professor of Government at Harvard and co-author of [*How Democracies Die*](https://www.penguinrandomhouse.com/books/562246/how-democracies-die-by-steven-levitsky-and-daniel-ziblatt/) and [*Tyranny of the Minority*](https://www.penguinrandomhouse.com/books/706046/tyranny-of-the-minority-by-steven-levitsky-and-daniel-ziblatt/)
+
+<br></br>
+
+> (They) have written a brilliant book of breathtaking possibility, offering...hope in a dark time...drawing on disciplines from mathematics to literature...readers are likely to find plenty of things to ponder and challenge...(and) are invited to join the conversation!
+<br></br>
+— [Anne-Marie Slaughter](https://en.wikipedia.org/wiki/Anne-Marie_Slaughter), CEO of the [New America Foundation](https://www.newamerica.org/), former Director of Policy Planning at the US Department of State and author of [*Unfinished Business*](https://www.penguinrandomhouse.com/books/225053/unfinished-business-by-anne-marie-slaughter/) and [*The Chess Board and the Web*](https://yalebooks.yale.edu/book/9780300234664/the-chessboard-and-the-web/)
+
+
