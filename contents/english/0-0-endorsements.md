@@ -122,6 +122,11 @@
 
 <br></br>
 
+> If internet technology has accelerated fragmentation, it should be possible to achieve a comfortable coexistence. *Plurarity* is full of hints for this purpose.<br></br>
+— [Yoshihisa Aono](https://www.crunchbase.com/person/yoshihisa-aono), Co-Founder and CEO of [Cybozu](https://cybozu.co.jp/en/company/)
+
+<br></br>
+
 > Can the public sector move as fast to harness emerging technologies as the rest of society?  Audrey Tang has shown on the ground that it can, and here she teaches you how to do the same.<br></br>
 — [Shlomit Wagman](https://cyber.harvard.edu/people/shlomit-wagman), former Director General of the [Israel Money Laundering and Terror Financing Prohibition Authority](https://www.gov.il/en/departments/impa/govil-landing-page) and [Privacy Protection Authority](https://www.gov.il/en/departments/the_privacy_protection_authority/govil-landing-page)
 
@@ -139,6 +144,7 @@
 
 > It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
 — [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
+
 
 
 
