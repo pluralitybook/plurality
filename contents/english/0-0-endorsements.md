@@ -117,3 +117,8 @@
 
 > "Regulation” remains elusive as a path to taming our technofeudal masters. It will never succeed in dispersing power. *Plurality* charts a different path for us to take - open and democratic - to bypass and dis-intermediate these powers.<br></br>
 — [Cristina Caffarra](https://cristinacaffarra.com/), Honorary Professor at [University College London](https://profiles.ucl.ac.uk/77797-cristina-caffarra) and Co-Founder of the [CEPR Competition Research Policy Network](https://cepr.org/about/people/cristina-caffarra)
+
+<br></br>
+
+> If Internet technology has accelerated fragmentation, it should be possible to achieve a comfortable coexistence. Plurarity is full of hints for this purpose.<br></br>
+— [Yoshihisa Aono](https://cybozu.co.jp/en/company/message/), Founder of [Cybozu](https://cybozu.co.jp/en/company/) ([Kintone](https://www.kintone.com/en-us/))
