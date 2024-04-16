@@ -90,7 +90,8 @@
 
 <br></br>
 
-> (They) have written a brilliant book of breathtaking possibility, offering...hope in a dark time...drawing on disciplines from mathematics to literature...readers are likely to find plenty of things to ponder and challenge...(and) are invited to join the conversation!<br></br>
+> (They) have written a brilliant book of breathtaking possibility, offering...hope in a dark time...drawing on disciplines from mathematics to literature...readers are likely to find plenty of things to ponder and challenge...(and) are invited to join the conversation!
+<br></br>
 — [Anne-Marie Slaughter](https://en.wikipedia.org/wiki/Anne-Marie_Slaughter), CEO of the [New America Foundation](https://www.newamerica.org/), former Director of Policy Planning at the US Department of State and author of [*Unfinished Business*](https://www.penguinrandomhouse.com/books/225053/unfinished-business-by-anne-marie-slaughter/) and [*The Chess Board and the Web*](https://yalebooks.yale.edu/book/9780300234664/the-chessboard-and-the-web/)
 
 <br></br>
@@ -110,7 +111,8 @@
 
 <br></br>
 
-> Drawing inspiration from Taiwan, the world’s most under-appreciated democracy, *Plurality* makes a powerful case that digital technologies can be harnessed to facilitate...a more democratic future...Reading this brilliant book left...a new sense of urgency, but it also provided real reasons for hope.<br></br>
+> Drawing inspiration from Taiwan, the world’s most under-appreciated democracy, *Plurality* makes a powerful case that digital technologies can be harnessed to facilitate...a more democratic future...Reading this brilliant book left...a new sense of urgency, but it also provided real reasons for hope.  
+<br></br>
 — [Steven Levitsky](https://en.wikipedia.org/wiki/Steven_Levitsky), David Rockerfeller Professor of Government at Harvard and co-author of [*How Democracies Die*](https://www.penguinrandomhouse.com/books/562246/how-democracies-die-by-steven-levitsky-and-daniel-ziblatt/) and [*Tyranny of the Minority*](https://www.penguinrandomhouse.com/books/706046/tyranny-of-the-minority-by-steven-levitsky-and-daniel-ziblatt/)
 
 <br></br>
