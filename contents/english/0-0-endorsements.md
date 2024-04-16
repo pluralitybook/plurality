@@ -29,12 +29,6 @@
 
 <br></br>
 
-> What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.
-<br></br>
-— [Stav Shaffir](https://en.wikipedia.org/wiki/Stav_Shaffir), leader of the [Israeli Social Justice protests](https://en.wikipedia.org/wiki/2011_Israeli_social_justice_protests) that inspired "Occupy" and youngest woman Member of the Knesset
-
-<br></br>
-
 > For too long, diversity and technology have been used as swords by the forces of secularization.  Remarkably, in the skilled hands of these authors, they are here reforged into a shield for the faithful.<br></br>
 — [Rev. Johnnie Moore Jr.](https://en.wikipedia.org/wiki/Johnnie_Moore_Jr.), President of the [Congress of Christian Leaders](https://congressofchristianleaders.com/), former member of the [United States Commission on International Religious Freedom](https://en.wikipedia.org/wiki/United_States_Commission_on_International_Religious_Freedom) and informal advisor to Fmr. US President Donald Trump
 
@@ -47,6 +41,11 @@
 
 > *Plurality* unveils the powerful blueprint of Taiwan's resilient digital transformation...provides valuable insight for concerned citizens everywhere and...can help preserve democracy amidst...a precarious moment in history for liberty and open societies around the world.<br></br>
 — [Frank McCourt](https://en.wikipedia.org/wiki/Frank_McCourt_(executive)), Founder of [McCourt Global](https://www.mccourt.com/) and [Project Liberty](https://www.projectliberty.io/) and co-author of [*Our Biggest Fight*](https://ourbiggestfight.com/)
+
+<br></br>
+
+> Audrey Tang sets a new standard for what it means to be a pioneering leader. I hope we will all have the courage to follow in her path, as she lays out so eloquently here.<br></br>
+— [Claudia López Hernández](https://en.wikipedia.org/wiki/Claudia_L%C3%B3pez), former Mayor and first woman mayor of Bogotá, Colombia and highest ever LGBT elected official in the Global South
 
 <br></br>
 
@@ -65,13 +64,9 @@
 
 <br></br>
 
-> *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
-— [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
-
+> What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.
 <br></br>
-
-> Audrey Tang sets a new standard for what it means to be a pioneering leader. I hope we will all have the courage to follow in her path, as she lays out so eloquently here.<br></br>
-— [Claudia López Hernández](https://en.wikipedia.org/wiki/Claudia_L%C3%B3pez), former Mayor and first woman mayor of Bogotá, Colombia and highest ever LGBT elected official in the Global South
+— [Stav Shaffir](https://en.wikipedia.org/wiki/Stav_Shaffir), leader of the [Israeli Social Justice protests](https://en.wikipedia.org/wiki/2011_Israeli_social_justice_protests) that inspired "Occupy" and youngest woman Member of the Knesset
 
 <br></br>
 
@@ -90,9 +85,8 @@
 
 <br></br>
 
-> (They) have written a brilliant book of breathtaking possibility, offering...hope in a dark time...drawing on disciplines from mathematics to literature...readers are likely to find plenty of things to ponder and challenge...(and) are invited to join the conversation!
-<br></br>
-— [Anne-Marie Slaughter](https://en.wikipedia.org/wiki/Anne-Marie_Slaughter), CEO of the [New America Foundation](https://www.newamerica.org/), former Director of Policy Planning at the US Department of State and author of [*Unfinished Business*](https://www.penguinrandomhouse.com/books/225053/unfinished-business-by-anne-marie-slaughter/) and [*The Chess Board and the Web*](https://yalebooks.yale.edu/book/9780300234664/the-chessboard-and-the-web/)
+> (P)opulists globally use technology to divide nations...*Plurality* invites a new journey where we can indeed use technology to reclaim that space in world of canceling to become more connected, and bring back our sense of humanity, UBUNTU as we say in Africa. <br></br> 
+— [Mmuse Maimane](https://en.wikipedia.org/wiki/Mmusi_Maimane), South African Presidential candidate, former Leader of the Opposition, Founder of [Build One South Africa](https://www.bosa.co.za/), and pastor and elder of the [Liberty Church](https://www.lty.church/)
 
 <br></br>
 
@@ -111,9 +105,20 @@
 
 <br></br>
 
+> (They) have written a brilliant book of breathtaking possibility, offering...hope in a dark time...drawing on disciplines from mathematics to literature...readers are likely to find plenty of things to ponder and challenge...(and) are invited to join the conversation!
+<br></br>
+— [Anne-Marie Slaughter](https://en.wikipedia.org/wiki/Anne-Marie_Slaughter), CEO of the [New America Foundation](https://www.newamerica.org/), former Director of Policy Planning at the US Department of State and author of [*Unfinished Business*](https://www.penguinrandomhouse.com/books/225053/unfinished-business-by-anne-marie-slaughter/) and [*The Chess Board and the Web*](https://yalebooks.yale.edu/book/9780300234664/the-chessboard-and-the-web/)
+
+<br></br>
+
 > Drawing inspiration from Taiwan, the world’s most under-appreciated democracy, *Plurality* makes a powerful case that digital technologies can be harnessed to facilitate...a more democratic future...Reading this brilliant book left...a new sense of urgency, but it also provided real reasons for hope.  
 <br></br>
 — [Steven Levitsky](https://en.wikipedia.org/wiki/Steven_Levitsky), David Rockerfeller Professor of Government at Harvard and co-author of [*How Democracies Die*](https://www.penguinrandomhouse.com/books/562246/how-democracies-die-by-steven-levitsky-and-daniel-ziblatt/) and [*Tyranny of the Minority*](https://www.penguinrandomhouse.com/books/706046/tyranny-of-the-minority-by-steven-levitsky-and-daniel-ziblatt/)
+
+<br></br>
+
+> *Plurality* is an important book on one of today’s central challenges—building collaboration and shared purpose across diversity. The authors approach this challenge not simply in ... politics...but also offer valuable insights on...technology, economics, and beyond.<br></br>
+— [Julius Krein](https://en.wikipedia.org/wiki/Julius_Krein), Founder and Editor-in-Chief, [*American Affairs*](https://americanaffairsjournal.org/)
 
 <br></br>
 
@@ -144,6 +149,9 @@
 
 > It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
 — [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
+
+
+
 
 
 
