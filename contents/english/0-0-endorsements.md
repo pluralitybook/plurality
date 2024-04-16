@@ -14,7 +14,7 @@
 
 <br></br>
 
-> *Plurality* is...truly fascinating...a potential global accelerator...of collaboration that is African in perspective...a must-read and a must-co-create for African thought leaders...who have embraced the challenge of making the 21st century the African century.<br></br>
+> *Plurality* is...a truly fascinating...potential global accelerator...of collaboration that is African in perspective...a must-read and a must-co-create for African thought leaders...who have embraced the challenge of making the 21st century the African century.<br></br>
 — [Oby Ezekwesili](https://en.wikipedia.org/wiki/Oby_Ezekwesili), Co-Founder of [Transparency International](https://www.transparency.org/en), [#BringBackOurGirls](https://bringbackourgirls.ng/), Founder of the [School of Politics, Policy and Governance](https://thesppg.org/our-program/) and [#FixPolitics](https://www.fixpolitics.org/), and Nigerian political leader
 
 <br></br>
@@ -121,7 +121,7 @@
 <br></br>
 
 > If internet technology has accelerated fragmentation, it should be possible to achieve a comfortable coexistence. *Plurarity* is full of hints for this purpose.<br></br>
-— [Yoshihisa Aono](https://www.crunchbase.com/person/yoshihisa-aono), Co-Founder and CEO of [Cybozu](https://cybozu.co.jp/en/company/)
+— [Aono Yoshihisa](https://www.crunchbase.com/person/yoshihisa-aono), Co-Founder and CEO of [Cybozu](https://cybozu.co.jp/en/company/)
 
 <br></br>
 
