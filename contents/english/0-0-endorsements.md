@@ -64,8 +64,7 @@
 
 <br></br>
 
-> What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.
-<br></br>
+> What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.<br></br>
 — [Stav Shaffir](https://en.wikipedia.org/wiki/Stav_Shaffir), leader of the [Israeli Social Justice protests](https://en.wikipedia.org/wiki/2011_Israeli_social_justice_protests) that inspired "Occupy" and youngest woman Member of the Knesset
 
 <br></br>
