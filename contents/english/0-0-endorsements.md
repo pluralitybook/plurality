@@ -64,8 +64,7 @@
 
 <br></br>
 
-> What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.
-<br></br>
+> What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.<br></br>
 — [Stav Shaffir](https://en.wikipedia.org/wiki/Stav_Shaffir), leader of the [Israeli Social Justice protests](https://en.wikipedia.org/wiki/2011_Israeli_social_justice_protests) that inspired "Occupy" and youngest woman Member of the Knesset
 
 <br></br>
@@ -86,7 +85,7 @@
 <br></br>
 
 > (P)opulists globally use technology to divide nations...*Plurality* invites a new journey where we can indeed use technology to reclaim that space in world of canceling to become more connected, and bring back our sense of humanity, UBUNTU as we say in Africa. <br></br> 
-— [Mmuse Maimane](https://en.wikipedia.org/wiki/Mmusi_Maimane), South African Presidential candidate, former Leader of the Opposition, Founder of [Build One South Africa](https://www.bosa.co.za/), and pastor and elder of the [Liberty Church](https://www.lty.church/)
+— [Mmusi Maimane](https://en.wikipedia.org/wiki/Mmusi_Maimane), South African Presidential candidate, former Leader of the Opposition, Founder of [Build One South Africa](https://www.bosa.co.za/), and pastor and elder of the [Liberty Church](https://www.lty.church/)
 
 <br></br>
 
