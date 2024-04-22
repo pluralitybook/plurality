@@ -1,5 +1,9 @@
 ---
 title: Gov4Git and PMP
+author:
+date: 
+tags:
+  - 
 ---
 
 # ⿻ Plural Management of ⿻ 數位 Plurality
