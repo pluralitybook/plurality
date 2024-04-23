@@ -6,7 +6,7 @@ As Mulu stepped forward, her past—rich and vibrant—flashed before her. She f
 
 Her nearly defunct phone loaded a page with a few straightforward questions. 
 
-"Do you grant the common asylum system the consent to request an yes/no answer of..."
+"Do you grant the common asylum system the consent to request a yes/no answer of..."
 
 1. ... your eligibility for our support program?
 2. ... whether you pose any potential threats to our community?
@@ -90,7 +90,7 @@ In a different direction entirely from this spectrum are smaller, more diverse, 
 - Employment enrollment and transactions, such as work-related credentials and access.
 - Commercial enrollment and transaction, such as loyalty cards and membership in private insurance. 
 -  Pseudonymous identities used in a variety of online social and political interactions from "dark web" fora (e.g. [4chan](https://en.wikipedia.org/wiki/4chan) or [Reddit](https://www.reddit.com/)) to video game and virtual world interactions (e.g. [Steam](https://store.steampowered.com/)).
-- Accounts used in "Web3" for financial transactions, Distributed Autonomous Organizations (DAOs, more on these below) and associated discussions often on servers such as [Discord](https://discord.com/)
+- Accounts used in "Web3" for financial transactions, Distributed Autonomous Organizations (DAOs, more on these below) and associated discussions often on servers such as [Discord](https://discord.com/).
 - Personal digital and real-life connections that record, in machine or biological (viz. mental) substrates shared personal and relational histories, communications exchanged, etc.
 
 
