@@ -6,7 +6,7 @@ As Mulu stepped forward, her past—rich and vibrant—flashed before her. She f
 
 Her nearly defunct phone loaded a page with a few straightforward questions. 
 
-"Do you grant the common asylum system the consent to request an yes/no answer of..."
+"Do you grant the common asylum system the consent to request a yes/no answer of..."
 
 1. ... your eligibility for our support program?
 2. ... whether you pose any potential threats to our community?
