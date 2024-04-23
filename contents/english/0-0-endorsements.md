@@ -35,10 +35,12 @@
 
 <br></br>
 
-> Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
-— [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
+> Glen and Audrey lead a team offering a master class in how to harness advanced computation to augment rather than replace human social and economic systems, simultaneously showing and telling us how digital technology can make the world dramatically more cooperative and productive.<br></br>
+— [Michael I. Jordan](https://en.wikipedia.org/wiki/Michael_I._Jordan), Pehong Chen Distinguished Professor of Computer Science and Statistics at the University of California, Berkeley, inaugural winner of the [World Laureates Association Prize](https://www.thewlaprize.org/) in Computer Science or Mathematics, and [named by *Science*](https://www.science.org/content/article/who-s-michael-jordan-computer-science-new-tool-ranks-researchers-influence) as the most influential computer scientist in the world in 2016.
 
 <br></br>
+
+
 
 > *Plurality* unveils the powerful blueprint of Taiwan's resilient digital transformation...provides valuable insight for concerned citizens everywhere and...can help preserve democracy amidst...a precarious moment in history for liberty and open societies around the world.<br></br>
 — [Frank McCourt](https://en.wikipedia.org/wiki/Frank_McCourt_(executive)), Founder of [McCourt Global](https://www.mccourt.com/) and [Project Liberty](https://www.projectliberty.io/) and co-author of [*Our Biggest Fight*](https://ourbiggestfight.com/)
@@ -70,11 +72,6 @@
 
 <br></br>
 
-> Rejoice! Here is a burst of creativity that gives us a peek at the humanistic high tech future we suspected was possible.<br></br> 
-— [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier), inventor of Virtual Reality, author of [*Who Owns the Future?*](https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F) and [*The Dawn of the New Everything*](https://us.macmillan.com/books/9781250097408/dawnoftheneweverything) and Microsoft's Office of the Chief Technology Officer Prime Unifying Scientist (OCTOPUS)
-
-<br></br>
-
 > Audrey Tang and Glen Weyl's project will be effective and meaningful in helping Taiwan (and other countries) move in the direction of a new social democracy. <br></br>
 — [Karatani Kōjin](https://en.wikipedia.org/wiki/Kojin_Karatani), Author of [*The Structure of World History*](https://www.dukeupress.edu/the-structure-of-world-history) and winner of the Berggruen Prize for Culture and Philosophy
 
@@ -85,9 +82,19 @@
 
 <br></br>
 
+> \(A\) remarkable book which provides accessible, deep and novel insights into the way in which technology has, is, will and should shape our lives.  It draws on a wealth of evidence to provide a powerful case in favour of promoting plurality...It holds important lessons for all of us. <br></br>
+— [Colin Mayer](https://en.wikipedia.org/wiki/Colin_Mayer), Peter Moores Professor of Management Studies at the Oxford [Saïd School of Management](https://en.wikipedia.org/wiki/Sa%C3%AFd_Business_School) and author of [*Prosperity: Better Business Makes the Greater Good*](https://global.oup.com/academic/product/prosperity-9780198866824?lang=en&cc=sk)  
+
+<br></br>
+
 > (They) have written a brilliant book of breathtaking possibility, offering...hope in a dark time...drawing on disciplines from mathematics to literature...readers are likely to find plenty of things to ponder and challenge...(and) are invited to join the conversation!
 <br></br>
 — [Anne-Marie Slaughter](https://en.wikipedia.org/wiki/Anne-Marie_Slaughter), CEO of the [New America Foundation](https://www.newamerica.org/), former Director of Policy Planning at the US Department of State and author of [*Unfinished Business*](https://www.penguinrandomhouse.com/books/225053/unfinished-business-by-anne-marie-slaughter/) and [*The Chess Board and the Web*](https://yalebooks.yale.edu/book/9780300234664/the-chessboard-and-the-web/)
+
+<br></br>
+
+> Rejoice! Here is a burst of creativity that gives us a peek at the humanistic high tech future we suspected was possible.<br></br> 
+— [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier), inventor of Virtual Reality, author of [*Who Owns the Future?*](https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F) and [*The Dawn of the New Everything*](https://us.macmillan.com/books/9781250097408/dawnoftheneweverything) and Microsoft's Office of the Chief Technology Officer Prime Unifying Scientist (OCTOPUS)
 
 <br></br>
 
@@ -96,30 +103,23 @@
 
 <br></br>
 
-> In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
-— [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Co-Founder of the [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) and star of [*The Social Dilemma*](https://www.thesocialdilemma.com/)
-
-<br></br>
-
-
-
-> At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
-— [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
-
-<br></br>
-
 > (P)opulists globally use technology to divide nations...*Plurality* invites a new journey where we can indeed use technology to reclaim that space in world of canceling to become more connected, and bring back our sense of humanity, UBUNTU as we say in Africa. <br></br> 
 — [Mmusi Maimane](https://en.wikipedia.org/wiki/Mmusi_Maimane), South African Presidential candidate, former Leader of the Opposition, Founder of [Build One South Africa](https://www.bosa.co.za/), and pastor and elder of the [Liberty Church](https://www.lty.church/)
 
 <br></br>
 
-> \(A\) remarkable book which provides accessible, deep and novel insights into the way in which technology has, is, will and should shape our lives.  It draws on a wealth of evidence to provide a powerful case in favour of promoting plurality...It holds important lessons for all of us. <br></br>
-— [Colin Mayer](https://en.wikipedia.org/wiki/Colin_Mayer), Peter Moores Professor of Management Studies at the Oxford [Saïd School of Management](https://en.wikipedia.org/wiki/Sa%C3%AFd_Business_School) and author of [*Prosperity: Better Business Makes the Greater Good*](https://global.oup.com/academic/product/prosperity-9780198866824?lang=en&cc=sk)  
+> Here in lucid and non-technical prose is a sweeping vision for how to integrate so much of what we've learned about technology and society in the past decades to remake the future of democracy, from someone who is actually doing it on the ground.<br></br>
+— [Alex "Sandy" Pentland](https://en.wikipedia.org/wiki/Alex_Pentland), Inaugural Academic Head of the MIT Media Lab and founding father of Computational Social Science and Data Science
 
 <br></br>
 
 > If internet technology has accelerated fragmentation, it should be possible to achieve a comfortable coexistence. *Plurarity* is full of hints for this purpose.<br></br>
 — [Aono Yoshihisa](https://www.crunchbase.com/person/yoshihisa-aono), Co-Founder and CEO of [Cybozu](https://cybozu.co.jp/en/company/)
+
+<br></br>
+
+> In an era of anxiety and division, Glen Weyl and Audrey Tang provide a rare, grounded vision for how technology and democracy can harmonize, and propel us to a better future. <br></br> 
+— [Tristan Harris](https://en.wikipedia.org/wiki/Tristan_Harris), Co-Founder of the [Center for Humane Technology](https://en.wikipedia.org/wiki/Center_for_Humane_Technology) and star of [*The Social Dilemma*](https://www.thesocialdilemma.com/)
 
 <br></br>
 
@@ -135,12 +135,25 @@
 
 <br></br>
 
+
+> At once optimistic and pragmatic, *Plurality* offers a roadmap to reforge democracy for the AI era...we need not limit ourselves to the libertarian or authoritarian visions...a third way...leans into openness, plurality and the human spirit. So worth reading!<br></br>
+— [Mark Surman](https://en.wikipedia.org/wiki/Mark_Surman), President and Executive Director of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) 
+
+<br></br>
+
+
+
 > An exciting, creative and provocative set of ideas on how to make progress on some of the most fundamental problems in the world. You will never think the same way again after reading this book.<br></br>
 — [Jason Furman](https://en.wikipedia.org/wiki/Jason_Furman), Former Chair of the Council of Economic Advisors and  Aetna Professor of the Practice of Economic Policy, Harvard University
 
 <br></br>
 
 
+> It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
+— [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
+
+
+<br></br>
 
 > Can the public sector move as fast to harness emerging technologies as the rest of society?  Audrey Tang has shown on the ground that it can, and here she teaches you how to do the same.<br></br>
 — [Shlomit Wagman](https://cyber.harvard.edu/people/shlomit-wagman), former Director General of the [Israel Money Laundering and Terror Financing Prohibition Authority](https://www.gov.il/en/departments/impa/govil-landing-page) and [Privacy Protection Authority](https://www.gov.il/en/departments/the_privacy_protection_authority/govil-landing-page)
@@ -155,10 +168,6 @@
 > "Regulation” remains elusive as a path to taming our technofeudal masters. It will not succeed in dispersing power. *Plurality* charts a different path for us to take - open and democratic - to bypass and dis-intermediate these powers.<br></br>
 — [Cristina Caffarra](https://cristinacaffarra.com/), Honorary Professor at [University College London](https://profiles.ucl.ac.uk/77797-cristina-caffarra) and Co-Founder of the [CEPR Competition Research Policy Network](https://cepr.org/about/people/cristina-caffarra)
 
-<br></br>
-
-> It is a delight to finally see a vision for the future of human progress so clearly grounded in its past.  With Plurality, we have a framework for building the engines that harness the abundant energy latent in human diversity to power the next hundred years of economic growth.<br></br> 
-— [Oded Galor](https://www.odedgalor.com/), Author of *The [Journey of Humanity](https://www.odedgalor.com/copy-of-unified-growth-theory)* and Herbert Goldberger Professor of Economics at Brown University
 
 
 
