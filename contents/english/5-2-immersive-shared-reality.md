@@ -12,7 +12,7 @@ On the horizon, shared ISR is poised for rapid expansion. Technological advance 
 
 ### Copresence today
 
-Throughout history of the most meaningful human experiences involve multisensory copresence.  Religious observances often engage many senses in large groups.  Clubs and parties are among the most treasured entertainment experiences because of their multisesnory activation.  Political rallies, group assemblies (whether at schools or for concerts), collective outings (hiking, sports, etc.) all engage a range of sense.  
+Throughout history of the most meaningful human experiences involve multisensory copresence.  Religious observances often engage many senses in large groups.  Clubs and parties are among the most treasured entertainment experiences because of their multisensory activation.  Political rallies, group assemblies (whether at schools or for concerts), collective outings (hiking, sports, etc.) all engage a range of sense.  
 
 Technology has increasingly played a role in facilitating such copresence, especially at a distance, in recent years. ISR refers to technology that creates a shared virtual environment where users can interact in real-time. This type of “reality” can be considered a subset application of Mediated Reality as illustrated in Figure A, a broader term that encompasses various technologies that mediate our perception of reality, including Virtual, Augmented and Mixed Reality (a.k.a. VR, AR, MR). 
 
