@@ -1,6 +1,6 @@
 # Access
 
-Lucy: Hello, this is Luc from Château du Soleil Couchant out of Bordeaux.
+Lucy: Hello, this is Lucy from Château du Soleil Couchant out of Bordeaux.
 
 Municipal Rep: Greetings, Lucy. What can I do for you today?
 
