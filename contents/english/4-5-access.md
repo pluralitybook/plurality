@@ -4,7 +4,7 @@ Lucy: Hello, this is Lucy from Château du Soleil Couchant out of Bordeaux.
 
 Municipal Rep: Greetings, Lucy. What can I do for you today?
 
-Lucy: Well, we at Château du Soleil Couchant are in talks with several other vineyards about the idea of creating a coalition for the implementation of a new hail cannon system across our properties. We've secured backing from 12 of the 14 regional vineyards; however, we require a mechanism that guarantees openness, fair decision-making, and the distribution of costs and advantages among all involved parties.
+Lucy: Well, we at Château du Soleil Couchant are in talks with several other vineyards about the idea of creating a coalition for the implementation of a new hail cannon system across our properties. We've secured backing from 12 of the 14 regional vineyards; however, we require a mechanism that guarantees openness, fair decision-making, and the distribution of costs and advantages among all the parties involved.
 
 Lucy: To pull this off, we need a governance framework that encourages participation from neighboring vineyards. We've noticed the Wine Trade Association has had great success with their collaborative efforts, and we aim to emulate their model.
 
@@ -48,11 +48,11 @@ Yet, these positive outcomes are not widespread. Digital disparity exemplifies s
 
 Building on previous chapters of this book, we need to understand the fundamental right of access from ⿻ perspectives, and the role of policymakers is crucial. They need to focus on global digital divides and take corresponding measures to resolve the inequality in access. Such steps must also include investment in digital public infrastructure to protect contextual integrity for online exchange.
 
-While openness is promoted, digital participants also need to contribute their efforts to illuminate the dark and tricky corners existing on the internet, watching out for each other. Of course, this issue touches upon global social structures and cultural diversity. Fortunately, we no longer need to cross oceans as De Tocqueville did to learn from the valuable experiences of different countries in building digital democracy and sustainable development. To safeguard and establish a more safe and open digital access environment, there are two important courses of action:
+While openness is promoted, digital participants also need to contribute their efforts to illuminate the dark and tricky corners existing on the internet, watching out for each other. Of course, this issue touches upon global social structures and cultural diversity. Fortunately, we no longer need to cross oceans as De Tocqueville did to learn from the valuable experiences of different countries in building digital democracy and sustainable development. To safeguard and establish a safer and more open digital access environment, there are two important courses of action:
 
 1. Digital Infrastructure: Develop an interoperable model for international infrastructures that overcomes the challenges of collective action we discuss in the [Social Markets](https://www.plurality.net/v/chapters/5-7/eng/?mode=dark) chapter below, thereby providing equitable services globally.
 
-2. Information Integrity: Address the challenges posed by mimetic models (so-called “deepfakes”) to maintain semantic security and allowing continued enjoyment of the benefits of the digital age.
+2. Information Integrity: Address the challenges posed by mimetic models (so-called “deepfakes”) to maintain semantic security and allow the continued enjoyment of the benefits of the digital age.
 
 If we can advance these two fundamental rights, the other rights described in this part of the book can reach into the lived experience of all people and serve as a substrate not just of collective intelligence “online”, but in the daily lives of everyone across the world. As we have highlighted throughout the book, many public services and social interactions in today's digital environment seem overshadowed by capitalism. Nowadays, "internet access is a human right." is nearly a consensus among democracies. What remains is to untangle the complications between democracy and internet access.
 
@@ -65,9 +65,9 @@ Forestry expert [Suzanne Simard](https://suzannesimard.com/) focuses on explorin
 
 In such a vibrant forest, a single 'mother tree' can establish connections with hundreds of other trees. Multiple such mother trees ensure the continuity of the entire forest as a collective organism through overlapping networks, ensuring a secure and robust environment through open connections.
 
-Digital infrastructure follows a similar pattern with open standards (protocols), open source code, and open data. It serves as a public foundation that is open to the global community, collaborating with tens of thousands of digital communities while offering open and secure Internet access and jointly defending against immediate digital threats.
+Digital infrastructure follows a similar pattern with open standards (protocols), open-source code, and open data. It serves as a public foundation that is open to the global community, collaborating with tens of thousands of digital communities while offering open and secure Internet access and jointly defending against immediate digital threats.
 
-Taiwan is one of the world’s primary distributed denial of service (DDoS) hotspots, according to [Cloudflare's report](https://blog.cloudflare.com/ddos-threat-report-2023-q4).[^Cloudflare] Its government has adopted the IPFS framework discussed in the previous chapter for its websites, allowing it to interconnect with both private digital services and emerging open networks. This structure is not only more resistant to sudden DDoS attacks, but is also conducive to open collaboration and mutual support with global technology communities. This provides an illustration of how to make systems more robust against information manipulation.
+Taiwan is one of the world’s primary distributed denial of service (DDoS) hotspots, according to [Cloudflare's report](https://blog.cloudflare.com/ddos-threat-report-2023-q4).[^Cloudflare] Its government has adopted the IPFS framework discussed in the previous chapter for its websites, allowing it to interconnect with both private digital services and emerging open networks. This structure is not only more resistant to sudden DDoS attacks but is also conducive to open collaboration and mutual support with global technology communities. This provides an illustration of how to make systems more robust against information manipulation.
 
 [^Cloudflare]: Omer Yoachimik and Jorge Pacheco, "DDoS threat report for 2023 Q4" *Cloudflare Blog* January 9, 2024 at https://blog.cloudflare.com/ddos-threat-report-2023-q4.
 
