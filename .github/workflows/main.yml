@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      packages: write
     steps:
     - uses: actions/checkout@v2
     - name: Generate book files
@@ -23,6 +24,5 @@ jobs:
     - uses: ncipollo/release-action@v1
       with:
         artifacts: "*.pdf,*.epub"
-        token: ${{ secrets.RELEASE_TOKEN }}
         tag: latest
         allowUpdates: true
