@@ -18,6 +18,13 @@
 > They offer us a portal into a future where technology supports democracy, pluralism, and broad human flourishing. We know this future is possible because Tang has been building it in Taiwan. The conceptual foundations laid here usher in a much needed paradigm change for modern life.<br></br>
 — [Danielle S. Allen](https://en.wikipedia.org/wiki/Danielle_Allen#), political philosopher, James Bryan Conant University Professor at Harvard,  MacArthur Fellow, and author of [*Our Declaration*](https://wwnorton.com/books/Our-Declaration/) and [*Cuz*](https://wwnorton.com/books/9781631494949)
 
+
+
+<br></br>
+
+> *Plurality* reads like optimistic sci-fi, already happening in real life! Can democracies around the world follow in Taiwan’s footsteps to upgrade free society for the digital age? Fingers crossed for a happy ending. <br></br>
+— Joseph Gordon-Levitt, Emmy-winning artist and founder of [HITRECORD](https://hitrecord.org/)
+
 <br></br>
 
 > *Plurality* is...a truly fascinating...potential global accelerator...of collaboration that is African in perspective...a must-read and a must-co-create for African thought leaders...who have embraced the challenge of making the 21st century the African century.<br></br>
@@ -47,6 +54,8 @@
 
 > What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.<br></br>
 — [Stav Shaffir](https://en.wikipedia.org/wiki/Stav_Shaffir), leader of the [Israeli Social Justice protests](https://en.wikipedia.org/wiki/2011_Israeli_social_justice_protests) that inspired "Occupy" and youngest woman Member of the Knesset
+
+
 
 <br></br>
 
