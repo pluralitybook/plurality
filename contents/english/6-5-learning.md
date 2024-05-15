@@ -22,7 +22,7 @@ The 2022 global reports of PISA[^PISA] & ICCS[^ICCS] point out that Taiwan, Japa
 [^EdResilience]: https://www.cna.com.tw/news/ahel/202312050365.aspx
 [^EdSDGs]: https://en.rti.org.tw/news/view/id/2010665
 
-For example, the "Chenyuluoyan" font[^Font] on the cover of this book comes from the autonomous learning project of two high school students, leveraging social networks and related team co-learning. Such independent creation demonstrates the spirit of open source collaboration starting from one's own interests. The knowledge and creativity in the learning process shines in open sharing, inspiring more people to participate[^FontBlog].
+For example, the "Chenyuluoyan" font[^Font] on the cover of this book comes from the autonomous learning project of two high school students, leveraging social networks and related team co-learning. Such independent creation demonstrates the spirit of open-source collaboration starting from one's own interests. The knowledge and creativity in the learning process shine in open sharing, inspiring more people to participate[^FontBlog].
 
 [^Font]: https://github.com/Chenyu-otf/chenyuluoyan\_thin
 [^FontBlog]: https://blog.luckertw.com/chenyuluoyan-interview/
@@ -76,7 +76,7 @@ If we can skillfully interconnect reciprocal technologies with crowd knowledge, 
 
 ### Infinite Games and ⿻ Citizens
 
-The spirit of "edutainment" interweaves the pursuit of knowledge with the sharing of joy. With infinite possibilities for combination, there are countless possibilities for co-creation of innovative thinking. Introducing this perspective into the context of collaborative learning, we can see that true joyful learning is more like a process of infinite combinations. It is not confined to narrow evaluation criteria but encourages learners to break free from fixed thinking patterns. Under the interweaving of multiple perspectives, innovative insights constantly emerge.
+The spirit of "edutainment" interweaves the pursuit of knowledge with the sharing of joy. With infinite possibilities for combination, there are countless possibilities for the co-creation of innovative thinking. Introducing this perspective into the context of collaborative learning, we can see that true joyful learning is more like a process of infinite combinations. It is not confined to narrow evaluation criteria but encourages learners to break free from fixed thinking patterns. Under the interweaving of multiple perspectives, innovative insights constantly emerge.
 
 In James Carse's book "Finite and Infinite Games," he compares life's journey to a game, proposing the concepts of finite and infinite games. This perspective can also be used to compare the core spirit of edutainment: in the journey of life, do we choose to follow social power, accept the win-lose model of finite games with established boundaries, and pursue short-lived victories; or do we choose to be open participants, engaging in various aspects of creation from interpersonal interactions to cultural exchanges, experiencing the joy of continuous login?
 
