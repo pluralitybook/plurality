@@ -18,8 +18,6 @@
 > They offer us a portal into a future where technology supports democracy, pluralism, and broad human flourishing. We know this future is possible because Tang has been building it in Taiwan. The conceptual foundations laid here usher in a much needed paradigm change for modern life.<br></br>
 — [Danielle S. Allen](https://en.wikipedia.org/wiki/Danielle_Allen#), political philosopher, James Bryan Conant University Professor at Harvard,  MacArthur Fellow, and author of [*Our Declaration*](https://wwnorton.com/books/Our-Declaration/) and [*Cuz*](https://wwnorton.com/books/9781631494949)
 
-
-
 <br></br>
 
 > *Plurality* reads like optimistic sci-fi, already happening in real life! Can democracies around the world follow in Taiwan’s footsteps to upgrade free society for the digital age? Fingers crossed for a happy ending. <br></br>
@@ -184,6 +182,10 @@
 > "Regulation” remains elusive as a path to taming our technofeudal masters. It will not succeed in dispersing power. *Plurality* charts a different path for us to take - open and democratic - to bypass and dis-intermediate these powers.<br></br>
 — [Cristina Caffarra](https://cristinacaffarra.com/), Honorary Professor at [University College London](https://profiles.ucl.ac.uk/77797-cristina-caffarra) and Co-Founder of the [CEPR Competition Research Policy Network](https://cepr.org/about/people/cristina-caffarra)
 
+<br></br>
+
+> *Plurality* is a social philosophy of the technological era...a third way beyond Libertarianism and Technocracy. Its essence lies in the emergence of life at the edge of chaos, and whether this ideal is realized depends on whether the readers of this book become true activists who leap into that edge.<br></br>
+— [Ken Suzuki](https://www.linkedin.com/in/ken-suzuki-03489/), Co-founder, Executive Chair at SmartNews, Inc. and inventor of [Propagational Investment Currency SYstem(PICSY)](https://nameteki.kensuzuki.org/english)
 
 
 
