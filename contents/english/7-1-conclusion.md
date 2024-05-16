@@ -34,7 +34,7 @@ Such a pivot will take a whole-of-society mobilization. Businesses, governments,
 
 ### Promise of ⿻ 
 
-Over the last half century, most Western liberal democracies have learned to be helpless in the face of technology. They are intrigued by it and  alternately delighted and frustrated by it, but tend to assume that it emerges inexorably, like modernity itself, instead of as the sum of the choices small of groups of engineers. Most citizens in these polities do not believe “we the people” have any ability, much less any right, to influence the direction of the platforms that are the operating system of our lives. 
+Over the last half century, most Western liberal democracies have learned to be helpless in the face of technology. They are intrigued by it and  alternately delighted and frustrated by it, but tend to assume that it emerges inexorably, like modernity itself, instead of as the sum of the choices of small groups of engineers. Most citizens in these polities do not believe “we the people” have any ability, much less any right, to influence the direction of the platforms that are the operating system of our lives. 
 
 But we do have the right, and even the duty, to demand better. Some technology pulls us apart and flattens our differences; other technology brings us together and celebrates them. Some fuels our resentment and obedience,  some helps us find interdependence. If we mobilize to demand the latter,  _⿻ technologies_ that are designed to help us collaborate across difference, we can re-engineer that operating system. 
 
