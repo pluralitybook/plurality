@@ -184,7 +184,7 @@
 
 <br></br>
 
-> Plurality is a social philosophy of the technological era presented by Audrey Tang and Glen Weyl as a third way beyond Libertarianism and Technocracy. Its essence lies in the emergence of life at the edge of chaos, and whether this ideal is realized depends on whether the readers of this book become true activists who leap into that edge.<br></br>
+> *Plurality* is a social philosophy of the technological era...a third way beyond Libertarianism and Technocracy. Its essence lies in the emergence of life at the edge of chaos, and whether this ideal is realized depends on whether the readers of this book become true activists who leap into that edge.<br></br>
 — [Ken Suzuki](https://www.linkedin.com/in/ken-suzuki-03489/), Co-founder, Executive Chair at SmartNews, Inc. and inventor of [Propagational Investment Currency SYstem(PICSY)](https://nameteki.kensuzuki.org/english)
 
 
