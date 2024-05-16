@@ -182,6 +182,10 @@
 > "Regulation” remains elusive as a path to taming our technofeudal masters. It will not succeed in dispersing power. *Plurality* charts a different path for us to take - open and democratic - to bypass and dis-intermediate these powers.<br></br>
 — [Cristina Caffarra](https://cristinacaffarra.com/), Honorary Professor at [University College London](https://profiles.ucl.ac.uk/77797-cristina-caffarra) and Co-Founder of the [CEPR Competition Research Policy Network](https://cepr.org/about/people/cristina-caffarra)
 
+<br></br>
+
+> Plurality is a social philosophy of the technological era presented by Audrey Tang and Glen Weyl as a third way beyond Libertarianism and Technocracy. Its essence lies in the emergence of life at the edge of chaos, and whether this ideal is realized depends on whether the readers of this book become true activists who leap into that edge.<br></br>
+— [Ken Suzuki](https://www.linkedin.com/in/ken-suzuki-03489/), Co-founder, Executive Chair at SmartNews, Inc. and inventor of [Propagational Investment Currency SYstem(PICSY)](https://nameteki.kensuzuki.org/english)
 
 
 
