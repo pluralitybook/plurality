@@ -18,8 +18,6 @@
 > They offer us a portal into a future where technology supports democracy, pluralism, and broad human flourishing. We know this future is possible because Tang has been building it in Taiwan. The conceptual foundations laid here usher in a much needed paradigm change for modern life.<br></br>
 — [Danielle S. Allen](https://en.wikipedia.org/wiki/Danielle_Allen#), political philosopher, James Bryan Conant University Professor at Harvard,  MacArthur Fellow, and author of [*Our Declaration*](https://wwnorton.com/books/Our-Declaration/) and [*Cuz*](https://wwnorton.com/books/9781631494949)
 
-
-
 <br></br>
 
 > *Plurality* reads like optimistic sci-fi, already happening in real life! Can democracies around the world follow in Taiwan’s footsteps to upgrade free society for the digital age? Fingers crossed for a happy ending. <br></br>
