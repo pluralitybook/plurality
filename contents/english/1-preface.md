@@ -4,7 +4,7 @@
 
 ---
 
-The advent of the internet unfurled the world. Beginning in the 1960s, this new technology created unprecedented possibilities to tie distant communities together across space and time. Knowledge transcended borders, spreading instanteaneously across languages and cultures.
+The advent of the internet unfurled the world. Beginning in the 1960s, this new technology created unprecedented possibilities to tie distant communities together across space and time. Knowledge transcended borders, spreading instantaneously across languages and cultures.
 
 At the same time, globalization ushered in an era marked by increased disparities in wealth and social standing. The rapid evolution of digital technology fueled the rise of towering tech giants, which lured individuals into polarized enclaves. 
 
