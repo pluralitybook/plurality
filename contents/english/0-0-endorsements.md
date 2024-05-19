@@ -14,6 +14,11 @@
 
 <br></br>
 
+> Democracy has been a confrontation between opposing values. In Taiwan, however, it has become a conversation among a diversity of values. Audrey Tang has shown us how to create a "digital democracy" that transcends the constraints of ideology — that is the major contribution of this book.<br></br>
+
+— [Tsai Ing-wen](https://en.wikipedia.org/wiki/Tsai_Ing-wen), President of the ROC (Taiwan)
+
+<br></br>
 
 > They offer us a portal into a future where technology supports democracy, pluralism, and broad human flourishing. We know this future is possible because Tang has been building it in Taiwan. The conceptual foundations laid here usher in a much needed paradigm change for modern life.<br></br>
 — [Danielle S. Allen](https://en.wikipedia.org/wiki/Danielle_Allen#), political philosopher, James Bryan Conant University Professor at Harvard,  MacArthur Fellow, and author of [*Our Declaration*](https://wwnorton.com/books/Our-Declaration/) and [*Cuz*](https://wwnorton.com/books/9781631494949)
