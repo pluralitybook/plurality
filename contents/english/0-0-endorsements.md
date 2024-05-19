@@ -15,7 +15,6 @@
 <br></br>
 
 > Democracy has been a confrontation between opposing values. In Taiwan, however, it has become a conversation among a diversity of values. Audrey Tang has shown us how to create a "digital democracy" that transcends the constraints of ideology — that is the major contribution of this book.<br></br>
-
 — [Tsai Ing-wen](https://en.wikipedia.org/wiki/Tsai_Ing-wen), President of the ROC (Taiwan)
 
 <br></br>
