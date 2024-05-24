@@ -107,6 +107,11 @@
 
 <br></br>
 
+> Read the first chapters on the ✈️ and can’t recommend it enough. I used to be an avid reader, but now I’m usually bored w books; however, this one grabbed my attention again. It’s super necessary so we don’t have this apocalyptic macho idea of the future. It’s in our hands, btw. <br></br> 
+— [Violeta Ayala](https://en.wikipedia.org/wiki/Violeta_Ayala), first Quechua-native member of the [Oscars](https://www.oscars.org/) and award-winning XR filmmaker   
+
+<br></br>
+
 > (P)opulists globally use technology to divide nations...*Plurality* invites a new journey where we can indeed use technology to reclaim that space in world of canceling to become more connected, and bring back our sense of humanity, UBUNTU as we say in Africa. <br></br> 
 — [Mmusi Maimane](https://en.wikipedia.org/wiki/Mmusi_Maimane), South African Presidential candidate, former Leader of the Opposition, Founder of [Build One South Africa](https://www.bosa.co.za/), and pastor and elder of the [Liberty Church](https://www.lty.church/)
 
