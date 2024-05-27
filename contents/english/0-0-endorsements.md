@@ -14,6 +14,10 @@
 
 <br></br>
 
+> Democracy has been a confrontation between opposing values. In Taiwan, however, it has become a conversation among a diversity of values. Audrey Tang has shown us how to create a "digital democracy" that transcends the constraints of ideology — that is the major contribution of this book.<br></br>
+— [Tsai Ing-wen](https://en.wikipedia.org/wiki/Tsai_Ing-wen), President of the ROC (Taiwan)
+
+<br></br>
 
 > They offer us a portal into a future where technology supports democracy, pluralism, and broad human flourishing. We know this future is possible because Tang has been building it in Taiwan. The conceptual foundations laid here usher in a much needed paradigm change for modern life.<br></br>
 — [Danielle S. Allen](https://en.wikipedia.org/wiki/Danielle_Allen#), political philosopher, James Bryan Conant University Professor at Harvard,  MacArthur Fellow, and author of [*Our Declaration*](https://wwnorton.com/books/Our-Declaration/) and [*Cuz*](https://wwnorton.com/books/9781631494949)
@@ -100,6 +104,11 @@
 
 > At last, we have a book that centers plurality – both in theory and in practice. This is a much-needed guide for developing new strategies to navigate the relationship between technology and democracy, and for thinking beyond the usual Western frame. <br></br> 
 — [Kate Crawford](https://katecrawford.net/), Senior Researcher at Microsoft Research, research professor at the University of Southern California, artist, musician and author of [*Atlas of AI*](https://en.wikipedia.org/wiki/Atlas_of_AI)
+
+<br></br>
+
+> Read the first chapters on the ✈️ and can’t recommend it enough. I used to be an avid reader, but now I’m usually bored w books; however, this one grabbed my attention again. It’s super necessary so we don’t have this apocalyptic macho idea of the future. It’s in our hands, btw. <br></br> 
+— [Violeta Ayala](https://en.wikipedia.org/wiki/Violeta_Ayala), first Quechua-native member of the [Oscars](https://www.oscars.org/) and award-winning XR filmmaker   
 
 <br></br>
 
