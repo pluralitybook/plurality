@@ -18,10 +18,10 @@ tags:
 
 Before getting started with this guide, it is recommended that you familiarise yourself with the following:
 
-* Familiarise yourself with the [Plurality book](https://www.plurality.net/)
+* Familiarise yourself with the [Plurality book](https://www.plurality.net/), and,
 * Familiarise yourself with the [Plurality book project](../index.md)
 
-The beginners contribution guide is currently written for those who have little to no experience with contributing to open source projects. To follow the steps in this guide, you will need a computer with Windows installed, as well as an internet connection.
+This beginners contribution guide is currently written for those who have little to no experience with contributing to open source projects. To follow the steps in this guide, you will need a computer with Windows installed, as well as an internet connection.
 
 ### What is covered the guide?
 
@@ -49,7 +49,7 @@ The contents covered in the beginners contribution guide are listed in the table
 
 ### If you become stuck
 
-If you become stuck on any of the steps, a member of the community on the Discord can help. You can connect with the community in the [Get involved](../home/Get involved.md) section of these docs.
+If you become stuck on any of the steps, a member of the community on the Discord can help. You can connect with the community by navigating to the [Get involved](../home/Get involved.md) section of the docs.
 
 Now that you have an overview of what is in this guide, you're all set to dive in and take your first exciting step!
 
@@ -64,13 +64,13 @@ An open source project is a collaborative initiative where anyone can use, chang
 * **Accessibility:** The source materials are freely available to everyone.
 * **Collaboration**: People from around the world can contribute to the project.
 * **Transparency**: All changes and updates are visible to everyone.
-* **Flexibility**: Users can modify the project to suit their specific needs, and use the source materials however the wish.
+* **Flexibility**: Users can modify the project to suit their specific needs, and use the source materials however they wish.
 
-The Plurality book is an open source project. Instead of being controlled one author, company, or organisation, it allows anyone to contribute content and therefore evolves as more people around the world share their ideas and perspectives.
+The Plurality book is an open source project. Instead of being controlled by one author, company, or organisation, it allows anyone to contribute content and therefore evolves as more people around the world share their ideas and perspectives.
 
 ### What tools are used in open source?
 
-There are a variety of tools that are used to facilitate open source projects. From tools that help you connect to the community, to tools that generate documentation, tools are what help facilitate the work that is required to collaborate on open source projects. There are only a few tools that you will need to get started. These tools are referred to as your *working environment* and are listed below:
+There are a variety of tools that are used to facilitate open source projects. From tools that help you connect to the community to tools that generate documentation, tools are what help facilitate the work that is required to collaborate on open source projects. There are only a few tools that you will need to get started. These tools are referred to as your *working environment* and are listed below:
 
 * **Code editor:** A software tool that is used by contributors to create and edit project files.
 
@@ -78,9 +78,9 @@ There are a variety of tools that are used to facilitate open source projects. F
 
 * **Discord:** A messaging platform that the community uses for communication and collaboration
 
-We will explain more on what each tool does and how they can help you make your first contribution. However as mentioned, the number of tools that are used in open source is  vast. When you have a better understanding of the basic tools, it is encouraged that you try experimenting with other tools to contribute in new and creative ways.
+We will explain more on what each tool does and how they can help you make your first contribution. However, as mentioned, the number of tools that are used in open source is  vast. When you have a better understanding of the basic tools, it is encouraged that you try experimenting with other tools to contribute in new and creative ways.
 
-Now that you have an understanding of your basic working environment, it is time to learn a bit more about your first tool; the *code editor*. Continue reading about the code editor in the next step.
+Now that you have an understanding of your basic working environment, it is time to learn a bit more about your first tool: the *code editor*. Continue reading about the code editor in the next step.
 
 ---
 
@@ -88,12 +88,12 @@ Now that you have an understanding of your basic working environment, it is time
 
 ### What is a code editor?
 
-The Notepad software on your Windows computer can be thought of as a simple code editor. When you open Notepad you are greeted with an interface that allows you to write and edit text, save your work as a .txt file, and store it in a folder on your computer. While Notepad is great for those simple tasks, it lacks a lot of the features that can help you complete the tasks required for contributing to the project. This is where a more complex software, such as a code editor, can help. 
+The Notepad software on your Windows computer can be thought of as a simple code editor. When you open Notepad you are greeted with an interface that allows you to write and edit text, save your work as a .txt file, and store it in a folder on your computer. While Notepad is great for those simple tasks, it lacks a lot of the features that can help you complete the tasks required for contributing to the project. This is where more complex software, such as a code editor, can help. 
 
-Like Notepad, we can use code editors to write and edit text, save our work, and store int in a folder on our computer. However, a code editor has some other features that will help with our contribution. This includes:
+Like Notepad, we can use code editors to write and edit text, save our work, and store it in a folder on our computer. However, a code editor has some other features that will help with our contribution. This includes:
 
 * Helping us write and edit text more easily
-* Saving files in Markdown (.md) and other format
+* Saving files in Markdown (.md) and other formats
 * Navigating the folders where we saved our files
 * Allowing us to request that our contributions are added to the project
 
@@ -105,9 +105,9 @@ To get a code editor, you will need to download and install it from the internet
 
 ### Download and install VS Code
 
-1. Download the [Visual Studio Code installer](https://code.visualstudio.com/download) installer file for Windows.
-2. Once the installer file has downloaded, open the file to start the installation process. <img src="../assets/download-vscode.png" style="zoom:50%;" />
-3. Follow the installation instructions. You may need to grant administrative privileges if prompted.
+1. Download the [Visual Studio Code installer](https://code.visualstudio.com/download) file for Windows
+2. Once the installer file has downloaded, open the file to start the installation process <img src="../assets/download-vscode.png" style="zoom:50%;" />
+3. Follow the installation instructions. You may need to grant administrative privileges if prompted
 4. After the installation is complete, launch VS Code. (By default, VS Code is installed under `C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code`.)
 
 When you first launch VS Code, you will be greeted with a "Get Started with VS Code" interface. Here you can customize some of the settings of VS Code, however, this is not a mandatory requirement for the purposes of the beginners contribution guide.
@@ -126,7 +126,7 @@ To download Git, complete the following steps:
 6. Follow the installation instructions (You can leave the settings as default)
 7. After the installation is complete you do not need to launch Git Bash or view the release notes
 
-Now that you have set up your code editor and installed Git, you are ready to check out the files of the Plurality project and see what type of contributions you can make. To do this, you will first need to navigate to GitHub and make an account. This is covered in the next step. 
+Now that you have set up your code editor and installed Git, you are ready to check out the files of the Plurality project and see what type of contributions you can make. To do this, you will first need to navigate to GitHub and create an account. This is covered in the next step. 
 
 ---
 
@@ -136,13 +136,13 @@ Now that you have set up your code editor and installed Git, you are ready to ch
 
 GitHub is an online hub for open source projects. It is a place where community members can store their contributions and work together on projects. Here are some of the features that GitHub offers:
 
-* **Storing files:** Just like how you might save files in a folder on your computer, you can save files and store them in project folders on GitHub.
+* **Storing files:** Just as you save files in a folder on your computer, you can save files and store them in project folders on GitHub.
 * **Collaboration:** GitHub allows you to browse the files that other people have stored, make changes to these files, and add your own files. 
 * **Keeping track of changes:** When you are working with files using GitHub, all changes to files are tracked so that you can go back to older versions if required.
 
 ### What are GitHub issues?
 
-GitHub issues are a feature of the GitHub platform where contributors can write down the things that they feel need to be done to improve a project. For the Plurality project, issues can be a variety of things including required edits to the root text, additions of graphical elements, or contributions to the documentation.
+GitHub issues are a feature of the GitHub platform where contributors can write down the things that they feel need to be done to improve a project. For the Plurality project, issues can be a variety of things such as required edits to the root text, additions of graphical elements, or contributions to the documentation.
 
 Issues are a great place to go if you want to contribute to the project but you are unsure of what you exactly want to contribute. It provides a place to view a list of things that the community has identified as something that needs to get done. 
 
@@ -158,18 +158,18 @@ During sign up, you'll be asked to verify your email address. Without a verified
 
 ### Browse the issues
 
-After you have created a GitHub account, you can started browsing the issues on the Plurality projects GitHub page.
+After you have created a GitHub account, you can start browsing the issues on the Plurality projects GitHub page.
 
 1. Navigate to [https://github.com/pluralitybook/plurality/issues](https://github.com/pluralitybook/plurality/issues)
 2. You will see a list of issues that community members have raised <img src="../assets/github-issues-homepage.png" style ="zoom=10%;" />
 3. Click on an issue that stands out to you
-4. After clicking into an issue, you may see a more detailed description about the issue as well as threads from community members discussing the issue 
+4. After clicking on an issue, you may see a more detailed description about the issue as well as threads from community members discussing the issue 
 5. To see issues that have been resolved, click **Closed** in the header of the issues table <img src="../assets/github-closed-issues.png" style ="zoom=10%;" />
 6. Feel free to continue browsing the open and closed issues to get an idea of what type of work the community has been doing
 
 ### Learn more about GitHub
 
-Everything that you need to know about GitHub in order to make your first contribution to the project is covered in the beginners contribution guide. However, if you want to learn more about GitHub to feel more comfortable on the platform, check out some of GitHub's great, open-source documentation: [Get started with GitHub](https://docs.github.com/en/get-started). If you are happy with just the basics, then continue to the next step.
+Everything that you need to know about GitHub in order to make your first contribution to the project is covered in the beginners contribution guide. However, if you want to learn more about GitHub to feel more comfortable on the platform, check out some of GitHub's [great, open-source documentation](https://docs.github.com/en/get-started). If you are happy with just the basics, then continue to the next step.
 
 ---
 
@@ -187,7 +187,7 @@ The list of files on the **< > Code** page is known as the projects *root reposi
 
 > **Note**: Translations of the Plurality book are kept on a different root repository than the Plurality book. The process for making a translation contribution is not covered in this guide, however finishing the guide will prepare you for contributing translations.
 
-### What are Forks and clones?
+### What are forks and clones?
 
 Forks and clones are two terms that are used to refer to making a copy of a GitHub root repository. When you fork a root repository, you are making a copy of all the folders and files and storing them on your own GitHub account. When you clone a project, you are making a copy of all the files and then downloading them onto your personal computer. Below is basic overview of forks and clones.
 
@@ -232,8 +232,8 @@ Once you have a fork of the project on your GitHub account, you can clone it ont
 > **Note:** If you do not see the "Clone Git repository" option, you first need to create a new window in VS Code by typing CTRL+Shift+N
 
 7. Paste the web URL that you copied earlier and hit Enter
-8. You will be asked to choose a folder to clone the project into, select a location that you feel is most appropriate
-9. A copy of the project will now be copied into the folder that you selected, it may take a few seconds to load
+8. You will be asked to choose a folder into which to clone the project. Select a location that you feel is most appropriate
+9. A copy of the project will now be copied into the folder that you selected. It may take a few seconds to load
 10. When prompted, open the newly populated folder in VS Code
 
 Now that you have forked and cloned the project, you are now ready to start making your changes to the files. The next step outlines how you can do this.
@@ -268,18 +268,19 @@ Your forked and cloned versions of the project are now up to date!
 
 ### Find the file that you want to change
 
-2. Navigate to the **Explorer** tab on the left by selecting the Explorer icon (<img src="../assets/vscode-explorer-icon.png" width="20" />). This tab contains the files of  your personal clone of the project
-3. Open the  **contents** folder, then the **english** folder
+1. Navigate to the **Explorer** tab on the left by selecting the Explorer icon (<img src="../assets/vscode-explorer-icon.png" width="20" />). This tab contains the files of  your personal clone of the project
+
+2. Open the  **contents** folder, then the **english** folder
 
 <img src="../assets/vscode-explorer.png" style ="zoom=10%;" />
 
-Once you open the **english** folder, you will see a list of files. The files start with a number, which indicates it's Part and Chapter. This is followed by text that describes the file's Section. For example, the file `6-2-health.md` is Part 6, Chapter 2, Health (more information about how the book is structured can be found in the book's [Style Guide](../style guide/Book structure.md)). You will also notice that all of the files in the **english** folder end in `.md`, or Markdown. We will discuss more about Markdown below. 
+Once you open the **english** folder, you will see a list of files. The files start with a number, which indicates its Part and Chapter. This is followed by text that describes the file's Section. For example, the file `6-2-health.md` is Part 6, Chapter 2, Health (more information about how the book is structured can be found in the book's [Style Guide](../style guide/Book structure.md)). You will also notice that all of the files in the **english** folder end in `.md`, or Markdown. We will discuss more about Markdown below. 
 
 ### Working in Markdown
 
-Markdown is a simple file type that allows you to format text by creating headings, bold or italicize words, making lists, etc. It is a great file type for the project because it is easy to read and edit. Markdown can also quickly be converted to other file types. This allows different community members to utilise the content of the book in different ways such as displaying the book on a website (HTML) or printing it onto physical paper (PDF).
+Markdown is a simple file type that allows you to format text by creating headings, formatting words, making lists, etc. It is a great file type for the project because it is easy to read and edit. Markdown can also quickly be converted to other file types. This allows different community members to utilise the content of the book in different ways such as displaying the book on a website (HTML) or printing it onto physical paper (PDF).
 
-When you open the `.md` file in the **english** folder that you would like to make changes to, it's contents will be displayed in the main area of VS Code. You will see familiar sentences and paragraphs, but you will also see some text elements that you might not be familiar with such as `#`, `[some-text](some-link.com)`, or `<figure>`. 
+When you open the `.md` file in the **english** folder to which you would like to make changes, it's contents will be displayed in the main area of VS Code. You will see familiar sentences and paragraphs, but you will also see some text elements that you might not be familiar with such as `#`, `[some-text](some-link.com)`, or `<figure>`. 
 
 Below are some of the basics of what you will see in a Markdown file, however, we won't worry too much about the all of the elements, as they are not needed for our first contribution. 
 
@@ -307,9 +308,9 @@ Below are some of the basics of what you will see in a Markdown file, however, w
 ```
 [Link text](https://plurality.net)
 ```
-As you work in Markdown files, you will become more familiar with all of it's features. If you are curious about learning more, this [website](https://www.markdownguide.org/) provides some great information on the different elements that can be used in Markdown.
+As you work in Markdown files, you will become more familiar with all of its features. If you are curious about learning more, this [website](https://www.markdownguide.org/) provides some great information on the different elements that can be used in Markdown.
 
-One final thing to note about Markdown is that HTML elements can be used for specific purposes. For example, you will probably encounter a file that has a figure embedded into it. The HTML element that you will find in the Markdown file may look like this:
+One final thing to note about Markdown is that HTML elements can be used for specific purposes. For example, you will probably encounter a Markdown file that has a figure embedded into it. The HTML element that you will find may look like this:
 ```
 <figure>
 <img src="https://example/image.png" width="100%" alt="Description of image">
@@ -323,13 +324,13 @@ In the Plurality book, HTML is most likely to be used for images and figures. If
 ### Make your changes
 
 1. Select a Markdown file that you would like to change. (If you are unsure what you would like to change, you may want to go back and browse the issues on GitHub.) 
-2. In the Markdown file, find the text that you would like to edit, or the Section that you would like to add text to
+2. In the Markdown file, find the text that you would like to edit, or the Section to which you would like to add text
 3. Edit the text
 4. Once you are happy with your changes, save the file (CTRL+S)
 
 > **Note:** Don't worry about making a change that you later decide you don't want to keep. This is why you cloned the project; to develop and test your own personal changes before contributing them to the public root repository.
 
-Now that you have saved your changes to the project, you need to request that it they are added to the root repository of the Plurality project. We will discuss how to do this in the next step.
+Now that you have saved your changes to the project, you need to request that they be added to the root repository of the Plurality project. We will discuss how to do this in the next step.
 
 ---
 
@@ -341,7 +342,7 @@ After you have made your changes to your cloned project file, you will want to r
 
 ### Connect to your GitHub account on VS Code
 
-Before making your Pull Request, ensure you are signed into your GitHub account on VS Code. To do this, go to VS Code and select the **Accounts** icon near the bottom of the left tab (<img src="../assets/vscode-accounts-icon.png" width="25" />). If you are already signed to your GitHub account, no action is needed, however if you are not signed in, you will need to complete the steps below:
+Before making your Pull Request, ensure you are signed into your GitHub account on VS Code. To do this, go to VS Code and select the **Accounts** icon near the bottom of the left tab (<img src="../assets/vscode-accounts-icon.png" width="25" />). If you are already signed in to your GitHub account, you can continue to "Commit your changes" below. However if you are not signed in, you will need to complete the following steps:
 
 <img src="../assets/vscode-accounts.png" />
 
@@ -360,13 +361,13 @@ The final thing to do before making your Pull Request is to **Commit** your chan
 
 1. In VS Code, navigate to the **Source Control** tab (<img src="../assets/source-control-icon.png" width="20" />)
 
-2. On the Source Control tab, you can see a list of the files that you have made changes to
+2. On the Source Control tab, you can see a list of the files to which you have made changes
 
 3. Select **Commit**
 
 4. A prompt will appear, select **Yes** <img src="../assets/vscode-commit-changes.png" />
 
-5. VS Code will then ask you to create a commit message. A commit message briefly describes the change that you have made to to the project. Type in your commit message then select the checkmark to confirm 
+5. VS Code will then ask you to create a commit message. A commit message briefly describes the change that you have made to the project. Type in your commit message then select the checkmark to confirm 
 <img src="../assets/vscode-commit-message.png" />
 
 6. Select **Save**
@@ -397,7 +398,7 @@ Now that your fork is updated with the changes, it is time to open your Pull Req
 
 Congratulations, your Pull Request has been submitted! The community will now be able to review your contribution and vote to accept or reject it. To check on the status of your Pull Request, you can go to the **Pulls** tab of the plurality GitHub page (https://github.com/pluralitybook/plurality/pulls). 
 
->  **Note:** A final note on Pull Requests: There are many different workflows that end in a Pull Request being made. If the above steps did not work for you, try troubleshooting by connecting with the community on discord, or to visiting the [GitHub Pull Request docs](https://docs.github.com/en/pull-requests)
+>  **Note:** A final note on Pull Requests: There are many different workflows that end in a Pull Request being made. If the above steps did not work for you, try troubleshooting by connecting with the community on discord, or by visiting the [GitHub Pull Request docs](https://docs.github.com/en/pull-requests)
 
 ---
 
