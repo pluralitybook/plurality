@@ -1,6 +1,6 @@
 # Conclusion
 
-This book describes a vision for the future of technology and society that we hope is ambitious and serious enough to be real competitor to, but will be more attractive to most readers than, that developed by Libertarians and Technocrats.  If we are right and you share that vision, join us in the movement for ⿻.
+This book describes a vision for the future of technology and society that we hope is ambitious and serious enough to be a real competitor to, but will be more attractive to most readers than, that developed by Libertarians and Technocrats.  If we are right and you share that vision, join us in the movement for ⿻.
 
 Our concrete aspirations match our ambitious vision. By 2030, ⿻ will be as recognizable to people around the globe as a direction for technology as AI or blockchain are and as recognizable as a political movement as the Green movement.  People will expect their democracy to progress as rapidly as their devices. They will see Taiwan as a guiding light and symbol for ⿻ and thus as important to the thriving of ⿻ as Israel is for the Jewish people or as Ukraine is for freedom in Europe.  People around the world will find surprising allies and heroes through ⿻, like those concerned about authoritarian expansionism coming to admire a transgender Taiwanese leader on the front lines of that conflict and those seeking more ⿻ technology finding allies among devout conservatives.
 
@@ -86,7 +86,7 @@ Thus together culture, politics and activism, business and technology and resear
 
 ### Mobilization
 
-This is why, of course, there can be no top-down, one-size-fits-all path to ⿻. What there can be, however – and soon, if this book has its intended effect -- are intersecting circles of people, linked together in groups and individuals loosely federated across the globe, who are committed to ⿻ over its foils: Libertarianism and Technocracy. In charting a third course, pluralists are committed to technology strengthening and diversifying relationships, rather than tearing them down, and regenerating diversity, not fostering conformity.  Relationships and the love, loss, adversity and achievement are what makes life, not the violence of the jungle manifested in books like *The Lord of the Flies* or the optimization of undifferentiated data points.[^Lord]
+This is why, of course, there can be no top-down, one-size-fits-all path to ⿻. What there can be, however – and soon, if this book has its intended effect – are intersecting circles of people, linked together in groups and individuals loosely federated across the globe, who are committed to ⿻ over its foils: Libertarianism and Technocracy. In charting a third course, pluralists are committed to technology strengthening and diversifying relationships, rather than tearing them down, and regenerating diversity, not fostering conformity.  Relationships and the love, loss, adversity and achievement are what makes life, not the violence of the jungle manifested in books like *The Lord of the Flies* or the optimization of undifferentiated data points.[^Lord]
 
 [^Lord]: William Golding, *The Lord of the Flies* (London: Faber and Faber, 1954).
 
