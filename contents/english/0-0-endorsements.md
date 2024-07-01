@@ -128,6 +128,11 @@
 
 <br></br>
 
+> Once in a while a book comes along that completely reshapes the paradigm... Graeber and Wengrow...Asimov...Mary Shelly...now Audrey Tang, Glen Weyl and their collaborators have blown open the gates of...what it is to be human in the twenty-first century...Buy it...Bring it into being.<br></br> 
+— [Manda Scott](https://en.wikipedia.org/wiki/Manda_Scott), best-selling author of [*Boudica*](https://mandascott.co.uk/boudica-dreaming-the-eagle/) and [*A Treachery of Spies*](https://mandascott.co.uk/a-treachery-of-spies/)
+
+<br></br>
+
 > If internet technology has accelerated fragmentation, it should be possible to achieve a comfortable coexistence. *Plurarity* is full of hints for this purpose.<br></br>
 — [Aono Yoshihisa](https://www.crunchbase.com/person/yoshihisa-aono), Co-Founder and CEO of [Cybozu](https://cybozu.co.jp/en/company/)
 
