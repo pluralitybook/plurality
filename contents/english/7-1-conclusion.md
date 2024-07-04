@@ -86,7 +86,9 @@ Thus together culture, politics and activism, business and technology and resear
 
 ### Mobilization
 
+
 This is why, of course, there can be no top-down, one-size-fits-all path to ⿻. What there can be, however – and soon, if this book has its intended effect -- are intersecting circles of people, linked together in groups and individuals loosely federated across the globe, who are committed to ⿻ over its foils: Libertarianism and Technocracy. In charting a third course, pluralists are committed to technology strengthening and diversifying relationships, rather than tearing them down, and regenerating diversity, not fostering conformity.  Relationships and love, loss, adversity, and achievement are what makes life, not the violence of the jungle manifested in books like *The Lord of the Flies* or the optimization of undifferentiated data points.[^Lord]
+
 
 [^Lord]: William Golding, *The Lord of the Flies* (London: Faber and Faber, 1954).
 

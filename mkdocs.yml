@@ -1,0 +1,45 @@
+site_name: Plurality Docs
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    primary: black
+  logo: assets/plurality logo.png
+  favicon: assets/favicon.png
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      toc_depth: 2
+  
+nav: 
+- Start here: 
+  - Welcome: index.md
+  - About the book: home/About the Plurality book.md
+  - About the project: home/About the Plurality project.md
+  - Get involved: home/Get involved.md
+
+- Contributing to the project:
+  - Introduction: contributing/Getting started.md
+  - Beginners contribution guide: contributing/Beginners contribution guide.md
+  - Content and edits: contributing/Contributing content and edits.md
+  - Translations: contributing/Contributing translations.md
+  - Figures and images: contributing/Contributing figures.md
+  - Citations and references: contributing/Contributing citations.md
+  - Contributing in other ways: contributing/Contributing in other ways.md
+  - Contributing to the docs: contributing/Contributing to the docs.md
+  - Pull Requests: contributing/Pull requests.md
+  
+- Book style guide:
+  - Book structure: style guide/Book structure.md
+  - Punctuation and grammar: style guide/Punctuation and grammar.md
+  - Figures: style guide/Images and figures.md
+  - Citations and referencing: style guide/Citations and referencing.md
+
+- Governance of the project:
+  - Introduction: governance/Governance introduction.md
+  - Plural Credits: governance/Plural credits.md
+  - Gov4Git: governance/Gov4Git.md
+  - Plural Management Protocol: governance/Plural management protocol.md

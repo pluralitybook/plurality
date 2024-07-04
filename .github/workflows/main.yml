@@ -7,13 +7,18 @@ on:
 
 jobs:
   build:
-    if: ${{ github.repository_owner == 'pluralitybook' || github.repository_owner == 'audreyt' }}
+    if: ${{ github.repository_owner == 'pluralitybook' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
       packages: write
     steps:
     - uses: actions/checkout@v2
+    - name: Rebuild the plurality.net website
+      env:
+        REBUILD_WEBHOOK: ${{ secrets.REBUILD_WEBHOOK }}
+      run: |
+        curl -X POST -d {} "$REBUILD_WEBHOOK"
     - name: Generate book files
       run: |
         # Install necessary dependencies (e.g., Perl, Docker)

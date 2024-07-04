@@ -14,6 +14,10 @@
 
 <br></br>
 
+> Democracy has been a confrontation between opposing values. In Taiwan, however, it has become a conversation among a diversity of values. Audrey Tang has shown us how to create a "digital democracy" that transcends the constraints of ideology — that is the major contribution of this book.<br></br>
+— [Tsai Ing-wen](https://en.wikipedia.org/wiki/Tsai_Ing-wen), President of the ROC (Taiwan)
+
+<br></br>
 
 > They offer us a portal into a future where technology supports democracy, pluralism, and broad human flourishing. We know this future is possible because Tang has been building it in Taiwan. The conceptual foundations laid here usher in a much needed paradigm change for modern life.<br></br>
 — [Danielle S. Allen](https://en.wikipedia.org/wiki/Danielle_Allen#), political philosopher, James Bryan Conant University Professor at Harvard,  MacArthur Fellow, and author of [*Our Declaration*](https://wwnorton.com/books/Our-Declaration/) and [*Cuz*](https://wwnorton.com/books/9781631494949)
@@ -103,6 +107,11 @@
 
 <br></br>
 
+> Read the first chapters on the ✈️ and can’t recommend it enough. I used to be an avid reader, but now I’m usually bored w books; however, this one grabbed my attention again. It’s super necessary so we don’t have this apocalyptic macho idea of the future. It’s in our hands, btw. <br></br> 
+— [Violeta Ayala](https://en.wikipedia.org/wiki/Violeta_Ayala), first Quechua-native member of the [Oscars](https://www.oscars.org/) and award-winning XR filmmaker   
+
+<br></br>
+
 > (P)opulists globally use technology to divide nations...*Plurality* invites a new journey where we can indeed use technology to reclaim that space in world of canceling to become more connected, and bring back our sense of humanity, UBUNTU as we say in Africa. <br></br> 
 — [Mmusi Maimane](https://en.wikipedia.org/wiki/Mmusi_Maimane), South African Presidential candidate, former Leader of the Opposition, Founder of [Build One South Africa](https://www.bosa.co.za/), and pastor and elder of the [Liberty Church](https://www.lty.church/)
 
@@ -116,6 +125,11 @@
 > \(A\) remarkable book which provides accessible, deep and novel insights into the way in which technology has, is, will and should shape our lives.  It draws on a wealth of evidence to provide a powerful case in favour of promoting plurality...It holds important lessons for all of us. <br></br>
 — [Colin Mayer](https://en.wikipedia.org/wiki/Colin_Mayer), Peter Moores Professor of Management Studies at the Oxford [Saïd School of Management](https://en.wikipedia.org/wiki/Sa%C3%AFd_Business_School) and author of [*Prosperity: Better Business Makes the Greater Good*](https://global.oup.com/academic/product/prosperity-9780198866824?lang=en&cc=sk)  
 
+
+<br></br>
+
+> Once in a while a book comes along that completely reshapes the paradigm... Graeber and Wengrow...Asimov...Mary Shelly...now Audrey Tang, Glen Weyl and their collaborators have blown open the gates of...what it is to be human in the twenty-first century...Buy it...Bring it into being.<br></br> 
+— [Manda Scott](https://en.wikipedia.org/wiki/Manda_Scott), best-selling author of [*Boudica*](https://mandascott.co.uk/boudica-dreaming-the-eagle/) and [*A Treachery of Spies*](https://mandascott.co.uk/a-treachery-of-spies/)
 
 <br></br>
 
