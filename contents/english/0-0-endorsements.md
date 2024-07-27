@@ -25,8 +25,7 @@
 <br></br>
 
 > *Plurality* reads like optimistic sci-fi, already happening in real life! Can democracies around the world follow in Taiwan’s footsteps to upgrade free society for the digital age? Fingers crossed for a happy ending. <br></br>
-
-— [Joseph Gordon-Levitt](https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt), Emmy-winning artist and founder of [HITRECORD](https://hitrecord.org/)
+— Joseph Gordon-Levitt, Emmy-winning artist and founder of [HITRECORD](https://hitrecord.org/)
 
 <br></br>
 
@@ -55,7 +54,7 @@
 
 <br></br>
 
-> What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.<br></br>
+> What would the world be like if our dearest dreams in the social justice...movement had come to pass?  (They) offer radical yet pragmatic solutions to...reinventing democracy...(to) truly serve the people...Some...have ...been implemented, serving as a beacon ...to make real change.<br></br>
 — [Stav Shaffir](https://en.wikipedia.org/wiki/Stav_Shaffir), leader of the [Israeli Social Justice protests](https://en.wikipedia.org/wiki/2011_Israeli_social_justice_protests) that inspired "Occupy" and youngest woman Member of the Knesset
 
 
@@ -129,6 +128,12 @@
 
 <br></br>
 
+> Once in a while a book comes along that completely reshapes the paradigm... Graeber and Wengrow...Asimov...Mary Shelly...now Audrey Tang, Glen Weyl and their collaborators have blown open the gates of...what it is to be human in the twenty-first century...Buy it...Bring it into being.<br></br> 
+— [Manda Scott](https://en.wikipedia.org/wiki/Manda_Scott)
+, best-selling author of [*Boudica*](https://mandascott.co.uk/boudica-dreaming-the-eagle/) and [*A Treachery of Spies*](https://mandascott.co.uk/a-treachery-of-spies/)
+
+<br></br>
+
 > If internet technology has accelerated fragmentation, it should be possible to achieve a comfortable coexistence. *Plurarity* is full of hints for this purpose.<br></br>
 — [Aono Yoshihisa](https://www.crunchbase.com/person/yoshihisa-aono), Co-Founder and CEO of [Cybozu](https://cybozu.co.jp/en/company/)
 
@@ -189,7 +194,7 @@
 
 <br></br>
 
-> "Regulation” remains elusive as a path to taming our technofeudal masters. It will not succeed in dispersing power. *Plurality* charts a different path for us to take - open and democratic - to bypass and dis-intermediate these powers.<br></br>
+> "Regulation” remains elusive as a path to taming our technofeudal masters. It will not succeed in dispersing power. *Plurality* charts a different path for us to take - open and democratic - to bypass and dis-intermediate these powers.<br></br>
 — [Cristina Caffarra](https://cristinacaffarra.com/), Honorary Professor at [University College London](https://profiles.ucl.ac.uk/77797-cristina-caffarra) and Co-Founder of the [CEPR Competition Research Policy Network](https://cepr.org/about/people/cristina-caffarra)
 
 <br></br>
