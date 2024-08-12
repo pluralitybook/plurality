@@ -101,7 +101,7 @@ As we highlighted in the [Connected Society](https://www.plurality.net/v/chapter
 [^Marketdesign]:Atila Abdulkadiroğlu, Parag A. Pathak and Alvin E. Roth, "The New York City High School Match", *American Economic Review* 95, no. 2 (2005): 365-367.  Nicole Immorlica, Brendan Lucier, Glen Weyl and Joshua Mollner, "Approximate Efficiency in Matching Markets" *International Conference on Web and Internet Economics* (2017): 252-265. Roth et al., op. cit.
 [^Esteem]: Nicole Immorlica, Greg Stoddard and Vasilis Syrgkanis, "Social Status and Badge Design", *WWW '15: Proceedings of the 24th International Conference on World Wide Web* (2015: 473-483.
 
-While this blossoming of alternatives to simplistic markets is a powerful proof of concept for moving beyond the traditional limits of the market.  But they represent the beginning, not the end, of the possibilities for the technologically enabled social markets of the future.
+While this blossoming of alternatives to simplistic markets is a powerful proof of concept for moving beyond the traditional limits of the market, they represent the beginning, not the end, of the possibilities for the technologically enabled social markets of the future.
 
 ### Frontiers of social markets
 
