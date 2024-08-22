@@ -14,6 +14,7 @@ All materials in this repo and in all other parts of this project (unless explic
 
 To cite this text, you can use this bibtex as a sample
 
+```bibtex
 @online{plurality2023,
   title={Plurality: The Future of Collaborative Technology and Democracy},
   author={Weyl, E. Glen and Tang, Audrey and {the Plurality Community}},
@@ -21,6 +22,7 @@ To cite this text, you can use this bibtex as a sample
   url={https://github.com/pluralitybook/plurality/blob/main/contents/english},
   publisher={GitHub},
 }
+```
 
 # Identity and credit
 
