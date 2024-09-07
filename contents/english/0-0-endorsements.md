@@ -25,8 +25,7 @@
 <br></br>
 
 > *Plurality* reads like optimistic sci-fi, already happening in real life! Can democracies around the world follow in Taiwan’s footsteps to upgrade free society for the digital age? Fingers crossed for a happy ending. <br></br>
-— [Joseph Gordon-Levitt](https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt), E
-mmy-winning artist and founder of [HITRECORD](https://hitrecord.org/)
+— [Joseph Gordon-Levitt](https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt), Emmy-winning artist and founder of [HITRECORD](https://hitrecord.org/)
 
 <br></br>
 
