@@ -70,7 +70,7 @@ Furthermore, there are good reasons to believe such organizations could afford t
 
 This might play out in a variety of ways, but a simple one would be for participants to opt into a set of communities they identify with.  Each would "sponsor" their community members' use in exchange for the prioritization of their members' attention to the community-relevant content we discussed above.  Users who did not sign up for communities paying sufficiently might have to accept some amount of advertising or pay a subscription fee, and the service could identify from its own patterns communities and approach their leaders to ask for payment.  In short, social media might become a more ⿻ version of public media.
 
-Another approach is to fundamentally change the protocols and platforms used to operate the current version of the Internet and social media. Project Liberty is building a consortium to purchase TikTok and redesign the platform to put people in control of their digital identities and data. 
+One more approach is to fundamentally change the protocols and platforms used to operate the current version of the Internet and social media. Project Liberty is building a consortium to purchase TikTok and redesign the platform to put people in control of their digital identities and data. 
 
 A reimagined TikTok could give people:
 
