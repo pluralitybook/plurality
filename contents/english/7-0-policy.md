@@ -121,7 +121,7 @@ Furthermore, this sector is in many ways better suited to the development of inf
 
 [^DeSci]: Sarah Hamburg,  "Call to Join the Decentralized Science Movement", *Nature* 600, no. 221 (2021): Correspondence at https://www.nature.com/articles/d41586-021-03642-9.
 
-Furthermore, open-source communities are just the tip of the iceberg in terms of what may be possible for public-interested, civil society-driven technology development.  Organizations like the [Mozilla](https://foundation.mozilla.org/en/) and [Wikimedia](https://wikimediafoundation.org/) Foundations, while primarily interacting with and driving open-source projects, have significant development activities beyond pure open-source code development that have made their offerings much more accessible to the world.  Furthermore, there is no necessary reason why public interest technology need inherit all the features of open-source code.  
+Furthermore, open-source communities are just the tip of the iceberg in terms of what may be possible for public-interested, civil society-driven technology development.  Organizations like the [Mozilla](https://foundation.mozilla.org/en/) and [Wikimedia](https://wikimediafoundation.org/) Foundations, while primarily interacting with and driving open-source projects, have significant development activities beyond pure open-source code development that have made their offerings much more accessible to the world.  Furthermore, there is no reason why public interest technology need inherit all the features of open-source code.  
 
 
 
