@@ -8,7 +8,7 @@ Taiwan achieved inclusive, technology-fueled growth, overcame the pandemic witho
 
 Here, the architects of Taiwan’s internationally acclaimed digital democracy share the secret of their success. Plurality (symbolized ⿻) harnesses digital tools not to replace humans or trust, but to channel the potential energy in social diversity that can erupt in conflict instead for progress, growth and beauty. From intimate digitally empowered telepathy to global trade running on social networks rather than money, ⿻ offers tools to radically enrich relationships while leaving no one behind.
 
-⿻ thus promises to transform every sector from healthcare to media, as illustrated by the way it has been written: as a chorus of open, self-governing collaboration of voices from around the globe. Their work in public on this openly available text shows — as well as tells — how everyone from a devout African farmer to a Hollywood celebrity can help build a more dynamic, harmonious and inclusive world.
+⿻ thus promises to transform every sector from healthcare to media, as illustrated by the way it has been written: as an open, self-governing chorus of voices collaborating around the globe. Their work in public on this openly available text shows — as well as tells — how everyone from a devout African farmer to a Hollywood celebrity can help build a more dynamic, harmonious and inclusive world.
 
 ---
 ## Part and chapter summaries
@@ -24,7 +24,7 @@ Technology and democracy are increasingly in conflict in the West, but Taiwan sh
 
 #### Chapter 2-0: Information Technology and Democracy: A Widening Gulf
 
-In the West, technology is increasingly undermining democracy while democracies constrain rather than supporting technology.
+In the West, technology is increasingly undermining democracy while democracies constrain rather than support technology.
 
 #### Chapter 2-1: A View from Yushan
 
@@ -43,7 +43,7 @@ We call the philosophy behind this success ⿻ 數位 Plurality, the harnessing 
 
 #### Chapter 3-1: Living in a ⿻ World
 
-It rests on the recognition that the world is not made up of atoms and large wholes, but instead of diverse, intersecting social groups and units (e.g. people) whose identities that are constituted by those intersections.
+It rests on the recognition that the world is not made up of atoms and large wholes, but instead of diverse, intersecting social groups and units (e.g. people) whose identities are constituted by those intersections.
 
 #### Chapter 3-2: Connected Society
 
@@ -71,7 +71,7 @@ The complement to personhood is freedom of association, which in the digital wor
 
 #### Chapter 4-3: Commerce and Trust
 
-Commerce in a ⿻ is grounded in a protocols that capture a diversity of formalized social trust rather than primarily in a global fungible currency.
+Commerce in a ⿻ is grounded in protocols that capture a diversity of formalized social trust rather than primarily in a global fungible currency.
 
 #### Chapter 4-4: Property and Contract
 
@@ -82,6 +82,7 @@ To take on ambitious collaborations, associations must be able to commonly manag
 For all these to be true human rights, there needs to be universal access to these above capabilities with informational integrity, hence the need for them to be open protocols grounded to validated, redundantly stored data.
 
 ### Part 5: Democracy
+
 The core of ⿻ is technology for collaboration across social difference, making it possible for people to connect more deeply across greater social divides.
 
 #### Chapter 5-0: Collaborative Technology and Democracy
@@ -89,6 +90,7 @@ The core of ⿻ is technology for collaboration across social difference, making
 Such collaboration always involves a tension between depth and breadth, meaning there are a range of present ways to connect from intimacy to capitalism, at every point along the spectrum of which ⿻ aims to mitigate the trade-off.
 
 #### Chapter 5-1: Post-Symbolic Communication
+
 On the most intimate end of the spectrum, “post-symbolic communication” aims to create direct brain-to-brain connections to allow deeper sharing of subjective experience than ever before.
 
 #### Chapter 5-2: Immersive Shared Reality
