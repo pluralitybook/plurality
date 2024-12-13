@@ -8,7 +8,7 @@ Taiwan achieved inclusive, technology-fueled growth, overcame the pandemic witho
 
 Here, the architects of Taiwan’s internationally acclaimed digital democracy share the secret of their success. Plurality (symbolized ⿻) harnesses digital tools not to replace humans or trust, but to channel the potential energy in social diversity that can erupt in conflict instead for progress, growth and beauty. From intimate digitally empowered telepathy to global trade running on social networks rather than money, ⿻ offers tools to radically enrich relationships while leaving no one behind.
 
-⿻ thus promises to transform every sector from healthcare to media, as illustrated by the way it has been written: as a chorus of open, self-governing collaboration of voices from around the globe. Their work in public on this openly available text shows — as well as tells — how everyone from a devout African farmer to a Hollywood celebrity can help build a more dynamic, harmonious and inclusive world.
+⿻ thus promises to transform every sector from healthcare to media, as illustrated by the way it has been written: as an open, self-governing chorus of voices collaborating around the globe. Their work in public on this openly available text shows — as well as tells — how everyone from a devout African farmer to a Hollywood celebrity can help build a more dynamic, harmonious and inclusive world.
 
 ---
 ## Part and chapter summaries
