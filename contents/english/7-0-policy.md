@@ -129,12 +129,9 @@ Some organizations developing generative foundation models, such as [OpenAI](htt
 
 [^OAI]: OpenAI, "OpenAI Charter", *OpenAI Blog* April 9, 2018 at https://openai.com/charter. Anthropic, "The Long-Term Benefit Trust", *Anthropic Blog* September 19, 2023 at https://www.anthropic.com/news/the-long-term-benefit-trust.
 
-
-
 Furthermore, whatever the ideal structures, it is unlikely that such public interest institutions will simply substitute for the large, private digital infrastructure built up over the last decades.  Many social networks, cloud infrastructures, single-sign-on architectures, and so forth would be wasteful to simply scrap.  Instead, it likely makes sense to harness these investments towards the public interest by pairing public investment with agreements to shift governance to respect public input in much the way we discussed in our chapters on Voting, Media, and Workplace.  This closely resembles the way that a previous wave of economic democracy reform with which Dewey was closely associated did not simply out-compete privately created power generation, but instead sought to bring them under a network of partially local democratic control through utility boards.  Many leaders in the tech world refer to their platforms as "utilities", "infrastructure" or "public squares"; it stands to reason that part of a program of ⿻ digital infrastructure will be reforming them so they truly act as such.
 
 Fostering a ⿻ ecosystem of organizations that serve ⿻ publics including but not limited to open-source models will be critical to moving beyond the limits of the academic ARPA model. Luckily a variety of ⿻ technologies are available to policymakers to foster such an ecosystem.
-
 
 
 ### ⿻ regulation
@@ -227,3 +224,4 @@ For them to do so, ⿻ will have to go far beyond a set of creative technologies
 
 [^Planning]: Benjamin Bertelsen and Ritul Gaur, "What We Can Expect for Digital Public Infrastructure in 2024", *World Economic Forum Blog* February 13, 2024 at https://www.weforum.org/agenda/2024/02/dpi-digital-public-infrastructure.    Especially in the developing world, many countries have ministries of planning that could naturally host or spin off such a function.  
 [^Ext]: Economists would refer to such taxes as "Pigouvian" taxes on "externalities".  While a reasonable way to describe some of the below, as noted in our Markets chapter, externalities may be more the rule than the exception and thus we prefer this alternative formulation.  For example, many of these taxes address issues of concentrated market power which do create externalities, but are not usually considered in the scope of Pigouvian taxation.
+  
