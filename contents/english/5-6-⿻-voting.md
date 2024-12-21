@@ -24,11 +24,12 @@ A main theme of this part of the book has been how much broader collaborative te
 
 In the most common form of voting, every member of some community selects one of several mutually exclusive options and the option with the most votes is selected. Some trace this practice to the ability of a group with greater numbers to triumph in certain kinds of violent conflicts (such as phalanx engagements in Ancient Greece), which could be avoided by tallying the strength of positions.  Despite its simplicity, this "plurality rule" is not a particularly compelling representation of ⿻ in the way we use it, for several reasons including:
 
-1. It tends to create a "lesser of two evils" dynamic (known as "Duverger's Law" to political scientists) where people are forced to vote for one of the two leading alternatives even if they dislike both and some trailing alternative might win broader support.[^Duverger]
-2. In many contexts, the simple equality assumed in such a tally is not widely legitimate.  Different participants in a vote may have differing degrees of legitimate interest in an issue (e.g. representing different populations, having spent longer time in a community, etc.).
-3. Even at its best, it represents the direction in which a majority chooses, rather than an overall sense of the "will of the group", which should include how important different issues are to people and how much they know about them. This is often called the "tyranny of the majority".
+1. It tends to create a "lesser of two evils" dynamic (known as "Duverger's Law" to political scientists) where people are forced to vote for one of the two leading alternatives even if they dislike both and some trailing alternative might win broader support.[^Duverger] This can particularly be the case in countries like Australia, which have compulsory voting policies (policies that make voting mandatory for various sections of the population, i.e. citizens eligible to vote or registered voters). While these policies can lead to increased voter turnout[^Evans], they may also contribute to environments in which voters are forced to pick the "lesser of two evils".
+3. In many contexts, the simple equality assumed in such a tally is not widely legitimate.  Different participants in a vote may have differing degrees of legitimate interest in an issue (e.g. representing different populations, having spent longer time in a community, etc.).
+4. Even at its best, it represents the direction in which a majority chooses, rather than an overall sense of the "will of the group", which should include how important different issues are to people and how much they know about them. This is often called the "tyranny of the majority".
 
 [^Duverger]: Maurice Duverger, *Les Partis Politiques* (Paris: Points, 1951).
+[^Evans]: For more information about compulsory voting in Australia, see Tim Evans, *Compulsory Voting in Australia*, January 16 2022, at https://www.aec.gov.au/about_aec/publications/voting/files/compulsory-voting.pdf.
 
 A range of widely used voting procedures aim to address these challenges in limited ways such as:
 
