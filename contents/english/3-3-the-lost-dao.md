@@ -176,6 +176,7 @@ The insights taken from Japan's postwar recovery—namely, the practices of feed
 [^JUSE]: JUSE. “How was the Deming Prize Established,” Dec 22, 2024. https://www.juse.or.jp/deming_en/award/
 [^Toyota]: Toyota introduced QC in the early 1950s, and won the Deming Prize in 1965. Toyota Motor Corporation. "Changes and Innovations - Total Quality Management (TQM)," 75 Years of TOYOTA., Dec 22, 2024.　https://www.toyota-global.com/company/history_of_toyota/75years/data/management/tqm/changes.html
 [^NamerakaSociety]: Ken Suzuki, "The Nameraka Society and Its Enemies" (なめらかな社会とその敵), (Keiso Shobo publishing, 2013).
+[^dividual]: ジンメルの交差的(非)個人との共通性もみられる。ジンメルが社会的関係性からdividualを見たのに加えたが、鈴木はより生物学的視点から考察を試みたドゥルーズの”dividual”から着想している。 Gilles Deleuze, “Pourparlers” (Paris: les Editions de Minui, 1990)
 [^Schmitt]: Carl Schmitt, Der Begriff des Politischen (Berlin: Duncker & Humbolt, 1932)
 [^divicracy]: Dividual democracy allows delegation of one's vote to others and splitting one's vote to multiple political issues. We will return to dividual democracy in the 5-6 voting - ⿻ Voting tomorrow footnote.
 [^PICSY]: PICSY (Propagational Investment Currency SYstem) is a kind of currency system. We will return to PICSY in the 5-7 social markets - Frontiers of social markets footnote.
