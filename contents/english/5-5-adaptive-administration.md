@@ -28,7 +28,7 @@ Many of the most consequential junctures of life turn on administrative outcomes
 * Identification and travel documents
 * Educational transcripts, resumés and other summaries of "the course of a life" (curriculum vitae/CV)
 * Legal documents, including property deeds and contracts.
-* Tax fillings.
+* Tax filings.
 * Structured performance evaluations
 * Medical intake and evaluation forms
 * Legal filings (though these usually include more detail and context than the above)
