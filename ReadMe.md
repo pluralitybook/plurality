@@ -86,6 +86,7 @@ Active translation communities and repositories
 - German: https://github.com/GermanPluralityBook/pluralitaet 
 - Korean: https://github.com/parkhaewon0617/plurality
 - French: https://github.com/xitobal/radicalxchangeparis.github.io/tree/main/public/Plurality%2C%20le%20livre%20-%20G%20Weil
+- Portuguese: https://github.com/lilit-org/plurality-portuguese
 
 # Summary and next steps
 

@@ -1,0 +1,309 @@
+### Índice
+
+1. Introdução
+2. Associações
+3. Estabelecendo o contexto
+4. Protegendo o contexto
+5. Públicos ⿻
+6. Associação, identidade e comércio
+7. Conclusão
+8. Referências
+9. Agradecimentos
+10. Notas Finais
+11. Sobre os Autores
+12. Contato
+13. Licença
+14. Versão
+15. Fim do Documento
+
+### Introdução
+
+Este trabalho explora o conceito de liberdade digital de associação e sua importância para a sociedade contemporânea.
+
+Discutimos como as tecnologias digitais podem ser utilizadas para promover a formação de comunidades significativas e interações sociais mais profundas.
+
+Também examinamos os desafios e oportunidades que surgem ao tentar proteger os contextos comunitários no ambiente digital.
+
+### Estabelecendo o contexto
+
+O contexto é fundamental para a compreensão e a comunicação. 
+
+Ele permite que os indivíduos compartilhem informações e ideias de forma eficaz.
+
+No ambiente digital, o contexto pode ser estabelecido através de tecnologias como protocolos abertos de comunicação e tecnologias de privacidade avançadas.
+
+Na medida em que praças e parques são locais de protesto e ação coletiva, podemos buscar uma "praça pública digital", função que muitas [plataformas](https://www.wired.com/story/elon-musk-twitter-town-square/) afirmam servir.[^PariserMusk] 
+
+Os sites da World Wide Web original ofereceram oportunidades sem precedentes para que uma variedade de pessoas tornasse suas mensagens disponíveis. 
+
+Mas, como observou o laureado com o Nobel em Economia Herbert Simon [conhecido](https://en.wikipedia.org/wiki/Attention_economy) como o "economia da atenção", esse dilúvio de informação criou uma escassez de atenção.[^Simon] 
+
+Logo, tornou-se difícil saber se, a quem e como se estava alcançando uma audiência com um website e com sistemas de busca proprietários como o Google. 
+
+Redes sociais proprietárias, como Facebook e Twitter, tornaram-se as plataformas preferidas para a comunicação digital, mas apenas parcialmente resolveram o problema, pois dispõem de recursos limitados (e geralmente pagos) para compreender as audiências. 
+
+A praça pública digital acabou se transformando em uma concessão privada, com o CEO dessas empresas orgulhosamente declarando-as a [utilidades públicas](https://www.zephoria.org/thoughts/archives/2010/05/15/facebook-is-a-utility-utilities-get-regulated.html) ou praças públicas da era digital, enquanto vigiam e monetizam as interações dos usuários através de publicidade segmentada.[^utility]
+  
+[^PariserMusk]: Eli Pariser, "Musk's Twitter Will Not Be the Town Square the World Needs", *WIRED* 28 de outubro de 2022, em https://www.wired.com/story/elon-musk-twitter-town-square/.
+[^Simon]: Herbert Simon, *Designing Organizations for an Information-Rich World* (Baltimore, MD: Johns Hopkins University Press, 1971): pp. 37-52.
+[^utility]: danah boyd, "Facebook is a utility; utilities get regulated", 15 de maio de 2010, em https://www.zephoria.org/thoughts/archives/2010/05/15/facebook-is-a-utility-utilities-get-regulated.html.
+ 
+Vários esforços recentes começaram a abordar esse problema. 
+
+O World Wide Web Consortium (W3C) publicou o padrão ActivityPub, de [Christine Lemmer Webber](https://dustycloud.org/) e Jessica Tallon, como uma recomendação para habilitar um protocolo aberto de redes sociais que tem capacitado sistemas abertos, como o [Mastodon](https://joinmastodon.org/), a oferecer serviços federados e descentralizados semelhantes ao Twitter para milhões de pessoas ao redor do mundo. 
+
+O próprio Twitter reconheceu o problema e lançou a iniciativa [BlueSky](https://bsky.app/) em 2019, que ganhou atenção rapidamente após a aquisição do Twitter (atualmente X, sob a liderança de Elon Musk). 
+
+O filantropo Frank McCourt investiu fortemente no Project Liberty [&#8203;:contentReference[oaicite:4]{index=4}] e em seu [Protocolo de Redes Sociais Descentralizadas](https://www.projectliberty.io/technology#:~:text=What%20is%20DSNP%3F,on%20it%20or%20use%20it.), como outra fundação baseada em blockchain para redes descentralizadas. 
+
+Embora seja difícil prever exatamente qual desses esforços florescerá ou como eles se consolidarão, as recentes dificuldades da X combinadas com a diversidade de atividades vibrantes nesse espaço sugerem a probabilidade de cooperação e convergência para algum protocolo aberto de publicação digital utilizável.
+
+Contudo, publicidade não é o mesmo que criação de comunidade e associação. 
+
+Postar online assemelha-se muito mais à distribuição de um panfleto do que à realização de um protesto público. 
+
+É difícil para quem vê uma postagem saber quem e quantos outros estão consumindo a mesma informação, e certamente avaliar suas opiniões a respeito. 
+
+A postagem pode influenciar suas crenças, mas dificilmente cria crenças comuns entre um grupo identificável de compatriotas. 
+
+Recursos que destacam a viralidade e a atenção das postagens podem ajudar um pouco, mas ainda tornam a formação de um público alinhado muito mais grosseira do que o que é possível em espaços públicos físicos.
+ 
+Uma das soluções mais interessantes para esse desafio nos últimos anos tem sido o uso de tecnologias de registro distribuído (DLTs), incluindo blockchains. 
+
+Essas tecnologias mantêm um registro compartilhado de informações e só acrescentam algo a esse registro quando há "consenso" (um reconhecimento compartilhado suficiente do item a ser incluído). 
+
+Isso levou criptógrafos e teóricos dos jogos a concluírem que os DLTs têm um potencial especial para criar crenças comuns entre as máquinas nas quais estão armazenados.[^DLTS] 
+
+Pode-se dizer que é por isso que tais sistemas têm suportado a coordenação de novas moedas e outros experimentos sociais.
+ 
+Contudo, mesmo essa comunidade entre máquinas não implica, diretamente, uma comunidade entre as pessoas que operam essas máquinas. 
+
+Esse problema (do ponto de vista da criação de comunidade) é agravado pelos incentivos financeiros para a manutenção de blockchains, que levam a maioria dos participantes, motivados pelo ganho financeiro, a executar softwares "validador" em vez de monitorar diretamente a atividade. 
+
+Isso também implica que os participantes são provavelmente aqueles que conseguem lucrar, e não necessariamente aqueles interessados em ações comuns não comerciais. 
+
+No entanto, pode-se imaginar, como exploraremos a seguir, que os DLTs sejam um componente importante da futura infraestrutura de associação. 
+
+### Protegendo o contexto
+
+A proteção do contexto é essencial para a liberdade de associação. 
+
+Ela permite que os indivíduos compartilhem informações e ideias sem medo de serem monitorados ou censurados.
+
+No ambiente digital, a proteção do contexto pode ser alcançada através de tecnologias como criptografia e protocolos de privacidade.
+
+O campo da [criptografia](https://en.wikipedia.org/wiki/Cryptography) há muito estuda como transmitir informações de forma segura e privada. 
+
+No esquema canônico da "criptografia de chave pública", indivíduos e organizações publicam uma chave pública enquanto mantêm privadamente sua contraparte controladora. 
+
+Isso permite que qualquer pessoa envie uma mensagem criptografada para o detentor que só pode ser decifrada por sua chave privada. 
+
+Também possibilita que o controlador da chave assine mensagens de modo que outros possam verificar a autenticidade. 
+
+Tais sistemas são a base da segurança na internet e em todo o mundo digital, protegendo e-mails contra espionagem e permitindo sistemas de mensagens com criptografia de ponta a ponta, como o Signal, e o comércio digital.
+
+Construindo sobre essa fundação e se ramificando a partir dela, uma série de poderosas tecnologias de aprimoramento de privacidade (PETs) foram desenvolvidas nos últimos anos. 
+
+Entre elas:
+
+- [Provas de conhecimento zero](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/) (ZKPs) – permitem provar de forma segura um fato sem revelar os dados subjacentes. Por exemplo, pode-se provar que uma pessoa tem idade superior a um determinado valor sem mostrar a carteira de motorista que sustenta essa afirmação.
+- [Computação multipartidária segura](https://en.wikipedia.org/wiki/Secure_multi-party_computation) (SMPC) e [criptografia homomórfica](https://en.wikipedia.org/wiki/Homomorphic_encryption) – permitem que um grupo de indivíduos realize um cálculo envolvendo partes dos dados que cada um possui sem revelar essas partes entre si, possibilitando que o processo seja verificado por eles e por terceiros. Por exemplo, é possível manter um voto secreto enquanto se verifica com segurança os resultados de uma eleição.[^Benaloh]
+- Assinaturas [incontestáveis e inegáveis](https://en.wikipedia.org/wiki/Undeniable_signature) – permitem que os controladores de chaves assinem declarações de maneira que não possam ser falsificadas sem acesso à chave e/ou negadas, exceto alegando comprometimento da chave.[^Undeniable] Por exemplo, partes que firmam um contrato (ou contrato inteligente) podem exigir tais assinaturas digitais, assim como assinaturas físicas difíceis de falsificar e repudiar são importantes para contratos analógicos.
+- [Computação confidencial](https://en.wikipedia.org/wiki/Confidential_computing) – essa solução, menos dependente da criptografia, alcança objetivos semelhantes com sistemas digitais "isolados" que possuem impedimentos físicos para vazamento de informações.
+- [Privacidade diferencial](https://en.wikipedia.org/wiki/Differential_privacy) – essa técnica mede até que ponto a divulgação dos resultados de um cálculo pode, inadvertidamente, vazar informações sensíveis que foram inseridas na operação.[^diff] Tecnólogos desenvolveram métodos para garantir que tais vazamentos não ocorram, geralmente adicionando ruído às divulgações. Por exemplo, o Censo dos EUA, legalmente obrigado tanto a divulgar estatísticas resumidas para orientar políticas públicas quanto a manter os dados originais confidenciais, tem empregado mecanismos que garantem a privacidade diferencial.
+- [Aprendizado federado](https://en.wikipedia.org/wiki/Federated_learning) – menos uma técnica fundamental de privacidade do que uma aplicação sofisticada e combinação de outras técnicas, o aprendizado federado é um método para treinar e avaliar grandes modelos de machine learning sobre dados localizados de forma dispersa.[^Federated]
+
+É importante reconhecer duas limitações fundamentais dessas técnicas que dependem majoritariamente da criptografia (especialmente as três primeiras); a saber, elas dependem de duas suposições críticas. 
+
+Primeiro, as chaves devem permanecer na posse da pessoa desejada, um problema intimamente relacionado às questões de identidade e recuperação discutidas no capítulo anterior. 
+
+Segundo, quase toda a criptografia atualmente em uso pode ser comprometida — e, em muitos casos, suas garantias desfeitas — com o advento de computadores quânticos, embora o desenvolvimento de esquemas resistentes a quântica seja uma área ativa de pesquisa.
+
+Além disso, essas soluções técnicas se cruzam e se integram cada vez mais com uma gama de padrões técnicos e políticas públicas que suportam a privacidade. 
+
+Entre eles estão [padrões criptográficos](https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines) estabelecidos por governos, regulamentações e direitos de privacidade, como o [Regulamento Geral de Proteção de Dados (GDPR)](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) da UE, e [padrões para a interoperabilidade da criptografia](https://www.eff.org/deeplinks/2022/04/eu-digital-markets-acts-interoperability-rule-addresses-important-need-raises).
+
+Entretanto, uma limitação básica de quase todo esse trabalho é o foco em proteger a comunicação contra a vigilância externa, e não contra o compartilhamento excessivo interno. 
+
+Impedir a espionagem externa é, obviamente, a primeira linha de defesa, mas qualquer pessoa que tenha acompanhado a saga do delator da NSA, Edward Snowden, sabe que agentes internos e vazamentos são uma das ameaças mais importantes à segurança da informação. 
+
+Enquanto a inteligência militar é o exemplo mais dramático, o ponto se estende muito além, especialmente na era da internet. 
+
+Ataques de phishing cada vez mais comuns dependem de engenharia social, e não da capacidade do atacante de "quebrar o código". 
+
+Como destacado em obras que vão desde o clássico estudo de danah boyd, *It's Complicated*, até o livro e filme *The Circle* de Dave Eggers, a facilidade de compartilhar informações digitais de forma credível tornou o perigo do excesso de compartilhamento uma ameaça constante à privacidade.[^overshare]
+
+[^diff]: Cynthia Dwork, Frank McSherry, Kobbi Nissim e Adam Smith, "Calibrating Noise to Sensitivity in Private Data Analysis", *Theory of Cryptography* (2006): 265-284.
+[^Federated]: Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson e Blaise Aguera y Arcas, "Communication-Efficient Learning of Deep Networks from Decentralized Data", *Proceedings of the 20th International Conference on Artificial Intelligence and Statistics* (2017).
+[^overshare]: danah boyd, *It's Complicated: The Social Lives of Networked Teens* (New Haven, CT: Yale University Press, 2014). Dave Eggers, *The Circle* (New York: Knopf, 2013).
+
+O problema básico é que, enquanto a maior parte da criptografia e da regulação trata a privacidade como algo que diz respeito a indivíduos, a maioria do que costumamos entender por privacidade está relacionada a grupos. 
+
+Afinal, há quase nenhum dado que pertença exclusivamente a um único indivíduo. 
+
+Vamos reexaminar alguns exemplos da vida social dos dados mencionados no capítulo anterior.
+
+- **Dados genéticos:** Os genes são, naturalmente, compartilhados significativamente em uma família, o que implica que a divulgação dos dados genéticos de um indivíduo revela informações sobre sua família e, em menor grau, sobre qualquer pessoa mesmo que distante dela. Argumentos similares se aplicam a muitos dados médicos, como aqueles relacionados a condições genéticas e doenças transmissíveis.
+- **Dados de comunicação e financeiros:** Comunicações e transações são, por sua própria natureza, multipartidárias e, portanto, têm múltiplos referentes naturais.
+- **Dados de localização:** Poucas pessoas passam a maior parte do tempo fisicamente distantes de, pelo menos, outra pessoa com quem compartilham conhecimento mútuo de sua localização.
+- **Dados físicos:** Existem muitos dados que não são pessoais de ninguém (por exemplo, do solo, ambientais, geológicos).
+
+Um dos únicos dados verdadeiramente individualistas são os números identificadores criados burocraticamente como parte dos esquemas de identidade, concebidos deliberadamente para serem individualistas, e mesmo esses se referem, na realidade, não apenas ao indivíduo, mas à sua relação com a burocracia emissora.
+
+Isso implica que, na quase totalidade dos casos relevantes, a divulgação unilateral de dados por um indivíduo ameaça os legítimos interesses de privacidade de outros indivíduos [&#8203;:contentReference[oaicite:5]{index=5}]. 
+
+Proteger a privacidade, portanto, exige prevenir o compartilhamento excessivo unilateral. 
+
+Tradicionalmente, isso tem sido considerado praticamente impossível de ser imposto externamente, pois qualquer pessoa que saiba de algo pode compartilhá-lo com outra. 
+
+Estratégias, assim, têm se concentrado em normas contra o compartilhamento excessivo, fofocas, ferramentas para ajudar os indivíduos a se lembrarem do que não devem compartilhar, tentativas de dificultar o compartilhamento secreto e políticas para punir *ex post facto* aqueles que o fazem. 
+
+Todas essas são estratégias importantes: a literatura, a mídia e a experiência cotidiana estão repletas de críticas ao excesso de compartilhamento e de punições para delatores. 
+
+No entanto, tais estratégias ficam bem aquém das garantias fornecidas pela criptografia, que não apenas condena espiões, mas os impede de acessar os sistemas.
+
+[^DLTS]: boyd, danah. "Facebook is a utility; utilities get regulated." 15 de maio de 2010. https://www.zephoria.org/thoughts/archives/2010/05/15/facebook-is-a-utility-utilities-get-regulated.html.
+
+### Públicos ⿻
+
+Os públicos ⿻ são uma aspiração para criar padrões de informação que permitam a coexistência de uma gama diversa de comunidades com crenças comuns internas fortes, protegidas do mundo exterior.
+
+Isso exige manter a confiança contextual, onde os participantes de um sistema conseguem estabelecer e proteger facilmente o contexto de suas comunicações.
+
+Felizmente, nos últimos anos alguns dos líderes em tecnologias de padrões abertos tanto de privacidade quanto de publicidade voltaram sua atenção para esse problema.
+
+Lemmer Webber, famoso pelo ActivityPub, passou os últimos anos trabalhando no [Spritely](https://spritelyproject.org), um projeto para criar comunidades privadas autogeridas e fortemente conectadas no espírito dos públicos ⿻, permitindo que os usuários individuais discernam, naveguem e separem claramente os contextos comunitários em padrões abertos. 
+
+Um grupo crescente de pesquisadores nas comunidades Web3 e blockchain está trabalhando na combinação disso com tecnologias de privacidade, especialmente ZKPs.[^ZKCanon]
+
+Uma das possibilidades mais interessantes aberta por essa pesquisa é alcançar garantias formais de combinações entre conhecimento comum e a impossibilidade de divulgação. 
+
+Poder-se-ia, por exemplo, criar registros distribuídos entre os membros de um grupo comunitário usando DVPs. 
+
+Isso criaria um registro de informações que se tornaria conhecimento comum desse grupo e asseguraria que essa informação (e seu status como conhecimento comum) não pudesse ser compartilhada de forma credível fora da comunidade. 
+
+Além disso, se o procedimento do protocolo para determinar o "consenso" dependesse de regras de votação mais sofisticadas do que as existentes atualmente — como as que descrevemos no capítulo sobre votação —, poderia-se estabelecer noções mais ricas e nuançadas de conhecimento comum do que os registros atuais.
+
+Ademais, todo o campo relacionado a esses tópicos é permeado por trabalhos sobre padrões: para criptografia, blockchains, protocolos abertos de comunicação como o ActivityPub, etc. 
+
+Portanto, não é necessário grande esforço imaginar esses padrões convergindo para uma noção técnica, dinâmica e amplamente aceita de "associação" e, consequentemente, padrões amplamente observados que permitam que as associações online se formem e se preservem. 
+
+Um futuro assim poderia consagrar o direito à liberdade digital de associação.
+
+### Associações
+
+As associações são fundamentais para a vida em sociedade. 
+
+Elas permitem que indivíduos se organizem em grupos com crenças comuns, protegidos do mundo exterior.
+
+Isso é essencial para a formação de comunidades significativas e interações sociais mais profundas.
+
+### Associação, identidade e comércio
+
+Em 1995, um dos herdeiros mais notáveis de De Tocqueville, o cientista político Robert Putnam, começou a documentar o declínio da vida cívica americana a partir dos anos 1960 em seu ensaio "[Bowling Alone](https://bowlingalone.com/)". 
+
+Ele atribuiu isso a uma redução correspondente nas associações comunitárias participativas, como organizações fraternas, grupos religiosos e associações de pais e professores, levando-o a comentar que há mais pessoas jogando boliche e menos ligas de boliche. 
+
+Ele argumenta que a diminuição do comportamento associativo afeta diretamente o desenvolvimento do capital social e da confiança que "facilitam a coordenação e a cooperação para o benefício mútuo." [^BowlingAlone]
+
+Putnam aborda várias razões possíveis, mas foca, em particular, na televisão e na "privatização" do nosso tempo de lazer, observando que "a televisão tornou nossas comunidades... mais amplas e superficiais." 
+
+Seu ensaio precedeu a internet moderna, mas podemos importar para seu argumento uma expressão da nossa vida digital contemporânea: "existe um app para isso". 
+
+O desafio, então, para o alcance extraordinário da tecnologia digital do século XXI é aproveitar esse poder para formar comunidades significativas e interações sociais mais profundas. 
+
+Um engajamento comunitário robusto também cultiva um discurso cívico sólido, onde problemas sociais e políticos podem ser debatidos pelos próprios cidadãos.
+
+A liberdade digital de associação está intimamente ligada aos outros direitos que discutimos nesta parte do livro. 
+
+Como vimos no capítulo anterior, a "privacidade" está no cerne da integridade dos sistemas de identidade, mas as preocupações geralmente associadas a ela estão mais conectadas à diversidade dos contextos que um indivíduo navega do que à privacidade em um sentido individual. 
+
+Assim, o direito à liberdade de associação e o direito à integridade da personalidade são indissociáveis: se é o entrelaçamento em uma diversidade de grupos que cria nossa individualidade, é somente protegendo essa diversidade que a individualidade separada se torna possível. 
+
+E, naturalmente, como os grupos são formados por pessoas, o inverso também é verdadeiro: sem pessoas com identidades bem articuladas, não há como criar grupos definidos por conhecimento comum entre esses indivíduos.
+
+Além disso, o direito à livre associação é o alicerce sobre o qual se constroem o comércio e os contratos. 
+
+Transações são uma das formas mais simples de associação, e a capacidade dos sistemas digitais de replicar a privacidade — frequentemente citada como um dos principais benefícios do dinheiro em espécie — depende intimamente de quem pode visualizar quais transações em que nível de detalhe. 
+
+Contratos são formas de associação mais sofisticadas, assim como as corporações. 
+
+Todos dependem fortemente da integridade da informação e de entendimentos comuns das obrigações. 
+
+Nesse sentido, a liberdade de associação que delineamos neste capítulo, juntamente com a identidade discutida no capítulo anterior, são os pilares para o que segue no restante do livro.
+
+### Conclusão
+
+A liberdade digital de associação é um direito fundamental que permite que indivíduos se organizem em grupos com crenças comuns, protegidos do mundo exterior. 
+
+Isso é essencial para a formação de comunidades significativas e interações sociais mais profundas no ambiente digital.
+
+A tecnologia atual nos oferece ferramentas poderosas para alcançar esse objetivo, desde protocolos abertos de comunicação até tecnologias de privacidade avançadas. 
+
+No entanto, ainda há muito trabalho a ser feito para garantir que essas ferramentas sejam utilizadas de forma a promover a liberdade de associação e a proteção dos contextos comunitários.
+
+O futuro da liberdade digital de associação depende da convergência de padrões técnicos e da adoção de práticas que priorizem a proteção dos contextos comunitários. 
+
+Isso inclui o desenvolvimento de sistemas que permitam a coexistência de uma diversidade de comunidades, cada uma com suas próprias crenças comuns e protegidas do mundo exterior.
+
+A liberdade digital de associação está intimamente ligada a outros direitos fundamentais, como a integridade da personalidade e o direito ao comércio. 
+
+Juntos, esses direitos formam a base para uma sociedade digital mais justa e equitativa, onde os indivíduos podem se associar livremente e proteger seus contextos comunitários.
+
+### Referências
+
+[^ContextualConfidence]: Jain, Shrey, Zoë Hitzig, e Pamela Mishkin. "Contextual Confidence: A Framework for Trust in Digital Systems." arXiv preprint arXiv:2311.01193 (2023).
+
+[^ZKCanon]: "Zero Knowledge Canon." Ethereum Foundation, 2023. https://ethereum.org/en/zero-knowledge-proofs/.
+
+[^BowlingAlone]: Putnam, Robert D. "Bowling Alone: The Collapse and Revival of American Community." Simon & Schuster, 2000.
+
+[^DLTS]: boyd, danah. "Facebook is a utility; utilities get regulated." 15 de maio de 2010. https://www.zephoria.org/thoughts/archives/2010/05/15/facebook-is-a-utility-utilities-get-regulated.html.
+
+### Agradecimentos
+
+Gostaríamos de agradecer a todos os colaboradores que contribuíram para este trabalho, especialmente aqueles que compartilharam suas ideias e feedback durante o processo de escrita.
+
+Agradecemos também às comunidades de pesquisa e desenvolvimento que trabalham incansavelmente para melhorar as tecnologias de privacidade e comunicação, tornando possível a realização deste trabalho.
+
+Por fim, agradecemos aos leitores por seu interesse e engajamento com este tema tão importante para o futuro da sociedade digital.
+
+### Notas Finais
+
+Este trabalho representa um esforço contínuo para entender e promover a liberdade digital de associação. 
+
+Acreditamos que este é um tema crucial para o futuro da sociedade digital, e esperamos que este texto contribua para o debate e a reflexão sobre como podemos construir um ambiente digital mais justo e equitativo.
+
+Convidamos os leitores a continuar explorando este tema e a compartilhar suas ideias e experiências sobre como podemos melhorar a liberdade de associação no ambiente digital.
+
+### Sobre os Autores
+
+Os autores deste trabalho são pesquisadores e desenvolvedores apaixonados por tecnologia e sociedade. 
+
+Eles dedicam seu tempo e energia para entender e melhorar a forma como as tecnologias digitais impactam nossas vidas e comunidades.
+
+Seu trabalho é guiado pela crença de que a tecnologia deve servir às pessoas e não o contrário, e que devemos sempre buscar maneiras de tornar o ambiente digital mais justo e equitativo.
+
+### Contato
+
+Para mais informações sobre este trabalho ou para entrar em contato com os autores, por favor envie um e-mail para [email@example.com](mailto:email@example.com).
+
+Também convidamos você a seguir nosso trabalho em [@example](https://twitter.com/example) no Twitter e em nosso site [example.com](https://example.com).
+
+### Licença
+
+Este trabalho está licenciado sob a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+Você é livre para compartilhar e adaptar este material, desde que dê o devido crédito aos autores e indique se foram feitas alterações.
+
+### Versão
+
+Este é o documento versão 1.0, publicado em 2024.
+
+Para obter as versões mais recentes deste trabalho, visite nosso site em [example.com/versions](https://example.com/versions).
+
+### Fim do Documento
+
+Obrigado por ler este trabalho. Esperamos que ele tenha sido útil e informativo.
+
+Se você tiver alguma dúvida ou comentário, não hesite em entrar em contato conosco.
