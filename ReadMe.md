@@ -1,14 +1,10 @@
-## plurality-portuguese
+# plurality-portuguese
 
-<br>
-
-### 🇧🇷 tradução brasileira do livro [pluralidade](https://github.com/pluralitybook/plurality).
+### 🇧🇷 tradução brasileira do livro [pluralidade](https://github.com/pluralitybook/plurality)
 
 <br>
 
 ### citation 
-
-<br>
 
 ```bibtex
 @online{plurality2023,
@@ -24,12 +20,9 @@
 
 ### official translation repositories
 
-<br>
-
-- ukrainian: https://github.com/vlree-alt/plurality-ukrainian
-- japanese: https://github.com/nishio/plurality-japanese
-- german: https://github.com/GermanPluralityBook/pluralitaet 
-- korean: https://github.com/parkhaewon0617/plurality
-- french: https://github.com/xitobal/radicalxchangeparis.github.io/tree/main/public/Plurality%2C%20le%20livre%20-%20G%20Weil
-- portuguese: https://github.com/lilit-org/plurality-portuguese
+- [ukrainian](https://github.com/vlree-alt/plurality-ukrainian)
+- [japanese](https://github.com/nishio/plurality-japanese)
+- [german](https://github.com/GermanPluralityBook/pluralitaet)
+- [korean](https://github.com/parkhaewon0617/plurality)
+- [french](https://github.com/xitobal/radicalxchangeparis.github.io/tree/main/public/Plurality%2C%20le%20livre%20-%20G%20Weil)
 
