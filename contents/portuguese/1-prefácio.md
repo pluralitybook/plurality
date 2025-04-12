@@ -1,4 +1,4 @@
-# Vendo Plural
+# Vendo o Plural
 
 > “Para realizar uma ação positiva, devemos desenvolver aqui uma visão positiva… É sob a maior adversidade que existe o maior potencial para fazer o bem, tanto para si mesmo quanto para os outros.” — Dalai Lama XIV
 
