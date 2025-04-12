@@ -1,4 +1,4 @@
-# A Dao Perdida
+# A DAO Perdida
 
 > (D)ecisões sobre o desenvolvimento e a exploração da tecnologia computacional devem ser tomadas não apenas "no interesse público", mas no interesse de dar ao próprio público os meios para entrar nos processos decisórios que moldarão seu futuro. — J. C. R. Licklider, "Computers and Government", 1980[^CandG]
 
