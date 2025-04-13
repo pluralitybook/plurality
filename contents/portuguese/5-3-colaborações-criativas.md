@@ -16,13 +16,16 @@ A expressão artística através de mídias como música, artes visuais, teatro,
 
 
 
+
+
+
 ### Cocriação hoje
 
 A cocriação artística não é novidade. Durante milhares de anos, músicos, dançarinos e atores formaram bandas. Alguns dos textos literários mais canônicos, como a Bíblia, o Bhagavad Gita e as epopeias homéricas, foram quase certamente escritos por muitas mãos ao longo das gerações. Os créditos longos de alguns filmes têm uma razão.
 
 No entanto, esses projetos colaborativos que definem culturas tradicionalmente foram lentos e caros, limitando tanto o acesso aos produtos finais quanto a participação no processo de criação. A coautoria, por exemplo, tradicionalmente envolveu meses, anos ou até gerações de recontar, adaptação, reescrita etc. para alcançar uma narrativa coerente e digerível. A indústria massiva de entretenimento ao vivo testemunha o custo de voar equipes ao redor do mundo para apresentar a experiência da colaboração criativa a audiências diversas. Outras formas de criatividade conjunta, como as colaborações científicas destacadas acima, tradicionalmente ocorriam em enormes laboratórios fisicamente co-localizados, como em Los Alamos.
 
-Entretanto, as primeiras tecnologias ⿻ que se tornaram parte do tecido da internet, idealizadas por pessoas como Ted Nelson, conforme destacamos em [The Lost Dao](https://www.plurality.net/v/chapters/3-3/eng/?mode=dark), já transformaram as possibilidades da prática criativa colaborativa e do compartilhamento.
+Entretanto, as primeiras tecnologias ⿻ que se tornaram parte do tecido da internet, idealizadas por pessoas como Ted Nelson, conforme destacamos em [A DAO Perdida](https://www.plurality.net/v/chapters/3-3/pt/?mode=dark), já transformaram as possibilidades da prática criativa colaborativa e do compartilhamento.
 
 - Colaboração online: Ferramentas como [Slack](https://slack.com/), [Asana](https://www.asana.com) e [Notion](https://www.notion.so/) (que usamos neste projeto) revolucionaram o ambiente de trabalho ao permitir que as equipes colaborem em tempo real, independentemente da localização geográfica. Essas plataformas suportam uma ampla gama de projetos criativos, desde desenvolvimento de software até campanhas de marketing, fornecendo uma infraestrutura para comunicação, gerenciamento de projetos e compartilhamento de documentos. Elas exemplificam como os espaços de trabalho digitais podem aumentar a produtividade e fomentar um senso de comunidade entre os membros da equipe.
 - Software criativo baseado em nuvem: [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html?sdid=KKQWX&mv=search&ef_id=d25c5bc565731bbb4adb3e390045fe47:G:s&s_kwcid=AL!3085!10!79165036321358!20541711544&msclkid=d25c5bc565731bbb4adb3e390045fe47), [Autodesk](https://www.autodesk.com) e [GitHub](https://www.github.com) (que foi a principal plataforma para a escrita deste livro) oferecem ferramentas sofisticadas para designers, engenheiros e desenvolvedores trabalharem em projetos compartilhados simultaneamente. Essa tecnologia permite feedback e iteração em tempo real, reduzindo o tempo do conceito à criação e possibilitando um processo criativo mais fluido e dinâmico. De maneira ainda mais notável, softwares de processamento de texto colaborativo, como [Google docs](https://docs.google.com), possibilitaram a edição colaborativa em tempo real por muitas pessoas em diversas localidades.
@@ -32,8 +35,6 @@ Entretanto, as primeiras tecnologias ⿻ que se tornaram parte do tecido da inte
 - Inovação colaborativa via crowdsourcing: Plataformas como [Kickstarter](https://www.khanacademy.org/) e [Indiegogo](https://www.indiegogo.com/) permitem que empreendedores colaborem com o público para financiar e refinar novos produtos e projetos. Esse modelo de colaboração convida a contribuições e apoio de um público amplo, validando ideias e garantindo que elas atendam às necessidades e desejos dos potenciais usuários.
 
    À medida que avançamos, as possibilidades para a inovação colaborativa podem aumentar em amplitude e profundidade, prosperando com a inteligência coletiva, perspectivas diversas e contribuições únicas de comunidades maiores (e até globais), redefinindo os limites da inovação, arte, ciência e educação.
-
-
 
 ### Colaboração criativa amanhã
 
@@ -50,7 +51,6 @@ Estamos vendo os primórdios desse futuro em uma diversidade de práticas emerge
 Amanhã, esperamos que as ferramentas digitais liberem uma sinfonia de mentes, amplificadas e harmonizadas por GFMs e sincronização remota de alta largura de banda em tempo real. Contudo, isso é apenas o prelúdio para um grande concerto de colaboração entre humanos e máquinas. À medida que empregamos essas ferramentas digitais para ampliar o espaço da colaboração criativa, encontraremos a nós mesmos em uma dança em constante evolução, na qual a tecnologia não só nos auxilia, mas também remodela nossas perspectivas, promovendo uma integração rápida de ideias e talentos diversos. Não estamos apenas testemunhando o surgimento de novos processos criativos; estamos participando do nascimento de uma renaissância multidisciplinar e globalmente inclusiva, que promete redefinir o cenário da criatividade e da resolução de problemas para as gerações futuras.
 
 
-
 ### Fronteiras da colaboração criativa
 
 A “sinfonia de mentes”, auxiliada e ampliada pela tecnologia, está prestes a transcender a mera troca de ideias e criações para um reino onde a consciência coletiva redefine a criatividade.
@@ -61,6 +61,7 @@ A “sinfonia de mentes”, auxiliada e ampliada pela tecnologia, está prestes 
  - Criatividade coletiva para desafios globais: Os desafios que a humanidade enfrenta serão enfrentados por uma força criativa unificada, à medida que plataformas colaborativas permitem que indivíduos de todo o mundo contribuam com suas ideias e soluções. Essa criatividade coletiva será fundamental para enfrentar questões como a mudança climática, aproveitando o poder de perspectivas diversas e de um pensamento inovador para criar soluções sustentáveis e impactantes.
 
 À medida que embarcamos nesta odisséia colaborativa, a humanidade está pronta para redefinir a própria criatividade. Trata-se de um futuro onde a criatividade não é apenas um esforço compartilhado, mas uma experiência compartilhada, conectando os participantes em uma teia de imaginação e inovação coletivas. No entanto, à medida que nos aproximamos desse ápice do potencial humano — onde a sinfonia do gênio colaborativo alcança seu ponto máximo — também precisamos explorar suas considerações éticas e limitações.
+
 
 ### Limites da colaboração criativa
 

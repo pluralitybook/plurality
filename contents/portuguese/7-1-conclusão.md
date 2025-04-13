@@ -34,9 +34,9 @@ Essa mudança exigirá uma mobilização de toda a sociedade. Empresas, governos
 
 ### A Promessa do ⿻
 
-Nas últimas cinco décadas, a maioria das democracias liberais ocidentais aprendeu a ser impotente diante da tecnologia. Elas se mostram intrigadas, alternadamente encantadas e frustradas, mas tendem a assumir que ela emerge inexoravelmente, como a própria modernidade, em vez de ser a soma das escolhas de pequenos grupos de engenheiros.
+Nas últimas cinco décadas, a maioria das democracias liberais ocidentais aprendeu a ser impotente diante da tecnologia. Elas se mostram intrigadas, alternadamente encantadas e frustradas, mas tendem a assumir que ela emerge inexoravelmente, como a própria modernidade, em vez de ser a soma das escolhas de pequenos grupos de engenheiros. A maioria dos cidadãos nessas políticas não acredita que “nós, o povo”, tenhamos qualquer capacidade, muito menos qualquer direito, de influenciar a direção das plataformas que são o sistema operacional de nossas vidas.
 
-Mas nós temos o direito, e até o dever, de exigir algo melhor. Algumas tecnologias nos separam e achatam nossas diferenças; outras nos unem e as celebram. Algumas alimentam nossa raiva e submissão, enquanto outras nos ajudam a encontrar interdependência. Se nos mobilizarmos para exigir estas últimas, tecnologias _⿻_ que sejam projetadas para nos ajudar a colaborar através das diferenças, podemos reengenheirar esse sistema operacional.
+Mas nós temos o direito, e até o dever, de exigir algo melhor. Algumas tecnologias nos separam e achatam nossas diferenças; outras nos unem e as celebram. Algumas alimentam nossa raiva e submissão, enquanto outras nos ajudam a encontrar interdependência. Se nos mobilizarmos para exigir estas últimas, _tecnologias ⿻_ que sejam projetadas para nos ajudar a colaborar através das diferenças, podemos reengenheirar esse sistema operacional.
 
 Visualizamos nossa oportunidade de agir em três horizontes: o imediato, o intermediário e o transformador.
 
@@ -50,15 +50,13 @@ Qualquer um pode apoiar líderes políticos e se organizar em movimentos políti
 
 Acadêmicos podem estudar as tecnologias ⿻ e seu impacto no campo hoje, elaborar medidas rigorosas para nos ajudar a saber o que realmente funciona, e abordar questões importantes em várias áreas que permitirão o desenho da próxima geração de tecnologias ⿻, além de formar colaborações entre instituições acadêmicas por meio de redes como o Plurality Institute. Eles podem adotar o ⿻ na disseminação da pesquisa e na revisão por pares.
 
-Líderes culturais, artistas, jornalistas e outros comunicadores podem contar as histórias do movimento ⿻, como a diretora vencedora do Oscar [Cynthia Wade](https://www.cynthiawade.com/) e a produtora ganhadora do Emmy [Teri Whitcraft](https://resolutionproject.org/team/teri-whitcraft/) estão fazendo em um documentário que será lançado em breve. Eles podem incorporar o ⿻ em sua prática criativa, assim como este livro fez e como vimos Mat Dryhurst e Holly Herndon fazendo. Podem imergir os cidadãos na imaginação construtiva de um futuro mais ⿻.
+Líderes culturais, artistas, jornalistas e outros comunicadores podem contar as histórias do movimento ⿻, como a diretora vencedora do Oscar [Cynthia Wade](https://www.cynthiawade.com/) e a produtora ganhadora do Emmy [Teri Whitcraft](https://resolutionproject.org/team/teri-whitcraft/) estão fazendo em um documentário que será lançado em breve. Eles podem incorporar ⿻ em sua prática criativa, como este livro fez e como vimos Mat Dryhurst e Holly Herndon fazendo. Eles podem imergir os cidadãos na imaginação construtiva de um futuro mais ⿻, como faz Miraikan em Tóquio.
 
 
 
 #### Horizonte Intermediário
 
-Com uma imaginação e ambição mais sistêmicas, surgem oportunidades para perseguir o ⿻ em um horizonte mais intermediário, reinventando instituições para incluir vozes mais diversas, construir conexões mais profundas e fomentar a regeneração de uma diversidade ainda maior. Qualquer pessoa pode tornar-se parte de comunidades locais ⿻ ao redor do mundo, contando – em uma ampla variedade de idiomas, formas e estilos – o potencial para um futuro mais ⿻ e convidando amigos a participar de sua cocriação.
-
-Qualquer um pode se unir a movimentos políticos cada vez mais organizados, explicitamente dedicados ao ⿻, contribuir para uma gama crescente de causas civis e filantrópicas relacionadas ao ⿻, e participar de hackathons e ideathons que ajudem a enfrentar as questões locais de diversas comunidades por meio do ⿻.
+Com uma imaginação e ambição mais sistêmicas, surgem oportunidades para perseguir o ⿻ em um horizonte mais intermediário, reinventando instituições para incluir vozes mais diversas, construir conexões mais profundas e fomentar a regeneração de uma diversidade ainda maior. Qualquer pessoa pode tornar-se parte de comunidades locais ⿻ ao redor do mundo, contando – em uma ampla variedade de idiomas, formas e estilos – o potencial para um futuro mais ⿻ e convidando amigos a participar de sua cocriação. Qualquer um pode se juntar ao que serão movimentos políticos cada vez mais organizados, explicitamente dedicados a ⿻, contribuir para uma gama crescente de ⿻ causas civis e beneficentes, participar de um número crescente de hackathons e ideathons que ajudam a abordar as preocupações locais de diversas comunidades usando ⿻.
 
 Líderes políticos podem formar plataformas e até partidos políticos com base em agendas ⿻ abrangentes. Reguladores e servidores públicos podem incorporar o ⿻ profundamente em suas práticas, melhorando o engajamento público e acelerando o ciclo de feedback. Funcionários de organizações internacionais e transnacionais podem começar a reformar suas estruturas e práticas para incorporar o ⿻, movendo-se da "troca internacional" para uma cooperação internacional substancial e definição de padrões.
 
@@ -88,7 +86,7 @@ Dessa forma, cultura, política, ativismo, negócios, tecnologia e pesquisa pode
 
 Por isso, obviamente, não pode haver um caminho único e de cima para baixo para o ⿻. O que pode existir – e, em breve, se este livro alcançar o efeito desejado – são círculos interseccionados de pessoas, conectadas em grupos e indivíduos federados de forma frouxa em todo o mundo, comprometidos com o ⿻ em oposição aos seus rivais: o Libertarianismo e a Tecnocracia. Ao traçarmos um terceiro caminho, os pluralistas se comprometem a fortalecer e diversificar as relações por meio da tecnologia, em vez de despedaçá-las, e a regenerar a diversidade, e não a fomentar a conformidade. Relações, amor, perda, adversidade e conquistas são o que torna a vida significativa – não a violência da selva retratada em livros como *O Senhor das Moscas* ou a otimização de dados indiferenciados.[^Lord]
 
-[^Lord]: William Golding, *The Lord of the Flies* (London: Faber and Faber, 1954).
+[^Lord]: William Golding, *O Senhor das Moscas* (Londres: Faber and Faber, 1954).
 
 Se você acredita que a condição central para uma sociedade próspera, progressista e justa é a diversidade social e a colaboração através dessa rica diversidade – então junte-se a nós. Se você acredita que a tecnologia, a ferramenta mais poderosa na sociedade atual, ainda pode ser feita para nos ajudar a florescer, tanto como indivíduos quanto em nossas múltiplas e significativas afiliações – então junte-se a nós. Se você deseja contribuir para os horizontes imediato, intermediário ou transformador do ⿻ — ou para todos eles —, você tem múltiplos pontos de entrada. Se você trabalha em tecnologia, negócios, governo, academia, sociedade civil, instituições culturais, educação e/ou no cotidiano, você tem infinitas maneiras de fazer a diferença.
 

@@ -10,17 +10,13 @@ Este capítulo explora como ⿻ pode transformar nossa relação tecnológica co
 
 Atividades humanas – especialmente nossa dependência de fontes de energia não renováveis – alteraram profundamente a Terra desde os anos 1950. O desmatamento, o aquecimento global, a acidificação dos oceanos e as extinções em massa aumentaram à medida que o clima se altera. No início do século XXI, o laureado com o Nobel Paul J. Crutzen propôs o termo "[Antropoceno](https://en.wikipedia.org/wiki/Anthropocene)" para reconhecer essa nova época, impulsionada principalmente pela influência humana.[^anthro] A biodiversidade despencou; apenas entre [2001 e 2014](https://www.cnn.com/2020/06/01/world/sixth-mass-extinction-accelerating-intl/index.html), aproximadamente 173 espécies desapareceram — 25 vezes a taxa histórica de extinção. Durante o século XX, cerca de 543 espécies de vertebrados sumiram, um evento que normalmente levaria cerca de 10.000 anos.[^extinction]
 
+[^anthro]: Will Steffan, Paul J. Crutzen e John R. McNeill, "O Antropoceno: Os Humanos Estão Agora Sobrepujando as Grandes Forças da Natureza?" em Ross E. Dunn, Laura J. Mitchell e Kerry Ward, orgs., *The New World History* (Berkeley, CA: University of California Press, 2016). Observe que esta proposta foi recentemente rejeitada pela [União Internacional de Ciências Geológicas](https://www.theguardian.com/science/2024/mar/22/geologists-reject-declaration-of-anthropocene-epoch#:~:text=The%20guardians%20of%20the%20world's,planet%2Dchanging%20impact%20of%20humanity.).
+
+[^extinção]: Gerardo Ceballos, Paul R. Ehrlich e Peter H. Raven, "Vertebrados à beira da extinção biológica e da sexta extinção em massa", *Proceedings of the National Academy of Sciences* 117, no. 24: 13596-13602.
+
 Claro, nós, humanos, não estamos imunes aos efeitos. Apenas a poluição do ar mata quase [6,7 milhões de pessoas todos os anos](https://www.unep.org/news-and-stories/story/world-must-band-together-combat-air-pollution-which-kills-7-million-year#:~:text=Exposure%20to%20air%20pollution%20significantly,million%20premature%20deaths%20a%20year.), incluindo meio milhão de bebês. Em países severamente poluídos, a expectativa de vida média cai em até seis anos.[^WHO]
 
-[^anthro]: Will Steffan, Paul J. Crutzen e John R. McNeill, "The Anthropocene: Are Humans Now Overwhelming the Great Forces of Nature?" em Ross E. Dunn, Laura J. Mitchell e Kerry Ward, eds., *The New World History* (Berkeley, CA: University of California Press, 2016). Observe que esta proposta foi rejeitada recentemente pela [União Internacional de Ciências Geológicas](https://www.theguardian.com/science/2024/mar/22/geologists-reject-declaration-of-anthropocene-epoch#:~:text=The%20guardians%20of%20the%20world's,planet%2Dchanging%20impact%20of%20humanity.).
-
-[^extinction]: Gerardo Ceballos, Paul R. Ehrlich e Peter H. Raven, "Vertebrates on the Brink as Indicators of Biological Annihilation and the Sixth Mass Extinction", *Proceedings of the National Academy of Sciences* 117, no. 24: 13596-13602.
-
-É claro que nós, humanos, não somos imunes aos efeitos. A poluição do ar sozinha mata quase [6,7 milhões de pessoas todos os anos](https://www.unep.org/news-and-stories/story/world-must-band-together-combat-air-pollution-which-kills-7-million-year#:~:text=Exposure%20to%20air%20pollution%20significantly,million%20premature%20deaths%20a%20year.), incluindo meio milhão de crianças. Em países severamente poluídos, a expectativa média de vida cai em até seis anos.[^OMS]
-
 [^OMS]: Organização Mundial da Saúde, "Guia de Recursos sobre Poluição do Ar" em https://www.who.int/health-topics/air-pollution#tab=tab_1.
-
----
 
 ### Coalizões de Dados para Ação Ambiental
 
@@ -35,8 +31,6 @@ Coalizões de dados estão interligadas com tecnologias cívicas baseadas em mov
 Antes que o conservacionismo se tornasse um conceito difundido, pensadores conservadores como Edmund Burke viam os grupos comunitários como "pequenas falanges" – núcleos sociais situados entre os indivíduos e o Estado.[^Burke] A comunicação eficaz e o cultivo desses grupos são particularmente importantes, visto que os problemas ambientais muitas vezes atingem primeiro e com mais intensidade os mais vulneráveis, como famílias de baixa renda ou comunidades indígenas. O essencial é garantir, por meio de leis e políticas, que os membros da comunidade tenham participação e voz igual na formulação, alocação de recursos e implementação, e que sejam transformados de sujeitos de pesquisa em atores orientados por dados.
 
 [^Burke]: Edmund Burke, *Reflexões sobre a Revolução na França e sobre os Procedimentos em Certas Sociedades em Londres Relativamente a Esse Evento* (Londres: James Dodley, 1790).
-
----
 
 ### Conversas com a Natureza
 
@@ -56,6 +50,7 @@ Construir modelos de GFMs para ambientes naturais envolve desafios: governança 
 
 [^NASA]: Josh Blumenfeld, "NASA e IBM divulgam abertamente o modelo de fundação de IA geoespacial para dados de observação da Terra da NASA", *NASA Earth Data* 3 de agosto de 2023 em https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model.
 
-Assim como a biometria e a sociometria ajudam a estabelecer a identidade, precisamos de melhores maneiras de estabelecer e proteger a identidade de ecossistemas naturais como rios. Uma nova conceituação de identidade está em ordem – uma que leve em conta as conexões entre pessoas individuais e os ecossistemas dos quais elas dependem. [⿻ públicos](https://www.plurality.net/v/chapters/4-2/eng/?mode=dark), como explorado anteriormente neste livro, também estabelece e protege a identidade de entidades coletivas, frequentemente dedicadas a relacionamentos culturais e de cuidado. Alguns deles se relacionam com ecossistemas naturais e podem oferecer uma base para conceituar a identidade de tal ecossistema.
+Assim como a biometria e a sociometria ajudam a estabelecer a identidade, precisamos de melhores maneiras de estabelecer e proteger a identidade de ecossistemas naturais como rios. Uma nova conceituação de identidade está em ordem – uma que leve em conta as conexões entre pessoas individuais e os ecossistemas dos quais elas dependem. [Associação e Públicos ⿻](https://www.plurality.net/v/chapters/4-2/pt/?mode=dark), como explorado anteriormente neste livro, também estabelece e protege a identidade de entidades coletivas, frequentemente dedicadas a relacionamentos culturais e de cuidado. Alguns deles se relacionam com ecossistemas naturais e podem oferecer uma base para conceituar a identidade de tal ecossistema.
 
 Notavelmente, essa perspectiva transcende o debate frequentemente contencioso sobre se os sistemas GFM podem se tornar agentes legais; as coalizões de dados podem ser vistas como "pequenos pelotões" criados pelas pessoas que se beneficiam do ecossistema, mas também, ao mesmo tempo, por meio do posicionamento legal da personalidade natural, o gêmeo digital do rio pode ser visto como um sujeito com direitos e responsabilidades. Da mesma forma, um GFM criado para qualquer propósito de, por e para uma comunidade pode existir tanto como uma "pessoa" quanto como um bem compartilhado ⿻, dependendo da perspectiva adotada.
+

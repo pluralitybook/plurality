@@ -1,4 +1,4 @@
-# Pós-Comunicação Simbólica
+# Comunicação Pós-Simbólica
 
 Dominando Tóquio, aninhado dentro do Museu Nacional de Ciência e Inovação Emergente ([Miraikan](https://www.miraikan.jst.go.jp/en/)) encontra-se [O Parque do Envelhecimento](https://www.miraikan.jst.go.jp/en/exhibitions/future/oipark/), um espaço onde o tempo se curva para um futuro distante, oferecendo um raro portal para sua mente e corpo após anos marcados pelo envelhecimento.[^Odaiba] Os visores embaçam a visão, imitando cataratas. Sons perdem as frequências agudas. Em uma cabine fotográfica que reflete os desafios de uma percepção envelhecida, as expressões faciais se tornam desbotadas e desfocadas. O simples ato de lembrar uma lista de compras memorizada se transforma em uma odisséia, com interrupções incessantes em um mercado agitado. Andar no mesmo lugar sobre pedais com pesos nos tornozelos e, ao mesmo tempo, apoiando-se em um carrinho, simula o desgaste do tempo sobre o corpo ou o peso da idade sobre a postura. O Parque do Envelhecimento não é apenas uma exposição, mas uma conversa imersiva através do tempo; um diálogo com seu eu mais velho por meio dos sentidos da visão, audição e das dores e incômodos da idade. Essa jornada de empatia se estende além do eu do futuro, para fomentar também uma conexão mais profunda com um grupo presente frequentemente negligenciado: os idosos.
 
@@ -34,7 +34,7 @@ A experiência íntima hoje é rica em exemplos que tocam as fronteiras da comun
 
 [^Clancy]: Em seu 2024 _Playing With Reality_, a física e neurocientista Kelly Clancy especula que o grande córtex pré-frontal do _Homo sapiens_ evoluiu não para gerenciar um grande número de relações sociais, como se acredita comumente, mas para gerenciar um relacionamento único e altamente complexo com um parceiro romântico. Segundo Clancy, o fato de o cérebro maior ter sido, em última análise, útil para gerenciar um grande número de relações secundárias foi um feliz acidente.
 
-### Pós-Comunicação Simbólica de Amanhã
+### Comunicação Pós-Simbólica de Amanhã
 
 Hoje, estamos à beira de uma explosão Cambriana em tecnologias que podem avançar a comunicação pós-simbólica e permitir que os participantes comuniquem seus estados fisiológicos, psicológicos e até mesmo fenomenológicos de ser. O Parque do Envelhecimento é um exemplo de um experimento inicial, mas podemos esperar experiências mais profundas, imersivas e totalmente sensoriais com integrações inovadoras de tecnologia que se combinem de forma supermodular. Diversas dessas tecnologias incluem:
 

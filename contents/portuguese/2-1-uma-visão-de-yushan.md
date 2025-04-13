@@ -44,6 +44,8 @@ A história da ilha está repleta de guerras, rebeliões, colonizadores e narrat
 
 Mercadores do Mar do Sul da China (ou piratas, dependendo de como os se viu), provenientes do Japão, China e Sudeste Asiático, também se estabeleceram na ilha ou utilizaram os portos. Em 1662, Zheng Chenggong, ou Koxinga, em aberta rebelião contra a recém-estabelecida dinastia Qing (1644-1911), removeu à força os holandeses do seu centro de poder na região sul e continuou sua campanha contra os Qing a partir de Taiwan.[^JJ2] Em 1683, a rebelião liderada pela família Zheng foi derrotada, e Taiwan passou nominalmente a estar sob o controle dos Qing.
 
+[^JJ2]: Emma Teng, _Taiwan's Imagined Geography: Chinese Colonial Travel Writing and Pictures, 1683-1895_, (Cambridge, Mass.: Harvard University Asia Center, 2004), 33, 1-2.
+
 Pouco mais de duzentos anos depois, em 1895, a derrota da dinastia Qing na guerra sino-japonesa desencadeou duas sequências de eventos que definiriam a história moderna de Taiwan. Primeiro, os Qing cederam Taiwan e suas ilhas imediatamente circundantes ao Japão, marcando o início de meio século de domínio colonial japonês em Taiwan. Segundo, essa derrota impulsionou o surgimento de um movimento nacionalista que criou a ROC.[^NationalismRoots] Devemos seguir cada uma dessas vertentes conforme elas se separam.
 
 [^NationalismRoots]: Suisheng Zhao, _O Dragão Ruge Novamente: Líderes Transformacionais e Dinâmicas da Política Externa Chinesa_, (Stanford, Califórnia: Stanford University Press, 2022), 132.
@@ -79,6 +81,7 @@ Contudo, esse momento de unidade foi de curta duração, com os comunistas (sob 
 
 ### Taiwan Pós-Guerra
 
+
 [^JJ13]: Louzon Victor. “De Soldados Japoneses a Rebeldes Chineses: Hegemonia Colonial, Experiência de Guerra e Remobilização Espontânea durante a Rebelião Taiwanesa de 1947,” _The Journal of Asian Studies_ 77, n.º 1 (2018): 168.  
 [^JJ14]: Chien-Jung Hsu, _A Construção da Identidade Nacional na Mídia de Taiwan, 1896-2012_, (Leiden: Brill, 2014), 48.
 
@@ -91,8 +94,6 @@ Simultaneamente, o governo cuja ideologia oficial era o Tridismo começou a seme
 [^AsiaWorks]: Joe Studwell, "Como a Ásia Funciona: Sucesso e Fracasso na Região Mais Dinâmica do Mundo," (Londres: Profile, 2013).
 
 Outro desdobramento do Tridismo foi o foco na empresa cooperativa, consagrado no Artigo 145 da Constituição da ROC, que afirma que "a riqueza privada e as empresas operadas privadamente, o Estado deverá restringi-las por lei se forem consideradas prejudiciais a um desenvolvimento equilibrado... As empresas cooperativas... e o comércio exterior deverão receber estímulo." Embora influenciado pelas ideias georgistas, esse apoio às cooperativas industriais e à produção participativa também se apoiou fortemente nas tradições de cooperação agrícola e industrial desenvolvidas durante o domínio colonial japonês, influenciadas ainda por pensadores americanos como Edward Deming, que enfatizava o empoderamento dos trabalhadores de linha na melhoria da produção sob a ocupação dos EUA no Japão para a qual ele trabalhou.[^EdwardDeming]
-
-[^EdwardDeming]: Após a Segunda Guerra Mundial, a infraestrutura industrial do Japão foi devastada e a qualidade dos produtos era baixa. Nesse contexto, Deming foi convidado pela União de Cientistas e Engenheiros Japoneses (JUSE) em 1950. Ele introduziu o Controle Estatístico de Processos (SPC) e o ciclo PDCA (Planejar-Fazer-Verificar-Agir), enfatizando a melhoria contínua (Kaizen) e a importância do envolvimento dos funcionários. Seus princípios foram particularmente adotados pela indústria automobilística japonesa, notadamente pela Toyota, tornando-se parte integrante do Sistema de Produção Toyota (TPS). Em 1990, James P. Womack e outros publicaram _A Máquina que Mudou o Mundo_, analisando o Sistema de Produção Toyota e introduzindo-o como a manufatura enxuta para uma audiência global. James P. Womack, Daniel T. Jones e Daniel Roos, _A Máquina que Mudou o Mundo_ (Nova York: Free Press, 2007). Em 2011, Eric Ries, que cunhou o termo "Lean Startup", inspirou-se nos princípios da manufatura enxuta no empreendedorismo. Eric Ries, _Lean Startup_ (Nova York: Crown Currency, 2011).
 
 Juntas, essas influências fomentaram o desenvolvimento de um robusto setor civil e cooperativo em Taiwan (que coletivamente chamamos de Terceiro Setor), crucial para seu futuro industrial e político. Além disso, o foco constitucional e histórico no comércio, bem como o investimento público em infraestrutura de apoio à exportação, impulsionaram a ascensão de Taiwan. Na década de 1970, Taiwan tornou-se um importante fornecedor de componentes para tecnologias avançadas ocidentais.
 
@@ -137,3 +138,5 @@ Além dessa convergência ideológica, ambos os lados se beneficiaram e estivera
 [^Statista]: Taiwan News, “Taiwan tem a Internet mais rápida do mundo,” 23 de outubro de 2023. https://www.taiwannews.com.tw/en/news/5025449.
 
 Essa combinação de um consenso sobreposto em torno de uma democracia plural, complexa, livre e voltada para o mundo, onde ferramentas digitais estão facilmente disponíveis para ajudar a navegar na ambiguidade resultante, permitiu que Taiwan se tornasse, na última década, o principal exemplo mundial de democracia digital.
+
+[^EdwardDeming]: Após a Segunda Guerra Mundial, a infraestrutura industrial do Japão foi devastada e a qualidade dos produtos era baixa. Nesse contexto, Deming foi convidado pela União de Cientistas e Engenheiros Japoneses (JUSE) em 1950. Ele introduziu o Controle Estatístico de Processos (SPC) e o ciclo PDCA (Planejar-Fazer-Verificar-Agir), enfatizando a melhoria contínua (Kaizen) e a importância do envolvimento dos funcionários. Seus princípios foram particularmente adotados pela indústria automobilística japonesa, notadamente pela Toyota, tornando-se parte integrante do Sistema de Produção Toyota (TPS). Em 1990, James P. Womack e outros publicaram _A Máquina que Mudou o Mundo_, analisando o Sistema de Produção Toyota e introduzindo-o como a manufatura enxuta para uma audiência global. James P. Womack, Daniel T. Jones e Daniel Roos, _A Máquina que Mudou o Mundo_ (Nova York: Free Press, 2007). Em 2011, Eric Ries, que cunhou o termo "Lean Startup", inspirou-se nos princípios da manufatura enxuta no empreendedorismo. Eric Ries, _Lean Startup_ (Nova York: Crown Currency, 2011).

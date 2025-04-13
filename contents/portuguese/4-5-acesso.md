@@ -50,10 +50,9 @@ Building on previous chapters of this book, we need to understand the fundamenta
 
 While openness is promoted, digital participants also need to contribute their efforts to illuminate the dark and tricky corners existing on the internet, watching out for each other. Of course, this issue touches upon global social structures and cultural diversity. Fortunately, we no longer need to cross oceans as De Tocqueville did to learn from the valuable experiences of different countries in building digital democracy and sustainable development. To safeguard and establish a safer and more open digital access environment, there are two important courses of action:
 
-1. Digital Infrastructure: Develop an interoperable model for international infrastructures that overcomes the challenges of collective action we discuss in the [Social Markets](https://www.plurality.net/v/chapters/5-7/eng/?mode=dark) chapter below, thereby providing equitable services globally.
+1. Digital Infrastructure: Develop an interoperable model for international infrastructures that overcomes the challenges of collective action we discuss in the [Mercados Sociais](https://www.plurality.net/v/chapters/5-7/pt/?mode=dark) chapter below, thereby providing equitable services globally.
 
 2. Information Integrity: Address the challenges posed by mimetic models (so-called “deepfakes”) to maintain semantic security and allow the continued enjoyment of the benefits of the digital age.
-
 
 Se pudermos promover esses dois direitos fundamentais, os outros direitos descritos nesta parte do livro podem alcançar a experiência vivida de todas as pessoas e servir como um substrato não apenas da inteligência coletiva "online", mas na vida diária de todos no mundo. Como destacamos ao longo do livro, muitos serviços públicos e interações sociais no ambiente digital de hoje parecem ofuscados pelo capitalismo. Hoje em dia, "o acesso à Internet é um direito humano" é quase um consenso entre as democracias. O que resta é desembaraçar as complicações entre democracia e acesso à Internet.
 

@@ -13,10 +13,14 @@ Com a popularização da Internet, ambientes colaborativos de aprendizagem torna
 
 Esta capítulo descreverá como capacitar comunidades para superar os modelos rígidos de ensino e se adaptar ao ambiente ⿻ de aprendizagem ao longo da vida. Por meio de projetos colaborativos, divertidos, orientados por resolução de problemas e por missão, podemos construir pontes entre as divisões culturais.
 
-
 ### Sistemas de Aprendizagem Resilientes
 
 Os relatórios globais de 2022 do PISA[^PISA] e do ICCS[^ICCS] apontam que Taiwan, Japão, Coreia do Sul e Lituânia cresceram contra a tendência durante a pandemia e são considerados sistemas educacionais resilientes[^EdResilience]. Um dos fatores de destaque para Taiwan é o modelo diversificado de ensino cocriado presente no Currículo Básico de Educação de 2019, que combina com sucesso ferramentas de aprendizagem físicas e digitais, e considera a "espontaneidade, a interação e o bem comum" como novos valores centrais, inspirando um senso de missão voltado para o desenvolvimento sustentável global[^EdSDGs].
+
+[^ICCS]: https://www.iea.nl/studies/iea/iccs/2022
+[^PISA]: https://www.oecd.org/pisa/ & https://focustaiwan.tw/culture/202312060017
+[^EdResilience]: https://www.cna.com.tw/news/ahel/202312050365.aspx
+[^EdSDGs]: https://en.rti.org.tw/news/view/id/2010665
 
 Por exemplo, a fonte "Chenyuluoyan"[^Font] utilizada na capa deste livro provém do projeto de aprendizagem autônoma de dois estudantes do ensino médio, que aproveitaram redes sociais e o trabalho em equipe para aprender de forma colaborativa. Essa criação independente demonstra o espírito da colaboração de código aberto, que surge a partir dos próprios interesses. O conhecimento e a criatividade no processo de aprendizagem brilham por meio do compartilhamento aberto, inspirando mais pessoas a participar[^FontBlog].
 
@@ -24,7 +28,6 @@ Por exemplo, a fonte "Chenyuluoyan"[^Font] utilizada na capa deste livro provém
 [^FontBlog]: https://blog.luckertw.com/chenyuluoyan-interview/
 
 Nas instituições educacionais do século passado, o aprendizado frequentemente dependia da memorização mecânica e da recordação detalhada; enquanto a falta de conteúdo aberto tornava a resolução de problemas e o trabalho em equipe fragmentados. Com o surgimento da educação experimental em vários países, surgiram modelos de aprendizado autodirigido que abrangem tanto o pensamento crítico quanto as habilidades de comunicação interpessoal. Essas duas habilidades não são mutuamente exclusivas, mas complementares, e com a assistência da tecnologia ⿻, elas transcendem as limitações das ideologias uma da outra e fortalecem a resiliência social.
-
 
 ### Redes de Aprendizagem Diversificadas e Colaborativas
 
@@ -51,7 +54,6 @@ O Moedict levou o setor público a adotar ativamente a licença "Creative Common
 
 Bibliotecas online, a Wikipedia e o compartilhamento de imagens e textos licenciados sob Creative Commons, conforme descrito no capítulo "The Lost Dao" (3-3), são todos ativos globais valiosos comparáveis a bens comuns, gerados com base na colaboração de código aberto. Assim como em um parque mundial vasto, obras cocriadas por cidadãos de diferentes países e línguas podem ser compreendidas e mantidas ativamente por mais pessoas, promovendo ainda mais a democratização do conhecimento e preenchendo lacunas na educação cívica. Esses são exemplos práticos de como a aprendizagem está evoluindo no caminho ⿻ e beneficiando o público.
 
-
 ### Aprendizagem ao Longo da Vida Conectada Globalmente
 
 Na sociedade humana, redes de aprendizagem ⿻ abriram um caminho inovador, tornando-se uma ferramenta eficaz para enfrentar problemas complexos. Questões globais comuns, como mudanças climáticas, epidemias e desigualdade de riqueza, não podem ser resolvidas isoladamente. Elas ultrapassam fronteiras geográficas e afetam a vida de todos, desafiando divisões e barreiras humanas de longa data.
@@ -71,7 +73,6 @@ Isso significa que as instruções rotuladas começarão a mudar. Além de aumen
 Como os dados se transformam em conhecimento na Internet depende de nossas conexões conosco mesmos, com a vida, com o mundo e com a aprendizagem. Quando perdemos essas conexões, o significado desaparece. Mas, através do amplo espectro de redes comunitárias globais, podemos captar energia e retornar à realidade para vislumbrar mais possibilidades para o futuro. Podemos criar incessantemente novos sentidos para o significado da aprendizagem: ela é, simultaneamente, uma continuação do conhecimento passado e o nascimento da inovação. Imagine poder utilizar habilidades colaborativas e conteúdo aberto para verificar informações ao se deparar com um tratado extenso. Na tecnologia em rápido desenvolvimento de hoje, a sabedoria humana não desaparecerá; ao contrário, ela mostrará vitalidade maior devido à nossa compreensão profunda do conhecimento e da experiência, bem como ao uso diversificado de ferramentas.
 
 Se conseguirmos interconectar habilidosamente tecnologias recíprocas com o conhecimento da multidão, poderemos cultivar aprendizes ao longo da vida que ousam assumir riscos intelectuais e explorar áreas desconhecidas. Esses aprendizes poderão romper com o modelo de oposições binárias e criar redes de conhecimento compartilhado ⿻ diversas e sem limites, por meio de mecanismos interdisciplinares. A seguir, elaboraremos esse ideal.
-
 
 ### Jogos Infinitos e Cidadãos ⿻
 

@@ -1,4 +1,4 @@
-# Encontrando a Sua DAO
+# Encontre a Sua DAO
 
 Como discutimos neste livro, narrativas lineares em livros têm a desvantagem significativa de forçar cada leitor a seguir um único caminho de aprendizagem. Embora a versão online evite isso por meio do uso extensivo de hiperlinks, aqueles que possuem uma cópia física encontrarão mais dificuldade para navegar. Para aliviar parcialmente esse problema, estruturamos o texto de forma "circular", onde os leitores podem começar em vários pontos, seguir a partir dali e voltar ao material "anterior" no final.
 
