@@ -75,7 +75,7 @@ We plan to pursue these approaches and to put any funds raised into the collecti
 
 We encourage different communities to help us translate the content in various languages for more accessibility around the world, anyone should feel free to fork the repository to initiate their translation work. We aim to allow communities to contribute in scalable and decentralized ways while granting official status upon approval.
 
-Here's a [simple onboarding guide](https://www.notion.so/Plurality-Translation-Contributor-Onboarding-8b21ee9cebab42b8b89f8f6a897f849a?pvs=21). Please feel free to join the [Discord](https://discord.gg/YWSDRqdW5n) to coordinate with the team on getting your fork approved and listed here, your translation work reflected on the website, and join our contributor community to give any feedback on how to improve the process!
+Here's a [simple onboarding guide](https://docs.plurality.net/contributing/Contributing%20translations/). Please feel free to join the [Discord](https://discord.gg/YWSDRqdW5n) to coordinate with the team on getting your fork approved and listed here, your translation work reflected on the website, and join our contributor community to give any feedback on how to improve the process!
 
 _Note: Note: Traditional Mandarin and English are both considered root languages and are hosted in this repository, while each fork is maintained by individual community members._
 
