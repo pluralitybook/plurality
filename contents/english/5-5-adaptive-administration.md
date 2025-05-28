@@ -10,7 +10,7 @@ This demonstration built on years of work and multi stakeholder collaborations i
 </figure>
 <br></br>
 
-Building on these demonstrations, Indian business, civil and government entities have launched services to harness these capabilities at scale.  These include a government-provided chatbot to support applications to [farmer financial support programs](https://opengovasia.com/2023/09/23/ai-based-chatbot-to-support-indian-farmers/) and a free What's App based multilingual chatbot that offers guidance on a variety of public services.
+Building on these demonstrations, Indian business, civil and government entities have launched services to harness these capabilities at scale.  These include a government-provided chatbot to support applications to [farmer financial support programs](https://opengovasia.com/2023/09/23/ai-based-chatbot-to-support-indian-farmers/) and a free WhatsApp-based multilingual chatbot that offers guidance on a variety of public services.
 
 ---
 
@@ -28,7 +28,7 @@ Many of the most consequential junctures of life turn on administrative outcomes
 * Identification and travel documents
 * Educational transcripts, resumés and other summaries of "the course of a life" (curriculum vitae/CV)
 * Legal documents, including property deeds and contracts.
-* Tax fillings.
+* Tax filings.
 * Structured performance evaluations
 * Medical intake and evaluation forms
 * Legal filings (though these usually include more detail and context than the above)

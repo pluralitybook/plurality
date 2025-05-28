@@ -30,7 +30,9 @@ Yet these are only the first successful forays into an emerging medium.  As shar
 One of the most important trends in the production of journalism in the internet era has been the rise of so-called "citizen journalism" and the allied "open-source intelligence" movement, both of which aim to empower a much broader diversity of people than those traditionally employed as formal journalists or intelligence analysts to document important events in the world around them. Such journalism has been central to documenting many of the most important events in recent years, from terrorist attacks to wars and police abuse.  Yet it also faces significant criticism and social concern over bias, rigor of verification of facts, and legibility and digestibility.
 
 
-It is easy to see how many recent technological developments could dramatically exacerbate these problems. Generative foundation models (GFMs) will make the production of realistic fakes far easier and will spread distrust of any material without rigorous, multi-source validation.  The echo chambers of anti-social media will allow fakes to spread even absent such vetting, proliferating misleading content and the conditions under which people will believe it.
+It is easy to see how many recent technological developments could dramatically exacerbate these problems. Generative foundation models (GFMs) will make producing realistic fakes far easier and will spread distrust of any material without rigorous, multi-source validation[^Note].  The echo chambers of anti-social media will allow fakes to spread even absent such vetting, proliferating misleading content and the conditions under which people will believe it.
+
+[^Note]: Multi-source validation is widely regarded as a standard in traditional journalism. Multi-source validation is the process of verifying information or data by comparing it across multiple independent sources. This is done as a means to protect the journalistic integrity of an outlet before confirming the validity of any information This is widely perceived as less important in modern media circles like blogs and social media, since the authors of the posts are often the source, themselves.
 
 Yet there are equally clear precedents for how technology could offset these challenges.  Wikipedia has shown the speed and scale at which distributed participation can produce roughly and broadly consensual accounts of many events, though not quite yet at the speed required of journalism.  Many of the tools we have described above and detail below can help address challenges of rigorous verification at distance and scale and rapid achievement of rough and socially contextual consensus that is a more appropriate frame for thinking about "objectivity".
 
@@ -70,6 +72,13 @@ Furthermore, there are good reasons to believe such organizations could afford t
 
 This might play out in a variety of ways, but a simple one would be for participants to opt into a set of communities they identify with.  Each would "sponsor" their community members' use in exchange for the prioritization of their members' attention to the community-relevant content we discussed above.  Users who did not sign up for communities paying sufficiently might have to accept some amount of advertising or pay a subscription fee, and the service could identify from its own patterns communities and approach their leaders to ask for payment.  In short, social media might become a more ⿻ version of public media.
 
+One more approach is to fundamentally change the protocols and platforms used to operate the current version of the Internet and social media. Project Liberty is building a consortium to purchase TikTok and redesign the platform to put people in control of their digital identities and data. 
+
+A reimagined TikTok could give people:
+
+* Choice – more agency over their digital lives and information
+* Voice – more say in the responsible governance of the platform
+* Stake – more access to the economic value they create online 
 
 Overall, the examples above show how ⿻ can empower a new pro-social, ⿻ media environment: one where we can connect deeply with others from very different backgrounds, where people come together to tell their stories in authoritative and verifiable ways without compromising community or individual privacy and where we come to understand what unites and divides us in the interests of the dynamism and solidarity of all our communities.
 

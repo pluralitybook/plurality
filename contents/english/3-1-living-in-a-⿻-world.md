@@ -112,7 +112,7 @@ Thus, even in understanding the very practice of science, a ⿻ perspective, gro
 **A future ⿻?**
 
 
-Yet the assumptions on which the Technocratic and Libertarian visions of the future discussed above diverge sharply from such ⿻ foundations.  
+Yet the assumptions on which the Technocratic and Libertarian visions of the future discussed above are founded diverge sharply from such ⿻ foundations.  
 
 In the Technocratic vision we discussed in the previous chapter, the “messiness” of existing administrative systems is to be replaced by a massive-scale, unified, rational, scientific, artificially intelligent planning system.  Transcending locality and social diversity, this unified agent is imagined to give “unbiased” answers to any economic and social problem, transcending social cleavages and differences.  As such, it seeks to at best paper over and at worst erase, rather than fostering and harnessing, the social diversity and heterogeneity that ⿻ social science sees as defining the very objects of interest, engagement, and value.
 
