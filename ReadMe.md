@@ -77,7 +77,7 @@ We encourage different communities to help us translate the content in various l
 
 Here's a [simple onboarding guide](https://docs.plurality.net/contributing/Contributing%20translations/). Please feel free to join the [Discord](https://discord.gg/YWSDRqdW5n) to coordinate with the team on getting your fork approved and listed here, your translation work reflected on the website, and join our contributor community to give any feedback on how to improve the process!
 
-_Note: Note: Traditional Mandarin and English are both considered root languages and are hosted in this repository, while each fork is maintained by individual community members._
+_Note: Traditional Mandarin and English are both considered root languages and are hosted in this repository, while each fork is maintained by individual community members._
 
 Active translation communities and repositories
 
@@ -90,3 +90,4 @@ Active translation communities and repositories
 # Summary and next steps
 
 We look forward to collaborating with all of you on this exciting project.  Please reach out to glen@plurality.net if you have any questions that you cannot convey through our collaboration channels.
+
