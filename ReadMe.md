@@ -1,6 +1,4 @@
-ReadMe for *Plurality: The Future of Collaborative Technology and Democracy* by Audrey Tang, E. Glen Weyl and the Plurality Community
-
-Welcome to *Plurality*, an open, git-based collaborative book project that aims to offer a vision for the future of technology focused around empowering and bridging social difference.  While we have outlined the substance of the book elsewhere (see https://www.plurality.net), the purpose of this ReadMe is to provide an overview of the collaboration that will help create the book aimed at those who will participate in doing so.
+이곳은 『Plurality: The Future of Collaborative Technology and Democracy』(Authors: by Audrey Tang, E. Glen Weyl and the Plurality Community)의 공식 한국어 번역 저장소입니다. 현재 한국어 번역판은 출간 준비 중이며, 번역 원고와 도판을 CC-0 라이선스로 공개할 예정입니다. 모든 자료는 contents/korean 디렉터리에서 확인하실 수 있습니다.
 
 # Overview
 
@@ -90,4 +88,5 @@ Active translation communities and repositories
 # Summary and next steps
 
 We look forward to collaborating with all of you on this exciting project.  Please reach out to glen@plurality.net if you have any questions that you cannot convey through our collaboration channels.
+
 
