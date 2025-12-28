@@ -91,6 +91,9 @@ Yet despite these strengths, even in its richest form, voting expresses and dete
 
 Nor is it likely that, anytime in the near future, voting systems will stretch greatly beyond the national boundaries that currently contain them. The demands of ⿻ identity systems supporting some of the above suggest that while voting in new transnational configurations is imaginable, systems of voting are unlikely any time soon to truly reach global legitimacy.  To truly reach that scope of diversity, we have to turn to the re-imagining of the thinnest of all the substrates for collaboration: market economies.
 
+A deeper limitation applies to voting mechanisms generally: most theoretical frameworks, including mechanism design approaches underlying innovations like quadratic voting, describe equilibrium properties rather than dynamic processes.[^DynamicProcesses] They specify what stable outcomes look like—optimal preference aggregation, strategy-proofness, fairness properties—but not how systems transition between states, or what happens when transitions go wrong. This explains recurring practical challenges. Strategic behavior and gaming emerge because static rules create static equilibria that organized groups can optimize against; the rules specify endpoints but not the dynamics that allow gaming to develop. Successful adoption of new voting mechanisms often exhibits threshold effects: below some critical mass of participation or legitimacy, the mechanism fails to gain traction; above it, adoption can become self-reinforcing. Understanding voting as a dynamic process—attending to critical thresholds, path dependence, and the stabilization or destabilization of emergent order—may complement mechanism design with tools for predicting when and why implementations succeed or fail.
+
+[^DynamicProcesses]: Ryuhei Ishibashi, "Dynamic Tools for Digital Democracy: From Static Aggregation to Process Design," _Zenodo_ (2025), https://zenodo.org/records/18074832.
 
 
 
