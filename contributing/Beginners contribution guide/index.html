@@ -1,0 +1,1728 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="gardenengima">
+      
+      
+      
+        <link rel="prev" href="../Getting%20started/">
+      
+      
+        <link rel="next" href="../Contributing%20content%20and%20edits/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.2">
+    
+    
+      
+        <title>Beginners contribution guide - Plurality Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#beginners-contribution-guide" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Plurality Docs" class="md-header__button md-logo" aria-label="Plurality Docs" data-md-component="logo">
+      
+  <img src="../../assets/plurality logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Plurality Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Beginners contribution guide
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Plurality Docs" class="md-nav__button md-logo" aria-label="Plurality Docs" data-md-component="logo">
+      
+  <img src="../../assets/plurality logo.png" alt="logo">
+
+    </a>
+    Plurality Docs
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Start here
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Start here
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Welcome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../home/About%20the%20Plurality%20book/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About the book
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../home/About%20the%20Plurality%20project/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About the project
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../home/Get%20involved/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Get involved
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contributing to the project
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Contributing to the project
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Getting%20started/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Beginners contribution guide
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Beginners contribution guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introduction
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-1-understand-your-working-environment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 1: Understand your working environment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-2-install-your-code-editor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 2: Install your code editor
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-3-create-a-github-account-and-browse-the-issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 3: Create a GitHub account and browse the Issues
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-4-fork-and-clone-the-project" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 4: Fork and clone the project
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-5-make-changes-to-the-project" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 5: Make changes to the project
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-6-complete-a-pull-request" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 6: Complete a Pull Request
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#next-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Next Steps
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Contributing%20content%20and%20edits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Content and edits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Contributing%20translations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Translations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Contributing%20figures/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Figures and images
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Contributing%20citations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Citations and references
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Contributing%20in%20other%20ways/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contributing in other ways
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Contributing%20to%20the%20docs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contributing to the docs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Pull%20requests/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pull Requests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book style guide
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Book style guide
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../style%20guide/Book%20structure/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Book structure
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../style%20guide/Punctuation%20and%20grammar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Punctuation and grammar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../style%20guide/Images%20and%20figures/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Figures
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../style%20guide/Citations%20and%20referencing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Citations and referencing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Governance of the project
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Governance of the project
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../governance/Governance%20introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../governance/Plural%20credits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Plural Credits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../governance/Gov4Git/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gov4Git
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../governance/Plural%20management%20protocol/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Plural Management Protocol
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introduction
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-1-understand-your-working-environment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 1: Understand your working environment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-2-install-your-code-editor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 2: Install your code editor
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-3-create-a-github-account-and-browse-the-issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 3: Create a GitHub account and browse the Issues
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-4-fork-and-clone-the-project" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 4: Fork and clone the project
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-5-make-changes-to-the-project" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 5: Make changes to the project
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#step-6-complete-a-pull-request" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Step 6: Complete a Pull Request
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#next-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Next Steps
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="beginners-contribution-guide">Beginners contribution guide</h1>
+<blockquote>
+<p>Jumping into the world of open source is an exciting process, but it can also be a bit overwhelming. This beginners guide will help you make your first contribution to the Plurality project.</p>
+</blockquote>
+<hr />
+<h2 id="introduction">Introduction</h2>
+<h3 id="before-you-begin">Before you begin</h3>
+<p>Before getting started with this guide, it is recommended that you familiarise yourself with the following:</p>
+<ul>
+<li>Familiarise yourself with the <a href="https://www.plurality.net/">Plurality book</a>, and,</li>
+<li>Familiarise yourself with the <a href="../../">Plurality book project</a></li>
+</ul>
+<p>This beginners contribution guide is currently written for those who have little to no experience with contributing to open source projects. To follow the steps in this guide, you will need a computer with Windows installed, as well as an internet connection.</p>
+<h3 id="what-is-covered-the-guide">What is covered the guide?</h3>
+<p>The guide will help you understand and use the necessary tools to make a contribution. Here are the types of contributions it prepares you for:</p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Editing of the root text</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Translating the book to other languages and subcultures</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Adding graphical design of elements to the book, including visuals and figures</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Contributing to the documentation</li>
+</ul>
+<p>If you would like to contribute in a way that is not listed, we encourage you to <a href="../../home/Get%20involved/">connect with the community</a> to introduce yourself and share your ideas.</p>
+<h3 id="overview-of-steps-in-the-guide">Overview of steps in the guide</h3>
+<p>The contents covered in the beginners contribution guide are listed in the table below. If you are completely new to open source development you should follow the steps in sequential order. If you just need a refresher on contributing to open source, feel free to jump into any section as required. </p>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Article name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Understand your working environment</td>
+<td>Describes the tools that you need to start your journey.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Install your code editor</td>
+<td>Explains the role of the code editor and provides instructions on how to install it.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Create a GitHub account and browse the issues</td>
+<td>Gives a brief introduction to GitHub and explains how GitHub "Issues" are used to guide community contributions.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Fork and clone the project</td>
+<td>Explains how to copy the project onto your computer so that you can make changes to it.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Make changes to the project</td>
+<td>Explains how to make changes to your copy of the project.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Complete a Pull Request</td>
+<td>Explains how you can request that the change on your copy is added to the project.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="if-you-become-stuck">If you become stuck</h3>
+<p>If you become stuck on any of the steps, a member of the community on the Discord can help. You can connect with the community by navigating to the <a href="../../home/Get%20involved/">Get involved</a> section of the docs.</p>
+<p>Now that you have an overview of what is in this guide, you're all set to dive in and take your first exciting step!</p>
+<hr />
+<h2 id="step-1-understand-your-working-environment">Step 1: Understand your working environment</h2>
+<h3 id="what-is-an-open-source-project">What is an open source project?</h3>
+<p>An open source project is a collaborative initiative where anyone can use, change, and share the contents of the project. Open source projects generally have the following features:</p>
+<ul>
+<li><strong>Accessibility:</strong> The source materials are freely available to everyone.</li>
+<li><strong>Collaboration</strong>: People from around the world can contribute to the project.</li>
+<li><strong>Transparency</strong>: All changes and updates are visible to everyone.</li>
+<li><strong>Flexibility</strong>: Users can modify the project to suit their specific needs, and use the source materials however they wish.</li>
+</ul>
+<p>The Plurality book is an open source project. Instead of being controlled by one author, company, or organisation, it allows anyone to contribute content and therefore evolves as more people around the world share their ideas and perspectives.</p>
+<h3 id="what-tools-are-used-in-open-source">What tools are used in open source?</h3>
+<p>There are a variety of tools that are used to facilitate open source projects. From tools that help you connect to the community to tools that generate documentation, tools are what help facilitate the work that is required to collaborate on open source projects. There are only a few tools that you will need to get started. These tools are referred to as your <em>working environment</em> and are listed below:</p>
+<ul>
+<li>
+<p><strong>Code editor:</strong> A software tool that is used by contributors to create and edit project files.</p>
+</li>
+<li>
+<p><strong>GitHub:</strong> An online platform that the community uses to host book content, facilitate contributions from community members, manage versions of the project, and track issues.</p>
+</li>
+<li>
+<p><strong>Discord:</strong> A messaging platform that the community uses for communication and collaboration</p>
+</li>
+</ul>
+<p>We will explain more on what each tool does and how they can help you make your first contribution. However, as mentioned, the number of tools that are used in open source is  vast. When you have a better understanding of the basic tools, it is encouraged that you try experimenting with other tools to contribute in new and creative ways.</p>
+<p>Now that you have an understanding of your basic working environment, it is time to learn a bit more about your first tool: the <em>code editor</em>. Continue reading about the code editor in the next step.</p>
+<hr />
+<h2 id="step-2-install-your-code-editor">Step 2: Install your code editor</h2>
+<h3 id="what-is-a-code-editor">What is a code editor?</h3>
+<p>The Notepad software on your Windows computer can be thought of as a simple code editor. When you open Notepad you are greeted with an interface that allows you to write and edit text, save your work as a .txt file, and store it in a folder on your computer. While Notepad is great for those simple tasks, it lacks a lot of the features that can help you complete the tasks required for contributing to the project. This is where more complex software, such as a code editor, can help. </p>
+<p>Like Notepad, we can use code editors to write and edit text, save our work, and store it in a folder on our computer. However, a code editor has some other features that will help with our contribution. This includes:</p>
+<ul>
+<li>Helping us write and edit text more easily</li>
+<li>Saving files in Markdown (.md) and other formats</li>
+<li>Navigating the folders where we saved our files</li>
+<li>Allowing us to request that our contributions are added to the project</li>
+</ul>
+<h3 id="how-to-get-a-code-editor">How to get a code editor</h3>
+<p>To get a code editor, you will need to download and install it from the internet. While there are a lot of code editors that can help facilitate contributions to an open source project, covering all of them is beyond the scope of this article. To simplify things, we will focus in on one software: <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">Visual Studio Code</a> (VS Code). Continue reading for steps on how to download and install it onto your computer. </p>
+<blockquote>
+<p><strong>Note:</strong> If you would like to use a different code editing software, there is <a href="https://en.wikipedia.org/wiki/List_of_text_editors">vast list</a> of notable code editors, and each software has it's own documentation for downloading and installing. This guide will provide instructions for using VS Code.</p>
+</blockquote>
+<h3 id="download-and-install-vs-code">Download and install VS Code</h3>
+<ol>
+<li>Download the <a href="https://code.visualstudio.com/download">Visual Studio Code installer</a> file for Windows</li>
+<li>Once the installer file has downloaded, open the file to start the installation process <img src="../assets/download-vscode.png" style="zoom:50%;" /></li>
+<li>Follow the installation instructions. You may need to grant administrative privileges if prompted</li>
+<li>After the installation is complete, launch VS Code. (By default, VS Code is installed under <code>C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code</code>.)</li>
+</ol>
+<p>When you first launch VS Code, you will be greeted with a "Get Started with VS Code" interface. Here you can customize some of the settings of VS Code, however, this is not a mandatory requirement for the purposes of the beginners contribution guide.</p>
+<h3 id="download-git">Download Git</h3>
+<p>After you have customized your VS Code settings, you will need to download and install Git. Git is a <a href="https://en.wikipedia.org/wiki/Version_control">version control system</a>. It is a tool that helps to keep track of all the changes you make to your files. Since we will be contributing our changes to project files, we need Git to help us track these changes. Git is required for open source collaboration with GitHub (We will discuss more about GitHub below). </p>
+<p>To download Git, complete the following steps:</p>
+<ol>
+<li>Navigate to the <strong>Source Control</strong> tab on the left side of the VS Code interface by selecting the Source Control icon (<img src="../assets/source-control-icon.png" width="20" />) or by typing <strong>Ctrl+Shift+G</strong></li>
+<li>Click the button that says <strong>Download Git for Windows</strong> (It may be a link that says <strong>install git</strong>)</li>
+<li>On the <a href="https://git-scm.com/">Git website</a>, navigate to <strong>Downloads</strong></li>
+<li>Click download <strong>Git for Windows</strong></li>
+<li>Once downloaded, <strong>open the file</strong> to install Git</li>
+<li>Follow the installation instructions (You can leave the settings as default)</li>
+<li>After the installation is complete you do not need to launch Git Bash or view the release notes</li>
+</ol>
+<p>Now that you have set up your code editor and installed Git, you are ready to check out the files of the Plurality project and see what type of contributions you can make. To do this, you will first need to navigate to GitHub and create an account. This is covered in the next step. </p>
+<hr />
+<h2 id="step-3-create-a-github-account-and-browse-the-issues">Step 3: Create a GitHub account and browse the Issues</h2>
+<h3 id="what-is-github">What is GitHub?</h3>
+<p>GitHub is an online hub for open source projects. It is a place where community members can store their contributions and work together on projects. Here are some of the features that GitHub offers:</p>
+<ul>
+<li><strong>Storing files:</strong> Just as you save files in a folder on your computer, you can save files and store them in project folders on GitHub.</li>
+<li><strong>Collaboration:</strong> GitHub allows you to browse the files that other people have stored, make changes to these files, and add your own files. </li>
+<li><strong>Keeping track of changes:</strong> When you are working with files using GitHub, all changes to files are tracked so that you can go back to older versions if required.</li>
+</ul>
+<h3 id="what-are-github-issues">What are GitHub issues?</h3>
+<p>GitHub issues are a feature of the GitHub platform where contributors can write down the things that they feel need to be done to improve a project. For the Plurality project, issues can be a variety of things such as required edits to the root text, additions of graphical elements, or contributions to the documentation.</p>
+<p>Issues are a great place to go if you want to contribute to the project but you are unsure of what you exactly want to contribute. It provides a place to view a list of things that the community has identified as something that needs to get done. </p>
+<h3 id="create-a-github-account">Create a GitHub account</h3>
+<p>To create a free GitHub account, follow the steps below:</p>
+<ol>
+<li>Navigate to <a href="https://github.com/">https://github.com/</a> </li>
+<li>Click <strong>Sign up</strong></li>
+<li>Follow the prompts to create your personal account</li>
+</ol>
+<p>During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks.</p>
+<h3 id="browse-the-issues">Browse the issues</h3>
+<p>After you have created a GitHub account, you can start browsing the issues on the Plurality projects GitHub page.</p>
+<ol>
+<li>Navigate to <a href="https://github.com/pluralitybook/plurality/issues">https://github.com/pluralitybook/plurality/issues</a></li>
+<li>You will see a list of issues that community members have raised <img src="../assets/github-issues-homepage.png" style ="zoom=10%;" /></li>
+<li>Click on an issue that stands out to you</li>
+<li>After clicking on an issue, you may see a more detailed description about the issue as well as threads from community members discussing the issue </li>
+<li>To see issues that have been resolved, click <strong>Closed</strong> in the header of the issues table <img src="../assets/github-closed-issues.png" style ="zoom=10%;" /></li>
+<li>Feel free to continue browsing the open and closed issues to get an idea of what type of work the community has been doing</li>
+</ol>
+<h3 id="learn-more-about-github">Learn more about GitHub</h3>
+<p>Everything that you need to know about GitHub in order to make your first contribution to the project is covered in the beginners contribution guide. However, if you want to learn more about GitHub to feel more comfortable on the platform, check out some of GitHub's <a href="https://docs.github.com/en/get-started">great, open-source documentation</a>. If you are happy with just the basics, then continue to the next step.</p>
+<hr />
+<h2 id="step-4-fork-and-clone-the-project">Step 4: Fork and clone the project</h2>
+<h3 id="what-is-the-root-repository">What is the root repository?</h3>
+<p>In Step 3, we navigated to the Plurality book project on GitHub and browsed a list of Issues. In Step 4, we will once again go to the Plurality project GitHub page, but this time we will navigate to the <strong>&lt; &gt; Code</strong> section. You can find this section here: <a href="https://github.com/pluralitybook/plurality">https://github.com/pluralitybook/plurality</a></p>
+<p>When you arrive at the <strong>&lt; &gt; Code</strong> section, you will see a list of folders and files. These folders and files contain all the information that forms the Plurality book. For example, in the <em>figs</em> folder, you will find all of the images that are included in the Plurality book, stored as <code>.png</code> and <code>.jpeg</code> files. Most importantly, in the contents folder, you will find all of the written content for the book stored as <code>.md</code> files (more on this later). Feel free to click into the folders and open the files to see what is inside.</p>
+<p><img src="../assets/plurality-github-code-section.png" style ="zoom=10%;" /></p>
+<p>The list of files on the <strong>&lt; &gt; Code</strong> page is known as the projects <em>root repository</em>. The root repository can be thought of as a file folder, but instead of being on your personal computer, the folder is open to the public and stored on GitHub. When you make a contribution to the project, you will be changing the contents of one or more of the files in the root repository. However, you are not able to change the root repository directly, you will fiirst need to make your own personal copy of the root repository. This is where Forks and Clones can help.</p>
+<blockquote>
+<p><strong>Note</strong>: Translations of the Plurality book are kept on a different root repository than the Plurality book. The process for making a translation contribution is not covered in this guide, however finishing the guide will prepare you for contributing translations.</p>
+</blockquote>
+<h3 id="what-are-forks-and-clones">What are forks and clones?</h3>
+<p>Forks and clones are two terms that are used to refer to making a copy of a GitHub root repository. When you fork a root repository, you are making a copy of all the folders and files and storing them on your own GitHub account. When you clone a project, you are making a copy of all the files and then downloading them onto your personal computer. Below is basic overview of forks and clones.</p>
+<h4 id="fork">Fork</h4>
+<ul>
+<li><strong>Location:</strong> A fork creates a copy of a projects root repository and stores it your own GitHub account.</li>
+<li><strong>Purpose:</strong> It allows you to freely experiment with changing a project without affecting the original root repository.</li>
+<li><strong>Usage:</strong> Forks are primarily used for contributing to a project.</li>
+</ul>
+<h4 id="clone">Clone</h4>
+<ul>
+<li><strong>Location:</strong> A clone creates a copy of the repository on your local computer.</li>
+<li><strong>Purpose:</strong>  It allows you to work on the project on your own computer, making changes, and testing them as needed. Once you are satisfied with your changes, you can push them to your Fork of the project.</li>
+<li><strong>Usage:</strong> Clones are used for developing, testing, and maintaining a personal version of the repository.</li>
+</ul>
+<h3 id="fork-the-project">Fork the project</h3>
+<p>You are now ready to Fork the project onto your GitHub account. To do this, follow the steps below:</p>
+<ol>
+<li>Ensure that you are logged into your GitHub account</li>
+<li>Navigate to <a href="https://github.com/pluralitybook/plurality">https://github.com/pluralitybook/plurality</a></li>
+<li>Select <strong>fork</strong><img src="../assets/github-fork.png" style ="zoom=10%;" /></li>
+<li>Leave the fields as default, then select <strong>Create fork</strong></li>
+<li>You will be directed to a new GitHub page that will have the following URL: "github.com/[your-user-name]/plurality"</li>
+<li>You now have created a copy of the Plurality project on your GitHub account!</li>
+</ol>
+<h3 id="clone-the-project">Clone the project</h3>
+<p>Once you have a fork of the project on your GitHub account, you can clone it onto your personal computer. To do this, follow the steps below:</p>
+<ol>
+<li>
+<p>Navigate to your newly forked GitHub page (github.com/[your-user-name]/plurality)</p>
+</li>
+<li>
+<p>Above the list of files, select <strong>&lt; &gt; Code</strong> <img src="../assets/github-clone.png" style ="zoom=10%;" /></p>
+</li>
+<li>
+<p>Under clone, select <strong>HTTPS</strong>  <img src="../assets/github-https.png" style ="zoom=10%;" /></p>
+</li>
+<li>
+<p>Click the copy icon (<img src="../assets/github-copy-icon.png" width ="25" />) to copy the web URL </p>
+</li>
+<li>
+<p>Open VS Code</p>
+</li>
+<li>
+<p>On the home screen of VS Code, select <strong>clone Git repository...</strong> <img src="../assets/vscode-clone-git-repository.png" style ="zoom=10%;" /></p>
+<blockquote>
+<p><strong>Note:</strong> If you do not see the "Clone Git repository" option, you first need to create a new window in VS Code by typing CTRL+Shift+N</p>
+</blockquote>
+</li>
+<li>
+<p>Paste the web URL that you copied earlier and hit Enter</p>
+</li>
+<li>You will be asked to choose a folder into which to clone the project. Select a location that you feel is most appropriate</li>
+<li>A copy of the project will now be copied into the folder that you selected. It may take a few seconds to load</li>
+<li>When prompted, open the newly populated folder in VS Code</li>
+</ol>
+<p>Now that you have forked and cloned the project, you are now ready to start making your changes to the files. The next step outlines how you can do this.</p>
+<hr />
+<h2 id="step-5-make-changes-to-the-project">Step 5: Make changes to the project</h2>
+<p>In this step, we are going to make a change to the English content of the Plurality book. The process for making other types of changes to the project is very similar and if you understand the basics of making a change to the book's content, you will be in a good place to start making other types of changes as well.</p>
+<h3 id="sync-your-fork-and-update-your-clone">Sync your fork, and update your clone</h3>
+<p>Before you make changes to the project, you will want to sync your fork and update your clone. Syncing and updating ensure that your forked and cloned copy of the Plurality project is up to date and matches the latest changes made by other community members to the root repository. To sync your fork complete the following steps:</p>
+<ol>
+<li>
+<p>Navigate to your clone of the project (github.com/[your-user-name]/plurality)</p>
+</li>
+<li>
+<p>Ensure you are on the <strong>&lt; &gt; Code</strong> tab</p>
+</li>
+<li>
+<p>Select <strong>Sync fork</strong> <img src="../assets/github-sync-fork.png" style ="zoom=10%;" /></p>
+<blockquote>
+<p><strong>Note:</strong> If you see text to the left of <strong>Sync fork</strong> that says "This branch is up to date with pluralitybook/pluralirt-main" then you do not have to sync your fork as it is already up to date.</p>
+</blockquote>
+</li>
+<li>
+<p>Select <strong>Update branch</strong></p>
+</li>
+</ol>
+<p>Once your fork has been synced, follow the next steps to ensure that your clone is updated:</p>
+<ol>
+<li>Open <strong>VS Code</strong></li>
+<li>Find your cloned version of the Plurality project and open the folder where you saved the project (CTRL+O)</li>
+<li>Navigate to the <strong>Source Control</strong> tab by selecting the source control icon (<img src="../assets/source-control-icon.png" width="20" />) on the left tab</li>
+<li>In the source control tab, <strong>select the three dots</strong> then select <strong>Pull</strong> (<img src="../assets/vscode-pull.png" />)</li>
+</ol>
+<p>Your forked and cloned versions of the project are now up to date!</p>
+<h3 id="find-the-file-that-you-want-to-change">Find the file that you want to change</h3>
+<ol>
+<li>
+<p>Navigate to the <strong>Explorer</strong> tab on the left by selecting the Explorer icon (<img src="../assets/vscode-explorer-icon.png" width="20" />). This tab contains the files of  your personal clone of the project</p>
+</li>
+<li>
+<p>Open the  <strong>contents</strong> folder, then the <strong>english</strong> folder</p>
+</li>
+</ol>
+<p><img src="../assets/vscode-explorer.png" style ="zoom=10%;" /></p>
+<p>Once you open the <strong>english</strong> folder, you will see a list of files. The files start with a number, which indicates its Part and Chapter. This is followed by text that describes the file's Section. For example, the file <code>6-2-health.md</code> is Part 6, Chapter 2, Health (more information about how the book is structured can be found in the book's <a href="../../style%20guide/Book%20structure/">Style Guide</a>). You will also notice that all of the files in the <strong>english</strong> folder end in <code>.md</code>, or Markdown. We will discuss more about Markdown below. </p>
+<h3 id="working-in-markdown">Working in Markdown</h3>
+<p>Markdown is a simple file type that allows you to format text by creating headings, formatting words, making lists, etc. It is a great file type for the project because it is easy to read and edit. Markdown can also quickly be converted to other file types. This allows different community members to utilise the content of the book in different ways such as displaying the book on a website (HTML) or printing it onto physical paper (PDF).</p>
+<p>When you open the <code>.md</code> file in the <strong>english</strong> folder to which you would like to make changes, it's contents will be displayed in the main area of VS Code. You will see familiar sentences and paragraphs, but you will also see some text elements that you might not be familiar with such as <code>#</code>, <code>[some-text](some-link.com)</code>, or <code>&lt;figure&gt;</code>. </p>
+<p>Below are some of the basics of what you will see in a Markdown file, however, we won't worry too much about the all of the elements, as they are not needed for our first contribution. </p>
+<p><strong>Headings</strong></p>
+<pre><code># Heading 1 - Indicates a Section
+## Heading 2 - Indicates a Sub-section
+</code></pre>
+<p><strong>Bold and Italics</strong></p>
+<pre><code>*Italic*
+**Bold**
+</code></pre>
+<p><strong>Lists</strong></p>
+<pre><code>* Item 1
+* Item 2
+* Item 3
+
+1. Item 1
+2. Item 2
+3. Item 3
+</code></pre>
+<p><strong>Links</strong></p>
+<pre><code>[Link text](https://plurality.net)
+</code></pre>
+<p>As you work in Markdown files, you will become more familiar with all of its features. If you are curious about learning more, this <a href="https://www.markdownguide.org/">website</a> provides some great information on the different elements that can be used in Markdown.</p>
+<p>One final thing to note about Markdown is that HTML elements can be used for specific purposes. For example, you will probably encounter a Markdown file that has a figure embedded into it. The HTML element that you will find may look like this:</p>
+<pre><code>&lt;figure&gt;
+&lt;img src=&quot;https://example/image.png&quot; width=&quot;100%&quot; alt=&quot;Description of image&quot;&gt;
+
+**&lt;figcaption&gt; Figure #-#-A. Figure Caption &lt;/figcaption&gt;**
+&lt;/figure&gt;
+&lt;br&gt;&lt;/br&gt;
+</code></pre>
+<p>In the Plurality book, HTML is most likely to be used for images and figures. If you are planning to make changes to a figure or image in the book, you can learn more about the HTML format in the <a href="../../style%20guide/Images%20and%20figures/">Contributing figures and images</a> section of the docs. If you just want to change text content, read on!</p>
+<h3 id="make-your-changes">Make your changes</h3>
+<ol>
+<li>Select a Markdown file that you would like to change. (If you are unsure what you would like to change, you may want to go back and browse the issues on GitHub.) </li>
+<li>In the Markdown file, find the text that you would like to edit, or the Section to which you would like to add text</li>
+<li>Edit the text</li>
+<li>Once you are happy with your changes, save the file (CTRL+S)</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> Don't worry about making a change that you later decide you don't want to keep. This is why you cloned the project; to develop and test your own personal changes before contributing them to the public root repository.</p>
+</blockquote>
+<p>Now that you have saved your changes to the project, you need to request that they be added to the root repository of the Plurality project. We will discuss how to do this in the next step.</p>
+<hr />
+<h2 id="step-6-complete-a-pull-request">Step 6: Complete a Pull Request</h2>
+<h3 id="what-is-a-pull-request">What is a Pull Request?</h3>
+<p>After you have made your changes to your cloned project file, you will want to request that your changes are added to the root repository so that the project's community can review your changes, make suggestions for improvements, and vote to approve the changes. Requesting that your changes are added to the root repositor is known as a <strong>Pull Request</strong> because your are requesting to "pull" your changes into the root repository. </p>
+<h3 id="connect-to-your-github-account-on-vs-code">Connect to your GitHub account on VS Code</h3>
+<p>Before making your Pull Request, ensure you are signed into your GitHub account on VS Code. To do this, go to VS Code and select the <strong>Accounts</strong> icon near the bottom of the left tab (<img src="../assets/vscode-accounts-icon.png" width="25" />). If you are already signed in to your GitHub account, you can continue to "Commit your changes" below. However if you are not signed in, you will need to complete the following steps:</p>
+<p><img src="../assets/vscode-accounts.png" /></p>
+<ol>
+<li>Ensure you are signed in to your GitHub account on your internet browser</li>
+<li>In VS Code, open the <strong>Command Palette</strong> by typing (CTRL+SHIFT+P)</li>
+<li>Type the following "&gt; GitHub: Sign In" and press Enter</li>
+<li>Select <strong>Allow</strong></li>
+<li>Your browser will open with a page asking you to Authorize GitHub for VS Code</li>
+<li>Select <strong>Authorize Visual-Studio-Code</strong></li>
+</ol>
+<p>Clicking on the <strong>Accounts</strong> icon should now indicate that your are signed in to your GitHub account.</p>
+<h3 id="commit-your-changes">Commit your changes</h3>
+<p>The final thing to do before making your Pull Request is to <strong>Commit</strong> your changes. Committing adds the changes that you have made on your local clone, and adds them to your fork. </p>
+<ol>
+<li>
+<p>In VS Code, navigate to the <strong>Source Control</strong> tab (<img src="../assets/source-control-icon.png" width="20" />)</p>
+</li>
+<li>
+<p>On the Source Control tab, you can see a list of the files to which you have made changes</p>
+</li>
+<li>
+<p>Select <strong>Commit</strong></p>
+</li>
+<li>
+<p>A prompt will appear, select <strong>Yes</strong> <img src="../assets/vscode-commit-changes.png" /></p>
+</li>
+<li>
+<p>VS Code will then ask you to create a commit message. A commit message briefly describes the change that you have made to the project. Type in your commit message then select the checkmark to confirm 
+<img src="../assets/vscode-commit-message.png" /></p>
+</li>
+<li>
+<p>Select <strong>Save</strong></p>
+</li>
+<li>
+<p>Select <strong>Sync Changes</strong>, then select Ok when the prompt appears</p>
+</li>
+<li>
+<p>A prompt will appear, select <strong>Sign in with your browser</strong> 
+<img src="../assets/github-sign-in-with-browser.png" width="450" /></p>
+</li>
+<li>
+<p>Select <strong>Authorize git-ecosystem</strong>                 <br />
+<img src="../assets/authorize-github-ecosystem.png" width="450"/></p>
+</li>
+<li>
+<p>Finally, go to your forked version of the project on GitHub (github.com/[your-user-name]/plurality) and select the <strong>&lt; &gt; Code</strong> tab</p>
+</li>
+<li>
+<p>You will notice that your fork is <em>ahead</em> of the root repository, and that your commit message is posted. If you go into the files you will see that your changes have been updated  <img src="../assets/commit-confirmed.png" /></p>
+</li>
+</ol>
+<p>Now that your fork is updated with the changes, it is time to open your Pull Request and push your changes to the root repository of the Plurality project.</p>
+<h3 id="open-a-pull-request">Open a Pull Request</h3>
+<ol>
+<li>
+<p>Navigate to your forked version of the project on GitHub (github.com/[your-user-name]/plurality) and select the <strong>&lt; &gt; Code</strong> tab</p>
+</li>
+<li>
+<p>Select <strong>Contribute</strong> then <strong>Open pull request</strong>                   <br />
+<img src="../assets/open-pull-request.png" width:"420" /> </p>
+</li>
+<li>
+<p>Add a title and a description to your pull request, then select <strong>Create pull request</strong><br />
+<img src="../assets/create-pull-request.png" /> </p>
+</li>
+</ol>
+<p>Congratulations, your Pull Request has been submitted! The community will now be able to review your contribution and vote to accept or reject it. To check on the status of your Pull Request, you can go to the <strong>Pulls</strong> tab of the plurality GitHub page (https://github.com/pluralitybook/plurality/pulls). </p>
+<blockquote>
+<p><strong>Note:</strong> A final note on Pull Requests: There are many different workflows that end in a Pull Request being made. If the above steps did not work for you, try troubleshooting by connecting with the community on discord, or by visiting the <a href="https://docs.github.com/en/pull-requests">GitHub Pull Request docs</a></p>
+</blockquote>
+<hr />
+<h2 id="next-steps">Next Steps</h2>
+<p>You have completed your first contribution, so what's next?</p>
+<p><a href="../../home/Get%20involved/"><strong>Connect with the community on Discord:</strong></a> Discord is a messaging platform that the community uses for communication and collaboration where you can share your ideas for the project, hear from others, and learn about other ways to contribute.</p>
+<p><a href="../../governance/Governance%20introduction/"><strong>Learn about how the project is governed:</strong></a> Gov4Git and the Plural Management Protocol allow you to earn credits for your contributions and to use those credits to prioritize GitHub issues, and to approve or reject GitHub pull requests. </p>
+<p><a href="../Getting%20started/"><strong>Learn about the different ways you can contribute:</strong></a> Learn about the different ways that you can contribute to the project by reading the contributing articles in the docs.</p>
+<p>Thank you for reading this guide, and congratulations on making it to the end. Contributing to the Plurality project is more than just a technical endeavour. Every contribution, no matter how small, helps shape the future of the project. As you continue your contribution journey, move forward with enthusiasm, embrace the challenges, and remember, "Ask not, 'Why is nobody doing this?' You are the nobody."</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
