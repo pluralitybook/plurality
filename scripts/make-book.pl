@@ -4,6 +4,7 @@ use strict;
 use FindBin '$RealBin';
 use Encode;
 use POSIX qw(strftime);
+use JSON::PP;
 
 chdir "$RealBin/..";
 
@@ -24,6 +25,44 @@ linestretch: 1.25
 HEADER
 
 $all .= (read_file($_) =~ s/^#+\s+(.+)/\n**$1**/rg). "\n\n" for glob("contents/english/0-[13]-*.md");
+
+# Generate credits from canonical JSON source (pluralitybook/plurality.net credits.json)
+{
+    my $credits = JSON::PP->new->decode(read_file('scripts/credits.json'));
+    my $cats = $credits->{categories};
+    my $cat_names = $credits->{i18n}{en}{categories};
+
+    # LaTeX block for PDF
+    my $tex = "\n```{=latex}\n\\interfootnotelinepenalty=10000\n\\begin{center}\n\n";
+    for my $ci (0 .. $#$cats) {
+        my $cat = $cats->[$ci];
+        my $label = $cat_names->{$cat->{name}} // $cat->{name};
+        $tex .= "\\textbf{$label}\\\\[6pt]\n";
+        my @c = @{$cat->{contributors}};
+        for my $ni (0 .. $#c) {
+            my ($name, $pt) = @{$c[$ni]}{qw(name pt)};
+            my $bl = sprintf("%.1f", $pt * 1.2);
+            my $end = ($ni == $#c) ? ($ci < $#$cats ? "\\\\[16pt]" : "") : "\\\\";
+            $tex .= "{\\fontsize{${pt}pt}{${bl}pt}\\selectfont ${name}${end}}\n";
+        }
+    }
+    $tex .= "\n\\end{center}\n```\n";
+
+    # HTML block for ePub
+    my $html = "\n```{=html}\n<div style=\"text-align: center\">\n";
+    for my $ci (0 .. $#$cats) {
+        my $cat = $cats->[$ci];
+        my $label = $cat_names->{$cat->{name}} // $cat->{name};
+        $html .= "<p style=\"margin-top: 16pt\"><strong>$label</strong></p>\n" if $ci > 0;
+        $html .= "<p><strong>$label</strong></p>\n" if $ci == 0;
+        for my $c (@{$cat->{contributors}}) {
+            $html .= "<p style=\"font-size: $c->{pt}pt; margin: 2pt 0\">$c->{name}</p>\n";
+        }
+    }
+    $html .= "</div>\n```\n\n";
+
+    $all .= $tex . $html;
+}
 
 sub read_file {
     my $filename = shift;

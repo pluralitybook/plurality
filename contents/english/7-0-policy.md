@@ -224,4 +224,4 @@ For them to do so, ⿻ will have to go far beyond a set of creative technologies
 
 [^Planning]: Benjamin Bertelsen and Ritul Gaur, "What We Can Expect for Digital Public Infrastructure in 2024", *World Economic Forum Blog* February 13, 2024 at https://www.weforum.org/agenda/2024/02/dpi-digital-public-infrastructure.    Especially in the developing world, many countries have ministries of planning that could naturally host or spin off such a function.  
 [^Ext]: Economists would refer to such taxes as "Pigouvian" taxes on "externalities".  While a reasonable way to describe some of the below, as noted in our Markets chapter, externalities may be more the rule than the exception and thus we prefer this alternative formulation.  For example, many of these taxes address issues of concentrated market power which do create externalities, but are not usually considered in the scope of Pigouvian taxation.
-  
+

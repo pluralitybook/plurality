@@ -1,0 +1,125 @@
+{
+  "i18n": {
+    "en": {
+      "intro": "The below represents the current state of ⿻ credits in the project, a community currency we used to track contributions as discussed further in the text. Every contributor is categorized in terms of exactly one contribution area, even if they made multiple types of contribution. Order within categories and font size overall indicate quantitative holdings of ⿻ as of early April, 2024 and we used the same weights to create the composite image above. The list excludes the two primary authors as they are sufficiently highlighted above, as well as anyone who only received credit for endorsing, as they are listed in order of credit on the opening pages of this book or on its exterior. We apologize for any errors in the ledger due to the experimental nature of the technology we used to track it and will correct these online and in future editions.",
+      "categories": { "Writing": "Writing", "Editing": "Editing", "Technical": "Technical", "Translation": "Translation", "Visuals": "Visuals", "Data": "Data", "Management": "Management", "Public relations": "Public relations", "Research": "Research" }
+    },
+    "zh": {
+      "intro": "以下呈現的是本專案中 ⿻ 積分的現況——這是一種我們用來追蹤貢獻的社群貨幣，詳情於正文中進一步討論。每位貢獻者僅歸類於一個貢獻領域，即使他們做出了多種類型的貢獻。各類別內的排序及整體字體大小，反映截至 2024 年 4 月初的 ⿻ 持有量，我們也使用相同的權重來製作上方的合成影像。此列表不包括兩位主要作者，因為他們已在上方充分標示；也不包括僅因推薦而獲得積分的人，因為他們已按積分順序列於本書開頭頁面或封面。由於我們使用的追蹤技術仍屬實驗性質，帳目若有任何錯誤，敬請見諒，我們將在線上版本及未來版本中加以更正。",
+      "categories": { "Writing": "寫作", "Editing": "編輯", "Technical": "技術", "Translation": "翻譯", "Visuals": "視覺設計", "Data": "資料", "Management": "管理", "Public relations": "公共關係", "Research": "研究" }
+    }
+  },
+  "categories": [
+    {
+      "name": "Writing",
+      "contributors": [
+        { "name": "Tenzin Yangtso", "pt": 29.04 },
+        { "name": "Judith Amores", "pt": 28.08 },
+        { "name": "Puja Ohlhaver", "pt": 28.08 },
+        { "name": "Nick Pyati", "pt": 24.00 },
+        { "name": "Jeremy Lauer", "pt": 24.00 },
+        { "name": "Noah Yeh", "pt": 24.00 },
+        { "name": "JJ Reynolds-Strange", "pt": 22.08 },
+        { "name": "Kinney Zalesne", "pt": 22.08 },
+        { "name": "Tantum Collins", "pt": 18.00 },
+        { "name": "Geordan Shannon", "pt": 16.08 },
+        { "name": "Matt Prewitt", "pt": 16.08 },
+        { "name": "Holly Herndon", "pt": 13.92 },
+        { "name": "Mat Dryhurst", "pt": 13.92 },
+        { "name": "Michele Zanini", "pt": 13.92 },
+        { "name": "Jonas Kgomo", "pt": 12.00 }
+      ]
+    },
+    {
+      "name": "Editing",
+      "contributors": [
+        { "name": "Vitalik Buterin", "pt": 19.92 },
+        { "name": "NISHIO Hirokazu", "pt": 16.08 },
+        { "name": "Greg Wang", "pt": 16.08 },
+        { "name": "Christian Paquin", "pt": 13.92 },
+        { "name": "Omoaholo Omakhalen", "pt": 13.92 },
+        { "name": "Evan David Paul", "pt": 13.92 },
+        { "name": "Kaliya Young", "pt": 13.92 },
+        { "name": "Teddy Lee", "pt": 12.00 },
+        { "name": "Wes Chow", "pt": 12.00 },
+        { "name": "Zoë Hitzig", "pt": 12.00 },
+        { "name": "Isaiah Kuhle", "pt": 12.00 },
+        { "name": "Ko Ju-Chun", "pt": 12.00 },
+        { "name": "Billy Zhe-Wei Lin", "pt": 12.00 },
+        { "name": "Michael Zhuang", "pt": 12.00 }
+      ]
+    },
+    {
+      "name": "Technical",
+      "contributors": [
+        { "name": "Akinori Oyama", "pt": 28.08 },
+        { "name": "Petar Maymounkov", "pt": 25.92 },
+        { "name": "Kasia Sitkiewicz", "pt": 25.92 },
+        { "name": "Derek Worthen", "pt": 25.92 },
+        { "name": "John Hadaway", "pt": 13.92 },
+        { "name": "Tyler Flajole", "pt": 12.00 },
+        { "name": "Julia Metcalf", "pt": 12.00 }
+      ]
+    },
+    {
+      "name": "Translation",
+      "contributors": [
+        { "name": "Jacky (taipeicity.eth)", "pt": 22.08 },
+        { "name": "Andreas Fauler", "pt": 12.00 },
+        { "name": "Daniel Alsterholm", "pt": 12.00 },
+        { "name": "Max Semenchuk", "pt": 12.00 },
+        { "name": "Michal", "pt": 12.00 },
+        { "name": "Vassilis Tziokas", "pt": 12.00 },
+        { "name": "Haju Chang", "pt": 12.00 },
+        { "name": "Leon Erichsen", "pt": 12.00 },
+        { "name": "Mashbean", "pt": 12.00 }
+      ]
+    },
+    {
+      "name": "Visuals",
+      "contributors": [
+        { "name": "Tofus Wang", "pt": 19.92 },
+        { "name": "Lillian Wang", "pt": 18.00 },
+        { "name": "Andrea Bonaceto", "pt": 13.92 },
+        { "name": "Kevin Owocki", "pt": 12.00 }
+      ]
+    },
+    {
+      "name": "Data",
+      "contributors": [
+        { "name": "Carl Cervone", "pt": 18.00 },
+        { "name": "Jordan Usdan", "pt": 12.00 },
+        { "name": "Jeffrey Fossett", "pt": 12.00 }
+      ]
+    },
+    {
+      "name": "Management",
+      "contributors": [
+        { "name": "Jason Entenmann", "pt": 25.92 }
+      ]
+    },
+    {
+      "name": "Public relations",
+      "contributors": [
+        { "name": "Shaurya Dubey", "pt": 22.08 },
+        { "name": "Malik Lakoubay", "pt": 16.08 },
+        { "name": "Andreas Fauler", "pt": 13.92 },
+        { "name": "Gideon Litchfield", "pt": 12.00 }
+      ]
+    },
+    {
+      "name": "Research",
+      "contributors": [
+        { "name": "Nick Vincent", "pt": 13.92 },
+        { "name": "Mateo Patel", "pt": 13.92 },
+        { "name": "James Allen Evans", "pt": 13.92 },
+        { "name": "Junsol Kim", "pt": 13.92 },
+        { "name": "Joshua Yang", "pt": 13.92 },
+        { "name": "Shrey Jain", "pt": 12.00 },
+        { "name": "Peter E. Hart", "pt": 12.00 },
+        { "name": "Jamie Joyce", "pt": 12.00 },
+        { "name": "Dan Silver", "pt": 12.00 }
+      ]
+    }
+  ]
+}
