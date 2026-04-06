@@ -32,7 +32,7 @@ The oldest, typically richest, and still most common form of conversations is th
 
 The next oldest and most common communicative form is writing. While far less interactive, writing enables words to travel over much greater distances and time.  Typically conceived as capturing the voice of a single "author", written communications can spread broadly, even globally, with the aid of printing and translation. They can endure for thousands of years, allowing for a "broadcast" of messages much farther than amphitheaters or loudspeakers can achieve.
 
-This underscores a crucial trade-off: the richness and immediacy of in-person discussions versus the extensive reach and permanence of the written word. Many platforms strive to blend elements of both in-person and written communication by creating a network where in-person conversations serve as links among individuals who are physically and socially proximate, and writing serves as a bridge, connecting people who are geographically distant from each other. The World Cafe [^WorldCafe] or Open Space Technology [^OpenSpaceTechnnology] methods allow dozens or even thousands of people to convene and participate in small groups for dialogue while the written notes from those small clusters are synthesized and distributed broadly.  Other examples include constitutional and rule-making processes, book clubs, editorial boards for publications, focus groups, surveys, and other research processes.  A typical pattern is that a group deliberates on writing that is then submitted to another deliberative group that results in another document that is then sent back, and so on.  One might recognize this in legal tradition via oral and written arguments, as well as the academic peer review process.
+This underscores a crucial trade-off: the richness and immediacy of in-person discussions versus the extensive reach and permanence of the written word. Many platforms strive to blend elements of both in-person and written communication by creating a network where in-person conversations serve as links among individuals who are physically and socially proximate, and writing serves as a bridge, connecting people who are geographically distant from each other. The World Cafe [^WorldCafe] or Open Space Technology [^OpenSpaceTechnology] methods allow dozens or even thousands of people to convene and participate in small groups for dialogue while the written notes from those small clusters are synthesized and distributed broadly.  Other examples include constitutional and rule-making processes, book clubs, editorial boards for publications, focus groups, surveys, and other research processes.  A typical pattern is that a group deliberates on writing that is then submitted to another deliberative group that results in another document that is then sent back, and so on.  One might recognize this in legal tradition via oral and written arguments, as well as the academic peer review process.
 
 One of the most fundamental challenges this variety of forms tries to navigate is the trade-off between diversity and bandwidth.[^TradeoffDiversity] On the one hand, when we attempt to engage individuals with vastly diverse perspectives in conversations, the discussions could become less efficient, lengthy, costly, and time-consuming. This often means that they have trouble yielding definite and timely outcomes; resulting in the "analysis paralysis" often bemoaned in corporate settings and the complaint (sometimes attributed to Oscar Wilde) that "socialism takes too many evenings".  
 
@@ -148,19 +148,17 @@ Lastly, deliberation is sometimes idealized as helping overcome divisions and re
 
 [^WorldCafe]: "The World Cafe", The World Café Community Foundation, last modified 2024, (https://theworldcafe.com/)
 
-[^OpenSpaceTechnnology]: "Open Space", Open Space World, last modified 2024, https://openspaceworld.org/wp2/
+[^OpenSpaceTechnology]: "Open Space", Open Space World, last modified 2024, https://openspaceworld.org/wp2/
 
 [^LLMDemocracy]: Lisa Argyle, Christopher Bail, Ethan Busby, Joshua Gubler, Thomas Howe, Christopher Rytting, Taylor Sorensen, and David Wingate, "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale." _Proceedings of the National Academy of Sciences_ 120, no. 41 (2023): e2311627120.
 
 [^LLMFinetune]: Junsol Kim, and Byungkyu Lee, "Ai-augmented surveys: Leveraging large language models for opinion prediction in nationally representative surveys," _arXiv_ (New York: Cornell University, November 26, 2023): https://arxiv.org/pdf/2305.09620.pdf.
 
 
-[^PublicWisdom]: Tom Atlee, _Empowering Public Wisdom_ (2012, Berkley, California, Evolver Editions, 2012)
+[^PublicWisdom]: Tom Atlee, _Empowering Public Wisdom_ (2012, Berkeley, California, Evolver Editions, 2012)
 
 [^CDC]: A Citizen Deliberative Council (CDC) article on the Co-Intelligence Site https://www.co-intelligence.org/P-CDCs.html
 
-[^NCDD]:  [Liberating Structures](https://www.liberatingstructures.com/) (2024) has 33 methods for people to work together in liberating ways.  [Participedia](https://participedia.net/ )  is public participation and democratic innovations platform documenting methods and case studies. To get at the heart of the underlying patterns in good and effective processes two communities developed pattern languages 1) The [Group Works](https://groupworksdeck.org/): A Pattern Language for Brining Meetings and other Gatherings (2022) and 2) The [Wise Democracy Pattern Language](https://www.wd-pl.com/). 
-
-
+[^NCDD]:  [Liberating Structures](https://www.liberatingstructures.com/) (2024) has 33 methods for people to work together in liberating ways.  [Participedia](https://participedia.net/ )  is public participation and democratic innovations platform documenting methods and case studies. To get at the heart of the underlying patterns in good and effective processes two communities developed pattern languages 1) The [Group Works](https://groupworksdeck.org/): A Pattern Language for Bringing Meetings and other Gatherings (2022) and 2) The [Wise Democracy Pattern Language](https://www.wd-pl.com/).
 
 

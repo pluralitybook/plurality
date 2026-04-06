@@ -147,7 +147,7 @@
 
 > Drawing inspiration from Taiwan, the world’s most under-appreciated democracy, *Plurality* makes a powerful case that digital technologies can be harnessed to facilitate...a more democratic future...Reading this brilliant book left...a new sense of urgency, but it also provided real reasons for hope.  
 <br></br>
-— [Steven Levitsky](https://en.wikipedia.org/wiki/Steven_Levitsky), David Rockerfeller Professor of Government at Harvard and co-author of [*How Democracies Die*](https://www.penguinrandomhouse.com/books/562246/how-democracies-die-by-steven-levitsky-and-daniel-ziblatt/) and [*Tyranny of the Minority*](https://www.penguinrandomhouse.com/books/706046/tyranny-of-the-minority-by-steven-levitsky-and-daniel-ziblatt/)
+— [Steven Levitsky](https://en.wikipedia.org/wiki/Steven_Levitsky), David Rockefeller Professor of Government at Harvard and co-author of [*How Democracies Die*](https://www.penguinrandomhouse.com/books/562246/how-democracies-die-by-steven-levitsky-and-daniel-ziblatt/) and [*Tyranny of the Minority*](https://www.penguinrandomhouse.com/books/706046/tyranny-of-the-minority-by-steven-levitsky-and-daniel-ziblatt/)
 
 <br></br>
 
@@ -201,7 +201,6 @@
 
 > *Plurality* is a social philosophy of the technological era...a third way beyond Libertarianism and Technocracy. Its essence lies in the emergence of life at the edge of chaos, and whether this ideal is realized depends on whether the readers of this book become true activists who leap into that edge.<br></br>
 — [Ken Suzuki](https://www.linkedin.com/in/ken-suzuki-03489/), Co-founder, Executive Chair at SmartNews, Inc. and inventor of [Propagational Investment Currency SYstem(PICSY)](https://nameteki.kensuzuki.org/english)
-
 
 
 

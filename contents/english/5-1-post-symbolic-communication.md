@@ -48,7 +48,7 @@ Today, we stand on the cusp of a Cambrian explosion in technologies that can adv
 
 [^B2B]: Rao et al., op. cit.
 [^tail]:William Steptoe, Anthony Steed and Mel Slater, "Human Tails: Ownership and Control of Extended Humanoid Avatars" *IEEE Transactions on Visualization and Computer Graphics* 19, no. 4 (2013): 583-590.
-[^feedback]: Hengameh Marzbani, Hamid Reza Marateb and Marjan Mansourian, "Neurofeedback: A Comprehensive Review on System Design, Methodology and Clinical Applicaitons", *Basic Clinical Neuroscience* 7, no, 2: 143-158.
+[^feedback]: Hengameh Marzbani, Hamid Reza Marateb and Marjan Mansourian, "Neurofeedback: A Comprehensive Review on System Design, Methodology and Clinical Applications", *Basic Clinical Neuroscience* 7, no, 2: 143-158.
 
 When combined with GFMs, these technologies will further enable us to generate visual representations of our thoughts at a pace that closely mirrors the speed of our imagination. These technologies together are unlocking responsive, adaptive environments or characters in virtual spaces that can react in real-time to users' emotions, actions, or choices beyond simple interpretation of natural language inputs.[^RealTime] Researchers have already shown how brain implants can connect the intentions of a paralyzed patient into physical movements, demonstrating the remarkable potential of neural interfaces to bridge the gap between thought and action.[^WalkingNat]
 
