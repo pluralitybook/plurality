@@ -44,7 +44,7 @@ Nineteenth century mathematics saw the rise of formalism: being precise and rigo
 [^chaos]: James Gleick, *Chaos: Making a New Science* (New York: Penguin, 2018).
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/science.jpg" width="100%" alt="Pictures the Mandelbrot set, a canoncical circular snowflake shaped fractal, at two scales.">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/science.jpg" width="100%" alt="Pictures the Mandelbrot set, a canonical circular snowflake shaped fractal, at two scales.">
 
 **<figcaption> Figure 3-1-A: The Mandelbrot Set (characterizing the chaotic behavior of simple quadratic functions depending on parameter values in the function) shown at two scales. Source: Wikipedia CC 3.0 BY-SA.</figcaption>**
 </figure>

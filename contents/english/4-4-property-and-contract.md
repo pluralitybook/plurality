@@ -62,7 +62,7 @@ To appreciate why such an apparently dull topic excited such an (otherwise) expa
 
 Contrast this to today's world of personal computing, where most people in developed countries today have computers on their desks, laps, wrists and in their pockets that perform a dizzying array of computations with near-instant feedback.  Of course, much of this has been empowered by Moore's Law of doubling computational power per unit price every eighteen months.  But what Lick and some of the early projects he funded at the Massachusetts Institute of Technology and other universities saw was that at least some of this was possible even with the computers of the time if they were used more efficiently and with greater attention to the human need for feedback that he had studied in his work on designing airplane interfaces.  
 
-Much of the limited computation power then available was wasted in idle time and the feedback desired by users did not require a full machine at every desk.  Instead, every user could have a basic display and input station ("client") connected via a network to a central machine ("server") whose time they shared, a set-up first pioneered a few years earlier in the [Plato project](http://friendlyorangeglow.com/) at the University of Illinois Urbana-Champagne as a computer-based teaching system.[^friendly]  This allowed ARPANET members, such as Douglas Engelbart, to simulate a future of personal computing in the era of the mainframe.  
+Much of the limited computation power then available was wasted in idle time and the feedback desired by users did not require a full machine at every desk.  Instead, every user could have a basic display and input station ("client") connected via a network to a central machine ("server") whose time they shared, a set-up first pioneered a few years earlier in the [Plato project](http://friendlyorangeglow.com/) at the University of Illinois Urbana-Champaign as a computer-based teaching system.[^friendly]  This allowed ARPANET members, such as Douglas Engelbart, to simulate a future of personal computing in the era of the mainframe.
 
 [^friendly]: Brian Dear, *The Friendly Orange Glow: The Untold Story of the PLATO System and the Dawn of Cyberculture* (New York: Pantheon, 2017)
 
@@ -196,4 +196,3 @@ Treating name spaces as private property makes little sense, given that those wh
 [^datacollab]: See the Data Collaboration Alliance at https://www.datacollaboration.org/
 [^datacoops]: Thomas Hardjono and Alex Pentland, "Data cooperatives: Towards a Foundation for Decentralized Personal Data Management," _arXiv_ (New York: Cornell University, 2019), https://arxiv.org/pdf/1905.08819.pdf.
 [^dataaslabor]: Lanier and Weyl, op. cit.
-
