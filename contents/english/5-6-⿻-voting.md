@@ -5,7 +5,7 @@ In the best-selling strategy game of all time, [Civilization VI](https://civiliz
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/worldcongress.png" width="100%" alt="Screenshot of Civilization VI World Congress that depicts 10 members of congress. Some of their identities are revealed and some are depicted as a question mark. Policies the player can spend their favor on are displayed on the right">
 
-**<figcaption>Figure 5-6-A. A player chooses how to spend their accumulated Diplomatic Favor in the 'World Congress' of [Civilization VI](https://civilization.com/).  Source: Direct screen capture from application, by fair use. </figcaption>**
+**<figcaption>Figure 5-6-A. A player chooses how to spend their accumulated Diplomatic Favor in the 'World Congress' of [Civilization VI](https://civilization.com/).  Source: Direct screen capture from application, by fair use.</figcaption>**
 </figure>
 <br></br>
 

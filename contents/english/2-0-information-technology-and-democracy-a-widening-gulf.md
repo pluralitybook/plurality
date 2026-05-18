@@ -66,7 +66,7 @@ This failure has manifested in four ways.  First, public opinion in democratic c
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/techlash_ngrams/techlash_ngrams.png" width="100%" alt='Figure showing take off in discussion of the "techlash" following 2017 in English books.'>
 
-**<figcaption>Figure 2-0-A. The rise of the Techlash.  Source: Google nGram Viewer[^ngram2]  </figcaption>**
+**<figcaption>Figure 2-0-A. The rise of the Techlash.  Source: Google nGram Viewer[^ngram2]</figcaption>**
 </figure>
 <br></br>
 
@@ -84,7 +84,7 @@ Perhaps the clearest quantitative mark for this declining proactive public inter
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/public_rd_funding/public_rd_funding.png" width="100%" alt="Chart showing the declining trend of federal government funding for research and development while business investment rises">
 
-**<figcaption> Figure 2-0-B. The decline over time in government funding for research and development and its eclipse by the private sector.  Source: National Center for Science and Engineering Statistics[^FedR+D] </figcaption>**
+**<figcaption>Figure 2-0-B. The decline over time in government funding for research and development and its eclipse by the private sector.  Source: National Center for Science and Engineering Statistics[^FedR+D]</figcaption>**
 </figure>
 <br></br>
 
@@ -143,7 +143,7 @@ Beginning with recent trends in the increasingly well-measured venture capital i
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/tech_vc_funding/vc_funding_ai.png" width="100%" alt="Figure showing the steady rise of AI venture capital investing even when there has been a recent decline in technology venture capital investing.">
 
-**<figcaption>Figure 2-0-C. Private investment in AI over the last seven years.  Source: NetBase Quid via 2023 AI Index Report[^AIindex]  </figcaption>**
+**<figcaption>Figure 2-0-C. Private investment in AI over the last seven years.  Source: NetBase Quid via 2023 AI Index Report[^AIindex]</figcaption>**
 </figure>
 <br></br>
 
@@ -152,7 +152,7 @@ Beginning with recent trends in the increasingly well-measured venture capital i
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/tech_vc_funding/crypto_vc.png" width="100%" alt="Shows the somewhat uneven but clear rise of funding and deal count in the crypto space by venture capitalists 2016-2021">
 
-**<figcaption> Figure 2-0-D. Time trend in crypto VC deals and investment. Source: National Venture Capital Association and Pitchbook[^Pitchbook] </figcaption>**
+**<figcaption>Figure 2-0-D. Time trend in crypto VC deals and investment. Source: National Venture Capital Association and Pitchbook[^Pitchbook]</figcaption>**
 </figure>
 <br></br>
 
@@ -163,7 +163,7 @@ However, while these priorities are relatively recent and appear to emerge from 
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/ai_ngrams/ai_ngrams.png" width="100%" alt='Shows the relative frequency in English books of "artificial intelligence" from 1950-2019 showing a surge in the late 1980s followed by a retreat and then a much greater surge beginning in the mid 2010s.'>
 
-**<figcaption> Figure 2-0-E. The relative frequency of "artificial intelligence in English books 1950-2019. Source: Google Ngrams[^Ngrams] </figcaption>**
+**<figcaption>Figure 2-0-E. The relative frequency of "artificial intelligence in English books 1950-2019. Source: Google Ngrams[^Ngrams]</figcaption>**
 </figure>
 <br></br>
 
@@ -223,7 +223,7 @@ The radical promises of these visions led many to anticipate dramatic economic a
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/american_economic_growth/golden.png" width="100%" alt="Shows the far higher rate of Total Factor Productivity growth during the Golden Age of American economic growth from the 1920s to the 1970s than before and after.">
 
-**<figcaption> Figure 2-0-F. Improvement in technology represented by growth in "Total Factor Productivity". Source: Gordon, *The Rise and Fall of American Growth*[^TFP] </figcaption>**
+**<figcaption>Figure 2-0-F. Improvement in technology represented by growth in "Total Factor Productivity". Source: Gordon, *The Rise and Fall of American Growth*[^TFP]</figcaption>**
 </figure>
 <br></br>
 
@@ -236,7 +236,7 @@ To make matters worse, this period of stagnation has also been one of dramatical
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/income_and_wealth_inequality/income.png" width="100%" alt="Shows that during the Golden Age, income growth was even across the income distribution, but lower at the very top, while during the Digital Stagnation it was lower over all but high at the very top.">
 
-**<figcaption>Figure 2-0-G. Average income growth in the US by income percentile during the Golden Age and Digital Stagnation. Source: Saez and Zucman, "The Rise of Income and Wealth Inequality"[^inequality] </figcaption>**
+**<figcaption>Figure 2-0-G. Average income growth in the US by income percentile during the Golden Age and Digital Stagnation. Source: Saez and Zucman, "The Rise of Income and Wealth Inequality"[^inequality]</figcaption>**
 </figure>
 <br></br>
 
