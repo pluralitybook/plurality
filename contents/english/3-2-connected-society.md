@@ -36,7 +36,7 @@ This helped circumvent the reliance on personal relationships, building the foun
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/taxonomies.png" width="100%" alt="A diagram displaying a range of different forms of recognition of learning achievement in terms of formality and importance.">
 
-**<figcaption>Figure 3-2-A. Flexible taxonomies across a broad spectrum of recognition.  Source: Learning Agents Inc. (https://www.learningagents.ca) <figcaption>**
+**<figcaption>Figure 3-2-A. Flexible taxonomies across a broad spectrum of recognition.  Source: Learning Agents Inc. (https://www.learningagents.ca)</figcaption>**
 </figure>
 <br></br>
 
@@ -109,7 +109,7 @@ To make matters yet more complex, the revenue earned on the property is but one 
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/3-2-georg.jpg" width="100%" alt="Georg Simmel with glasses and full facial hair.">
 
-**<figcaption>Figure 3-2-B. Georg Simmel.  Source: [Wikipedia](https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG), public domain. <figcaption>**
+**<figcaption>Figure 3-2-B. Georg Simmel.  Source: [Wikipedia](https://en.wikipedia.org/wiki/Georg_Simmel#/media/File:Simmel_01.JPG), public domain.</figcaption>**
 </figure>
 <br></br>
 

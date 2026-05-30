@@ -28,7 +28,7 @@ More than any other institution, [g0v](https://g0v.tw/) (pronounced gov-zero) sy
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/g0v-venn.png" width="100%" alt="Venn diagram of g0v principles of being open-source, hands-on and public-spirited.  The intersection of the first two is free software, of the second two is social activism and of the first and third is civic media.  g0v lies at the center">
 
-**<figcaption>Figure 2-2-A. Principles of g0v  displayed in a venn diagram.  </figcaption>**
+**<figcaption>Figure 2-2-A. Principles of g0v  displayed in a venn diagram.</figcaption>**
 </figure>
 <br></br>
 
