@@ -66,7 +66,7 @@ This failure has manifested in four ways.  First, public opinion in democratic c
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/techlash_ngrams/techlash_ngrams.png" width="100%" alt='Figure showing take off in discussion of the "techlash" following 2017 in English books.'>
 
-**<figcaption>Figure 2-0-A. The rise of the Techlash.  Source: Google nGram Viewer[^ngram2]  </figcaption>**
+**<figcaption>Figure 2-0-A. The rise of the Techlash.  Source: Google Ngram Viewer[^ngram2]  </figcaption>**
 </figure>
 <br></br>
 
@@ -161,7 +161,7 @@ Beginning with recent trends in the increasingly well-measured venture capital i
 However, while these priorities are relatively recent and appear to emerge from the logic of “the market”, they reflect a much longer-running and collectively direct set of choices.  These stem from the investments governments in democratic countries have made. [^GartnerReport].
 
 <figure>
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/ai_ngrams/ai_ngrams.png" width="100%" alt='Shows the relative frequency in English books of "artificial intelligence" from 1950-2019 showing a surge in the late 1980s followed by a retreat and then a much greater surge beginning in the mid 2010s.'>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/ai_ngrams/ai_ngrams.png" width="100%" alt='Shows the relative frequency in English books of "artificial intelligence" from 1950-2019 showing a surge in the late 1980s followed by a retreat and then a much greater surge beginning in the mid-2010s.'>
 
 **<figcaption> Figure 2-0-E. The relative frequency of "artificial intelligence in English books 1950-2019. Source: Google Ngrams[^Ngrams] </figcaption>**
 </figure>
