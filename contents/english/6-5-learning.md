@@ -13,7 +13,9 @@ With the popularization of the Internet, collaborative learning environments hav
 
 This chapter will depict how to empower communities to overcome rigid teaching models and adapt to the ⿻ environment of lifelong learning. Through these entertaining, collaborative problem-solving, and mission-oriented projects, we can bridge cultural divides.
 
-### Resilient Learning Systems
+---
+
+### Resilient learning systems
 
 The 2022 global reports of PISA[^PISA] & ICCS[^ICCS] point out that Taiwan, Japan, South Korea, and Lithuania grew against the trend during the pandemic, and are considered to have resilient education systems[^EdResilience]. One of the outstanding factors for Taiwan is the diverse co-creation teaching model of 2019 Basic Education Curriculum, which successfully combines physical and digital learning tools, and regards "spontaneity, interaction, and common good" as new core values, inspiring a sense of mission towards global sustainable development[^EdSDGs].
 
@@ -29,7 +31,7 @@ For example, the "Chenyuluoyan" font[^Font] on the cover of this book comes from
 
 In the educational institutions of the last century, learning often relied on rote memorization and detailed recall; while the lack of open content made problem-solving and teamwork fragmented. With the rise of experimental education in various countries, self-directed learning models that encompass both critical thinking and interpersonal communication skills have emerged. These two abilities are not mutually exclusive but complementary, and with the assistance of ⿻ technology, they transcend the limitations of each other's ideologies and strengthen social resilience.
 
-### Diverse and Collaborative Learning Networks
+### Diverse and collaborative learning networks
 
 As countries transition from agriculture-based models to information-centric social relationships, liberalization, democratization, diverse choices, and pluralistic identities become mutually supportive ⿻ pillars in learning. These factors are also important directions for the innovation and progress of democratic regimes and civil society. However, in this process, we often face traditional pressures such as competition, resource inequality, job insecurity, and civic education gaps.
 
@@ -54,7 +56,7 @@ Moedict has prompted the public sector to actively adopt the "Creative Commons" 
 
 Online libraries, Wikipedia, and CC-licensed image and text sharing described in (3-3 The Lost Dao) are all valuable global assets comparable to commons, generated based on open-source collaboration. Like in a vast world park, works co-created by citizens from different countries and languages can be understood and actively maintained by more people, further promoting the democratization of knowledge and filling the gaps in civic education. These are practical examples of learning evolving towards the ⿻ path and mutually benefiting the public.
 
-### Globally Connected Lifelong Learning
+### Globally connected lifelong learning
 
 In human society, ⿻ learning networks have opened up an innovative path, becoming an effective tool for addressing complex problems. Global common issues such as climate change, epidemics, and wealth inequality are not problems that can be solved by going it alone. They cross geographical boundaries and affect everyone's lives, challenging long-standing human divisions and barriers.
 
@@ -74,7 +76,7 @@ How data transforms into knowledge on the Internet depends on our connections wi
 
 If we can skillfully interconnect reciprocal technologies with crowd knowledge, we can cultivate lifelong learners who dare to take intellectual risks and explore unknown areas. These learners can break the framework of binary oppositions and create diverse, boundless ⿻ shared knowledge networks in cross-disciplinary mechanisms. We will elaborate on this ideal below.
 
-### Infinite Games and ⿻ Citizens
+### Infinite games and ⿻ citizens
 
 The spirit of "edutainment" interweaves the pursuit of knowledge with the sharing of joy. With infinite possibilities for combination, there are countless possibilities for the co-creation of innovative thinking. Introducing this perspective into the context of collaborative learning, we can see that true joyful learning is more like a process of infinite combinations. It is not confined to narrow evaluation criteria but encourages learners to break free from fixed thinking patterns. Under the interweaving of multiple perspectives, innovative insights constantly emerge.
 
