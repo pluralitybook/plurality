@@ -18,6 +18,7 @@ title: 多元宇宙
 subtitle: 協作技術與民主的未來
 author: 衛谷倫、唐鳳、⿻社群
 date: "$current_date"
+lang: zh-TW
 cover-image: scripts/cover-image.zh-tw.png 
 linestretch: 1.25
 ---
@@ -76,6 +77,36 @@ sub write_file {
     print $fh @_;
 }
 
+
+sub markdown_img_alt {
+    my ($alt) = @_;
+    $alt =~ s/\\/\\\\/g;
+    $alt =~ s/\[/\\[/g;
+    $alt =~ s/\]/\\]/g;
+    return $alt;
+}
+
+sub img_tag_to_markdown {
+    my ($tag) = @_;
+    my ( $src, $alt );
+    if ( $tag =~ /\bsrc="([^"]+)"/ ) {
+        $src = $1;
+    }
+    elsif ( $tag =~ /\bsrc='([^']+)'/ ) {
+        $src = $1;
+    }
+    return $tag unless defined $src;
+    if ( $tag =~ /\balt="([^"]*)"/ ) {
+        $alt = $1;
+    }
+    elsif ( $tag =~ /\balt='([^']*)'/ ) {
+        $alt = $1;
+    }
+    $alt = 'figure' unless defined $alt && length $alt;
+    $alt = markdown_img_alt($alt);
+    return "![$alt]($src){ width=100% }";
+}
+
 my %Sections = (
     1 => "一、序章",
     2 => "二、導論",
@@ -103,7 +134,10 @@ for (
     $basename =~ s,-,_,g; $basename .= '_';
     $c =~ s/^( +|&nbsp;)+//mg;
     $c =~ s,(<(br|img)\b[^>]*)(?<!/)>,$1 />,g;
-    $c =~ s,<img\b[^>]*src="([^"]+)"[^>]*>,![$1]($1){ width=100% },g;
+    $c =~ s,!<br\s*/?>\s*</br>!,!,g;
+    $c =~ s,!\[https?://[^\]]+\]\(([^)]+)\)(\{[^}]*\})?,![figure]($1)$2,g;
+    $c =~ s,!\[image\]\(([^)]+)\),![Gitcoin screenshot]($1),g;
+    $c =~ s{<img\b[^>]*>}{img_tag_to_markdown($&)}ge;
     $c =~ s,(\[\^)(.*?\]),$1$basename-$2,g;
     $c =~ s,(^\s*\|?\s*(?:原文|作者|譯者)：.*\n)(^\s*\|?\s*(?:原文|作者|譯者)：.*\n|^\s*\n|^---\n)+,\n,mg;
     $all .= "$c\n\n";
@@ -128,7 +162,7 @@ docker run --rm --volume "$(pwd):/data" audreyt/pandoc-plurality-book traditiona
 .
 
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book traditional-mandarin.md -o tmp.pdf --include-before-body=pre.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=20pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book traditional-mandarin.md -o tmp.pdf -M lang=en-US --include-in-header=/data/scripts/xelatex-preamble.tex --include-before-body=pre.tex --toc --toc-depth=2 -s --pdf-engine=xelatex -V CJKmainfont='Noto Sans CJK TC' -V fontsize=20pt -V documentclass=extreport -f markdown-implicit_figures --filter=/data/scripts/emoji_filter.js
 .
 
 system << '.';
@@ -138,7 +172,7 @@ docker run --entrypoint /usr/bin/pdftk --rm --volume "$(pwd):/data" --user $(id 
 print "Generating ePub (this should be fast)...\n";
 
 system << '.';
-docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book traditional-mandarin.md -o Plurality-traditional-mandarin.epub --toc --toc-depth=2 -s
+docker run --rm --volume "$(pwd):/data" --user $(id -u):$(id -g) audreyt/pandoc-plurality-book traditional-mandarin.md -o Plurality-traditional-mandarin.epub --toc --toc-depth=2 -s -f markdown-implicit_figures --resource-path=/data --css=/data/scripts/epub-cjk.css --filter=/data/scripts/emoji_filter.js
 .
 
 unlink 'tmp.pdf';

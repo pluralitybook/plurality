@@ -1,0 +1,12 @@
+/* Bundled with Traditional Chinese EPUB builds */
+body {
+  font-family: "Noto Sans CJK TC", "PingFang TC", "Heiti TC", sans-serif;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+figure, .figure {
+  text-align: center;
+  margin: 1em 0;
+}
