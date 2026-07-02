@@ -2,3 +2,18 @@
 .ipynb_checkpoints/
 __pycache__/
 .vscode
+
+# Vim swap/backup stray files
+*.swp
+*.swo
+*~
+
+# Local stray build artifacts
+tmp-*
+tmp.tex
+pre.tex
+contents/z
+
+# Generated book outputs
+Plurality-*.epub
+Plurality-*.pdf

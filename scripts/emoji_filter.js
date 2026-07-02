@@ -99,6 +99,11 @@ async function replace_emojis(text, format, emoji_source, context) {
 				str_emoji.__skip = true
 				caption_list.push(str_emoji)
 			}
+			const epub_like = /^(html|epub|xhtml|slideous|slidy|dzslides)$/i.test(format || "")
+			if (epub_like && split[it + 1] !== null) {
+				result_array.push(pandoc.Str(split[it + 1]))
+				continue
+			}
 			var src = split[it + 2]
 			src = await get_emoji(src, emoji_source)
 			src = svg_to_pdf(src)

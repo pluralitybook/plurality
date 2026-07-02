@@ -1,0 +1,6 @@
+% Pandoc PDF (XeLaTeX): CJK body + Unicode punctuation fallbacks
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setCJKmainfont{Noto Sans CJK TC}
+% Midline ellipsis (U+22EF) when Latin fallback is used (e.g. title page fragments)
+\DeclareUnicodeCharacter{22EF}{…}
