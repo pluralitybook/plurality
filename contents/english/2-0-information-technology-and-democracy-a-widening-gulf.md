@@ -66,7 +66,7 @@ This failure has manifested in four ways.  First, public opinion in democratic c
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/techlash_ngrams/techlash_ngrams.png" width="100%" alt='Figure showing take off in discussion of the "techlash" following 2017 in English books.'>
 
-**<figcaption>Figure 2-0-A. The rise of the Techlash.  Source: Google nGram Viewer[^ngram2]  </figcaption>**
+**<figcaption>Figure 2-0-A. The rise of the Techlash.  Source: Google nGram Viewer[^ngram2]</figcaption>**
 </figure>
 <br></br>
 
@@ -143,7 +143,7 @@ Beginning with recent trends in the increasingly well-measured venture capital i
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/tech_vc_funding/vc_funding_ai.png" width="100%" alt="Figure showing the steady rise of AI venture capital investing even when there has been a recent decline in technology venture capital investing.">
 
-**<figcaption>Figure 2-0-C. Private investment in AI over the last seven years.  Source: NetBase Quid via 2023 AI Index Report[^AIindex]  </figcaption>**
+**<figcaption>Figure 2-0-C. Private investment in AI over the last seven years.  Source: NetBase Quid via 2023 AI Index Report[^AIindex]</figcaption>**
 </figure>
 <br></br>
 
