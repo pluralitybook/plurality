@@ -23,7 +23,7 @@ As noted above, a central role of journalism is to allow people to experience th
 
 [^VRexperiences]: Milica Zec and Winslow Porter, *Tree* (2017). Decontee Davis, *Surviving Ebola* (2015). Yasmin Elayat, *Zero Days VR* (2017).
 
-Yet these are only the first successful forays into an emerging medium.  As shared reality technologies branch out into other senses (smell, touch and taste), far more complete multisensory connections will be possible with even more surprising and enlightening results.  Brain interfaces will be transformative in a way that is hard to even describe.  The future of journalism empowering us to know things that are profoundly different is therefore bright.
+Yet these are only the first successful forays into an emerging medium.  As shared reality technologies branch out into other senses (smell, touch, and taste), far more complete multisensory connections will be possible with even more surprising and enlightening results.  Brain interfaces will be transformative in a way that is hard to even describe.  The future of journalism empowering us to know things that are profoundly different is therefore bright.
 
 ### Citizen co-journalism
 
