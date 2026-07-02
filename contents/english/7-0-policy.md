@@ -111,7 +111,7 @@ Furthermore, this sector is in many ways better suited to the development of inf
 <figure>
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/oss_funding/oss_funding.png" width="100%" alt='Figure compares cumulative historical funding of OSS projects v. venture capital, illustrating that the latter is roughly 3 orders of magnitude larger.'>
 
-**<figcaptionby> Figure 7-0-B. Comparing known funding of open-source software and venture capital investment. Source: Chart by authors, sources various see footnote.[^Sources]   </figcaption>**
+**<figcaption> Figure 7-0-B. Comparing known funding of open-source software and venture capital investment. Source: Chart by authors, sources various see footnote.[^Sources]</figcaption>**
 
 </figure>
 <br></br>
