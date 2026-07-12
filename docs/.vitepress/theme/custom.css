@@ -1,0 +1,109 @@
+:root {
+  --vp-c-brand-1: #087f7b;
+  --vp-c-brand-2: #0b9a91;
+  --vp-c-brand-3: #d6a33a;
+  --vp-c-brand-soft: rgba(8, 127, 123, 0.12);
+  --vp-font-family-base: 'Avenir Next', 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --vp-font-family-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+  --vp-c-text-1: #172a2a;
+  --vp-c-text-2: #486060;
+  --vp-c-bg: #f7faf8;
+  --vp-c-bg-soft: #edf4f1;
+  --vp-c-bg-mute: #e4eeea;
+  --vp-c-divider: rgba(23, 42, 42, 0.14);
+}
+
+.dark {
+  --vp-c-brand-1: #54c8bb;
+  --vp-c-brand-2: #35afa4;
+  --vp-c-brand-3: #e3b85b;
+  --vp-c-brand-soft: rgba(84, 200, 187, 0.14);
+  --vp-c-text-1: #e8f3ef;
+  --vp-c-text-2: #adc6bd;
+  --vp-c-bg: #102120;
+  --vp-c-bg-soft: #162b29;
+  --vp-c-bg-mute: #1d3734;
+  --vp-c-divider: rgba(232, 243, 239, 0.14);
+}
+
+.VPNavBarTitle .title {
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+.VPNavBarTitle .logo {
+  height: 30px;
+  width: auto;
+}
+
+.VPHome .VPHero {
+  padding-top: 96px;
+  padding-bottom: 72px;
+}
+
+.VPHome .VPHero .name {
+  background: none;
+  color: var(--vp-c-brand-1);
+  font-weight: 760;
+  letter-spacing: -0.055em;
+}
+
+.VPHome .VPHero .text {
+  max-width: 720px;
+  letter-spacing: -0.035em;
+}
+
+.VPHome .VPHero .tagline {
+  max-width: 640px;
+}
+
+.VPHome .VPFeature {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  background: transparent;
+}
+
+.VPHome .VPFeature:hover {
+  border-color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+
+.VPDoc h1,
+.VPDoc h2,
+.VPDoc h3 {
+  letter-spacing: -0.025em;
+}
+
+.VPDoc h2 {
+  border-top: 1px solid var(--vp-c-divider);
+  padding-top: 28px;
+}
+
+.VPDoc a:focus-visible,
+.VPSidebar a:focus-visible,
+.VPNavBar a:focus-visible,
+button:focus-visible {
+  outline: 3px solid var(--vp-c-brand-3);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+@media (max-width: 640px) {
+  .VPHome .VPHero {
+    padding-top: 64px;
+    padding-bottom: 44px;
+  }
+
+  .VPDoc h2 {
+    padding-top: 22px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

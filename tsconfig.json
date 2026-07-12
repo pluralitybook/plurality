@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "types": ["bun", "node"]
+  },
+  "include": [
+    "scripts/**/*.ts",
+    "tests/**/*.ts",
+    "tests/**/*.d.ts",
+    "vite.config.ts",
+    "docs/.vitepress/**/*.ts",
+    "docs/.vitepress/**/*.mts"
+  ]
+}

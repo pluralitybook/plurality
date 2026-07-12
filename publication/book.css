@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+/* Font Stack headed by Noto Sans CJK TC */
+body {
+  font-family: "Noto Sans CJK TC", "Noto Sans TC", "Noto Serif CJK TC", serif;
+  line-height: 1.6;
+  font-size: 11pt;
+  color: #111111;
+}
+
+/* Page Counters & Running Headers/Footers */
+@page {
+  size: A4;
+  margin: 20mm;
+  @bottom-center {
+    content: counter(page);
+    font-size: 9pt;
+    font-family: sans-serif;
+  }
+}
+
+@page :left {
+  @top-left {
+    content: string(maintitle);
+    font-size: 9pt;
+    font-style: italic;
+    font-family: sans-serif;
+  }
+}
+
+@page :right {
+  @top-right {
+    content: string(chaptertitle);
+    font-size: 9pt;
+    font-style: italic;
+    font-family: sans-serif;
+  }
+}
+
+/* Responsive & WebPub-safe CSS */
+h1 {
+  string-set: maintitle content();
+  page-break-before: always;
+  break-before: page;
+}
+
+h2 {
+  string-set: chaptertitle content();
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Sans CJK TC", "Noto Sans TC", sans-serif;
+  font-weight: bold;
+  color: #222222;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+p, li {
+  orphans: 3;
+  widows: 3;
+}
+
+/* Max-width figures */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+/* DPUB-compatible Footnotes */
+span.footnote {
+  float: footnote;
+}
+
+::footnote-call {
+  content: counter(footnote);
+  vertical-align: super;
+  font-size: 65%;
+}
+
+::footnote-marker {
+  content: counter(footnote) ". ";
+  font-weight: bold;
+}

@@ -1,0 +1,35 @@
+{
+  "name": "plurality-book",
+  "private": true,
+  "packageManager": "bun@1.4.0",
+  "scripts": {
+    "test": "vitest run",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "typecheck": "tsc --noEmit",
+    "check": "bun run typecheck && bun run test",
+    "book:assemble": "bun scripts/book/build.ts all dist/publication",
+    "book:manifest": "bun scripts/book/manifest.ts dist/publication",
+    "book:candidate:prepare": "bun scripts/book/prepare-vivliostyle.ts",
+    "book:candidate:en": "bun scripts/book/render-candidate.ts en",
+    "book:candidate:zh-TW": "bun scripts/book/render-candidate.ts zh-TW",
+    "book:candidate:all": "bun scripts/book/render-candidate.ts all",
+    "book:candidate:validate": "bun scripts/book/validate-candidate.ts dist/publication",
+    "book:legacy:en": "bun scripts/book/render-legacy.ts en",
+    "book:legacy:zh-TW": "bun scripts/book/render-legacy.ts zh-TW",
+    "book:legacy:all": "bun scripts/book/render-legacy.ts all",
+    "book:legacy:validate": "bun scripts/book/validate-legacy.ts dist/publication"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "0.5.5",
+    "@types/bun": "1.1.18",
+    "@types/node": "20.17.12",
+    "@vivliostyle/cli": "11.0.4",
+    "adm-zip": "0.5.12",
+    "pdf-lib": "1.17.1",
+    "vite-plus": "0.2.4",
+    "vitepress": "1.6.4",
+    "vitest": "4.1.10"
+  }
+}

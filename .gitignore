@@ -17,3 +17,9 @@ contents/z
 # Generated book outputs
 Plurality-*.epub
 Plurality-*.pdf
+
+# Build and dependency directories
+node_modules/
+dist/
+.vivliostyle/
+docs/.vitepress/cache/

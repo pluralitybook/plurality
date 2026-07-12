@@ -26,7 +26,7 @@ Is there a point of contact or thread already for your language / region?
 
 * if yes, please find them in [#translations](https://discord.gg/9x3nBJeuPY), reach out to them in your community’s thread
 * if no, tag Jacky in #general under Contributors to get onboarded
-![discord screenshot of translations tab](assets\translation-screenshot-01.png)
+* ![discord screenshot of translations tab](assets/translation-screenshot-01.png)
 
 ## Translation process
 
