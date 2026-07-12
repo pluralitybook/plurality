@@ -322,6 +322,92 @@ jobs:
           esac
           echo "latest tag and release body verified for $RELEASE_SHA"
 
+      - name: Republish release to advance published_at
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_SHA: ${{ github.sha }}
+        run: |
+          START_TIME_ISO=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          START_TIME_EPOCH=$(date -d "$START_TIME_ISO" +%s 2>/dev/null || date -jf "%Y-%m-%dT%H:%M:%SZ" "$START_TIME_ISO" +%s)
+          echo "Run start time: $START_TIME_ISO ($START_TIME_EPOCH)"
+
+          # Get release metadata and ID
+          RELEASE_DATA=$(gh api "repos/${{ github.repository }}/releases/tags/latest")
+          RELEASE_ID=$(echo "$RELEASE_DATA" | jq -r '.id')
+          echo "Release ID: $RELEASE_ID"
+
+          PRE_ASSETS=$(echo "$RELEASE_DATA" | jq -c '[.assets[] | {name, id}]')
+          echo "Pre-toggle assets: $PRE_ASSETS"
+
+          # Assert that all 6 managed assets (including manifest and MP3) are present before toggling
+          EXPECTED_NAMES='["manifest.json","Plurality-english.pdf","Plurality-english.epub","Plurality-traditional-mandarin.pdf","Plurality-traditional-mandarin.epub","Plurality-english.mp3"]'
+          MISSING_PRE=$(echo "$PRE_ASSETS" | jq --argjson expected "$EXPECTED_NAMES" -r '
+            ($expected - [.[] | .name]) | join(", ")
+          ')
+          if [ -n "$MISSING_PRE" ]; then
+            echo "Error: Pre-toggle release is missing expected assets: $MISSING_PRE" >&2
+            exit 1
+          fi
+
+          # Setup a failure-safe trap to guarantee that the release is never left as a draft if the step is cancelled/fails
+          trap '
+            echo "Trap activated. Ensuring release status is restored..."
+            gh api -X PATCH "repos/${{ github.repository }}/releases/$RELEASE_ID" -F draft=false -F make_latest=true >/dev/null || true
+          ' EXIT
+
+          # Toggle draft status to force published_at to advance
+          echo "Patching release to draft=true..."
+          gh api -X PATCH "repos/${{ github.repository }}/releases/$RELEASE_ID" -F draft=true >/dev/null
+
+          echo "Patching release to draft=false and make_latest=true..."
+          gh api -X PATCH "repos/${{ github.repository }}/releases/$RELEASE_ID" -F draft=false -F make_latest=true >/dev/null
+
+          # Disable the trap on success
+          trap - EXIT
+
+          # Verification assertions on the final state
+          echo "Verifying final release state..."
+          FINAL_DATA=$(gh api "repos/${{ github.repository }}/releases/$RELEASE_ID")
+
+          DRAFT=$(echo "$FINAL_DATA" | jq -r '.draft')
+          PRERELEASE=$(echo "$FINAL_DATA" | jq -r '.prerelease')
+          if [ "$DRAFT" != "false" ] || [ "$PRERELEASE" != "false" ]; then
+            echo "Error: Final release is draft=$DRAFT, prerelease=$PRERELEASE (expected both false)" >&2
+            exit 1
+          fi
+
+          TAG=$(echo "$FINAL_DATA" | jq -r '.tag_name')
+          BODY=$(echo "$FINAL_DATA" | jq -r '.body')
+          if [ "$TAG" != "latest" ]; then
+            echo "Error: Final release tag is $TAG (expected latest)" >&2
+            exit 1
+          fi
+          case "$BODY" in
+            *"$RELEASE_SHA"*) ;;
+            *) echo "Error: Final release body does not contain $RELEASE_SHA" >&2; exit 1 ;;
+          esac
+
+          POST_ASSETS=$(echo "$FINAL_DATA" | jq -c '[.assets[] | {name, id}]')
+          echo "Post-toggle assets: $POST_ASSETS"
+
+          MISMATCH=$(jq -n --argjson pre "$PRE_ASSETS" --argjson post "$POST_ASSETS" -r '
+            ($pre - $post) | map(.name + ":" + (.id|tostring)) | join(", ")
+          ')
+          if [ -n "$MISMATCH" ]; then
+            echo "Error: Stored assets mismatch or changed IDs/names: $MISMATCH" >&2
+            exit 1
+          fi
+
+          PUBLISHED_AT=$(echo "$FINAL_DATA" | jq -r '.published_at')
+          PUBLISHED_EPOCH=$(date -d "$PUBLISHED_AT" +%s 2>/dev/null || date -jf "%Y-%m-%dT%H:%M:%SZ" "$PUBLISHED_AT" +%s)
+          echo "Published at: $PUBLISHED_AT ($PUBLISHED_EPOCH)"
+          if [ "$PUBLISHED_EPOCH" -lt "$START_TIME_EPOCH" ]; then
+            echo "Error: Final published_at ($PUBLISHED_AT) is before run start ($START_TIME_ISO)" >&2
+            exit 1
+          fi
+
+          echo "Release successfully republished. published_at advanced from pre-toggle timestamp."
+
   webhook:
     runs-on: ubuntu-latest
     needs: [release, deploy-pages]
