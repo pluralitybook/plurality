@@ -275,6 +275,12 @@ jobs:
           pattern: legacy-*
           path: dist/publication/legacy
           merge-multiple: true
+      - name: Read release metadata
+        id: release-meta
+        run: |
+          echo "book_date=$(jq -r '.publicationDate' dist/publication/manifest.json)" >> "$GITHUB_OUTPUT"
+          echo "source_revision=$(jq -r '.sourceRevision' dist/publication/manifest.json)" >> "$GITHUB_OUTPUT"
+
 
       - name: Create or Update GitHub Release
         uses: ncipollo/release-action@339a81892b84b4eeb0f6e744e4574d79d0d9b8dd
@@ -286,6 +292,24 @@ jobs:
           tag: latest
           name: "Latest Book Release"
           artifacts: "dist/publication/manifest.json,dist/publication/legacy/Plurality-english.pdf,dist/publication/legacy/Plurality-english.epub,dist/publication/legacy/Plurality-traditional-mandarin.pdf,dist/publication/legacy/Plurality-traditional-mandarin.epub"
+          body: |
+            Publication date: ${{ steps.release-meta.outputs.book_date }}
+            Source revision: ${{ steps.release-meta.outputs.source_revision }}
+
+      - name: Retarget and verify latest tag
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_SHA: ${{ github.sha }}
+        run: |
+          gh api --method PATCH "repos/${{ github.repository }}/git/refs/tags/latest" \
+            -f "sha=$RELEASE_SHA" -F force=true >/dev/null
+          actual_sha="$(gh api "repos/${{ github.repository }}/git/ref/tags/latest" --jq '.object.sha')"
+          test "$actual_sha" = "$RELEASE_SHA"
+          body="$(gh release view latest --json body --jq '.body')"
+          case "$body" in
+            *"$RELEASE_SHA"*) ;;
+            *) echo "latest release body does not contain $RELEASE_SHA" >&2; exit 1 ;;
+          esac
 
   webhook:
     runs-on: ubuntu-latest
