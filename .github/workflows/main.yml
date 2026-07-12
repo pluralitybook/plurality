@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies (frozen)
         run: vp install --frozen-lockfile
       - name: Verify
-        run: bun run check
+        run: vp run check
 
   docs:
     runs-on: ubuntu-latest
@@ -51,7 +51,7 @@ jobs:
         run: vp install --frozen-lockfile
 
       - name: Build docs
-        run: bun run docs:build
+        run: vp run docs:build
 
       - name: Configure Pages
         if: github.event_name == 'push' && github.ref == 'refs/heads/main' && github.repository_owner == 'pluralitybook'
@@ -87,7 +87,7 @@ jobs:
           echo "SOURCE_REVISION=${{ github.sha }}" >> $GITHUB_ENV
 
       - name: Assemble book & manifest
-        run: bun run book:assemble
+        run: vp run book:assemble
 
       - name: Upload Manifest and Manuscripts
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
@@ -124,7 +124,7 @@ jobs:
           echo "SOURCE_REVISION=${{ github.sha }}" >> $GITHUB_ENV
 
       - name: Render legacy output
-        run: bun scripts/book/render-legacy.ts ${{ matrix.locale }}
+        run: vp run book:legacy:${{ matrix.locale }}
 
       - name: Upload legacy artifact
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
@@ -165,7 +165,7 @@ jobs:
       - name: Validate legacy outputs
         env:
           EXPECTED_SOURCE_REVISION: ${{ github.sha }}
-        run: bun run book:legacy:validate
+        run: vp run book:legacy:validate
 
   candidate:
     runs-on: ubuntu-latest
@@ -197,7 +197,7 @@ jobs:
           echo "SOURCE_REVISION=${{ github.sha }}" >> $GITHUB_ENV
 
       - name: Render candidate output
-        run: bun scripts/book/render-candidate.ts ${{ matrix.locale }}
+        run: vp run book:candidate:${{ matrix.locale }}
 
       - name: Upload candidate artifact
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
@@ -237,7 +237,7 @@ jobs:
       - name: Validate candidate outputs
         env:
           EXPECTED_SOURCE_REVISION: ${{ github.sha }}
-        run: bun run book:candidate:validate
+        run: vp run book:candidate:validate
 
   # NOTE: The GitHub Pages build/deployment source must be switched from the legacy "gh-pages" branch
   # to "GitHub Actions" in the repository settings ONLY after this workflow has run successfully and is green.
