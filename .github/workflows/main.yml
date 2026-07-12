@@ -303,13 +303,24 @@ jobs:
         run: |
           gh api --method PATCH "repos/${{ github.repository }}/git/refs/tags/latest" \
             -f "sha=$RELEASE_SHA" -F force=true >/dev/null
-          actual_sha="$(gh api "repos/${{ github.repository }}/git/ref/tags/latest" --jq '.object.sha')"
-          test "$actual_sha" = "$RELEASE_SHA"
+          actual_sha=""
+          for attempt in {1..10}; do
+            actual_sha="$(gh api "repos/${{ github.repository }}/git/ref/tags/latest" --jq '.object.sha')"
+            if [ "$actual_sha" = "$RELEASE_SHA" ]; then
+              break
+            fi
+            if [ "$attempt" -eq 10 ]; then
+              echo "latest tag points to $actual_sha, expected $RELEASE_SHA" >&2
+              exit 1
+            fi
+            sleep 2
+          done
           body="$(gh release view latest --json body --jq '.body')"
           case "$body" in
             *"$RELEASE_SHA"*) ;;
             *) echo "latest release body does not contain $RELEASE_SHA" >&2; exit 1 ;;
           esac
+          echo "latest tag and release body verified for $RELEASE_SHA"
 
   webhook:
     runs-on: ubuntu-latest
