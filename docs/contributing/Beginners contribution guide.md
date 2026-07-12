@@ -106,7 +106,7 @@ To get a code editor, you will need to download and install it from the internet
 ### Download and install VS Code
 
 1. Download the [Visual Studio Code installer](https://code.visualstudio.com/download) file for Windows
-2. Once the installer file has downloaded, open the file to start the installation process <img src="../assets/download-vscode.png" style="zoom:50%;" />
+2. Once the installer file has downloaded, open the file to start the installation process <img src="./assets/download-vscode.png" style="zoom:50%;" />
 3. Follow the installation instructions. You may need to grant administrative privileges if prompted
 4. After the installation is complete, launch VS Code. (By default, VS Code is installed under `C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code`.)
 
@@ -118,7 +118,7 @@ After you have customized your VS Code settings, you will need to download and i
 
 To download Git, complete the following steps:
 
-1. Navigate to the **Source Control** tab on the left side of the VS Code interface by selecting the Source Control icon (<img src="../assets/source-control-icon.png" width="20" />) or by typing **Ctrl+Shift+G**
+1. Navigate to the **Source Control** tab on the left side of the VS Code interface by selecting the Source Control icon (<img src="./assets/source-control-icon.png" width="20" />) or by typing **Ctrl+Shift+G**
 2. Click the button that says **Download Git for Windows** (It may be a link that says **install git**)
 3. On the [Git website](https://git-scm.com/), navigate to **Downloads**
 4. Click download **Git for Windows**
@@ -161,10 +161,10 @@ During sign up, you'll be asked to verify your email address. Without a verified
 After you have created a GitHub account, you can start browsing the issues on the Plurality projects GitHub page.
 
 1. Navigate to [https://github.com/pluralitybook/plurality/issues](https://github.com/pluralitybook/plurality/issues)
-2. You will see a list of issues that community members have raised <img src="../assets/github-issues-homepage.png" style ="zoom=10%;" />
+2. You will see a list of issues that community members have raised <img src="./assets/github-issues-homepage.png" style ="zoom=10%;" />
 3. Click on an issue that stands out to you
 4. After clicking on an issue, you may see a more detailed description about the issue as well as threads from community members discussing the issue 
-5. To see issues that have been resolved, click **Closed** in the header of the issues table <img src="../assets/github-closed-issues.png" style ="zoom=10%;" />
+5. To see issues that have been resolved, click **Closed** in the header of the issues table <img src="./assets/github-closed-issues.png" style ="zoom=10%;" />
 6. Feel free to continue browsing the open and closed issues to get an idea of what type of work the community has been doing
 
 ### Learn more about GitHub
@@ -181,7 +181,7 @@ In Step 3, we navigated to the Plurality book project on GitHub and browsed a li
 
 When you arrive at the **< > Code** section, you will see a list of folders and files. These folders and files contain all the information that forms the Plurality book. For example, in the *figs* folder, you will find all of the images that are included in the Plurality book, stored as `.png` and `.jpeg` files. Most importantly, in the contents folder, you will find all of the written content for the book stored as `.md` files (more on this later). Feel free to click into the folders and open the files to see what is inside.
 
-<img src="../assets/plurality-github-code-section.png" style ="zoom=10%;" />
+<img src="./assets/plurality-github-code-section.png" style ="zoom=10%;" />
 
 The list of files on the **< > Code** page is known as the projects *root repository*. The root repository can be thought of as a file folder, but instead of being on your personal computer, the folder is open to the public and stored on GitHub. When you make a contribution to the project, you will be changing the contents of one or more of the files in the root repository. However, you are not able to change the root repository directly, you will fiirst need to make your own personal copy of the root repository. This is where Forks and Clones can help.
 
@@ -209,7 +209,7 @@ You are now ready to Fork the project onto your GitHub account. To do this, foll
 
 1. Ensure that you are logged into your GitHub account
 2. Navigate to [https://github.com/pluralitybook/plurality](https://github.com/pluralitybook/plurality)
-3. Select **fork**<img src="../assets/github-fork.png" style ="zoom=10%;" />
+3. Select **fork**<img src="./assets/github-fork.png" style ="zoom=10%;" />
 4. Leave the fields as default, then select **Create fork**
 5. You will be directed to a new GitHub page that will have the following URL: "github.com/[your-user-name]/plurality"
 6. You now have created a copy of the Plurality project on your GitHub account!
@@ -220,15 +220,15 @@ Once you have a fork of the project on your GitHub account, you can clone it ont
 
 1. Navigate to your newly forked GitHub page (github.com/[your-user-name]/plurality)
 
-2. Above the list of files, select **< > Code** <img src="../assets/github-clone.png" style ="zoom=10%;" />
+2. Above the list of files, select **< > Code** <img src="./assets/github-clone.png" style ="zoom=10%;" />
 
-3. Under clone, select **HTTPS**  <img src="../assets/github-https.png" style ="zoom=10%;" />
+3. Under clone, select **HTTPS**  <img src="./assets/github-https.png" style ="zoom=10%;" />
 
-4. Click the copy icon (<img src="../assets/github-copy-icon.png" width ="25" />) to copy the web URL 
+4. Click the copy icon (<img src="./assets/github-copy-icon.png" width ="25" />) to copy the web URL 
 
 5. Open VS Code
 
-6. On the home screen of VS Code, select **clone Git repository...** <img src="../assets/vscode-clone-git-repository.png" style ="zoom=10%;" />
+6. On the home screen of VS Code, select **clone Git repository...** <img src="./assets/vscode-clone-git-repository.png" style ="zoom=10%;" />
 > **Note:** If you do not see the "Clone Git repository" option, you first need to create a new window in VS Code by typing CTRL+Shift+N
 
 7. Paste the web URL that you copied earlier and hit Enter
@@ -252,7 +252,7 @@ Before you make changes to the project, you will want to sync your fork and upda
 
 2. Ensure you are on the **< > Code** tab
 
-3. Select **Sync fork** <img src="../assets/github-sync-fork.png" style ="zoom=10%;" />
+3. Select **Sync fork** <img src="./assets/github-sync-fork.png" style ="zoom=10%;" />
 > **Note:** If you see text to the left of **Sync fork** that says "This branch is up to date with pluralitybook/pluralirt-main" then you do not have to sync your fork as it is already up to date.
 
 4. Select **Update branch**
@@ -261,18 +261,18 @@ Once your fork has been synced, follow the next steps to ensure that your clone 
 
 1. Open **VS Code**
 2. Find your cloned version of the Plurality project and open the folder where you saved the project (CTRL+O)
-3. Navigate to the **Source Control** tab by selecting the source control icon (<img src="../assets/source-control-icon.png" width="20" />) on the left tab
-4. In the source control tab, **select the three dots** then select **Pull** (<img src="../assets/vscode-pull.png" />)
+3. Navigate to the **Source Control** tab by selecting the source control icon (<img src="./assets/source-control-icon.png" width="20" />) on the left tab
+4. In the source control tab, **select the three dots** then select **Pull** (<img src="./assets/vscode-pull.png" />)
 
 Your forked and cloned versions of the project are now up to date!
 
 ### Find the file that you want to change
 
-1. Navigate to the **Explorer** tab on the left by selecting the Explorer icon (<img src="../assets/vscode-explorer-icon.png" width="20" />). This tab contains the files of  your personal clone of the project
+1. Navigate to the **Explorer** tab on the left by selecting the Explorer icon (<img src="./assets/vscode-explorer-icon.png" width="20" />). This tab contains the files of  your personal clone of the project
 
 2. Open the  **contents** folder, then the **english** folder
 
-<img src="../assets/vscode-explorer.png" style ="zoom=10%;" />
+<img src="./assets/vscode-explorer.png" style ="zoom=10%;" />
 
 Once you open the **english** folder, you will see a list of files. The files start with a number, which indicates its Part and Chapter. This is followed by text that describes the file's Section. For example, the file `6-2-health.md` is Part 6, Chapter 2, Health (more information about how the book is structured can be found in the book's [Style Guide](../style guide/Book structure.md)). You will also notice that all of the files in the **english** folder end in `.md`, or Markdown. We will discuss more about Markdown below. 
 
@@ -342,9 +342,9 @@ After you have made your changes to your cloned project file, you will want to r
 
 ### Connect to your GitHub account on VS Code
 
-Before making your Pull Request, ensure you are signed into your GitHub account on VS Code. To do this, go to VS Code and select the **Accounts** icon near the bottom of the left tab (<img src="../assets/vscode-accounts-icon.png" width="25" />). If you are already signed in to your GitHub account, you can continue to "Commit your changes" below. However if you are not signed in, you will need to complete the following steps:
+Before making your Pull Request, ensure you are signed into your GitHub account on VS Code. To do this, go to VS Code and select the **Accounts** icon near the bottom of the left tab (<img src="./assets/vscode-accounts-icon.png" width="25" />). If you are already signed in to your GitHub account, you can continue to "Commit your changes" below. However if you are not signed in, you will need to complete the following steps:
 
-<img src="../assets/vscode-accounts.png" />
+<img src="./assets/vscode-accounts.png" />
 
 1. Ensure you are signed in to your GitHub account on your internet browser
 2. In VS Code, open the **Command Palette** by typing (CTRL+SHIFT+P)
@@ -359,30 +359,30 @@ Clicking on the **Accounts** icon should now indicate that your are signed in to
 
 The final thing to do before making your Pull Request is to **Commit** your changes. Committing adds the changes that you have made on your local clone, and adds them to your fork. 
 
-1. In VS Code, navigate to the **Source Control** tab (<img src="../assets/source-control-icon.png" width="20" />)
+1. In VS Code, navigate to the **Source Control** tab (<img src="./assets/source-control-icon.png" width="20" />)
 
 2. On the Source Control tab, you can see a list of the files to which you have made changes
 
 3. Select **Commit**
 
-4. A prompt will appear, select **Yes** <img src="../assets/vscode-commit-changes.png" />
+4. A prompt will appear, select **Yes** <img src="./assets/vscode-commit-changes.png" />
 
 5. VS Code will then ask you to create a commit message. A commit message briefly describes the change that you have made to the project. Type in your commit message then select the checkmark to confirm 
-<img src="../assets/vscode-commit-message.png" />
+<img src="./assets/vscode-commit-message.png" />
 
 6. Select **Save**
 
 7. Select **Sync Changes**, then select Ok when the prompt appears
 
 8. A prompt will appear, select **Sign in with your browser** 
-<img src="../assets/github-sign-in-with-browser.png" width="450" />
+<img src="./assets/github-sign-in-with-browser.png" width="450" />
 
 9. Select **Authorize git-ecosystem** 					
-<img src="../assets/authorize-github-ecosystem.png" width="450"/>
+<img src="./assets/authorize-github-ecosystem.png" width="450"/>
 
 10. Finally, go to your forked version of the project on GitHub (github.com/[your-user-name]/plurality) and select the **< > Code** tab
 
-11. You will notice that your fork is *ahead* of the root repository, and that your commit message is posted. If you go into the files you will see that your changes have been updated  <img src="../assets/commit-confirmed.png" />
+11. You will notice that your fork is *ahead* of the root repository, and that your commit message is posted. If you go into the files you will see that your changes have been updated  <img src="./assets/commit-confirmed.png" />
 
 Now that your fork is updated with the changes, it is time to open your Pull Request and push your changes to the root repository of the Plurality project.
 
@@ -391,10 +391,10 @@ Now that your fork is updated with the changes, it is time to open your Pull Req
 1. Navigate to your forked version of the project on GitHub (github.com/[your-user-name]/plurality) and select the **< > Code** tab
 
 2. Select **Contribute** then **Open pull request**						
-<img src="../assets/open-pull-request.png" width:"420" /> 
+<img src="./assets/open-pull-request.png" width:"420" /> 
 
 3. Add a title and a description to your pull request, then select **Create pull request** 	
-<img src="../assets/create-pull-request.png" /> 
+<img src="./assets/create-pull-request.png" /> 
 
 Congratulations, your Pull Request has been submitted! The community will now be able to review your contribution and vote to accept or reject it. To check on the status of your Pull Request, you can go to the **Pulls** tab of the plurality GitHub page (https://github.com/pluralitybook/plurality/pulls). 
 
