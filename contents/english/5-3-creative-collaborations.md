@@ -82,9 +82,7 @@ Furthermore, many of the risks of cultural homogenization arise from the encroac
 [^2]: James Evans. “The case for alien AI,” _TedxChicago2024_, October 6th, 2023, [https://www.youtube.com/watch?v=87zET-4IQws](https://www.youtube.com/watch?v=87zET-4IQws).
 [^3]: Jamshid Sourati and James Evans, “Complementary artificial intelligence designed to augment human discovery,” _arXiv preprint arXiv:2207.00902_ (2022), [https://doi.org/10.48550/arXiv.2207.00902](https://doi.org/10.48550/arXiv.2207.00902).
 [^4]: Minkyu Shin, Jin Kim, Bas van Opheusden, and Thomas L. Griffiths, “Superhuman artificial intelligence can improve human decision-making by increasing novelty,” _Proceedings of the National Academy of Sciences_ 120, no. 12 (2023): e2214840120, [https://doi.org/10.1073/pnas.2214840120](https://doi.org/10.1073/pnas.2214840120).
-[^5]: Petter Törnberg, Diliara Valeeva, Justus Uitermark, and Christopher Bail. “Simulating social media using large language models to evaluate alternative news feed algorithms,” _arXiv preprint arXiv:2310.05984_ (2023), [
-https://doi.org/10.48550/arXiv.2310.05984](
-https://doi.org/10.48550/arXiv.2310.05984).
+[^5]: Petter Törnberg, Diliara Valeeva, Justus Uitermark, and Christopher Bail. “Simulating social media using large language models to evaluate alternative news feed algorithms,” _arXiv preprint arXiv:2310.05984_ (2023), [https://doi.org/10.48550/arXiv.2310.05984](https://doi.org/10.48550/arXiv.2310.05984).
 [^6]: Feng Shi and James Evans, “Surprising combinations of research contents and contexts are related to impact and emerge with scientific outsiders from distant disciplines,” _Nature Communications_ 14, no. 1 (2023): 1641, [https://doi.org/10.1038/s41467-023-36741-4](https://doi.org/10.1038/s41467-023-36741-4).
 
 
